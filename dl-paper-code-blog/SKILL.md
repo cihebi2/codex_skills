@@ -37,6 +37,7 @@ Use the structure in [references/blog_outline.md](references/blog_outline.md):
 
 Writing tips:
 - Everything stays in Simplified Chinese with a friendly-but-technical tone (see [references/writing_spec.md](references/writing_spec.md) for precise requirements, including title rules, section depth, citations, and limited use of code/inline formulas).
+- Target length: 5000-7000 non-whitespace characters. Use `scripts/check_article_length.py` during QA to keep output stable.
 - Alternate paragraphs and bullet lists so readers can skim.
 - Whenever you mention a claim, cite both the PDF section (page or figure) and the repo file/command that corroborates it.
 - Keep `article_scaffold.md` alongside the final `<slug>_blog.md` so reviewers can trace back to sources.
@@ -81,4 +82,5 @@ Document blockers (missing repo, corrupt PDF, etc.) at the top of the blog befor
 - `scripts/build_journal_metrics_db.py` - converts your Excel tables into a queryable SQLite DB under `references/`.
 - `scripts/query_journal_metrics.py` - looks up JCR/CAS metrics for the metadata block.
 - `scripts/sync_lsky_images.py` - uploads local images and rewrites Markdown links to Lsky URLs.
+- `scripts/check_article_length.py` - counts characters and reports per-section breakdown.
 - [assets/article_scaffold_template.md](assets/article_scaffold_template.md) - copy this template into each project root to start outlining.
