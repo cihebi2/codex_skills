@@ -84,3 +84,11 @@
 `scripts/sync_lsky_images.py --workspace <项目目录> --markdown <blog.md>`
 
 它会上传缺失图片到 Lsky，并把 Markdown 里的本地图片链接替换为 URL，同时更新 `.lsky_upload_cache.json`。
+
+## 10) 自检与润色（交付前）
+
+交付前再走一遍硬性检查与可读性润色：
+
+- `scripts/check_article_requirements.py <blog.md> --require-urls`
+- `scripts/check_article_length.py <blog.md> --min 5000 --max 7000`
+- 对照 `references/self_review.md` 做最后一轮“讲明白/讲清楚”润色

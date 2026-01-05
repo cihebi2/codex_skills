@@ -38,6 +38,8 @@ Use the structure in [references/blog_outline.md](references/blog_outline.md):
 Writing tips:
 - Everything stays in Simplified Chinese with a friendly-but-technical tone (see [references/writing_spec.md](references/writing_spec.md) for precise requirements, including title rules, section depth, citations, and limited use of code/inline formulas).
 - Target length: 5000-7000 non-whitespace characters. Use `scripts/check_article_length.py` during QA to keep output stable.
+- Use `scripts/check_article_requirements.py` to enforce mechanical constraints (title/metadata, references section, ban `paper/pages`, and optionally require https image URLs after Lsky sync).
+- Do a final human self-review pass with [references/self_review.md](references/self_review.md) to ensure the article "explains clearly" (no guessing, evidence-backed claims, readable structure, figure-text consistency).
 - Alternate paragraphs and bullet lists so readers can skim.
 - Whenever you mention a claim, cite both the PDF section (page or figure) and the repo file/command that corroborates it.
 - Keep `article_scaffold.md` alongside the final `<slug>_blog.md` so reviewers can trace back to sources.
@@ -83,4 +85,6 @@ Document blockers (missing repo, corrupt PDF, etc.) at the top of the blog befor
 - `scripts/query_journal_metrics.py` - looks up JCR/CAS metrics for the metadata block.
 - `scripts/sync_lsky_images.py` - uploads local images and rewrites Markdown links to Lsky URLs.
 - `scripts/check_article_length.py` - counts characters and reports per-section breakdown.
+- `scripts/check_article_requirements.py` - validates title/metadata/references and blocks forbidden figure sources.
+- [references/self_review.md](references/self_review.md) - human checklist for clarity and final polish.
 - [assets/article_scaffold_template.md](assets/article_scaffold_template.md) - copy this template into each project root to start outlining.

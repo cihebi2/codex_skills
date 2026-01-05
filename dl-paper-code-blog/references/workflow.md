@@ -65,11 +65,28 @@
    - `python C:\\Users\\ciheb\\.codex\\skills\\dl-paper-code-blog\\scripts\\sync_lsky_images.py --workspace <项目目录> --markdown <blog.md>`
    - 脚本会使用 `lsky-uploader` 上传缺失图片，并把 Markdown 中的本地路径替换成 Lsky URL，同时更新 `.lsky_upload_cache.json`。
 
+## Phase 3.5：自检与润色（讲明白 / 讲清楚）
+
+建议把这一阶段当成“发布前 QA 的第一部分”：先用脚本把硬性约束卡住，再做一轮面向读者的润色。
+
+推荐顺序：
+1. 结构/禁忌项先查一遍（不强制 URL，便于先改结构）：
+   - `python C:\\Users\\ciheb\\.codex\\skills\\dl-paper-code-blog\\scripts\\check_article_requirements.py <blog.md>`
+2. 如果图片仍是本地路径，先上传并回填 URL：
+   - `python C:\\Users\\ciheb\\.codex\\skills\\dl-paper-code-blog\\scripts\\sync_lsky_images.py --workspace <项目目录> --markdown <blog.md>`
+3. 再跑一次硬性检查（要求全部 https URL）：
+   - `python C:\\Users\\ciheb\\.codex\\skills\\dl-paper-code-blog\\scripts\\check_article_requirements.py <blog.md> --require-urls`
+4. 字数守护（目标 5000-7000 非空白字符）：
+   - `python C:\\Users\\ciheb\\.codex\\skills\\dl-paper-code-blog\\scripts\\check_article_length.py <blog.md> --min 5000 --max 7000`
+5. 对照清单做“讲明白/讲清楚”润色：
+   - `C:\\Users\\ciheb\\.codex\\skills\\dl-paper-code-blog\\references\\self_review.md`
+
 ## Phase 4：交付前 QA
 
 - 图像：Markdown 中不应再出现 `paper/pages/`，并且所有插图都应是可访问的 https URL。
 - 指标：影响因子与中科院分区来自本地 DB 查询结果（可在正文里注明来源为 JCR/CAS 2025 表）。
-- 字数：运行 `scripts/check_article_length.py <blog.md>`，确保非空白字符数在 5000-7000 之间；超出范围则回到正文做一次增补/压缩。
+- 结构：运行 `python C:\\Users\\ciheb\\.codex\\skills\\dl-paper-code-blog\\scripts\\check_article_requirements.py <blog.md> --require-urls`，确保标题/元信息/参考文献齐全、无整页图、图片均为 URL。
+- 字数：运行 `python C:\\Users\\ciheb\\.codex\\skills\\dl-paper-code-blog\\scripts\\check_article_length.py <blog.md> --min 5000 --max 7000`，确保非空白字符数在 5000-7000 之间；超出范围则回到正文做一次增补/压缩。
 - 可复现性：至少给出一条“最短复现路径”和 5-10 个关键开关（配置/阈值/步数/采样策略等）。
 - 交付文件（项目根目录）：
   - `article_scaffold.md`（已填满）
