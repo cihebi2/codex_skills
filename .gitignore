@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Skill build artifacts / local databases
+*.skill
+*.sqlite3
+
+# Local caches (optional)
+.lsky_upload_cache.json
+
