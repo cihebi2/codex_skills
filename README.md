@@ -4,6 +4,7 @@ This repo contains personal Codex skills.
 
 ## Skills
 
+- `bioinforw-data-plotting/` - Recommend scientific plotting templates from a local Bioinforw/NGplot catalog, regenerate embedding input, rank top-k figure templates, and return reusable Python/R code paths for dataset-driven plotting.
 - `dl-paper-code-blog/` - Write Chinese blog posts from a paper+code bundle, enforce cropped figures, upload figures to Lsky, query local journal metrics (JCR/CAS), and provide QA gates + self-review checklist.
 - `lsky-uploader/` - Upload files to a self-hosted Lsky Pro instance and return URLs/Markdown snippets.
 
@@ -12,7 +13,7 @@ This repo contains personal Codex skills.
 Option A: Use the built-in `skill-installer` (downloads from GitHub):
 
 ```bash
-scripts/install-skill-from-github.py --repo cihebi2/codex_skills --path dl-paper-code-blog lsky-uploader
+scripts/install-skill-from-github.py --repo cihebi2/codex_skills --path bioinforw-data-plotting dl-paper-code-blog lsky-uploader
 ```
 
 Option B: Clone and copy the folders into `~/.codex/skills/`.

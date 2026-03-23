@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bioinforw Data Plotting"
+  short_description: "Recommend scientific plot templates and reusable code paths"
+  default_prompt: "Use $bioinforw-data-plotting to recommend top-k plotting templates and adapt the Python or R example code to my dataset."
