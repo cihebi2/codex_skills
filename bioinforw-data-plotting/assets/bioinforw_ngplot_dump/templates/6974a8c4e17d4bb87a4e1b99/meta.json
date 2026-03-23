@@ -1,0 +1,29 @@
+{
+  "id": "6974a8c4e17d4bb87a4e1b99",
+  "name": "桑基图-横向-曲线-渐变色-多列输入",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6974a8c4e17d4bb87a4e1b99",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6974a8c4e17d4bb87a4e1b99.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "valueCol": "value"
+  },
+  "categories": [
+    "桑基图",
+    "横向",
+    "曲线",
+    "渐变色",
+    "多列输入"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 159
+    }
+  ]
+}

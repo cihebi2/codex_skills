@@ -1,0 +1,29 @@
+{
+  "id": "6756ab8260eadfff7810d71d",
+  "name": "柱状图-多变量-嵌套-累计柱子",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6756ab8260eadfff7810d71d",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6756ab8260eadfff7810d71d.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "时间",
+    "valueCols": "收入、支出"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "嵌套",
+    "累计柱子"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 103
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+pic	name	max	quper	mid	qdown	min
+AA	name1	60	43	33	13	10
+AA	name2	63	52	32	19	16
+AA	name3	66	47	22	15	6
+AA	name4	62	52	40	19	6
+AA	name5	68	51	31	14	4
+AA	name6	68	51	31	14	4
+BB	name1	60	43	33	13	10
+BB	name2	63	52	32	19	16
+BB	name3	66	47	22	15	6
+BB	name4	62	52	40	19	6
+BB	name5	68	51	31	14	4
+BB	name6	68	51	31	14	4
+CC	name1	60	43	33	13	10
+CC	name2	63	52	32	19	16
+CC	name3	66	47	22	15	6
+CC	name4	62	52	40	19	6
+CC	name5	68	51	31	14	4
+CC	name6	68	51	31	14	4
+DD	name1	60	43	33	13	10
+DD	name2	63	52	32	19	16
+DD	name3	66	47	22	15	6
+DD	name4	62	52	40	19	6
+DD	name5	68	51	31	14	4
+DD	name6	68	51	31	14	4
+

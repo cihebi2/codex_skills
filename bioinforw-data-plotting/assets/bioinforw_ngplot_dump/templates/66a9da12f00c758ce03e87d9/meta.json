@@ -1,0 +1,29 @@
+{
+  "id": "66a9da12f00c758ce03e87d9",
+  "name": "堆叠图-多组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a9da12f00c758ce03e87d9",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66a9da12f00c758ce03e87d9.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "ytitle": "yyyyyyyyyy(%)",
+    "xtitle": "xxxxxxxxxxxxxxxx"
+  },
+  "categories": [
+    "堆叠图",
+    "多组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 111
+    }
+  ]
+}

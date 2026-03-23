@@ -1,0 +1,5 @@
+name	max	q3	mid	q1	min
+a	7	6	5	4	3
+b	7	6	5	4	3
+c	7	6	5	4	3
+d	7	6	5	4	3

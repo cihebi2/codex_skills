@@ -1,0 +1,30 @@
+{
+  "id": "68c5fdf475e223672986d188",
+  "name": "极坐标堆叠图-多组-名称贴柱子",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68c5fdf475e223672986d188",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68c5fdf475e223672986d188.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "极坐标堆叠图",
+    "多组",
+    "名称贴柱子"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 95
+    }
+  ]
+}

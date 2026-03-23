@@ -1,0 +1,7 @@
+name	A	B	C
+name1	93	99	43
+name2	97	92	52
+name3	103	102	47
+name4	75	86	52
+name5	83	105	51
+name6	81	83	44

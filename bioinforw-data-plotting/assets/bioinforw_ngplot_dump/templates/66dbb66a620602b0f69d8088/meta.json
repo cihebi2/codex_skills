@@ -1,0 +1,19 @@
+{
+  "id": "66dbb66a620602b0f69d8088",
+  "name": "雷达图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66dbb66a620602b0f69d8088",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66dbb66a620602b0f69d8088.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name"
+  },
+  "categories": [
+    "雷达图"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

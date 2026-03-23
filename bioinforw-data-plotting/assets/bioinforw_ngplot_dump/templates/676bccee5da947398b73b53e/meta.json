@@ -1,0 +1,33 @@
+{
+  "id": "676bccee5da947398b73b53e",
+  "name": "横向箱线图-分组-折线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bccee5da947398b73b53e",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676bccee5da947398b73b53e.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "minVCol": "min",
+    "q1VCol": "qdown",
+    "midVCol": "mid",
+    "q3VCol": "quper",
+    "maxVCol": "max"
+  },
+  "categories": [
+    "横向箱线图",
+    "分组",
+    "折线"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

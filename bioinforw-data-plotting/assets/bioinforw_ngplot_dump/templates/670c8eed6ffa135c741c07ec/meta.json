@@ -1,0 +1,28 @@
+{
+  "id": "670c8eed6ffa135c741c07ec",
+  "name": "柱状图-单变量-渐变色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=670c8eed6ffa135c741c07ec",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/670c8eed6ffa135c741c07ec.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "Geography"
+  },
+  "categories": [
+    "柱状图",
+    "单变量",
+    "渐变色"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 15
+    }
+  ]
+}

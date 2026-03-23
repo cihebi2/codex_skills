@@ -1,0 +1,4 @@
+village	Chinese	Math	English	Physics	Chemistry
+yangJiaZ	107	93	99	80	89
+ganTang	73	97	92	86	66
+taQian	86	103	102	80	66

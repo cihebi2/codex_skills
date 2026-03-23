@@ -1,0 +1,30 @@
+{
+  "id": "676679127c30723b1e4642cb",
+  "name": "环形柱状图-多变量-名称贴柱子",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676679127c30723b1e4642cb",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676679127c30723b1e4642cb.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value",
+    "title": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "名称贴柱子"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

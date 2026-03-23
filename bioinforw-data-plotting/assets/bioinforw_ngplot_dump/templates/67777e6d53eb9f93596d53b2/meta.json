@@ -1,0 +1,33 @@
+{
+  "id": "67777e6d53eb9f93596d53b2",
+  "name": "横向小提琴图-分组-上下对比",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67777e6d53eb9f93596d53b2",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67777e6d53eb9f93596d53b2.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "id",
+    "groupCol": "group",
+    "valueCol": "value",
+    "densityVCol": "density",
+    "idNameCol": "idName"
+  },
+  "categories": [
+    "横向小提琴图",
+    "分组",
+    "上下对比"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

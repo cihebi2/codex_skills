@@ -1,0 +1,23 @@
+{
+  "id": "6757adf1538842d3d5d8cb90",
+  "name": "横向柱状图-单变量-颜色分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6757adf1538842d3d5d8cb90",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6757adf1538842d3d5d8cb90.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "grade",
+    "valueCol": "Physics"
+  },
+  "categories": [
+    "横向柱状图",
+    "单变量",
+    "颜色分组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "687aff46e3740d1ecd70014b",
+  "name": "旭日图-2层-自动排序-渐变色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=687aff46e3740d1ecd70014b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/687aff46e3740d1ecd70014b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value"
+  },
+  "categories": [
+    "旭日图",
+    "2层",
+    "自动排序",
+    "渐变色"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 31
+    }
+  ]
+}

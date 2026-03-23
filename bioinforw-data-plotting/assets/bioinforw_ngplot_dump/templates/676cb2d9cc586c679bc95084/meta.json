@@ -1,0 +1,26 @@
+{
+  "id": "676cb2d9cc586c679bc95084",
+  "name": "极坐标箱线图-无分组-半环",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cb2d9cc586c679bc95084",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676cb2d9cc586c679bc95084.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "minVCol": "min",
+    "q1VCol": "qdown",
+    "midVCol": "mid",
+    "q3VCol": "quper",
+    "maxVCol": "max"
+  },
+  "categories": [
+    "极坐标箱线图",
+    "无分组",
+    "半环"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

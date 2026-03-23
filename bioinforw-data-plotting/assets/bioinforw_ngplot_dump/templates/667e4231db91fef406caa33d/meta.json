@@ -1,0 +1,26 @@
+{
+  "id": "667e4231db91fef406caa33d",
+  "name": "蜂群图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=667e4231db91fef406caa33d",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/667e4231db91fef406caa33d.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "蜂群图"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

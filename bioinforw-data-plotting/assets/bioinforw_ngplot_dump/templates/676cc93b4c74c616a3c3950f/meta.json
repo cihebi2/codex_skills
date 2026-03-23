@@ -1,0 +1,35 @@
+{
+  "id": "676cc93b4c74c616a3c3950f",
+  "name": "极坐标箱线图-分组-组内同色-散点",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cc93b4c74c616a3c3950f",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676cc93b4c74c616a3c3950f.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "dotCol": "dots",
+    "minVCol": "min",
+    "q1VCol": "qdown",
+    "midVCol": "mid",
+    "q3VCol": "quper",
+    "maxVCol": "max"
+  },
+  "categories": [
+    "极坐标箱线图",
+    "分组",
+    "组内同色",
+    "散点"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 175
+    }
+  ]
+}

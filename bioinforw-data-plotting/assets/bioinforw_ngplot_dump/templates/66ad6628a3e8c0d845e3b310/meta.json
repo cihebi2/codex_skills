@@ -1,0 +1,30 @@
+{
+  "id": "66ad6628a3e8c0d845e3b310",
+  "name": "复合饼图-环绕小饼图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676237df89cb0d2350dda22a",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66ad6628a3e8c0d845e3b310.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "colorSCol": "level1",
+    "levelCols": "level1、level2",
+    "smallPieCol": "level2"
+  },
+  "categories": [
+    "分类型热图",
+    "颜色标有无"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 535
+    }
+  ]
+}

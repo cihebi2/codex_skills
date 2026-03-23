@@ -1,0 +1,22 @@
+{
+  "id": "675b73b66ad24ba18dcc4b36",
+  "name": "大头针图-无分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b73b66ad24ba18dcc4b36",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675b73b66ad24ba18dcc4b36.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "rVCol": "value"
+  },
+  "categories": [
+    "大头针图",
+    "无分组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

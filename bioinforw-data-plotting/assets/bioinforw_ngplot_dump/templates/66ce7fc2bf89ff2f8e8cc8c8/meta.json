@@ -1,0 +1,41 @@
+{
+  "id": "66ce7fc2bf89ff2f8e8cc8c8",
+  "name": "柱状图-多变量-误差线-显著星号-双层名字",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66ce7fc2bf89ff2f8e8cc8c8",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66ce7fc2bf89ff2f8e8cc8c8.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "a、b",
+    "pValCol": "P",
+    "pName1Col": "n1",
+    "pName2Col": "n2",
+    "per1Cols": "a2、b2",
+    "per2Cols": "a1、b1",
+    "txtVarNames": "a、b、v1、v2、v3",
+    "txtShowNames": "Test group、CK group、AAAAAAA、BBBBB、CCCC",
+    "txtShowAdd": "、、aaaa、bbbb、 cccc",
+    "title": "Title"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "误差线",
+    "显著星号",
+    "双层名字"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 55
+    }
+  ]
+}

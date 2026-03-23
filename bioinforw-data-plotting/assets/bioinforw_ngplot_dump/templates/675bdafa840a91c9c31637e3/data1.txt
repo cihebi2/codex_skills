@@ -1,0 +1,6 @@
+name	y	v	Bowling	Handball
+name1	76	2	1	6
+name2	69	2	6	9
+name3	20	3	6	8
+name4	56	4	6	4
+name5	86	5	4	5

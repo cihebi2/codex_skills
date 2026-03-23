@@ -1,0 +1,29 @@
+{
+  "id": "67668d8d7c30723b1e4647bb",
+  "name": "环形柱状图-单变量-扇型左",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67668d8d7c30723b1e4647bb",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67668d8d7c30723b1e4647bb.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "title": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "扇型左"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 103
+    }
+  ]
+}

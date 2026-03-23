@@ -1,0 +1,7 @@
+name   p  n1  n2
+name1 0.04   a   b
+name1 0.04   b   c
+name2 0.04   a   b
+name2 0.04   b   c
+name3 0.04   a   b
+name3 0.04   b   c

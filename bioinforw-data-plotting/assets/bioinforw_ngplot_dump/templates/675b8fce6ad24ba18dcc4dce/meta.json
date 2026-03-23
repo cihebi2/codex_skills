@@ -1,0 +1,31 @@
+{
+  "id": "675b8fce6ad24ba18dcc4dce",
+  "name": "大头针图-分组-大小圈-兼容负值",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b8fce6ad24ba18dcc4dce",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675b8fce6ad24ba18dcc4dce.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value",
+    "rVCol": "value"
+  },
+  "categories": [
+    "大头针图",
+    "分组",
+    "大小圈",
+    "兼容负值"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

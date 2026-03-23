@@ -1,0 +1,17755 @@
+window.NGPLOT_CATALOG = {
+  "generatedAt": "2026-03-13T03:39:10.308Z",
+  "rootDir": "C:/Users/ciheb/Desktop/研究生每周工作汇报/非标准氨基酸/write/bioinforw_ngplot_dump",
+  "totalTemplates": 345,
+  "categories": [
+    {
+      "name": "3D柱状图",
+      "count": 2
+    },
+    {
+      "name": "半径变饼图",
+      "count": 3
+    },
+    {
+      "name": "饼图",
+      "count": 9
+    },
+    {
+      "name": "大头针图",
+      "count": 10
+    },
+    {
+      "name": "堆叠面积图",
+      "count": 2
+    },
+    {
+      "name": "堆叠图",
+      "count": 15
+    },
+    {
+      "name": "堆叠玉玦图",
+      "count": 1
+    },
+    {
+      "name": "分类型热图",
+      "count": 4
+    },
+    {
+      "name": "蜂群图",
+      "count": 1
+    },
+    {
+      "name": "复合饼图",
+      "count": 2
+    },
+    {
+      "name": "甘特图",
+      "count": 1
+    },
+    {
+      "name": "横向大头针图",
+      "count": 7
+    },
+    {
+      "name": "横向堆叠图",
+      "count": 8
+    },
+    {
+      "name": "横向箱线图",
+      "count": 6
+    },
+    {
+      "name": "横向小提琴图",
+      "count": 5
+    },
+    {
+      "name": "横向柱状图",
+      "count": 13
+    },
+    {
+      "name": "环形雷达图",
+      "count": 2
+    },
+    {
+      "name": "环形热图",
+      "count": 7
+    },
+    {
+      "name": "环形柱状图",
+      "count": 42
+    },
+    {
+      "name": "火山图",
+      "count": 1
+    },
+    {
+      "name": "极坐标堆叠图",
+      "count": 8
+    },
+    {
+      "name": "极坐标散点图",
+      "count": 3
+    },
+    {
+      "name": "极坐标箱线图",
+      "count": 14
+    },
+    {
+      "name": "极坐标折线图",
+      "count": 3
+    },
+    {
+      "name": "雷达图",
+      "count": 7
+    },
+    {
+      "name": "流程图",
+      "count": 2
+    },
+    {
+      "name": "面积图",
+      "count": 3
+    },
+    {
+      "name": "瀑布图",
+      "count": 2
+    },
+    {
+      "name": "气泡图",
+      "count": 8
+    },
+    {
+      "name": "热图",
+      "count": 6
+    },
+    {
+      "name": "三角热图",
+      "count": 3
+    },
+    {
+      "name": "三维堆叠图",
+      "count": 2
+    },
+    {
+      "name": "三维散点图",
+      "count": 3
+    },
+    {
+      "name": "三维折线图",
+      "count": 1
+    },
+    {
+      "name": "散点饼图",
+      "count": 7
+    },
+    {
+      "name": "散点图",
+      "count": 8
+    },
+    {
+      "name": "桑基图",
+      "count": 12
+    },
+    {
+      "name": "山峦图",
+      "count": 2
+    },
+    {
+      "name": "网络图",
+      "count": 20
+    },
+    {
+      "name": "箱线图",
+      "count": 9
+    },
+    {
+      "name": "箱线图组合",
+      "count": 1
+    },
+    {
+      "name": "小提琴图",
+      "count": 6
+    },
+    {
+      "name": "旭日图",
+      "count": 2
+    },
+    {
+      "name": "序列图",
+      "count": 2
+    },
+    {
+      "name": "玉玦图",
+      "count": 1
+    },
+    {
+      "name": "玉珏图",
+      "count": 1
+    },
+    {
+      "name": "云雨图",
+      "count": 5
+    },
+    {
+      "name": "折线图",
+      "count": 17
+    },
+    {
+      "name": "柱状图",
+      "count": 39
+    },
+    {
+      "name": "组合热图",
+      "count": 3
+    },
+    {
+      "name": "组合图",
+      "count": 4
+    }
+  ],
+  "templates": [
+    {
+      "id": "6789a8ebc08c7f4fd9cca5af",
+      "name": "3D柱状图-立体柱",
+      "category": "3D柱状图",
+      "categoryTrail": [
+        "3D柱状图",
+        "立体柱"
+      ],
+      "categoryTrailText": "3D柱状图 / 立体柱",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6789a8ebc08c7f4fd9cca5af",
+      "previewUrl": "templates/6789a8ebc08c7f4fd9cca5af/preview.png",
+      "svgUrl": "templates/6789a8ebc08c7f4fd9cca5af/rendered.svg",
+      "metaUrl": "templates/6789a8ebc08c7f4fd9cca5af/meta.json",
+      "pythonUrl": "templates/6789a8ebc08c7f4fd9cca5af/python_example.py",
+      "rUrl": "templates/6789a8ebc08c7f4fd9cca5af/R_example.R",
+      "dirUrl": "templates/6789a8ebc08c7f4fd9cca5af",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6789a8ebc08c7f4fd9cca5af/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "group",
+        "xVCol": "a",
+        "yVCol": "b",
+        "zVCol": "c"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "yVCol",
+        "zVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 23472,
+      "previewSize": 23025
+    },
+    {
+      "id": "678892792118aaa3fa8867c3",
+      "name": "3D柱状图-xyz连续型变量",
+      "category": "3D柱状图",
+      "categoryTrail": [
+        "3D柱状图",
+        "xyz连续型变量"
+      ],
+      "categoryTrailText": "3D柱状图 / xyz连续型变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=678892792118aaa3fa8867c3",
+      "previewUrl": "templates/678892792118aaa3fa8867c3/preview.png",
+      "svgUrl": "templates/678892792118aaa3fa8867c3/rendered.svg",
+      "metaUrl": "templates/678892792118aaa3fa8867c3/meta.json",
+      "pythonUrl": "templates/678892792118aaa3fa8867c3/python_example.py",
+      "rUrl": "templates/678892792118aaa3fa8867c3/R_example.R",
+      "dirUrl": "templates/678892792118aaa3fa8867c3",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/678892792118aaa3fa8867c3/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "group",
+        "xVCol": "a",
+        "yVCol": "b",
+        "zVCol": "c"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "yVCol",
+        "zVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18977,
+      "previewSize": 20922
+    },
+    {
+      "id": "67636997b6a9f908910e3232",
+      "name": "半径变饼图-桥式",
+      "category": "半径变饼图",
+      "categoryTrail": [
+        "半径变饼图",
+        "桥式"
+      ],
+      "categoryTrailText": "半径变饼图 / 桥式",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67636997b6a9f908910e3232",
+      "previewUrl": "templates/67636997b6a9f908910e3232/preview.png",
+      "svgUrl": "templates/67636997b6a9f908910e3232/rendered.svg",
+      "metaUrl": "templates/67636997b6a9f908910e3232/meta.json",
+      "pythonUrl": "templates/67636997b6a9f908910e3232/python_example.py",
+      "rUrl": "templates/67636997b6a9f908910e3232/R_example.R",
+      "dirUrl": "templates/67636997b6a9f908910e3232",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67636997b6a9f908910e3232/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 4807,
+      "previewSize": 13167
+    },
+    {
+      "id": "67636f5b1cd049d2a718070c",
+      "name": "半径变饼图-扇型-自动排序",
+      "category": "半径变饼图",
+      "categoryTrail": [
+        "半径变饼图",
+        "扇型",
+        "自动排序"
+      ],
+      "categoryTrailText": "半径变饼图 / 扇型 / 自动排序",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67636f5b1cd049d2a718070c",
+      "previewUrl": "templates/67636f5b1cd049d2a718070c/preview.png",
+      "svgUrl": "templates/67636f5b1cd049d2a718070c/rendered.svg",
+      "metaUrl": "templates/67636f5b1cd049d2a718070c/meta.json",
+      "pythonUrl": "templates/67636f5b1cd049d2a718070c/python_example.py",
+      "rUrl": "templates/67636f5b1cd049d2a718070c/R_example.R",
+      "dirUrl": "templates/67636f5b1cd049d2a718070c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67636f5b1cd049d2a718070c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 4807,
+      "previewSize": 14525
+    },
+    {
+      "id": "676371b91cd049d2a718071d",
+      "name": "半径变饼图-自动排序",
+      "category": "半径变饼图",
+      "categoryTrail": [
+        "半径变饼图",
+        "自动排序"
+      ],
+      "categoryTrailText": "半径变饼图 / 自动排序",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676371b91cd049d2a718071d",
+      "previewUrl": "templates/676371b91cd049d2a718071d/preview.png",
+      "svgUrl": "templates/676371b91cd049d2a718071d/rendered.svg",
+      "metaUrl": "templates/676371b91cd049d2a718071d/meta.json",
+      "pythonUrl": "templates/676371b91cd049d2a718071d/python_example.py",
+      "rUrl": "templates/676371b91cd049d2a718071d/R_example.R",
+      "dirUrl": "templates/676371b91cd049d2a718071d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676371b91cd049d2a718071d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 4755,
+      "previewSize": 18034
+    },
+    {
+      "id": "676363aa1cd049d2a71806b1",
+      "name": "饼图-半环",
+      "category": "饼图",
+      "categoryTrail": [
+        "饼图",
+        "半环"
+      ],
+      "categoryTrailText": "饼图 / 半环",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676363aa1cd049d2a71806b1",
+      "previewUrl": "templates/676363aa1cd049d2a71806b1/preview.png",
+      "svgUrl": "templates/676363aa1cd049d2a71806b1/rendered.svg",
+      "metaUrl": "templates/676363aa1cd049d2a71806b1/meta.json",
+      "pythonUrl": "templates/676363aa1cd049d2a71806b1/python_example.py",
+      "rUrl": "templates/676363aa1cd049d2a71806b1/R_example.R",
+      "dirUrl": "templates/676363aa1cd049d2a71806b1",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676363aa1cd049d2a71806b1/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 4953,
+      "previewSize": 13943
+    },
+    {
+      "id": "6763748cb6a9f908910e329d",
+      "name": "饼图-花瓣",
+      "category": "饼图",
+      "categoryTrail": [
+        "饼图",
+        "花瓣"
+      ],
+      "categoryTrailText": "饼图 / 花瓣",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6763748cb6a9f908910e329d",
+      "previewUrl": "templates/6763748cb6a9f908910e329d/preview.png",
+      "svgUrl": "templates/6763748cb6a9f908910e329d/rendered.svg",
+      "metaUrl": "templates/6763748cb6a9f908910e329d/meta.json",
+      "pythonUrl": "templates/6763748cb6a9f908910e329d/python_example.py",
+      "rUrl": "templates/6763748cb6a9f908910e329d/R_example.R",
+      "dirUrl": "templates/6763748cb6a9f908910e329d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6763748cb6a9f908910e329d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7153,
+      "previewSize": 24225
+    },
+    {
+      "id": "69b0cbcda6981fcf14aa3872",
+      "name": "饼图-花瓣-等角度-热力颜色",
+      "category": "饼图",
+      "categoryTrail": [
+        "饼图",
+        "花瓣",
+        "等角度",
+        "热力颜色"
+      ],
+      "categoryTrailText": "饼图 / 花瓣 / 等角度 / 热力颜色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=69b0cbcda6981fcf14aa3872",
+      "previewUrl": "templates/69b0cbcda6981fcf14aa3872/preview.png",
+      "svgUrl": "templates/69b0cbcda6981fcf14aa3872/rendered.svg",
+      "metaUrl": "templates/69b0cbcda6981fcf14aa3872/meta.json",
+      "pythonUrl": "templates/69b0cbcda6981fcf14aa3872/python_example.py",
+      "rUrl": "templates/69b0cbcda6981fcf14aa3872/R_example.R",
+      "dirUrl": "templates/69b0cbcda6981fcf14aa3872",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69b0cbcda6981fcf14aa3872/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 29428,
+      "previewSize": 25153
+    },
+    {
+      "id": "69b0d61da6981fcf14aa3911",
+      "name": "饼图-花瓣-热力颜色",
+      "category": "饼图",
+      "categoryTrail": [
+        "饼图",
+        "花瓣",
+        "热力颜色"
+      ],
+      "categoryTrailText": "饼图 / 花瓣 / 热力颜色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=69b0d61da6981fcf14aa3911",
+      "previewUrl": "templates/69b0d61da6981fcf14aa3911/preview.png",
+      "svgUrl": "templates/69b0d61da6981fcf14aa3911/rendered.svg",
+      "metaUrl": "templates/69b0d61da6981fcf14aa3911/meta.json",
+      "pythonUrl": "templates/69b0d61da6981fcf14aa3911/python_example.py",
+      "rUrl": "templates/69b0d61da6981fcf14aa3911/R_example.R",
+      "dirUrl": "templates/69b0d61da6981fcf14aa3911",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69b0d61da6981fcf14aa3911/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 24082,
+      "previewSize": 30700
+    },
+    {
+      "id": "6658583892a6397d0c3276ca",
+      "name": "饼图-矩阵",
+      "category": "饼图",
+      "categoryTrail": [
+        "饼图",
+        "矩阵"
+      ],
+      "categoryTrailText": "饼图 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6658583892a6397d0c3276ca",
+      "previewUrl": "templates/6658583892a6397d0c3276ca/preview.png",
+      "svgUrl": "templates/6658583892a6397d0c3276ca/rendered.svg",
+      "metaUrl": "templates/6658583892a6397d0c3276ca/meta.json",
+      "pythonUrl": "templates/6658583892a6397d0c3276ca/python_example.py",
+      "rUrl": "templates/6658583892a6397d0c3276ca/R_example.R",
+      "dirUrl": "templates/6658583892a6397d0c3276ca",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6658583892a6397d0c3276ca/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "a、b、c、d"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18310,
+      "previewSize": 17670
+    },
+    {
+      "id": "67637318b6a9f908910e327c",
+      "name": "饼图-任意起止位置",
+      "category": "饼图",
+      "categoryTrail": [
+        "饼图",
+        "任意起止位置"
+      ],
+      "categoryTrailText": "饼图 / 任意起止位置",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67637318b6a9f908910e327c",
+      "previewUrl": "templates/67637318b6a9f908910e327c/preview.png",
+      "svgUrl": "templates/67637318b6a9f908910e327c/rendered.svg",
+      "metaUrl": "templates/67637318b6a9f908910e327c/meta.json",
+      "pythonUrl": "templates/67637318b6a9f908910e327c/python_example.py",
+      "rUrl": "templates/67637318b6a9f908910e327c/R_example.R",
+      "dirUrl": "templates/67637318b6a9f908910e327c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67637318b6a9f908910e327c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "startAngle": "-1.2",
+        "endAngle": "1.2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "startAngle",
+        "endAngle"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 3097,
+      "previewSize": 21181
+    },
+    {
+      "id": "66736add4b978b43a67a42c4",
+      "name": "饼图-甜甜圈",
+      "category": "饼图",
+      "categoryTrail": [
+        "饼图",
+        "甜甜圈"
+      ],
+      "categoryTrailText": "饼图 / 甜甜圈",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66736add4b978b43a67a42c4",
+      "previewUrl": "templates/66736add4b978b43a67a42c4/preview.png",
+      "svgUrl": "templates/66736add4b978b43a67a42c4/rendered.svg",
+      "metaUrl": "templates/66736add4b978b43a67a42c4/meta.json",
+      "pythonUrl": "templates/66736add4b978b43a67a42c4/python_example.py",
+      "rUrl": "templates/66736add4b978b43a67a42c4/R_example.R",
+      "dirUrl": "templates/66736add4b978b43a67a42c4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66736add4b978b43a67a42c4/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 4337,
+      "previewSize": 16270
+    },
+    {
+      "id": "669fbedf2d679386c4e3b19a",
+      "name": "饼图-图例",
+      "category": "饼图",
+      "categoryTrail": [
+        "饼图",
+        "图例"
+      ],
+      "categoryTrailText": "饼图 / 图例",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=669fbedf2d679386c4e3b19a",
+      "previewUrl": "templates/669fbedf2d679386c4e3b19a/preview.png",
+      "svgUrl": "templates/669fbedf2d679386c4e3b19a/rendered.svg",
+      "metaUrl": "templates/669fbedf2d679386c4e3b19a/meta.json",
+      "pythonUrl": "templates/669fbedf2d679386c4e3b19a/python_example.py",
+      "rUrl": "templates/669fbedf2d679386c4e3b19a/R_example.R",
+      "dirUrl": "templates/669fbedf2d679386c4e3b19a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/669fbedf2d679386c4e3b19a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 5488,
+      "previewSize": 9243
+    },
+    {
+      "id": "6633138e9f1a544b6ce93d0b",
+      "name": "饼图-自动顺序",
+      "category": "饼图",
+      "categoryTrail": [
+        "饼图",
+        "自动顺序"
+      ],
+      "categoryTrailText": "饼图 / 自动顺序",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6633138e9f1a544b6ce93d0b",
+      "previewUrl": "templates/6633138e9f1a544b6ce93d0b/preview.png",
+      "svgUrl": "templates/6633138e9f1a544b6ce93d0b/rendered.svg",
+      "metaUrl": "templates/6633138e9f1a544b6ce93d0b/meta.json",
+      "pythonUrl": "templates/6633138e9f1a544b6ce93d0b/python_example.py",
+      "rUrl": "templates/6633138e9f1a544b6ce93d0b/R_example.R",
+      "dirUrl": "templates/6633138e9f1a544b6ce93d0b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6633138e9f1a544b6ce93d0b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 5710,
+      "previewSize": 21190
+    },
+    {
+      "id": "675b9995840a91c9c316347d",
+      "name": "饼图-图例",
+      "category": "大头针图",
+      "categoryTrail": [
+        "大头针图",
+        "多变量",
+        "兼容负值",
+        "重叠"
+      ],
+      "categoryTrailText": "大头针图 / 多变量 / 兼容负值 / 重叠",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=669fbedf2d679386c4e3b19a",
+      "previewUrl": "templates/675b9995840a91c9c316347d/preview.png",
+      "svgUrl": "templates/675b9995840a91c9c316347d/rendered.svg",
+      "metaUrl": "templates/675b9995840a91c9c316347d/meta.json",
+      "pythonUrl": "templates/675b9995840a91c9c316347d/python_example.py",
+      "rUrl": "templates/675b9995840a91c9c316347d/R_example.R",
+      "dirUrl": "templates/675b9995840a91c9c316347d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675b9995840a91c9c316347d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 5488,
+      "previewSize": 9627
+    },
+    {
+      "id": "675b74666ad24ba18dcc4b48",
+      "name": "大头针图-多变量",
+      "category": "大头针图",
+      "categoryTrail": [
+        "大头针图",
+        "多变量"
+      ],
+      "categoryTrailText": "大头针图 / 多变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b74666ad24ba18dcc4b48",
+      "previewUrl": "templates/675b74666ad24ba18dcc4b48/preview.png",
+      "svgUrl": "templates/675b74666ad24ba18dcc4b48/rendered.svg",
+      "metaUrl": "templates/675b74666ad24ba18dcc4b48/meta.json",
+      "pythonUrl": "templates/675b74666ad24ba18dcc4b48/python_example.py",
+      "rUrl": "templates/675b74666ad24ba18dcc4b48/R_example.R",
+      "dirUrl": "templates/675b74666ad24ba18dcc4b48",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675b74666ad24ba18dcc4b48/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 13905,
+      "previewSize": 9145
+    },
+    {
+      "id": "675b8e476ad24ba18dcc4d97",
+      "name": "大头针图-多变量-兼容负值",
+      "category": "大头针图",
+      "categoryTrail": [
+        "大头针图",
+        "多变量",
+        "兼容负值"
+      ],
+      "categoryTrailText": "大头针图 / 多变量 / 兼容负值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b8e476ad24ba18dcc4d97",
+      "previewUrl": "templates/675b8e476ad24ba18dcc4d97/preview.png",
+      "svgUrl": "templates/675b8e476ad24ba18dcc4d97/rendered.svg",
+      "metaUrl": "templates/675b8e476ad24ba18dcc4d97/meta.json",
+      "pythonUrl": "templates/675b8e476ad24ba18dcc4d97/python_example.py",
+      "rUrl": "templates/675b8e476ad24ba18dcc4d97/R_example.R",
+      "dirUrl": "templates/675b8e476ad24ba18dcc4d97",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675b8e476ad24ba18dcc4d97/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14005,
+      "previewSize": 9958
+    },
+    {
+      "id": "675b81de6ad24ba18dcc4c5c",
+      "name": "大头针图-分组-大小圈",
+      "category": "大头针图",
+      "categoryTrail": [
+        "大头针图",
+        "分组",
+        "大小圈"
+      ],
+      "categoryTrailText": "大头针图 / 分组 / 大小圈",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b81de6ad24ba18dcc4c5c",
+      "previewUrl": "templates/675b81de6ad24ba18dcc4c5c/preview.png",
+      "svgUrl": "templates/675b81de6ad24ba18dcc4c5c/rendered.svg",
+      "metaUrl": "templates/675b81de6ad24ba18dcc4c5c/meta.json",
+      "pythonUrl": "templates/675b81de6ad24ba18dcc4c5c/python_example.py",
+      "rUrl": "templates/675b81de6ad24ba18dcc4c5c/R_example.R",
+      "dirUrl": "templates/675b81de6ad24ba18dcc4c5c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675b81de6ad24ba18dcc4c5c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "rVCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "rVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15910,
+      "previewSize": 11035
+    },
+    {
+      "id": "675b8fce6ad24ba18dcc4dce",
+      "name": "大头针图-分组-大小圈-兼容负值",
+      "category": "大头针图",
+      "categoryTrail": [
+        "大头针图",
+        "分组",
+        "大小圈",
+        "兼容负值"
+      ],
+      "categoryTrailText": "大头针图 / 分组 / 大小圈 / 兼容负值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b8fce6ad24ba18dcc4dce",
+      "previewUrl": "templates/675b8fce6ad24ba18dcc4dce/preview.png",
+      "svgUrl": "templates/675b8fce6ad24ba18dcc4dce/rendered.svg",
+      "metaUrl": "templates/675b8fce6ad24ba18dcc4dce/meta.json",
+      "pythonUrl": "templates/675b8fce6ad24ba18dcc4dce/python_example.py",
+      "rUrl": "templates/675b8fce6ad24ba18dcc4dce/R_example.R",
+      "dirUrl": "templates/675b8fce6ad24ba18dcc4dce",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675b8fce6ad24ba18dcc4dce/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "rVCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "rVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17209,
+      "previewSize": 12049
+    },
+    {
+      "id": "6672d7f54b978b43a67a415b",
+      "name": "大头针图-分组-等大圈",
+      "category": "大头针图",
+      "categoryTrail": [
+        "大头针图",
+        "分组",
+        "等大圈"
+      ],
+      "categoryTrailText": "大头针图 / 分组 / 等大圈",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6672d7f54b978b43a67a415b",
+      "previewUrl": "templates/6672d7f54b978b43a67a415b/preview.png",
+      "svgUrl": "templates/6672d7f54b978b43a67a415b/rendered.svg",
+      "metaUrl": "templates/6672d7f54b978b43a67a415b/meta.json",
+      "pythonUrl": "templates/6672d7f54b978b43a67a415b/python_example.py",
+      "rUrl": "templates/6672d7f54b978b43a67a415b/R_example.R",
+      "dirUrl": "templates/6672d7f54b978b43a67a415b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6672d7f54b978b43a67a415b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15819,
+      "previewSize": 13054
+    },
+    {
+      "id": "675b73b66ad24ba18dcc4b36",
+      "name": "大头针图-无分组",
+      "category": "大头针图",
+      "categoryTrail": [
+        "大头针图",
+        "无分组"
+      ],
+      "categoryTrailText": "大头针图 / 无分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b73b66ad24ba18dcc4b36",
+      "previewUrl": "templates/675b73b66ad24ba18dcc4b36/preview.png",
+      "svgUrl": "templates/675b73b66ad24ba18dcc4b36/rendered.svg",
+      "metaUrl": "templates/675b73b66ad24ba18dcc4b36/meta.json",
+      "pythonUrl": "templates/675b73b66ad24ba18dcc4b36/python_example.py",
+      "rUrl": "templates/675b73b66ad24ba18dcc4b36/R_example.R",
+      "dirUrl": "templates/675b73b66ad24ba18dcc4b36",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675b73b66ad24ba18dcc4b36/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "rVCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "rVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10071,
+      "previewSize": 5682
+    },
+    {
+      "id": "675b8bd56ad24ba18dcc4d1b",
+      "name": "大头针图-无分组-兼容负值",
+      "category": "大头针图",
+      "categoryTrail": [
+        "大头针图",
+        "无分组",
+        "兼容负值"
+      ],
+      "categoryTrailText": "大头针图 / 无分组 / 兼容负值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b8bd56ad24ba18dcc4d1b",
+      "previewUrl": "templates/675b8bd56ad24ba18dcc4d1b/preview.png",
+      "svgUrl": "templates/675b8bd56ad24ba18dcc4d1b/rendered.svg",
+      "metaUrl": "templates/675b8bd56ad24ba18dcc4d1b/meta.json",
+      "pythonUrl": "templates/675b8bd56ad24ba18dcc4d1b/python_example.py",
+      "rUrl": "templates/675b8bd56ad24ba18dcc4d1b/R_example.R",
+      "dirUrl": "templates/675b8bd56ad24ba18dcc4d1b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675b8bd56ad24ba18dcc4d1b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "rVCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "rVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10787,
+      "previewSize": 6495
+    },
+    {
+      "id": "676e37562c7aca6fc03d0aaf",
+      "name": "大头针图-无分组-矩阵",
+      "category": "大头针图",
+      "categoryTrail": [
+        "大头针图",
+        "无分组",
+        "矩阵"
+      ],
+      "categoryTrailText": "大头针图 / 无分组 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676e37562c7aca6fc03d0aaf",
+      "previewUrl": "templates/676e37562c7aca6fc03d0aaf/preview.png",
+      "svgUrl": "templates/676e37562c7aca6fc03d0aaf/rendered.svg",
+      "metaUrl": "templates/676e37562c7aca6fc03d0aaf/meta.json",
+      "pythonUrl": "templates/676e37562c7aca6fc03d0aaf/python_example.py",
+      "rUrl": "templates/676e37562c7aca6fc03d0aaf/R_example.R",
+      "dirUrl": "templates/676e37562c7aca6fc03d0aaf",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676e37562c7aca6fc03d0aaf/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "picCol": "pic",
+        "nameCol": "name",
+        "valueCol": "value",
+        "rVCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "picCol",
+        "nameCol",
+        "valueCol",
+        "rVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 42082,
+      "previewSize": 12030
+    },
+    {
+      "id": "676e3e812c7aca6fc03d0c8c",
+      "name": "堆叠图-单组",
+      "category": "大头针图",
+      "categoryTrail": [
+        "大头针图",
+        "无分组",
+        "兼容负值",
+        "矩阵"
+      ],
+      "categoryTrailText": "大头针图 / 无分组 / 兼容负值 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a5faf760d953862d3ff696",
+      "previewUrl": "templates/676e3e812c7aca6fc03d0c8c/preview.png",
+      "svgUrl": "templates/676e3e812c7aca6fc03d0c8c/rendered.svg",
+      "metaUrl": "templates/676e3e812c7aca6fc03d0c8c/meta.json",
+      "pythonUrl": "templates/676e3e812c7aca6fc03d0c8c/python_example.py",
+      "rUrl": "templates/676e3e812c7aca6fc03d0c8c/R_example.R",
+      "dirUrl": "templates/676e3e812c7aca6fc03d0c8c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676e3e812c7aca6fc03d0c8c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "ytitle": "yyyyyyyyyy(%)"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "ytitle"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 67495,
+      "previewSize": 14727
+    },
+    {
+      "id": "6750208ab3a7e1a5d417f60d",
+      "name": "堆叠面积图-单组",
+      "category": "堆叠面积图",
+      "categoryTrail": [
+        "堆叠面积图",
+        "单组"
+      ],
+      "categoryTrailText": "堆叠面积图 / 单组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6750208ab3a7e1a5d417f60d",
+      "previewUrl": "templates/6750208ab3a7e1a5d417f60d/preview.png",
+      "svgUrl": "templates/6750208ab3a7e1a5d417f60d/rendered.svg",
+      "metaUrl": "templates/6750208ab3a7e1a5d417f60d/meta.json",
+      "pythonUrl": "templates/6750208ab3a7e1a5d417f60d/python_example.py",
+      "rUrl": "templates/6750208ab3a7e1a5d417f60d/R_example.R",
+      "dirUrl": "templates/6750208ab3a7e1a5d417f60d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6750208ab3a7e1a5d417f60d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 27766,
+      "previewSize": 26623
+    },
+    {
+      "id": "675124d726abbb2d28abdebb",
+      "name": "堆叠面积图-单组-计算占比",
+      "category": "堆叠面积图",
+      "categoryTrail": [
+        "堆叠面积图",
+        "单组",
+        "计算占比"
+      ],
+      "categoryTrailText": "堆叠面积图 / 单组 / 计算占比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675124d726abbb2d28abdebb",
+      "previewUrl": "templates/675124d726abbb2d28abdebb/preview.png",
+      "svgUrl": "templates/675124d726abbb2d28abdebb/rendered.svg",
+      "metaUrl": "templates/675124d726abbb2d28abdebb/meta.json",
+      "pythonUrl": "templates/675124d726abbb2d28abdebb/python_example.py",
+      "rUrl": "templates/675124d726abbb2d28abdebb/R_example.R",
+      "dirUrl": "templates/675124d726abbb2d28abdebb",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675124d726abbb2d28abdebb/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "ytitle": "yyy"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "ytitle"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 30253,
+      "previewSize": 27068
+    },
+    {
+      "id": "66a5faf760d953862d3ff696",
+      "name": "堆叠图-单组",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "单组"
+      ],
+      "categoryTrailText": "堆叠图 / 单组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a5faf760d953862d3ff696",
+      "previewUrl": "templates/66a5faf760d953862d3ff696/preview.png",
+      "svgUrl": "templates/66a5faf760d953862d3ff696/rendered.svg",
+      "metaUrl": "templates/66a5faf760d953862d3ff696/meta.json",
+      "pythonUrl": "templates/66a5faf760d953862d3ff696/python_example.py",
+      "rUrl": "templates/66a5faf760d953862d3ff696/R_example.R",
+      "dirUrl": "templates/66a5faf760d953862d3ff696",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66a5faf760d953862d3ff696/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "ytitle": "yyyyyyyyyy(%)"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "ytitle"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 67495,
+      "previewSize": 12252
+    },
+    {
+      "id": "67525188406250678487fd35",
+      "name": "堆叠图-单组-截断轴",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "单组",
+        "截断轴"
+      ],
+      "categoryTrailText": "堆叠图 / 单组 / 截断轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67525188406250678487fd35",
+      "previewUrl": "templates/67525188406250678487fd35/preview.png",
+      "svgUrl": "templates/67525188406250678487fd35/rendered.svg",
+      "metaUrl": "templates/67525188406250678487fd35/meta.json",
+      "pythonUrl": "templates/67525188406250678487fd35/python_example.py",
+      "rUrl": "templates/67525188406250678487fd35/R_example.R",
+      "dirUrl": "templates/67525188406250678487fd35",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67525188406250678487fd35/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、",
+        "step": "100",
+        "yRange": "0,320;800,920;1900,2000"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols",
+        "step",
+        "yRange"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 27170,
+      "previewSize": 16429
+    },
+    {
+      "id": "67556f3230ab6999487650e7",
+      "name": "堆叠图-单组-矩阵",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "单组",
+        "矩阵"
+      ],
+      "categoryTrailText": "堆叠图 / 单组 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67556f3230ab6999487650e7",
+      "previewUrl": "templates/67556f3230ab6999487650e7/preview.png",
+      "svgUrl": "templates/67556f3230ab6999487650e7/rendered.svg",
+      "metaUrl": "templates/67556f3230ab6999487650e7/meta.json",
+      "pythonUrl": "templates/67556f3230ab6999487650e7/python_example.py",
+      "rUrl": "templates/67556f3230ab6999487650e7/R_example.R",
+      "dirUrl": "templates/67556f3230ab6999487650e7",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67556f3230ab6999487650e7/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample",
+        "groupCol": "type",
+        "valueCols": "var1、var2、var3",
+        "minv": "0",
+        "maxV": "200",
+        "step": "50"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols",
+        "minv",
+        "maxV",
+        "step"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 51947,
+      "previewSize": 22746
+    },
+    {
+      "id": "67511d7826abbb2d28abdd30",
+      "name": "堆叠图-单组-连线",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "单组",
+        "连线"
+      ],
+      "categoryTrailText": "堆叠图 / 单组 / 连线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67511d7826abbb2d28abdd30",
+      "previewUrl": "templates/67511d7826abbb2d28abdd30/preview.png",
+      "svgUrl": "templates/67511d7826abbb2d28abdd30/rendered.svg",
+      "metaUrl": "templates/67511d7826abbb2d28abdd30/meta.json",
+      "pythonUrl": "templates/67511d7826abbb2d28abdd30/python_example.py",
+      "rUrl": "templates/67511d7826abbb2d28abdd30/R_example.R",
+      "dirUrl": "templates/67511d7826abbb2d28abdd30",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67511d7826abbb2d28abdd30/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 95697,
+      "previewSize": 36940
+    },
+    {
+      "id": "67516868afec8963ccde9735",
+      "name": "堆叠图-单组-连线",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "单组",
+        "连线"
+      ],
+      "categoryTrailText": "堆叠图 / 单组 / 连线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67516868afec8963ccde9735",
+      "previewUrl": "templates/67516868afec8963ccde9735/preview.png",
+      "svgUrl": "templates/67516868afec8963ccde9735/rendered.svg",
+      "metaUrl": "templates/67516868afec8963ccde9735/meta.json",
+      "pythonUrl": "templates/67516868afec8963ccde9735/python_example.py",
+      "rUrl": "templates/67516868afec8963ccde9735/R_example.R",
+      "dirUrl": "templates/67516868afec8963ccde9735",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67516868afec8963ccde9735/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 25476,
+      "previewSize": 13876
+    },
+    {
+      "id": "67528d8c406250678487fefd",
+      "name": "堆叠图-单组-连线-计算占比-矩阵",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "单组",
+        "截断轴",
+        "计算占比"
+      ],
+      "categoryTrailText": "堆叠图 / 单组 / 截断轴 / 计算占比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675406eea9a528dc30e39996",
+      "previewUrl": "templates/67528d8c406250678487fefd/preview.png",
+      "svgUrl": "templates/67528d8c406250678487fefd/rendered.svg",
+      "metaUrl": "templates/67528d8c406250678487fefd/meta.json",
+      "pythonUrl": "templates/67528d8c406250678487fefd/python_example.py",
+      "rUrl": "templates/67528d8c406250678487fefd/R_example.R",
+      "dirUrl": "templates/67528d8c406250678487fefd",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67528d8c406250678487fefd/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample",
+        "groupCol": "type",
+        "valueCols": "var1、var2、var3"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 58101,
+      "previewSize": 14261
+    },
+    {
+      "id": "675406eea9a528dc30e39996",
+      "name": "堆叠图-单组-连线-计算占比-矩阵",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "单组",
+        "连线",
+        "计算占比",
+        "矩阵"
+      ],
+      "categoryTrailText": "堆叠图 / 单组 / 连线 / 计算占比 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675406eea9a528dc30e39996",
+      "previewUrl": "templates/675406eea9a528dc30e39996/preview.png",
+      "svgUrl": "templates/675406eea9a528dc30e39996/rendered.svg",
+      "metaUrl": "templates/675406eea9a528dc30e39996/meta.json",
+      "pythonUrl": "templates/675406eea9a528dc30e39996/python_example.py",
+      "rUrl": "templates/675406eea9a528dc30e39996/R_example.R",
+      "dirUrl": "templates/675406eea9a528dc30e39996",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675406eea9a528dc30e39996/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample",
+        "groupCol": "type",
+        "valueCols": "var1、var2、var3"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 58101,
+      "previewSize": 26980
+    },
+    {
+      "id": "66a9da12f00c758ce03e87d9",
+      "name": "堆叠图-多组",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "多组"
+      ],
+      "categoryTrailText": "堆叠图 / 多组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a9da12f00c758ce03e87d9",
+      "previewUrl": "templates/66a9da12f00c758ce03e87d9/preview.png",
+      "svgUrl": "templates/66a9da12f00c758ce03e87d9/rendered.svg",
+      "metaUrl": "templates/66a9da12f00c758ce03e87d9/meta.json",
+      "pythonUrl": "templates/66a9da12f00c758ce03e87d9/python_example.py",
+      "rUrl": "templates/66a9da12f00c758ce03e87d9/R_example.R",
+      "dirUrl": "templates/66a9da12f00c758ce03e87d9",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66a9da12f00c758ce03e87d9/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "ytitle": "yyyyyyyyyy(%)",
+        "xtitle": "xxxxxxxxxxxxxxxx"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "ytitle",
+        "xtitle"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 72819,
+      "previewSize": 12905
+    },
+    {
+      "id": "66d12450e4241f11dffdab3d",
+      "name": "堆叠图-多组-不同堆叠颜色",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "多组",
+        "不同堆叠颜色"
+      ],
+      "categoryTrailText": "堆叠图 / 多组 / 不同堆叠颜色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66d12450e4241f11dffdab3d",
+      "previewUrl": "templates/66d12450e4241f11dffdab3d/preview.png",
+      "svgUrl": "templates/66d12450e4241f11dffdab3d/rendered.svg",
+      "metaUrl": "templates/66d12450e4241f11dffdab3d/meta.json",
+      "pythonUrl": "templates/66d12450e4241f11dffdab3d/python_example.py",
+      "rUrl": "templates/66d12450e4241f11dffdab3d/R_example.R",
+      "dirUrl": "templates/66d12450e4241f11dffdab3d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66d12450e4241f11dffdab3d/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66d12450e4241f11dffdab3d/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "sample",
+        "groupCol": "category",
+        "valueCols": "v1、v2、v3、v4、v5、v6",
+        "showTxtCol": "vnames",
+        "legendShowCol": "show"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols",
+        "showTxtCol",
+        "legendShowCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 32905,
+      "previewSize": 11526
+    },
+    {
+      "id": "66d146a1e4241f11dffdadf1",
+      "name": "堆叠图-多组-负值向下",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "多组",
+        "负值向下"
+      ],
+      "categoryTrailText": "堆叠图 / 多组 / 负值向下",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66d146a1e4241f11dffdadf1",
+      "previewUrl": "templates/66d146a1e4241f11dffdadf1/preview.png",
+      "svgUrl": "templates/66d146a1e4241f11dffdadf1/rendered.svg",
+      "metaUrl": "templates/66d146a1e4241f11dffdadf1/meta.json",
+      "pythonUrl": "templates/66d146a1e4241f11dffdadf1/python_example.py",
+      "rUrl": "templates/66d146a1e4241f11dffdadf1/R_example.R",
+      "dirUrl": "templates/66d146a1e4241f11dffdadf1",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66d146a1e4241f11dffdadf1/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "type",
+        "groupCol": "category",
+        "valueCols": "Minus points、Main course、Side course"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 45829,
+      "previewSize": 17736
+    },
+    {
+      "id": "67515c68afec8963ccde967e",
+      "name": "堆叠图-多组-连线-多组色块",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "单组",
+        "连线",
+        "误差棒"
+      ],
+      "categoryTrailText": "堆叠图 / 单组 / 连线 / 误差棒",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67519933379e0b4b79b3e9b4",
+      "previewUrl": "templates/67515c68afec8963ccde967e/preview.png",
+      "svgUrl": "templates/67515c68afec8963ccde967e/rendered.svg",
+      "metaUrl": "templates/67515c68afec8963ccde967e/meta.json",
+      "pythonUrl": "templates/67515c68afec8963ccde967e/python_example.py",
+      "rUrl": "templates/67515c68afec8963ccde967e/R_example.R",
+      "dirUrl": "templates/67515c68afec8963ccde967e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67515c68afec8963ccde967e/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 47247,
+      "previewSize": 16164
+    },
+    {
+      "id": "67519933379e0b4b79b3e9b4",
+      "name": "堆叠图-多组-连线-多组色块",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "多组",
+        "连线",
+        "多组色块"
+      ],
+      "categoryTrailText": "堆叠图 / 多组 / 连线 / 多组色块",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67519933379e0b4b79b3e9b4",
+      "previewUrl": "templates/67519933379e0b4b79b3e9b4/preview.png",
+      "svgUrl": "templates/67519933379e0b4b79b3e9b4/rendered.svg",
+      "metaUrl": "templates/67519933379e0b4b79b3e9b4/meta.json",
+      "pythonUrl": "templates/67519933379e0b4b79b3e9b4/python_example.py",
+      "rUrl": "templates/67519933379e0b4b79b3e9b4/R_example.R",
+      "dirUrl": "templates/67519933379e0b4b79b3e9b4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67519933379e0b4b79b3e9b4/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 47247,
+      "previewSize": 26071
+    },
+    {
+      "id": "665d618c55ee1eb3b08a6856",
+      "name": "堆叠图-多组-网格线",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "多组",
+        "网格线"
+      ],
+      "categoryTrailText": "堆叠图 / 多组 / 网格线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=665d618c55ee1eb3b08a6856",
+      "previewUrl": "templates/665d618c55ee1eb3b08a6856/preview.png",
+      "svgUrl": "templates/665d618c55ee1eb3b08a6856/rendered.svg",
+      "metaUrl": "templates/665d618c55ee1eb3b08a6856/meta.json",
+      "pythonUrl": "templates/665d618c55ee1eb3b08a6856/python_example.py",
+      "rUrl": "templates/665d618c55ee1eb3b08a6856/R_example.R",
+      "dirUrl": "templates/665d618c55ee1eb3b08a6856",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/665d618c55ee1eb3b08a6856/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "type",
+        "valueCols": "、",
+        "yTitle": "Percent"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols",
+        "yTitle"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 29750,
+      "previewSize": 13909
+    },
+    {
+      "id": "67517092afec8963ccde97a5",
+      "name": "堆叠图-多组-网格线",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "多组",
+        "网格线"
+      ],
+      "categoryTrailText": "堆叠图 / 多组 / 网格线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67517092afec8963ccde97a5",
+      "previewUrl": "templates/67517092afec8963ccde97a5/preview.png",
+      "svgUrl": "templates/67517092afec8963ccde97a5/rendered.svg",
+      "metaUrl": "templates/67517092afec8963ccde97a5/meta.json",
+      "pythonUrl": "templates/67517092afec8963ccde97a5/python_example.py",
+      "rUrl": "templates/67517092afec8963ccde97a5/R_example.R",
+      "dirUrl": "templates/67517092afec8963ccde97a5",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67517092afec8963ccde97a5/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample",
+        "groupCol": "type",
+        "valueCols": "、",
+        "yTitle": "YYYYYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols",
+        "yTitle"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 32133,
+      "previewSize": 15483
+    },
+    {
+      "id": "67517311afec8963ccde9840",
+      "name": "堆叠图-多组-网格线-分组色块",
+      "category": "堆叠图",
+      "categoryTrail": [
+        "堆叠图",
+        "多组",
+        "网格线",
+        "分组色块"
+      ],
+      "categoryTrailText": "堆叠图 / 多组 / 网格线 / 分组色块",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67517311afec8963ccde9840",
+      "previewUrl": "templates/67517311afec8963ccde9840/preview.png",
+      "svgUrl": "templates/67517311afec8963ccde9840/rendered.svg",
+      "metaUrl": "templates/67517311afec8963ccde9840/meta.json",
+      "pythonUrl": "templates/67517311afec8963ccde9840/python_example.py",
+      "rUrl": "templates/67517311afec8963ccde9840/R_example.R",
+      "dirUrl": "templates/67517311afec8963ccde9840",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67517311afec8963ccde9840/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample",
+        "groupCol": "type",
+        "valueCols": "、",
+        "yTitle": "YYYYYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols",
+        "yTitle"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 34102,
+      "previewSize": 16294
+    },
+    {
+      "id": "6768ea2c222ceb58bb37164e",
+      "name": "堆叠玉玦图-单组",
+      "category": "堆叠玉玦图",
+      "categoryTrail": [
+        "堆叠玉玦图",
+        "单组"
+      ],
+      "categoryTrailText": "堆叠玉玦图 / 单组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6768ea2c222ceb58bb37164e",
+      "previewUrl": "templates/6768ea2c222ceb58bb37164e/preview.png",
+      "svgUrl": "templates/6768ea2c222ceb58bb37164e/rendered.svg",
+      "metaUrl": "templates/6768ea2c222ceb58bb37164e/meta.json",
+      "pythonUrl": "templates/6768ea2c222ceb58bb37164e/python_example.py",
+      "rUrl": "templates/6768ea2c222ceb58bb37164e/R_example.R",
+      "dirUrl": "templates/6768ea2c222ceb58bb37164e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6768ea2c222ceb58bb37164e/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 29908,
+      "previewSize": 67097
+    },
+    {
+      "id": "66ac2b714552a7ec5580c050",
+      "name": "分类型热图-颜色标有无-统计百分比",
+      "category": "分类型热图",
+      "categoryTrail": [
+        "分类型热图",
+        "颜色标有无",
+        "统计百分比"
+      ],
+      "categoryTrailText": "分类型热图 / 颜色标有无 / 统计百分比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66ac2b714552a7ec5580c050",
+      "previewUrl": "templates/66ac2b714552a7ec5580c050/preview.png",
+      "svgUrl": "templates/66ac2b714552a7ec5580c050/rendered.svg",
+      "metaUrl": "templates/66ac2b714552a7ec5580c050/meta.json",
+      "pythonUrl": "templates/66ac2b714552a7ec5580c050/python_example.py",
+      "rUrl": "templates/66ac2b714552a7ec5580c050/R_example.R",
+      "dirUrl": "templates/66ac2b714552a7ec5580c050",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66ac2b714552a7ec5580c050/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66ac2b714552a7ec5580c050/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/66ac2b714552a7ec5580c050/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data3type": "txt",
+        "data3": "name\tnum\tpercent\nvar0\t5\t25.0\nvar1\t4\t20.0\nvar2\t4\t20.0\nvar3\t2\t10.0\nvar4\t1\t5.0\nvar5\t3\t15.0\nvar6\t3\t15.0\nvar7\t2\t10.0\nvar8\t3\t15.0\nvar9\t6\t30.0\nvar10\t4\t20.0\nvar11\t4\t20.0\nvar12\t4\t20.0\nvar13\t2\t10.0\nvar14\t2\t10.0\nvar15\t4\t20.0\nvar16\t3\t15.0\nvar17\t5\t25.0\nvar18\t3\t15.0\nvar19\t5\t25.0\nvar20\t6\t30.0\nvar21\t4\t20.0\nvar22\t2\t10.0\nvar23\t7\t35.0\nvar24\t6\t30.0",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "infoCols": "TypeM、TypeK、TypeP",
+        "legend1txt": "突变型、野生型",
+        "percent": "percent"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "infoCols",
+        "legend1txt",
+        "percent"
+      ],
+      "argCount": 11,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 163859,
+      "previewSize": 11495
+    },
+    {
+      "id": "668c6de46c40df40b314ebb7",
+      "name": "蜂群图",
+      "category": "分类型热图",
+      "categoryTrail": [
+        "分类型热图",
+        "两组颜色标有无"
+      ],
+      "categoryTrailText": "分类型热图 / 两组颜色标有无",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=667e4231db91fef406caa33d",
+      "previewUrl": "templates/668c6de46c40df40b314ebb7/preview.png",
+      "svgUrl": "templates/668c6de46c40df40b314ebb7/rendered.svg",
+      "metaUrl": "templates/668c6de46c40df40b314ebb7/meta.json",
+      "pythonUrl": "templates/668c6de46c40df40b314ebb7/python_example.py",
+      "rUrl": "templates/668c6de46c40df40b314ebb7/R_example.R",
+      "dirUrl": "templates/668c6de46c40df40b314ebb7",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/668c6de46c40df40b314ebb7/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17435,
+      "previewSize": 25782
+    },
+    {
+      "id": "66ad6628a3e8c0d845e3b310",
+      "name": "复合饼图-环绕小饼图",
+      "category": "分类型热图",
+      "categoryTrail": [
+        "分类型热图",
+        "颜色标有无"
+      ],
+      "categoryTrailText": "分类型热图 / 颜色标有无",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676237df89cb0d2350dda22a",
+      "previewUrl": "templates/66ad6628a3e8c0d845e3b310/preview.png",
+      "svgUrl": "templates/66ad6628a3e8c0d845e3b310/rendered.svg",
+      "metaUrl": "templates/66ad6628a3e8c0d845e3b310/meta.json",
+      "pythonUrl": "templates/66ad6628a3e8c0d845e3b310/python_example.py",
+      "rUrl": "templates/66ad6628a3e8c0d845e3b310/R_example.R",
+      "dirUrl": "templates/66ad6628a3e8c0d845e3b310",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66ad6628a3e8c0d845e3b310/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "colorSCol": "level1",
+        "levelCols": "level1、level2",
+        "smallPieCol": "level2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "colorSCol",
+        "levelCols",
+        "smallPieCol"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 20333,
+      "previewSize": 42346
+    },
+    {
+      "id": "66bb0080e65b64e3d7de4742",
+      "name": "横向大头针图-无分组-大小圈-兼容负值",
+      "category": "分类型热图",
+      "categoryTrail": [
+        "分类型热图",
+        "颜色标有无",
+        "统计柱状图"
+      ],
+      "categoryTrailText": "分类型热图 / 颜色标有无 / 统计柱状图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b8d156ad24ba18dcc4d5c",
+      "previewUrl": "templates/66bb0080e65b64e3d7de4742/preview.png",
+      "svgUrl": "templates/66bb0080e65b64e3d7de4742/rendered.svg",
+      "metaUrl": "templates/66bb0080e65b64e3d7de4742/meta.json",
+      "pythonUrl": "templates/66bb0080e65b64e3d7de4742/python_example.py",
+      "rUrl": "templates/66bb0080e65b64e3d7de4742/R_example.R",
+      "dirUrl": "templates/66bb0080e65b64e3d7de4742",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66bb0080e65b64e3d7de4742/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "a",
+        "rVCol": "a"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "rVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9283,
+      "previewSize": 16525
+    },
+    {
+      "id": "667e4231db91fef406caa33d",
+      "name": "蜂群图",
+      "category": "蜂群图",
+      "categoryTrail": [
+        "蜂群图"
+      ],
+      "categoryTrailText": "蜂群图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=667e4231db91fef406caa33d",
+      "previewUrl": "templates/667e4231db91fef406caa33d/preview.png",
+      "svgUrl": "templates/667e4231db91fef406caa33d/rendered.svg",
+      "metaUrl": "templates/667e4231db91fef406caa33d/meta.json",
+      "pythonUrl": "templates/667e4231db91fef406caa33d/python_example.py",
+      "rUrl": "templates/667e4231db91fef406caa33d/R_example.R",
+      "dirUrl": "templates/667e4231db91fef406caa33d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/667e4231db91fef406caa33d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17435,
+      "previewSize": 3681
+    },
+    {
+      "id": "676237df89cb0d2350dda22a",
+      "name": "复合饼图-环绕小饼图",
+      "category": "复合饼图",
+      "categoryTrail": [
+        "复合饼图",
+        "环绕小饼图"
+      ],
+      "categoryTrailText": "复合饼图 / 环绕小饼图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676237df89cb0d2350dda22a",
+      "previewUrl": "templates/676237df89cb0d2350dda22a/preview.png",
+      "svgUrl": "templates/676237df89cb0d2350dda22a/rendered.svg",
+      "metaUrl": "templates/676237df89cb0d2350dda22a/meta.json",
+      "pythonUrl": "templates/676237df89cb0d2350dda22a/python_example.py",
+      "rUrl": "templates/676237df89cb0d2350dda22a/R_example.R",
+      "dirUrl": "templates/676237df89cb0d2350dda22a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676237df89cb0d2350dda22a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "colorSCol": "level1",
+        "levelCols": "level1、level2",
+        "smallPieCol": "level2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "colorSCol",
+        "levelCols",
+        "smallPieCol"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 20333,
+      "previewSize": 39030
+    },
+    {
+      "id": "6762931c89cb0d2350dda794",
+      "name": "复合饼图-条形图",
+      "category": "复合饼图",
+      "categoryTrail": [
+        "复合饼图",
+        "条形图"
+      ],
+      "categoryTrailText": "复合饼图 / 条形图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6762931c89cb0d2350dda794",
+      "previewUrl": "templates/6762931c89cb0d2350dda794/preview.png",
+      "svgUrl": "templates/6762931c89cb0d2350dda794/rendered.svg",
+      "metaUrl": "templates/6762931c89cb0d2350dda794/meta.json",
+      "pythonUrl": "templates/6762931c89cb0d2350dda794/python_example.py",
+      "rUrl": "templates/6762931c89cb0d2350dda794/R_example.R",
+      "dirUrl": "templates/6762931c89cb0d2350dda794",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6762931c89cb0d2350dda794/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6762931c89cb0d2350dda794/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "colorSCol": "level1",
+        "levelCols": "level1",
+        "stakTtitle": "A"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCol",
+        "colorSCol",
+        "levelCols",
+        "stakTtitle"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 6273,
+      "previewSize": 13558
+    },
+    {
+      "id": "6756a45c60eadfff7810d6f0",
+      "name": "横向大头针图-无分组-大小圈-兼容负值",
+      "category": "甘特图",
+      "categoryTrail": [
+        "甘特图"
+      ],
+      "categoryTrailText": "甘特图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b8d156ad24ba18dcc4d5c",
+      "previewUrl": "templates/6756a45c60eadfff7810d6f0/preview.png",
+      "svgUrl": "templates/6756a45c60eadfff7810d6f0/rendered.svg",
+      "metaUrl": "templates/6756a45c60eadfff7810d6f0/meta.json",
+      "pythonUrl": "templates/6756a45c60eadfff7810d6f0/python_example.py",
+      "rUrl": "templates/6756a45c60eadfff7810d6f0/R_example.R",
+      "dirUrl": "templates/6756a45c60eadfff7810d6f0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6756a45c60eadfff7810d6f0/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "a",
+        "rVCol": "a"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "rVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9283,
+      "previewSize": 5039
+    },
+    {
+      "id": "675b9c78840a91c9c3163498",
+      "name": "横向大头针图-分组-大小圈-兼容负值",
+      "category": "横向大头针图",
+      "categoryTrail": [
+        "横向大头针图",
+        "分组",
+        "大小圈",
+        "兼容负值"
+      ],
+      "categoryTrailText": "横向大头针图 / 分组 / 大小圈 / 兼容负值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b9c78840a91c9c3163498",
+      "previewUrl": "templates/675b9c78840a91c9c3163498/preview.png",
+      "svgUrl": "templates/675b9c78840a91c9c3163498/rendered.svg",
+      "metaUrl": "templates/675b9c78840a91c9c3163498/meta.json",
+      "pythonUrl": "templates/675b9c78840a91c9c3163498/python_example.py",
+      "rUrl": "templates/675b9c78840a91c9c3163498/R_example.R",
+      "dirUrl": "templates/675b9c78840a91c9c3163498",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675b9c78840a91c9c3163498/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "rVCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "rVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14318,
+      "previewSize": 9229
+    },
+    {
+      "id": "68f8a0d853c4ddf667aac328",
+      "name": "横向大头针图-分组-双向",
+      "category": "横向大头针图",
+      "categoryTrail": [
+        "横向大头针图",
+        "分组",
+        "双向"
+      ],
+      "categoryTrailText": "横向大头针图 / 分组 / 双向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68f8a0d853c4ddf667aac328",
+      "previewUrl": "templates/68f8a0d853c4ddf667aac328/preview.png",
+      "svgUrl": "templates/68f8a0d853c4ddf667aac328/rendered.svg",
+      "metaUrl": "templates/68f8a0d853c4ddf667aac328/meta.json",
+      "pythonUrl": "templates/68f8a0d853c4ddf667aac328/python_example.py",
+      "rUrl": "templates/68f8a0d853c4ddf667aac328/R_example.R",
+      "dirUrl": "templates/68f8a0d853c4ddf667aac328",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68f8a0d853c4ddf667aac328/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "leftVCol": "A",
+        "rightVCol": "B"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "leftVCol",
+        "rightVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 20108,
+      "previewSize": 11479
+    },
+    {
+      "id": "675b85106ad24ba18dcc4cdf",
+      "name": "横向大头针图-无分组-大小圈",
+      "category": "横向大头针图",
+      "categoryTrail": [
+        "横向大头针图",
+        "无分组",
+        "大小圈"
+      ],
+      "categoryTrailText": "横向大头针图 / 无分组 / 大小圈",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b85106ad24ba18dcc4cdf",
+      "previewUrl": "templates/675b85106ad24ba18dcc4cdf/preview.png",
+      "svgUrl": "templates/675b85106ad24ba18dcc4cdf/rendered.svg",
+      "metaUrl": "templates/675b85106ad24ba18dcc4cdf/meta.json",
+      "pythonUrl": "templates/675b85106ad24ba18dcc4cdf/python_example.py",
+      "rUrl": "templates/675b85106ad24ba18dcc4cdf/R_example.R",
+      "dirUrl": "templates/675b85106ad24ba18dcc4cdf",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675b85106ad24ba18dcc4cdf/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "a",
+        "rVCol": "a"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "rVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8287,
+      "previewSize": 6551
+    },
+    {
+      "id": "675b8d156ad24ba18dcc4d5c",
+      "name": "横向大头针图-无分组-大小圈-兼容负值",
+      "category": "横向大头针图",
+      "categoryTrail": [
+        "横向大头针图",
+        "无分组",
+        "大小圈",
+        "兼容负值"
+      ],
+      "categoryTrailText": "横向大头针图 / 无分组 / 大小圈 / 兼容负值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b8d156ad24ba18dcc4d5c",
+      "previewUrl": "templates/675b8d156ad24ba18dcc4d5c/preview.png",
+      "svgUrl": "templates/675b8d156ad24ba18dcc4d5c/rendered.svg",
+      "metaUrl": "templates/675b8d156ad24ba18dcc4d5c/meta.json",
+      "pythonUrl": "templates/675b8d156ad24ba18dcc4d5c/python_example.py",
+      "rUrl": "templates/675b8d156ad24ba18dcc4d5c/R_example.R",
+      "dirUrl": "templates/675b8d156ad24ba18dcc4d5c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675b8d156ad24ba18dcc4d5c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "a",
+        "rVCol": "a"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "rVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9283,
+      "previewSize": 7207
+    },
+    {
+      "id": "6672bad4531df62c7a066996",
+      "name": "横向大头针图-无分组-等大圈",
+      "category": "横向大头针图",
+      "categoryTrail": [
+        "横向大头针图",
+        "无分组",
+        "等大圈"
+      ],
+      "categoryTrailText": "横向大头针图 / 无分组 / 等大圈",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6672bad4531df62c7a066996",
+      "previewUrl": "templates/6672bad4531df62c7a066996/preview.png",
+      "svgUrl": "templates/6672bad4531df62c7a066996/rendered.svg",
+      "metaUrl": "templates/6672bad4531df62c7a066996/meta.json",
+      "pythonUrl": "templates/6672bad4531df62c7a066996/python_example.py",
+      "rUrl": "templates/6672bad4531df62c7a066996/R_example.R",
+      "dirUrl": "templates/6672bad4531df62c7a066996",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6672bad4531df62c7a066996/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "a"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8274,
+      "previewSize": 6544
+    },
+    {
+      "id": "676e4080eb9bcc77a044ffb4",
+      "name": "横向堆叠图-单组",
+      "category": "横向大头针图",
+      "categoryTrail": [
+        "横向大头针图",
+        "无分组",
+        "大小圈",
+        "兼容负值",
+        "矩阵"
+      ],
+      "categoryTrailText": "横向大头针图 / 无分组 / 大小圈 / 兼容负值 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6752aaee406250678487ffb4",
+      "previewUrl": "templates/676e4080eb9bcc77a044ffb4/preview.png",
+      "svgUrl": "templates/676e4080eb9bcc77a044ffb4/rendered.svg",
+      "metaUrl": "templates/676e4080eb9bcc77a044ffb4/meta.json",
+      "pythonUrl": "templates/676e4080eb9bcc77a044ffb4/python_example.py",
+      "rUrl": "templates/676e4080eb9bcc77a044ffb4/R_example.R",
+      "dirUrl": "templates/676e4080eb9bcc77a044ffb4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676e4080eb9bcc77a044ffb4/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18954,
+      "previewSize": 14415
+    },
+    {
+      "id": "676e3aff2c7aca6fc03d0b6e",
+      "name": "横向堆叠图-单组-反向",
+      "category": "横向大头针图",
+      "categoryTrail": [
+        "横向大头针图",
+        "无分组",
+        "大小圈",
+        "矩阵"
+      ],
+      "categoryTrailText": "横向大头针图 / 无分组 / 大小圈 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6752b15d406250678487fffb",
+      "previewUrl": "templates/676e3aff2c7aca6fc03d0b6e/preview.png",
+      "svgUrl": "templates/676e3aff2c7aca6fc03d0b6e/rendered.svg",
+      "metaUrl": "templates/676e3aff2c7aca6fc03d0b6e/meta.json",
+      "pythonUrl": "templates/676e3aff2c7aca6fc03d0b6e/python_example.py",
+      "rUrl": "templates/676e3aff2c7aca6fc03d0b6e/R_example.R",
+      "dirUrl": "templates/676e3aff2c7aca6fc03d0b6e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676e3aff2c7aca6fc03d0b6e/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 12085,
+      "previewSize": 14619
+    },
+    {
+      "id": "66458593b60b5302731c7a30",
+      "name": "横向堆叠图-单组",
+      "category": "横向堆叠图",
+      "categoryTrail": [
+        "横向堆叠图",
+        "单组"
+      ],
+      "categoryTrailText": "横向堆叠图 / 单组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66458593b60b5302731c7a30",
+      "previewUrl": "templates/66458593b60b5302731c7a30/preview.png",
+      "svgUrl": "templates/66458593b60b5302731c7a30/rendered.svg",
+      "metaUrl": "templates/66458593b60b5302731c7a30/meta.json",
+      "pythonUrl": "templates/66458593b60b5302731c7a30/python_example.py",
+      "rUrl": "templates/66458593b60b5302731c7a30/R_example.R",
+      "dirUrl": "templates/66458593b60b5302731c7a30",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66458593b60b5302731c7a30/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 19662,
+      "previewSize": 5303
+    },
+    {
+      "id": "6752aaee406250678487ffb4",
+      "name": "横向堆叠图-单组",
+      "category": "横向堆叠图",
+      "categoryTrail": [
+        "横向堆叠图",
+        "单组"
+      ],
+      "categoryTrailText": "横向堆叠图 / 单组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6752aaee406250678487ffb4",
+      "previewUrl": "templates/6752aaee406250678487ffb4/preview.png",
+      "svgUrl": "templates/6752aaee406250678487ffb4/rendered.svg",
+      "metaUrl": "templates/6752aaee406250678487ffb4/meta.json",
+      "pythonUrl": "templates/6752aaee406250678487ffb4/python_example.py",
+      "rUrl": "templates/6752aaee406250678487ffb4/R_example.R",
+      "dirUrl": "templates/6752aaee406250678487ffb4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6752aaee406250678487ffb4/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18954,
+      "previewSize": 4996
+    },
+    {
+      "id": "6752b15d406250678487fffb",
+      "name": "横向堆叠图-单组-反向",
+      "category": "横向堆叠图",
+      "categoryTrail": [
+        "横向堆叠图",
+        "单组",
+        "反向"
+      ],
+      "categoryTrailText": "横向堆叠图 / 单组 / 反向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6752b15d406250678487fffb",
+      "previewUrl": "templates/6752b15d406250678487fffb/preview.png",
+      "svgUrl": "templates/6752b15d406250678487fffb/rendered.svg",
+      "metaUrl": "templates/6752b15d406250678487fffb/meta.json",
+      "pythonUrl": "templates/6752b15d406250678487fffb/python_example.py",
+      "rUrl": "templates/6752b15d406250678487fffb/R_example.R",
+      "dirUrl": "templates/6752b15d406250678487fffb",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6752b15d406250678487fffb/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 12085,
+      "previewSize": 5204
+    },
+    {
+      "id": "6755691a30ab699948765097",
+      "name": "横向堆叠图-单组-矩阵",
+      "category": "横向堆叠图",
+      "categoryTrail": [
+        "横向堆叠图",
+        "单组",
+        "矩阵"
+      ],
+      "categoryTrailText": "横向堆叠图 / 单组 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6755691a30ab699948765097",
+      "previewUrl": "templates/6755691a30ab699948765097/preview.png",
+      "svgUrl": "templates/6755691a30ab699948765097/rendered.svg",
+      "metaUrl": "templates/6755691a30ab699948765097/meta.json",
+      "pythonUrl": "templates/6755691a30ab699948765097/python_example.py",
+      "rUrl": "templates/6755691a30ab699948765097/R_example.R",
+      "dirUrl": "templates/6755691a30ab699948765097",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6755691a30ab699948765097/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample",
+        "groupCol": "type",
+        "valueCols": "var1、var2、var3",
+        "maxv": "400",
+        "minv": "0",
+        "step": "100"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols",
+        "maxv",
+        "minv",
+        "step"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 28779,
+      "previewSize": 10181
+    },
+    {
+      "id": "6752ade5406250678487ffd4",
+      "name": "横向堆叠图-多组-左右双向",
+      "category": "横向堆叠图",
+      "categoryTrail": [
+        "横向堆叠图",
+        "多组",
+        "左右双向"
+      ],
+      "categoryTrailText": "横向堆叠图 / 多组 / 左右双向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6752ade5406250678487ffd4",
+      "previewUrl": "templates/6752ade5406250678487ffd4/preview.png",
+      "svgUrl": "templates/6752ade5406250678487ffd4/rendered.svg",
+      "metaUrl": "templates/6752ade5406250678487ffd4/meta.json",
+      "pythonUrl": "templates/6752ade5406250678487ffd4/python_example.py",
+      "rUrl": "templates/6752ade5406250678487ffd4/R_example.R",
+      "dirUrl": "templates/6752ade5406250678487ffd4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6752ade5406250678487ffd4/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17936,
+      "previewSize": 5260
+    },
+    {
+      "id": "6753a1eaa9a528dc30e3977e",
+      "name": "横向堆叠图-多组-左右双向-不同变量",
+      "category": "横向堆叠图",
+      "categoryTrail": [
+        "横向堆叠图",
+        "多组",
+        "左右双向",
+        "不同变量"
+      ],
+      "categoryTrailText": "横向堆叠图 / 多组 / 左右双向 / 不同变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6753a1eaa9a528dc30e3977e",
+      "previewUrl": "templates/6753a1eaa9a528dc30e3977e/preview.png",
+      "svgUrl": "templates/6753a1eaa9a528dc30e3977e/rendered.svg",
+      "metaUrl": "templates/6753a1eaa9a528dc30e3977e/meta.json",
+      "pythonUrl": "templates/6753a1eaa9a528dc30e3977e/python_example.py",
+      "rUrl": "templates/6753a1eaa9a528dc30e3977e/R_example.R",
+      "dirUrl": "templates/6753a1eaa9a528dc30e3977e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6753a1eaa9a528dc30e3977e/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueColss": "A、D;B、C、E"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueColss"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 20338,
+      "previewSize": 7141
+    },
+    {
+      "id": "6753e626a9a528dc30e398b3",
+      "name": "横向堆叠图-多组-左右双向-不同变量",
+      "category": "横向堆叠图",
+      "categoryTrail": [
+        "横向堆叠图",
+        "单组",
+        "负值向左"
+      ],
+      "categoryTrailText": "横向堆叠图 / 单组 / 负值向左",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6753a1eaa9a528dc30e3977e",
+      "previewUrl": "templates/6753e626a9a528dc30e398b3/preview.png",
+      "svgUrl": "templates/6753e626a9a528dc30e398b3/rendered.svg",
+      "metaUrl": "templates/6753e626a9a528dc30e398b3/meta.json",
+      "pythonUrl": "templates/6753e626a9a528dc30e398b3/python_example.py",
+      "rUrl": "templates/6753e626a9a528dc30e398b3/R_example.R",
+      "dirUrl": "templates/6753e626a9a528dc30e398b3",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6753e626a9a528dc30e398b3/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueColss": "A、D;B、C、E"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueColss"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 20338,
+      "previewSize": 5286
+    },
+    {
+      "id": "67555da630ab699948765015",
+      "name": "横向箱线图-分组",
+      "category": "横向堆叠图",
+      "categoryTrail": [
+        "横向堆叠图",
+        "单组",
+        "计算占比",
+        "矩阵"
+      ],
+      "categoryTrailText": "横向堆叠图 / 单组 / 计算占比 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bc46a5da947398b73b4bf",
+      "previewUrl": "templates/67555da630ab699948765015/preview.png",
+      "svgUrl": "templates/67555da630ab699948765015/rendered.svg",
+      "metaUrl": "templates/67555da630ab699948765015/meta.json",
+      "pythonUrl": "templates/67555da630ab699948765015/python_example.py",
+      "rUrl": "templates/67555da630ab699948765015/R_example.R",
+      "dirUrl": "templates/67555da630ab699948765015",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67555da630ab699948765015/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9366,
+      "previewSize": 12038
+    },
+    {
+      "id": "6676aef8a7c8e1374434bb62",
+      "name": "横向堆叠图-多组-左右双向-不同变量",
+      "category": "横向箱线图",
+      "categoryTrail": [
+        "横向箱线图",
+        "无分组"
+      ],
+      "categoryTrailText": "横向箱线图 / 无分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6753a1eaa9a528dc30e3977e",
+      "previewUrl": "templates/6676aef8a7c8e1374434bb62/preview.png",
+      "svgUrl": "templates/6676aef8a7c8e1374434bb62/rendered.svg",
+      "metaUrl": "templates/6676aef8a7c8e1374434bb62/meta.json",
+      "pythonUrl": "templates/6676aef8a7c8e1374434bb62/python_example.py",
+      "rUrl": "templates/6676aef8a7c8e1374434bb62/R_example.R",
+      "dirUrl": "templates/6676aef8a7c8e1374434bb62",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6676aef8a7c8e1374434bb62/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueColss": "A、D;B、C、E"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueColss"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 20338,
+      "previewSize": 2933
+    },
+    {
+      "id": "676bc46a5da947398b73b4bf",
+      "name": "横向箱线图-分组",
+      "category": "横向箱线图",
+      "categoryTrail": [
+        "横向箱线图",
+        "分组"
+      ],
+      "categoryTrailText": "横向箱线图 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bc46a5da947398b73b4bf",
+      "previewUrl": "templates/676bc46a5da947398b73b4bf/preview.png",
+      "svgUrl": "templates/676bc46a5da947398b73b4bf/rendered.svg",
+      "metaUrl": "templates/676bc46a5da947398b73b4bf/meta.json",
+      "pythonUrl": "templates/676bc46a5da947398b73b4bf/python_example.py",
+      "rUrl": "templates/676bc46a5da947398b73b4bf/R_example.R",
+      "dirUrl": "templates/676bc46a5da947398b73b4bf",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676bc46a5da947398b73b4bf/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9366,
+      "previewSize": 3334
+    },
+    {
+      "id": "676bccee5da947398b73b53e",
+      "name": "横向箱线图-分组-折线",
+      "category": "横向箱线图",
+      "categoryTrail": [
+        "横向箱线图",
+        "分组",
+        "折线"
+      ],
+      "categoryTrailText": "横向箱线图 / 分组 / 折线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bccee5da947398b73b53e",
+      "previewUrl": "templates/676bccee5da947398b73b53e/preview.png",
+      "svgUrl": "templates/676bccee5da947398b73b53e/rendered.svg",
+      "metaUrl": "templates/676bccee5da947398b73b53e/meta.json",
+      "pythonUrl": "templates/676bccee5da947398b73b53e/python_example.py",
+      "rUrl": "templates/676bccee5da947398b73b53e/R_example.R",
+      "dirUrl": "templates/676bccee5da947398b73b53e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676bccee5da947398b73b53e/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9995,
+      "previewSize": 5611
+    },
+    {
+      "id": "676bb440426ffedf7ec8e6df",
+      "name": "横向箱线图-无分组-散点",
+      "category": "横向箱线图",
+      "categoryTrail": [
+        "横向箱线图",
+        "无分组",
+        "散点"
+      ],
+      "categoryTrailText": "横向箱线图 / 无分组 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bb440426ffedf7ec8e6df",
+      "previewUrl": "templates/676bb440426ffedf7ec8e6df/preview.png",
+      "svgUrl": "templates/676bb440426ffedf7ec8e6df/rendered.svg",
+      "metaUrl": "templates/676bb440426ffedf7ec8e6df/meta.json",
+      "pythonUrl": "templates/676bb440426ffedf7ec8e6df/python_example.py",
+      "rUrl": "templates/676bb440426ffedf7ec8e6df/R_example.R",
+      "dirUrl": "templates/676bb440426ffedf7ec8e6df",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676bb440426ffedf7ec8e6df/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11321,
+      "previewSize": 3655
+    },
+    {
+      "id": "676e026beb9bcc77a044ff0d",
+      "name": "横向箱线图-无分组-散点",
+      "category": "横向箱线图",
+      "categoryTrail": [
+        "横向箱线图",
+        "分组",
+        "矩阵"
+      ],
+      "categoryTrailText": "横向箱线图 / 分组 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bb440426ffedf7ec8e6df",
+      "previewUrl": "templates/676e026beb9bcc77a044ff0d/preview.png",
+      "svgUrl": "templates/676e026beb9bcc77a044ff0d/rendered.svg",
+      "metaUrl": "templates/676e026beb9bcc77a044ff0d/meta.json",
+      "pythonUrl": "templates/676e026beb9bcc77a044ff0d/python_example.py",
+      "rUrl": "templates/676e026beb9bcc77a044ff0d/R_example.R",
+      "dirUrl": "templates/676e026beb9bcc77a044ff0d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676e026beb9bcc77a044ff0d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11321,
+      "previewSize": 8885
+    },
+    {
+      "id": "676d2d414830778dcb2443b8",
+      "name": "横向小提琴图-多行多列",
+      "category": "横向箱线图",
+      "categoryTrail": [
+        "横向箱线图",
+        "无分组",
+        "矩阵"
+      ],
+      "categoryTrailText": "横向箱线图 / 无分组 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=677901251c2ae301f1e33881",
+      "previewUrl": "templates/676d2d414830778dcb2443b8/preview.png",
+      "svgUrl": "templates/676d2d414830778dcb2443b8/rendered.svg",
+      "metaUrl": "templates/676d2d414830778dcb2443b8/meta.json",
+      "pythonUrl": "templates/676d2d414830778dcb2443b8/python_example.py",
+      "rUrl": "templates/676d2d414830778dcb2443b8/R_example.R",
+      "dirUrl": "templates/676d2d414830778dcb2443b8",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676d2d414830778dcb2443b8/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/676d2d414830778dcb2443b8/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "valueCol": "value",
+        "densityVCol": "density",
+        "ySCol": "name",
+        "xSCol": "group",
+        "idSCol": "id"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "valueCol",
+        "densityVCol",
+        "ySCol",
+        "xSCol",
+        "idSCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 6431,
+      "previewSize": 9876
+    },
+    {
+      "id": "6777673e53eb9f93596d4edb",
+      "name": "横向小提琴图-不分组",
+      "category": "横向小提琴图",
+      "categoryTrail": [
+        "横向小提琴图",
+        "不分组"
+      ],
+      "categoryTrailText": "横向小提琴图 / 不分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6777673e53eb9f93596d4edb",
+      "previewUrl": "templates/6777673e53eb9f93596d4edb/preview.png",
+      "svgUrl": "templates/6777673e53eb9f93596d4edb/rendered.svg",
+      "metaUrl": "templates/6777673e53eb9f93596d4edb/meta.json",
+      "pythonUrl": "templates/6777673e53eb9f93596d4edb/python_example.py",
+      "rUrl": "templates/6777673e53eb9f93596d4edb/R_example.R",
+      "dirUrl": "templates/6777673e53eb9f93596d4edb",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6777673e53eb9f93596d4edb/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "densityVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 6661,
+      "previewSize": 3430
+    },
+    {
+      "id": "677901251c2ae301f1e33881",
+      "name": "横向小提琴图-多行多列",
+      "category": "横向小提琴图",
+      "categoryTrail": [
+        "横向小提琴图",
+        "多行多列"
+      ],
+      "categoryTrailText": "横向小提琴图 / 多行多列",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=677901251c2ae301f1e33881",
+      "previewUrl": "templates/677901251c2ae301f1e33881/preview.png",
+      "svgUrl": "templates/677901251c2ae301f1e33881/rendered.svg",
+      "metaUrl": "templates/677901251c2ae301f1e33881/meta.json",
+      "pythonUrl": "templates/677901251c2ae301f1e33881/python_example.py",
+      "rUrl": "templates/677901251c2ae301f1e33881/R_example.R",
+      "dirUrl": "templates/677901251c2ae301f1e33881",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/677901251c2ae301f1e33881/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/677901251c2ae301f1e33881/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "valueCol": "value",
+        "densityVCol": "density",
+        "ySCol": "name",
+        "xSCol": "group",
+        "idSCol": "id"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "valueCol",
+        "densityVCol",
+        "ySCol",
+        "xSCol",
+        "idSCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 6431,
+      "previewSize": 5445
+    },
+    {
+      "id": "67776abd53eb9f93596d4f32",
+      "name": "横向小提琴图-分组",
+      "category": "横向小提琴图",
+      "categoryTrail": [
+        "横向小提琴图",
+        "分组"
+      ],
+      "categoryTrailText": "横向小提琴图 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67776abd53eb9f93596d4f32",
+      "previewUrl": "templates/67776abd53eb9f93596d4f32/preview.png",
+      "svgUrl": "templates/67776abd53eb9f93596d4f32/rendered.svg",
+      "metaUrl": "templates/67776abd53eb9f93596d4f32/meta.json",
+      "pythonUrl": "templates/67776abd53eb9f93596d4f32/python_example.py",
+      "rUrl": "templates/67776abd53eb9f93596d4f32/R_example.R",
+      "dirUrl": "templates/67776abd53eb9f93596d4f32",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67776abd53eb9f93596d4f32/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/67776abd53eb9f93596d4f32/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "densityVCol"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7843,
+      "previewSize": 4285
+    },
+    {
+      "id": "67777e6d53eb9f93596d53b2",
+      "name": "横向小提琴图-分组-上下对比",
+      "category": "横向小提琴图",
+      "categoryTrail": [
+        "横向小提琴图",
+        "分组",
+        "上下对比"
+      ],
+      "categoryTrailText": "横向小提琴图 / 分组 / 上下对比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67777e6d53eb9f93596d53b2",
+      "previewUrl": "templates/67777e6d53eb9f93596d53b2/preview.png",
+      "svgUrl": "templates/67777e6d53eb9f93596d53b2/rendered.svg",
+      "metaUrl": "templates/67777e6d53eb9f93596d53b2/meta.json",
+      "pythonUrl": "templates/67777e6d53eb9f93596d53b2/python_example.py",
+      "rUrl": "templates/67777e6d53eb9f93596d53b2/R_example.R",
+      "dirUrl": "templates/67777e6d53eb9f93596d53b2",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67777e6d53eb9f93596d53b2/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/67777e6d53eb9f93596d53b2/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "id",
+        "groupCol": "group",
+        "valueCol": "value",
+        "densityVCol": "density",
+        "idNameCol": "idName"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "densityVCol",
+        "idNameCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 6888,
+      "previewSize": 5254
+    },
+    {
+      "id": "6777960253eb9f93596d57ce",
+      "name": "横向柱状图-单变量",
+      "category": "横向小提琴图",
+      "categoryTrail": [
+        "横向小提琴图",
+        "不分组",
+        "箱线"
+      ],
+      "categoryTrailText": "横向小提琴图 / 不分组 / 箱线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6627b1edd0977e6439d4a203",
+      "previewUrl": "templates/6777960253eb9f93596d57ce/preview.png",
+      "svgUrl": "templates/6777960253eb9f93596d57ce/rendered.svg",
+      "metaUrl": "templates/6777960253eb9f93596d57ce/meta.json",
+      "pythonUrl": "templates/6777960253eb9f93596d57ce/python_example.py",
+      "rUrl": "templates/6777960253eb9f93596d57ce/R_example.R",
+      "dirUrl": "templates/6777960253eb9f93596d57ce",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6777960253eb9f93596d57ce/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7014,
+      "previewSize": 4232
+    },
+    {
+      "id": "675a91fb6ad24ba18dcc442d",
+      "name": "横向小提琴图-分组-上下对比",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "单变量",
+        "负值反向",
+        "矩阵",
+        "正负颜色"
+      ],
+      "categoryTrailText": "横向柱状图 / 单变量 / 负值反向 / 矩阵 / 正负颜色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67777e6d53eb9f93596d53b2",
+      "previewUrl": "templates/675a91fb6ad24ba18dcc442d/preview.png",
+      "svgUrl": "templates/675a91fb6ad24ba18dcc442d/rendered.svg",
+      "metaUrl": "templates/675a91fb6ad24ba18dcc442d/meta.json",
+      "pythonUrl": "templates/675a91fb6ad24ba18dcc442d/python_example.py",
+      "rUrl": "templates/675a91fb6ad24ba18dcc442d/R_example.R",
+      "dirUrl": "templates/675a91fb6ad24ba18dcc442d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675a91fb6ad24ba18dcc442d/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/675a91fb6ad24ba18dcc442d/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "id",
+        "groupCol": "group",
+        "valueCol": "value",
+        "densityVCol": "density",
+        "idNameCol": "idName"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "densityVCol",
+        "idNameCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 6888,
+      "previewSize": 13869
+    },
+    {
+      "id": "6627b1edd0977e6439d4a203",
+      "name": "横向柱状图-单变量",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "单变量"
+      ],
+      "categoryTrailText": "横向柱状图 / 单变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6627b1edd0977e6439d4a203",
+      "previewUrl": "templates/6627b1edd0977e6439d4a203/preview.png",
+      "svgUrl": "templates/6627b1edd0977e6439d4a203/rendered.svg",
+      "metaUrl": "templates/6627b1edd0977e6439d4a203/meta.json",
+      "pythonUrl": "templates/6627b1edd0977e6439d4a203/python_example.py",
+      "rUrl": "templates/6627b1edd0977e6439d4a203/R_example.R",
+      "dirUrl": "templates/6627b1edd0977e6439d4a203",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6627b1edd0977e6439d4a203/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 4,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7014,
+      "previewSize": 4190
+    },
+    {
+      "id": "67565b7760eadfff7810cf4b",
+      "name": "横向柱状图-单变量-百分比",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "单变量",
+        "百分比"
+      ],
+      "categoryTrailText": "横向柱状图 / 单变量 / 百分比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67565b7760eadfff7810cf4b",
+      "previewUrl": "templates/67565b7760eadfff7810cf4b/preview.png",
+      "svgUrl": "templates/67565b7760eadfff7810cf4b/rendered.svg",
+      "metaUrl": "templates/67565b7760eadfff7810cf4b/meta.json",
+      "pythonUrl": "templates/67565b7760eadfff7810cf4b/python_example.py",
+      "rUrl": "templates/67565b7760eadfff7810cf4b/R_example.R",
+      "dirUrl": "templates/67565b7760eadfff7810cf4b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67565b7760eadfff7810cf4b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9633,
+      "previewSize": 4604
+    },
+    {
+      "id": "675a9b4b6ad24ba18dcc4939",
+      "name": "横向柱状图-单变量-负值反向-矩阵",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "单变量",
+        "负值反向",
+        "矩阵"
+      ],
+      "categoryTrailText": "横向柱状图 / 单变量 / 负值反向 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675a9b4b6ad24ba18dcc4939",
+      "previewUrl": "templates/675a9b4b6ad24ba18dcc4939/preview.png",
+      "svgUrl": "templates/675a9b4b6ad24ba18dcc4939/rendered.svg",
+      "metaUrl": "templates/675a9b4b6ad24ba18dcc4939/meta.json",
+      "pythonUrl": "templates/675a9b4b6ad24ba18dcc4939/python_example.py",
+      "rUrl": "templates/675a9b4b6ad24ba18dcc4939/R_example.R",
+      "dirUrl": "templates/675a9b4b6ad24ba18dcc4939",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675a9b4b6ad24ba18dcc4939/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "picCol": "group",
+        "nameCol": "name",
+        "valueCols": "var1",
+        "minVs": "auto",
+        "maxVs": "auto",
+        "steps": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "picCol",
+        "nameCol",
+        "valueCols",
+        "minVs",
+        "maxVs",
+        "steps"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 62423,
+      "previewSize": 13974
+    },
+    {
+      "id": "6757adf1538842d3d5d8cb90",
+      "name": "横向柱状图-单变量-颜色分组",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "单变量",
+        "颜色分组"
+      ],
+      "categoryTrailText": "横向柱状图 / 单变量 / 颜色分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6757adf1538842d3d5d8cb90",
+      "previewUrl": "templates/6757adf1538842d3d5d8cb90/preview.png",
+      "svgUrl": "templates/6757adf1538842d3d5d8cb90/rendered.svg",
+      "metaUrl": "templates/6757adf1538842d3d5d8cb90/meta.json",
+      "pythonUrl": "templates/6757adf1538842d3d5d8cb90/python_example.py",
+      "rUrl": "templates/6757adf1538842d3d5d8cb90/R_example.R",
+      "dirUrl": "templates/6757adf1538842d3d5d8cb90",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6757adf1538842d3d5d8cb90/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "grade",
+        "valueCol": "Physics"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15499,
+      "previewSize": 8647
+    },
+    {
+      "id": "666839fbc67aa1aeb14c22b5",
+      "name": "横向柱状图-单变量-左右双向",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "单变量",
+        "左右双向"
+      ],
+      "categoryTrailText": "横向柱状图 / 单变量 / 左右双向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=666839fbc67aa1aeb14c22b5",
+      "previewUrl": "templates/666839fbc67aa1aeb14c22b5/preview.png",
+      "svgUrl": "templates/666839fbc67aa1aeb14c22b5/rendered.svg",
+      "metaUrl": "templates/666839fbc67aa1aeb14c22b5/meta.json",
+      "pythonUrl": "templates/666839fbc67aa1aeb14c22b5/python_example.py",
+      "rUrl": "templates/666839fbc67aa1aeb14c22b5/R_example.R",
+      "dirUrl": "templates/666839fbc67aa1aeb14c22b5",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/666839fbc67aa1aeb14c22b5/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 4606,
+      "previewSize": 4759
+    },
+    {
+      "id": "6757d10a538842d3d5d8cf52",
+      "name": "横向柱状图-多变量",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "多变量"
+      ],
+      "categoryTrailText": "横向柱状图 / 多变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6757d10a538842d3d5d8cf52",
+      "previewUrl": "templates/6757d10a538842d3d5d8cf52/preview.png",
+      "svgUrl": "templates/6757d10a538842d3d5d8cf52/rendered.svg",
+      "metaUrl": "templates/6757d10a538842d3d5d8cf52/meta.json",
+      "pythonUrl": "templates/6757d10a538842d3d5d8cf52/python_example.py",
+      "rUrl": "templates/6757d10a538842d3d5d8cf52/R_example.R",
+      "dirUrl": "templates/6757d10a538842d3d5d8cf52",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6757d10a538842d3d5d8cf52/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10828,
+      "previewSize": 4681
+    },
+    {
+      "id": "675a7b276ad24ba18dcc4384",
+      "name": "横向柱状图-多变量",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "负值反向"
+      ],
+      "categoryTrailText": "横向柱状图 / 负值反向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6757d10a538842d3d5d8cf52",
+      "previewUrl": "templates/675a7b276ad24ba18dcc4384/preview.png",
+      "svgUrl": "templates/675a7b276ad24ba18dcc4384/rendered.svg",
+      "metaUrl": "templates/675a7b276ad24ba18dcc4384/meta.json",
+      "pythonUrl": "templates/675a7b276ad24ba18dcc4384/python_example.py",
+      "rUrl": "templates/675a7b276ad24ba18dcc4384/R_example.R",
+      "dirUrl": "templates/675a7b276ad24ba18dcc4384",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675a7b276ad24ba18dcc4384/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10828,
+      "previewSize": 4935
+    },
+    {
+      "id": "6757ec94538842d3d5d8d08f",
+      "name": "横向柱状图-多变量-负值反向",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "多变量",
+        "负值反向"
+      ],
+      "categoryTrailText": "横向柱状图 / 多变量 / 负值反向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6757ec94538842d3d5d8d08f",
+      "previewUrl": "templates/6757ec94538842d3d5d8d08f/preview.png",
+      "svgUrl": "templates/6757ec94538842d3d5d8d08f/rendered.svg",
+      "metaUrl": "templates/6757ec94538842d3d5d8d08f/meta.json",
+      "pythonUrl": "templates/6757ec94538842d3d5d8d08f/python_example.py",
+      "rUrl": "templates/6757ec94538842d3d5d8d08f/R_example.R",
+      "dirUrl": "templates/6757ec94538842d3d5d8d08f",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6757ec94538842d3d5d8d08f/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11062,
+      "previewSize": 4530
+    },
+    {
+      "id": "675a4c0f646e71bae4dd42a4",
+      "name": "横向柱状图-多变量-负值反向",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "单变量",
+        "矩阵"
+      ],
+      "categoryTrailText": "横向柱状图 / 单变量 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6757ec94538842d3d5d8d08f",
+      "previewUrl": "templates/675a4c0f646e71bae4dd42a4/preview.png",
+      "svgUrl": "templates/675a4c0f646e71bae4dd42a4/rendered.svg",
+      "metaUrl": "templates/675a4c0f646e71bae4dd42a4/meta.json",
+      "pythonUrl": "templates/675a4c0f646e71bae4dd42a4/python_example.py",
+      "rUrl": "templates/675a4c0f646e71bae4dd42a4/R_example.R",
+      "dirUrl": "templates/675a4c0f646e71bae4dd42a4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675a4c0f646e71bae4dd42a4/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11062,
+      "previewSize": 8087
+    },
+    {
+      "id": "6757fff2538842d3d5d8d0d6",
+      "name": "横向柱状图-多变量-双向",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "多变量",
+        "双向"
+      ],
+      "categoryTrailText": "横向柱状图 / 多变量 / 双向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6757fff2538842d3d5d8d0d6",
+      "previewUrl": "templates/6757fff2538842d3d5d8d0d6/preview.png",
+      "svgUrl": "templates/6757fff2538842d3d5d8d0d6/rendered.svg",
+      "metaUrl": "templates/6757fff2538842d3d5d8d0d6/meta.json",
+      "pythonUrl": "templates/6757fff2538842d3d5d8d0d6/python_example.py",
+      "rUrl": "templates/6757fff2538842d3d5d8d0d6/R_example.R",
+      "dirUrl": "templates/6757fff2538842d3d5d8d0d6",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6757fff2538842d3d5d8d0d6/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "leftVCol": "A",
+        "rightVCol": "B"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "leftVCol",
+        "rightVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 16490,
+      "previewSize": 8376
+    },
+    {
+      "id": "692d62930f5fa1fea4ee8ac0",
+      "name": "横向柱状图-两组-左右对比-中间名称-带刻度尺",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "两组",
+        "左右对比",
+        "中间名称",
+        "带刻度尺"
+      ],
+      "categoryTrailText": "横向柱状图 / 两组 / 左右对比 / 中间名称 / 带刻度尺",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=692d62930f5fa1fea4ee8ac0",
+      "previewUrl": "templates/692d62930f5fa1fea4ee8ac0/preview.png",
+      "svgUrl": "templates/692d62930f5fa1fea4ee8ac0/rendered.svg",
+      "metaUrl": "templates/692d62930f5fa1fea4ee8ac0/meta.json",
+      "pythonUrl": "templates/692d62930f5fa1fea4ee8ac0/python_example.py",
+      "rUrl": "templates/692d62930f5fa1fea4ee8ac0/R_example.R",
+      "dirUrl": "templates/692d62930f5fa1fea4ee8ac0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/692d62930f5fa1fea4ee8ac0/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "rightVCol": "Group1",
+        "leftVCol": "Group2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "rightVCol",
+        "leftVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15658,
+      "previewSize": 7166
+    },
+    {
+      "id": "675a5da6646e71bae4dd4328",
+      "name": "环形雷达图",
+      "category": "横向柱状图",
+      "categoryTrail": [
+        "横向柱状图",
+        "多变量",
+        "负值反向",
+        "矩阵"
+      ],
+      "categoryTrailText": "横向柱状图 / 多变量 / 负值反向 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a6f90aef372f7ca212a1c",
+      "previewUrl": "templates/675a5da6646e71bae4dd4328/preview.png",
+      "svgUrl": "templates/675a5da6646e71bae4dd4328/rendered.svg",
+      "metaUrl": "templates/675a5da6646e71bae4dd4328/meta.json",
+      "pythonUrl": "templates/675a5da6646e71bae4dd4328/python_example.py",
+      "rUrl": "templates/675a5da6646e71bae4dd4328/R_example.R",
+      "dirUrl": "templates/675a5da6646e71bae4dd4328",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675a5da6646e71bae4dd4328/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15389,
+      "previewSize": 9647
+    },
+    {
+      "id": "676a6f90aef372f7ca212a1c",
+      "name": "环形雷达图",
+      "category": "环形雷达图",
+      "categoryTrail": [
+        "环形雷达图"
+      ],
+      "categoryTrailText": "环形雷达图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a6f90aef372f7ca212a1c",
+      "previewUrl": "templates/676a6f90aef372f7ca212a1c/preview.png",
+      "svgUrl": "templates/676a6f90aef372f7ca212a1c/rendered.svg",
+      "metaUrl": "templates/676a6f90aef372f7ca212a1c/meta.json",
+      "pythonUrl": "templates/676a6f90aef372f7ca212a1c/python_example.py",
+      "rUrl": "templates/676a6f90aef372f7ca212a1c/R_example.R",
+      "dirUrl": "templates/676a6f90aef372f7ca212a1c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676a6f90aef372f7ca212a1c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15389,
+      "previewSize": 50466
+    },
+    {
+      "id": "676a7226aef372f7ca212a38",
+      "name": "环形雷达图-不同圈不同色",
+      "category": "环形雷达图",
+      "categoryTrail": [
+        "环形雷达图",
+        "不同圈不同色"
+      ],
+      "categoryTrailText": "环形雷达图 / 不同圈不同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a7226aef372f7ca212a38",
+      "previewUrl": "templates/676a7226aef372f7ca212a38/preview.png",
+      "svgUrl": "templates/676a7226aef372f7ca212a38/rendered.svg",
+      "metaUrl": "templates/676a7226aef372f7ca212a38/meta.json",
+      "pythonUrl": "templates/676a7226aef372f7ca212a38/python_example.py",
+      "rUrl": "templates/676a7226aef372f7ca212a38/R_example.R",
+      "dirUrl": "templates/676a7226aef372f7ca212a38",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676a7226aef372f7ca212a38/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11913,
+      "previewSize": 42709
+    },
+    {
+      "id": "669082186d7e1596e33b6b56",
+      "name": "环形热图",
+      "category": "环形热图",
+      "categoryTrail": [
+        "环形热图"
+      ],
+      "categoryTrailText": "环形热图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=669082186d7e1596e33b6b56",
+      "previewUrl": "templates/669082186d7e1596e33b6b56/preview.png",
+      "svgUrl": "templates/669082186d7e1596e33b6b56/rendered.svg",
+      "metaUrl": "templates/669082186d7e1596e33b6b56/meta.json",
+      "pythonUrl": "templates/669082186d7e1596e33b6b56/python_example.py",
+      "rUrl": "templates/669082186d7e1596e33b6b56/R_example.R",
+      "dirUrl": "templates/669082186d7e1596e33b6b56",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/669082186d7e1596e33b6b56/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 192953,
+      "previewSize": 102854
+    },
+    {
+      "id": "69043d5cfadf43df302c5fb6",
+      "name": "环形热图-扇形-相关性",
+      "category": "环形热图",
+      "categoryTrail": [
+        "环形热图",
+        "扇形",
+        "相关性"
+      ],
+      "categoryTrailText": "环形热图 / 扇形 / 相关性",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=69043d5cfadf43df302c5fb6",
+      "previewUrl": "templates/69043d5cfadf43df302c5fb6/preview.png",
+      "svgUrl": "templates/69043d5cfadf43df302c5fb6/rendered.svg",
+      "metaUrl": "templates/69043d5cfadf43df302c5fb6/meta.json",
+      "pythonUrl": "templates/69043d5cfadf43df302c5fb6/python_example.py",
+      "rUrl": "templates/69043d5cfadf43df302c5fb6/R_example.R",
+      "dirUrl": "templates/69043d5cfadf43df302c5fb6",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69043d5cfadf43df302c5fb6/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 157138,
+      "previewSize": 87719
+    },
+    {
+      "id": "6769167e9c799f32fcb7f583",
+      "name": "环形热图-无缺口",
+      "category": "环形热图",
+      "categoryTrail": [
+        "环形热图",
+        "无缺口"
+      ],
+      "categoryTrailText": "环形热图 / 无缺口",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6769167e9c799f32fcb7f583",
+      "previewUrl": "templates/6769167e9c799f32fcb7f583/preview.png",
+      "svgUrl": "templates/6769167e9c799f32fcb7f583/rendered.svg",
+      "metaUrl": "templates/6769167e9c799f32fcb7f583/meta.json",
+      "pythonUrl": "templates/6769167e9c799f32fcb7f583/python_example.py",
+      "rUrl": "templates/6769167e9c799f32fcb7f583/R_example.R",
+      "dirUrl": "templates/6769167e9c799f32fcb7f583",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6769167e9c799f32fcb7f583/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 146436,
+      "previewSize": 75852
+    },
+    {
+      "id": "66cc2e8c80c9fb61b66ad173",
+      "name": "环形热图-向上缺口",
+      "category": "环形热图",
+      "categoryTrail": [
+        "环形热图",
+        "向上缺口"
+      ],
+      "categoryTrailText": "环形热图 / 向上缺口",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66cc2e8c80c9fb61b66ad173",
+      "previewUrl": "templates/66cc2e8c80c9fb61b66ad173/preview.png",
+      "svgUrl": "templates/66cc2e8c80c9fb61b66ad173/rendered.svg",
+      "metaUrl": "templates/66cc2e8c80c9fb61b66ad173/meta.json",
+      "pythonUrl": "templates/66cc2e8c80c9fb61b66ad173/python_example.py",
+      "rUrl": "templates/66cc2e8c80c9fb61b66ad173/R_example.R",
+      "dirUrl": "templates/66cc2e8c80c9fb61b66ad173",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66cc2e8c80c9fb61b66ad173/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample",
+        "groupCol": "group",
+        "title": "XXXXXXX",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "title",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 61398,
+      "previewSize": 73704
+    },
+    {
+      "id": "6847e0656bc5138431abc959",
+      "name": "环形热图-有分组",
+      "category": "环形热图",
+      "categoryTrail": [
+        "环形热图",
+        "有分组"
+      ],
+      "categoryTrailText": "环形热图 / 有分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6847e0656bc5138431abc959",
+      "previewUrl": "templates/6847e0656bc5138431abc959/preview.png",
+      "svgUrl": "templates/6847e0656bc5138431abc959/rendered.svg",
+      "metaUrl": "templates/6847e0656bc5138431abc959/meta.json",
+      "pythonUrl": "templates/6847e0656bc5138431abc959/python_example.py",
+      "rUrl": "templates/6847e0656bc5138431abc959/R_example.R",
+      "dirUrl": "templates/6847e0656bc5138431abc959",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6847e0656bc5138431abc959/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 153090,
+      "previewSize": 108414
+    },
+    {
+      "id": "684969fd356977bc83e1e284",
+      "name": "环形热图-有分组-有p值-p值排序",
+      "category": "环形热图",
+      "categoryTrail": [
+        "环形热图",
+        "有分组",
+        "有p值",
+        "p值排序"
+      ],
+      "categoryTrailText": "环形热图 / 有分组 / 有p值 / p值排序",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=684969fd356977bc83e1e284",
+      "previewUrl": "templates/684969fd356977bc83e1e284/preview.png",
+      "svgUrl": "templates/684969fd356977bc83e1e284/rendered.svg",
+      "metaUrl": "templates/684969fd356977bc83e1e284/meta.json",
+      "pythonUrl": "templates/684969fd356977bc83e1e284/python_example.py",
+      "rUrl": "templates/684969fd356977bc83e1e284/R_example.R",
+      "dirUrl": "templates/684969fd356977bc83e1e284",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/684969fd356977bc83e1e284/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Gene",
+        "groupCol": "geneGroup",
+        "pValCol": "pval",
+        "legendTitle": "fraction"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "pValCol",
+        "legendTitle"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 182098,
+      "previewSize": 107378
+    },
+    {
+      "id": "66b5b609d978618f7526182b",
+      "name": "环形柱状图-单变量-同组同色",
+      "category": "环形热图",
+      "categoryTrail": [
+        "环形热图",
+        "有聚类树"
+      ],
+      "categoryTrailText": "环形热图 / 有聚类树",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=692295715a83abc7b49fcaf4",
+      "previewUrl": "templates/66b5b609d978618f7526182b/preview.png",
+      "svgUrl": "templates/66b5b609d978618f7526182b/rendered.svg",
+      "metaUrl": "templates/66b5b609d978618f7526182b/meta.json",
+      "pythonUrl": "templates/66b5b609d978618f7526182b/python_example.py",
+      "rUrl": "templates/66b5b609d978618f7526182b/R_example.R",
+      "dirUrl": "templates/66b5b609d978618f7526182b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66b5b609d978618f7526182b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "var1"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17091,
+      "previewSize": 109871
+    },
+    {
+      "id": "676680937c30723b1e4644e6",
+      "name": "环形柱状图-单变量-半环",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "半环"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 半环",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676680937c30723b1e4644e6",
+      "previewUrl": "templates/676680937c30723b1e4644e6/preview.png",
+      "svgUrl": "templates/676680937c30723b1e4644e6/rendered.svg",
+      "metaUrl": "templates/676680937c30723b1e4644e6/meta.json",
+      "pythonUrl": "templates/676680937c30723b1e4644e6/python_example.py",
+      "rUrl": "templates/676680937c30723b1e4644e6/R_example.R",
+      "dirUrl": "templates/676680937c30723b1e4644e6",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676680937c30723b1e4644e6/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 25554,
+      "previewSize": 33437
+    },
+    {
+      "id": "676e297e2c7aca6fc03d0975",
+      "name": "环形柱状图-单变量-半环-矩阵",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "半环",
+        "矩阵"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 半环 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676e297e2c7aca6fc03d0975",
+      "previewUrl": "templates/676e297e2c7aca6fc03d0975/preview.png",
+      "svgUrl": "templates/676e297e2c7aca6fc03d0975/rendered.svg",
+      "metaUrl": "templates/676e297e2c7aca6fc03d0975/meta.json",
+      "pythonUrl": "templates/676e297e2c7aca6fc03d0975/python_example.py",
+      "rUrl": "templates/676e297e2c7aca6fc03d0975/R_example.R",
+      "dirUrl": "templates/676e297e2c7aca6fc03d0975",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676e297e2c7aca6fc03d0975/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "picCol": "pic",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "picCol",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 36248,
+      "previewSize": 37493
+    },
+    {
+      "id": "685e0b47c0ef3995ad6985b5",
+      "name": "环形柱状图-单变量-对数刻度",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "对数刻度"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 对数刻度",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=685e0b47c0ef3995ad6985b5",
+      "previewUrl": "templates/685e0b47c0ef3995ad6985b5/preview.png",
+      "svgUrl": "templates/685e0b47c0ef3995ad6985b5/rendered.svg",
+      "metaUrl": "templates/685e0b47c0ef3995ad6985b5/meta.json",
+      "pythonUrl": "templates/685e0b47c0ef3995ad6985b5/python_example.py",
+      "rUrl": "templates/685e0b47c0ef3995ad6985b5/R_example.R",
+      "dirUrl": "templates/685e0b47c0ef3995ad6985b5",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/685e0b47c0ef3995ad6985b5/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minV": "1",
+        "maxV": "1000",
+        "logStep": "10",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "minV",
+        "maxV",
+        "logStep",
+        "title"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 19016,
+      "previewSize": 46746
+    },
+    {
+      "id": "676684ce7c30723b1e464676",
+      "name": "环形柱状图-单变量-刻度环-名称贴柱子",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "刻度环",
+        "名称贴柱子"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 刻度环 / 名称贴柱子",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b5b609d978618f7526182b",
+      "previewUrl": "templates/676684ce7c30723b1e464676/preview.png",
+      "svgUrl": "templates/676684ce7c30723b1e464676/rendered.svg",
+      "metaUrl": "templates/676684ce7c30723b1e464676/meta.json",
+      "pythonUrl": "templates/676684ce7c30723b1e464676/python_example.py",
+      "rUrl": "templates/676684ce7c30723b1e464676/R_example.R",
+      "dirUrl": "templates/676684ce7c30723b1e464676",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676684ce7c30723b1e464676/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/676684ce7c30723b1e464676/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/676684ce7c30723b1e464676/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data3type": "txt_tab",
+        "data3": "cluster\tele\n0\tname1;name5;name6;name7;name8\n1\tname2;name3;name4;name9;name10;name11;name12;name13;name14;name15;name16;name17;name18;name19;name20;name21;name22;name23\n2\tname24;name25;name26;name27;name28;name29;name30\n3\tname31;name32;name33;name34;name35\n4\tname36;name37;name38;name39;name40;name41;name42;name43;name52\n5\tname44;name45;name46;name47;name48;name49;name50;name51",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "treeCol": "value",
+        "clusterIdCol": "cluster",
+        "clusterEleCol": "ele"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "treeCol",
+        "clusterIdCol",
+        "clusterEleCol"
+      ],
+      "argCount": 11,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 212334,
+      "previewSize": 45852
+    },
+    {
+      "id": "68727c676756cd7a76293a9b",
+      "name": "环形柱状图-单变量-名称径向",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "名称径向"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 名称径向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68727c676756cd7a76293a9b",
+      "previewUrl": "templates/68727c676756cd7a76293a9b/preview.png",
+      "svgUrl": "templates/68727c676756cd7a76293a9b/rendered.svg",
+      "metaUrl": "templates/68727c676756cd7a76293a9b/meta.json",
+      "pythonUrl": "templates/68727c676756cd7a76293a9b/python_example.py",
+      "rUrl": "templates/68727c676756cd7a76293a9b/R_example.R",
+      "dirUrl": "templates/68727c676756cd7a76293a9b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68727c676756cd7a76293a9b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 46568,
+      "previewSize": 76843
+    },
+    {
+      "id": "6766904e7c30723b1e4647f8",
+      "name": "环形柱状图-单变量-扇型右",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "扇型右"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 扇型右",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6766904e7c30723b1e4647f8",
+      "previewUrl": "templates/6766904e7c30723b1e4647f8/preview.png",
+      "svgUrl": "templates/6766904e7c30723b1e4647f8/rendered.svg",
+      "metaUrl": "templates/6766904e7c30723b1e4647f8/meta.json",
+      "pythonUrl": "templates/6766904e7c30723b1e4647f8/python_example.py",
+      "rUrl": "templates/6766904e7c30723b1e4647f8/R_example.R",
+      "dirUrl": "templates/6766904e7c30723b1e4647f8",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6766904e7c30723b1e4647f8/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11266,
+      "previewSize": 19631
+    },
+    {
+      "id": "67668d8d7c30723b1e4647bb",
+      "name": "环形柱状图-单变量-扇型左",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "扇型左"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 扇型左",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67668d8d7c30723b1e4647bb",
+      "previewUrl": "templates/67668d8d7c30723b1e4647bb/preview.png",
+      "svgUrl": "templates/67668d8d7c30723b1e4647bb/rendered.svg",
+      "metaUrl": "templates/67668d8d7c30723b1e4647bb/meta.json",
+      "pythonUrl": "templates/67668d8d7c30723b1e4647bb/python_example.py",
+      "rUrl": "templates/67668d8d7c30723b1e4647bb/R_example.R",
+      "dirUrl": "templates/67668d8d7c30723b1e4647bb",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67668d8d7c30723b1e4647bb/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 13622,
+      "previewSize": 22689
+    },
+    {
+      "id": "692295715a83abc7b49fcaf4",
+      "name": "环形柱状图-单变量-同组同色",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "同组同色"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 同组同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=692295715a83abc7b49fcaf4",
+      "previewUrl": "templates/692295715a83abc7b49fcaf4/preview.png",
+      "svgUrl": "templates/692295715a83abc7b49fcaf4/rendered.svg",
+      "metaUrl": "templates/692295715a83abc7b49fcaf4/meta.json",
+      "pythonUrl": "templates/692295715a83abc7b49fcaf4/python_example.py",
+      "rUrl": "templates/692295715a83abc7b49fcaf4/R_example.R",
+      "dirUrl": "templates/692295715a83abc7b49fcaf4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/692295715a83abc7b49fcaf4/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "var1"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17091,
+      "previewSize": 38272
+    },
+    {
+      "id": "687cbd23e21a3d48dcc80126",
+      "name": "环形柱状图-单变量-网格线",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "网格线"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 网格线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=687cbd23e21a3d48dcc80126",
+      "previewUrl": "templates/687cbd23e21a3d48dcc80126/preview.png",
+      "svgUrl": "templates/687cbd23e21a3d48dcc80126/rendered.svg",
+      "metaUrl": "templates/687cbd23e21a3d48dcc80126/meta.json",
+      "pythonUrl": "templates/687cbd23e21a3d48dcc80126/python_example.py",
+      "rUrl": "templates/687cbd23e21a3d48dcc80126/R_example.R",
+      "dirUrl": "templates/687cbd23e21a3d48dcc80126",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/687cbd23e21a3d48dcc80126/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 21380,
+      "previewSize": 50553
+    },
+    {
+      "id": "687cdbffe21a3d48dcc80464",
+      "name": "环形柱状图-单变量-网格线-负值反向",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "网格线",
+        "负值反向"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 网格线 / 负值反向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=687cdbffe21a3d48dcc80464",
+      "previewUrl": "templates/687cdbffe21a3d48dcc80464/preview.png",
+      "svgUrl": "templates/687cdbffe21a3d48dcc80464/rendered.svg",
+      "metaUrl": "templates/687cdbffe21a3d48dcc80464/meta.json",
+      "pythonUrl": "templates/687cdbffe21a3d48dcc80464/python_example.py",
+      "rUrl": "templates/687cdbffe21a3d48dcc80464/R_example.R",
+      "dirUrl": "templates/687cdbffe21a3d48dcc80464",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/687cdbffe21a3d48dcc80464/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17682,
+      "previewSize": 36625
+    },
+    {
+      "id": "6863ac45df2413ba028f0588",
+      "name": "环形柱状图-单变量-误差线-差异字母",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "误差线",
+        "差异字母"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 误差线 / 差异字母",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6863ac45df2413ba028f0588",
+      "previewUrl": "templates/6863ac45df2413ba028f0588/preview.png",
+      "svgUrl": "templates/6863ac45df2413ba028f0588/rendered.svg",
+      "metaUrl": "templates/6863ac45df2413ba028f0588/meta.json",
+      "pythonUrl": "templates/6863ac45df2413ba028f0588/python_example.py",
+      "rUrl": "templates/6863ac45df2413ba028f0588/R_example.R",
+      "dirUrl": "templates/6863ac45df2413ba028f0588",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6863ac45df2413ba028f0588/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "stdVCol": "std",
+        "labelCol": "label",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "stdVCol",
+        "labelCol",
+        "title"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 23811,
+      "previewSize": 48832
+    },
+    {
+      "id": "68761232d4c91cf8658fc705",
+      "name": "环形柱状图-单变量-颜色渐变",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "颜色渐变"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 颜色渐变",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68761232d4c91cf8658fc705",
+      "previewUrl": "templates/68761232d4c91cf8658fc705/preview.png",
+      "svgUrl": "templates/68761232d4c91cf8658fc705/rendered.svg",
+      "metaUrl": "templates/68761232d4c91cf8658fc705/meta.json",
+      "pythonUrl": "templates/68761232d4c91cf8658fc705/python_example.py",
+      "rUrl": "templates/68761232d4c91cf8658fc705/R_example.R",
+      "dirUrl": "templates/68761232d4c91cf8658fc705",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68761232d4c91cf8658fc705/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18293,
+      "previewSize": 50167
+    },
+    {
+      "id": "676792eb11016aea1c39fa52",
+      "name": "环形柱状图-单变量-柱子向内",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "柱子向内"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 柱子向内",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676792eb11016aea1c39fa52",
+      "previewUrl": "templates/676792eb11016aea1c39fa52/preview.png",
+      "svgUrl": "templates/676792eb11016aea1c39fa52/rendered.svg",
+      "metaUrl": "templates/676792eb11016aea1c39fa52/meta.json",
+      "pythonUrl": "templates/676792eb11016aea1c39fa52/python_example.py",
+      "rUrl": "templates/676792eb11016aea1c39fa52/R_example.R",
+      "dirUrl": "templates/676792eb11016aea1c39fa52",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676792eb11016aea1c39fa52/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 26030,
+      "previewSize": 64371
+    },
+    {
+      "id": "676796ac11016aea1c39fb0a",
+      "name": "环形柱状图-单变量-柱子向内-半环",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "柱子向内",
+        "半环"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 柱子向内 / 半环",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676796ac11016aea1c39fb0a",
+      "previewUrl": "templates/676796ac11016aea1c39fb0a/preview.png",
+      "svgUrl": "templates/676796ac11016aea1c39fb0a/rendered.svg",
+      "metaUrl": "templates/676796ac11016aea1c39fb0a/meta.json",
+      "pythonUrl": "templates/676796ac11016aea1c39fb0a/python_example.py",
+      "rUrl": "templates/676796ac11016aea1c39fb0a/R_example.R",
+      "dirUrl": "templates/676796ac11016aea1c39fb0a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676796ac11016aea1c39fb0a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17678,
+      "previewSize": 25516
+    },
+    {
+      "id": "676799f111016aea1c39fc9f",
+      "name": "环形柱状图-单变量-柱子向内-半环-空心圆",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "柱子向内",
+        "半环",
+        "空心圆"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 柱子向内 / 半环 / 空心圆",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676799f111016aea1c39fc9f",
+      "previewUrl": "templates/676799f111016aea1c39fc9f/preview.png",
+      "svgUrl": "templates/676799f111016aea1c39fc9f/rendered.svg",
+      "metaUrl": "templates/676799f111016aea1c39fc9f/meta.json",
+      "pythonUrl": "templates/676799f111016aea1c39fc9f/python_example.py",
+      "rUrl": "templates/676799f111016aea1c39fc9f/R_example.R",
+      "dirUrl": "templates/676799f111016aea1c39fc9f",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676799f111016aea1c39fc9f/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 33121,
+      "previewSize": 45237
+    },
+    {
+      "id": "67d14a685f0f9bb53762e88a",
+      "name": "环形柱状图-单变量-柱子向内-同名同色-刻度值",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "柱子向内",
+        "同名同色",
+        "刻度值"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 柱子向内 / 同名同色 / 刻度值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67d14a685f0f9bb53762e88a",
+      "previewUrl": "templates/67d14a685f0f9bb53762e88a/preview.png",
+      "svgUrl": "templates/67d14a685f0f9bb53762e88a/rendered.svg",
+      "metaUrl": "templates/67d14a685f0f9bb53762e88a/meta.json",
+      "pythonUrl": "templates/67d14a685f0f9bb53762e88a/python_example.py",
+      "rUrl": "templates/67d14a685f0f9bb53762e88a/R_example.R",
+      "dirUrl": "templates/67d14a685f0f9bb53762e88a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67d14a685f0f9bb53762e88a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 34749,
+      "previewSize": 94673
+    },
+    {
+      "id": "676798de11016aea1c39fc20",
+      "name": "环形柱状图-单变量-柱子向内-右扇型",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "柱子向内",
+        "右扇型"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 柱子向内 / 右扇型",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676798de11016aea1c39fc20",
+      "previewUrl": "templates/676798de11016aea1c39fc20/preview.png",
+      "svgUrl": "templates/676798de11016aea1c39fc20/rendered.svg",
+      "metaUrl": "templates/676798de11016aea1c39fc20/meta.json",
+      "pythonUrl": "templates/676798de11016aea1c39fc20/python_example.py",
+      "rUrl": "templates/676798de11016aea1c39fc20/R_example.R",
+      "dirUrl": "templates/676798de11016aea1c39fc20",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676798de11016aea1c39fc20/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 16485,
+      "previewSize": 30430
+    },
+    {
+      "id": "67667c057c30723b1e464400",
+      "name": "环形柱状图-单变量-柱子向内-左扇型",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "半环"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 半环",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767983c11016aea1c39fbcb",
+      "previewUrl": "templates/67667c057c30723b1e464400/preview.png",
+      "svgUrl": "templates/67667c057c30723b1e464400/rendered.svg",
+      "metaUrl": "templates/67667c057c30723b1e464400/meta.json",
+      "pythonUrl": "templates/67667c057c30723b1e464400/python_example.py",
+      "rUrl": "templates/67667c057c30723b1e464400/R_example.R",
+      "dirUrl": "templates/67667c057c30723b1e464400",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67667c057c30723b1e464400/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 13643,
+      "previewSize": 32912
+    },
+    {
+      "id": "6767983c11016aea1c39fbcb",
+      "name": "环形柱状图-单变量-柱子向内-左扇型",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "柱子向内",
+        "左扇型"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / 柱子向内 / 左扇型",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767983c11016aea1c39fbcb",
+      "previewUrl": "templates/6767983c11016aea1c39fbcb/preview.png",
+      "svgUrl": "templates/6767983c11016aea1c39fbcb/rendered.svg",
+      "metaUrl": "templates/6767983c11016aea1c39fbcb/meta.json",
+      "pythonUrl": "templates/6767983c11016aea1c39fbcb/python_example.py",
+      "rUrl": "templates/6767983c11016aea1c39fbcb/R_example.R",
+      "dirUrl": "templates/6767983c11016aea1c39fbcb",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6767983c11016aea1c39fbcb/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 13643,
+      "previewSize": 23340
+    },
+    {
+      "id": "685d026d84d30a9076d2deaa",
+      "name": "环形柱状图-单变量-LOG处理",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "单变量",
+        "LOG处理"
+      ],
+      "categoryTrailText": "环形柱状图 / 单变量 / LOG处理",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=685d026d84d30a9076d2deaa",
+      "previewUrl": "templates/685d026d84d30a9076d2deaa/preview.png",
+      "svgUrl": "templates/685d026d84d30a9076d2deaa/rendered.svg",
+      "metaUrl": "templates/685d026d84d30a9076d2deaa/meta.json",
+      "pythonUrl": "templates/685d026d84d30a9076d2deaa/python_example.py",
+      "rUrl": "templates/685d026d84d30a9076d2deaa/R_example.R",
+      "dirUrl": "templates/685d026d84d30a9076d2deaa",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/685d026d84d30a9076d2deaa/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 19545,
+      "previewSize": 49667
+    },
+    {
+      "id": "66b08d1df5382dad1050fcbe",
+      "name": "环形柱状图-多变量",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b08d1df5382dad1050fcbe",
+      "previewUrl": "templates/66b08d1df5382dad1050fcbe/preview.png",
+      "svgUrl": "templates/66b08d1df5382dad1050fcbe/rendered.svg",
+      "metaUrl": "templates/66b08d1df5382dad1050fcbe/meta.json",
+      "pythonUrl": "templates/66b08d1df5382dad1050fcbe/python_example.py",
+      "rUrl": "templates/66b08d1df5382dad1050fcbe/R_example.R",
+      "dirUrl": "templates/66b08d1df5382dad1050fcbe",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66b08d1df5382dad1050fcbe/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCols": "var1、var2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 20951,
+      "previewSize": 44598
+    },
+    {
+      "id": "6764c35c393f82c554556292",
+      "name": "环形柱状图-多变量",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6764c35c393f82c554556292",
+      "previewUrl": "templates/6764c35c393f82c554556292/preview.png",
+      "svgUrl": "templates/6764c35c393f82c554556292/rendered.svg",
+      "metaUrl": "templates/6764c35c393f82c554556292/meta.json",
+      "pythonUrl": "templates/6764c35c393f82c554556292/python_example.py",
+      "rUrl": "templates/6764c35c393f82c554556292/R_example.R",
+      "dirUrl": "templates/6764c35c393f82c554556292",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6764c35c393f82c554556292/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9787,
+      "previewSize": 26117
+    },
+    {
+      "id": "682ed496a545144c4eacedfa",
+      "name": "环形柱状图-多变量-多种刻度",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "多种刻度"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 多种刻度",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=682ed496a545144c4eacedfa",
+      "previewUrl": "templates/682ed496a545144c4eacedfa/preview.png",
+      "svgUrl": "templates/682ed496a545144c4eacedfa/rendered.svg",
+      "metaUrl": "templates/682ed496a545144c4eacedfa/meta.json",
+      "pythonUrl": "templates/682ed496a545144c4eacedfa/python_example.py",
+      "rUrl": "templates/682ed496a545144c4eacedfa/R_example.R",
+      "dirUrl": "templates/682ed496a545144c4eacedfa",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/682ed496a545144c4eacedfa/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "minVs": "auto",
+        "maxVs": "auto",
+        "steps": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "minVs",
+        "maxVs",
+        "steps"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 59644,
+      "previewSize": 123643
+    },
+    {
+      "id": "68317aafe56add23e0545c2d",
+      "name": "环形柱状图-多变量-多种刻度-误差线-差异字母",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "多种刻度",
+        "误差线",
+        "差异字母"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 多种刻度 / 误差线 / 差异字母",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68317aafe56add23e0545c2d",
+      "previewUrl": "templates/68317aafe56add23e0545c2d/preview.png",
+      "svgUrl": "templates/68317aafe56add23e0545c2d/rendered.svg",
+      "metaUrl": "templates/68317aafe56add23e0545c2d/meta.json",
+      "pythonUrl": "templates/68317aafe56add23e0545c2d/python_example.py",
+      "rUrl": "templates/68317aafe56add23e0545c2d/R_example.R",
+      "dirUrl": "templates/68317aafe56add23e0545c2d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68317aafe56add23e0545c2d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "treat",
+        "valueCol": "value",
+        "stdVCol": "std",
+        "labelCol": "label",
+        "minVs": "auto",
+        "maxVs": "auto",
+        "steps": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "stdVCol",
+        "labelCol",
+        "minVs",
+        "maxVs",
+        "steps"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 95105,
+      "previewSize": 127493
+    },
+    {
+      "id": "67661104c008c077c11b6a1e",
+      "name": "环形柱状图-多变量-刻度环-背景色",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "刻度环",
+        "背景色"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 刻度环 / 背景色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67661104c008c077c11b6a1e",
+      "previewUrl": "templates/67661104c008c077c11b6a1e/preview.png",
+      "svgUrl": "templates/67661104c008c077c11b6a1e/rendered.svg",
+      "metaUrl": "templates/67661104c008c077c11b6a1e/meta.json",
+      "pythonUrl": "templates/67661104c008c077c11b6a1e/python_example.py",
+      "rUrl": "templates/67661104c008c077c11b6a1e/R_example.R",
+      "dirUrl": "templates/67661104c008c077c11b6a1e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67661104c008c077c11b6a1e/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14794,
+      "previewSize": 60919
+    },
+    {
+      "id": "67c6adcc518a3a24468a099d",
+      "name": "环形柱状图-多变量-刻度环-同名同色",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "刻度环",
+        "同名同色"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 刻度环 / 同名同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67c6adcc518a3a24468a099d",
+      "previewUrl": "templates/67c6adcc518a3a24468a099d/preview.png",
+      "svgUrl": "templates/67c6adcc518a3a24468a099d/rendered.svg",
+      "metaUrl": "templates/67c6adcc518a3a24468a099d/meta.json",
+      "pythonUrl": "templates/67c6adcc518a3a24468a099d/python_example.py",
+      "rUrl": "templates/67c6adcc518a3a24468a099d/R_example.R",
+      "dirUrl": "templates/67c6adcc518a3a24468a099d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67c6adcc518a3a24468a099d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 25801,
+      "previewSize": 90019
+    },
+    {
+      "id": "67676e4711016aea1c39f6f1",
+      "name": "环形柱状图-多变量-两组上下对比",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "两组上下对比"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 两组上下对比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67676e4711016aea1c39f6f1",
+      "previewUrl": "templates/67676e4711016aea1c39f6f1/preview.png",
+      "svgUrl": "templates/67676e4711016aea1c39f6f1/rendered.svg",
+      "metaUrl": "templates/67676e4711016aea1c39f6f1/meta.json",
+      "pythonUrl": "templates/67676e4711016aea1c39f6f1/python_example.py",
+      "rUrl": "templates/67676e4711016aea1c39f6f1/R_example.R",
+      "dirUrl": "templates/67676e4711016aea1c39f6f1",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67676e4711016aea1c39f6f1/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15547,
+      "previewSize": 31315
+    },
+    {
+      "id": "676692337c30723b1e46485a",
+      "name": "环形柱状图-多变量-两组左右对比",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "两组左右对比"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 两组左右对比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767834211016aea1c39f7b7",
+      "previewUrl": "templates/676692337c30723b1e46485a/preview.png",
+      "svgUrl": "templates/676692337c30723b1e46485a/rendered.svg",
+      "metaUrl": "templates/676692337c30723b1e46485a/meta.json",
+      "pythonUrl": "templates/676692337c30723b1e46485a/python_example.py",
+      "rUrl": "templates/676692337c30723b1e46485a/R_example.R",
+      "dirUrl": "templates/676692337c30723b1e46485a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676692337c30723b1e46485a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "minVs": "auto",
+        "maxVs": "auto",
+        "steps": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "minVs",
+        "maxVs",
+        "steps"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 5187,
+      "previewSize": 31434
+    },
+    {
+      "id": "6767707811016aea1c39f75d",
+      "name": "环形柱状图-多变量-两组左右对比-扇型",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "两组左右对比",
+        "扇型"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 两组左右对比 / 扇型",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767707811016aea1c39f75d",
+      "previewUrl": "templates/6767707811016aea1c39f75d/preview.png",
+      "svgUrl": "templates/6767707811016aea1c39f75d/rendered.svg",
+      "metaUrl": "templates/6767707811016aea1c39f75d/meta.json",
+      "pythonUrl": "templates/6767707811016aea1c39f75d/python_example.py",
+      "rUrl": "templates/6767707811016aea1c39f75d/R_example.R",
+      "dirUrl": "templates/6767707811016aea1c39f75d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6767707811016aea1c39f75d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15672,
+      "previewSize": 23908
+    },
+    {
+      "id": "676679127c30723b1e4642cb",
+      "name": "环形柱状图-多变量-名称贴柱子",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "名称贴柱子"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 名称贴柱子",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676679127c30723b1e4642cb",
+      "previewUrl": "templates/676679127c30723b1e4642cb/preview.png",
+      "svgUrl": "templates/676679127c30723b1e4642cb/rendered.svg",
+      "metaUrl": "templates/676679127c30723b1e4642cb/meta.json",
+      "pythonUrl": "templates/676679127c30723b1e4642cb/python_example.py",
+      "rUrl": "templates/676679127c30723b1e4642cb/R_example.R",
+      "dirUrl": "templates/676679127c30723b1e4642cb",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676679127c30723b1e4642cb/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17676,
+      "previewSize": 45528
+    },
+    {
+      "id": "6767874611016aea1c39f87c",
+      "name": "环形柱状图-多变量-扇型",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "扇型"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 扇型",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767874611016aea1c39f87c",
+      "previewUrl": "templates/6767874611016aea1c39f87c/preview.png",
+      "svgUrl": "templates/6767874611016aea1c39f87c/rendered.svg",
+      "metaUrl": "templates/6767874611016aea1c39f87c/meta.json",
+      "pythonUrl": "templates/6767874611016aea1c39f87c/python_example.py",
+      "rUrl": "templates/6767874611016aea1c39f87c/R_example.R",
+      "dirUrl": "templates/6767874611016aea1c39f87c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6767874611016aea1c39f87c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "maxVs": "10",
+        "minVs": "auto",
+        "steps": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "maxVs",
+        "minVs",
+        "steps"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 37267,
+      "previewSize": 51463
+    },
+    {
+      "id": "6767834211016aea1c39f7b7",
+      "name": "环形柱状图-多变量-四组对比-扇形",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "四组对比",
+        "扇形"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 四组对比 / 扇形",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767834211016aea1c39f7b7",
+      "previewUrl": "templates/6767834211016aea1c39f7b7/preview.png",
+      "svgUrl": "templates/6767834211016aea1c39f7b7/rendered.svg",
+      "metaUrl": "templates/6767834211016aea1c39f7b7/meta.json",
+      "pythonUrl": "templates/6767834211016aea1c39f7b7/python_example.py",
+      "rUrl": "templates/6767834211016aea1c39f7b7/R_example.R",
+      "dirUrl": "templates/6767834211016aea1c39f7b7",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6767834211016aea1c39f7b7/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "minVs": "auto",
+        "maxVs": "auto",
+        "steps": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "minVs",
+        "maxVs",
+        "steps"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 39499,
+      "previewSize": 44348
+    },
+    {
+      "id": "6767a0f411016aea1c39fee4",
+      "name": "环形柱状图-多变量-网格线-渐变色-有缺口-负值反向",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "柱子向内",
+        "扇型"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 柱子向内 / 扇型",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68a7e00c0e0180227b59fbd6",
+      "previewUrl": "templates/6767a0f411016aea1c39fee4/preview.png",
+      "svgUrl": "templates/6767a0f411016aea1c39fee4/rendered.svg",
+      "metaUrl": "templates/6767a0f411016aea1c39fee4/meta.json",
+      "pythonUrl": "templates/6767a0f411016aea1c39fee4/python_example.py",
+      "rUrl": "templates/6767a0f411016aea1c39fee4/R_example.R",
+      "dirUrl": "templates/6767a0f411016aea1c39fee4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6767a0f411016aea1c39fee4/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "minv",
+        "maxv",
+        "step",
+        "title"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 38700,
+      "previewSize": 69713
+    },
+    {
+      "id": "68a7e00c0e0180227b59fbd6",
+      "name": "环形柱状图-多变量-网格线-渐变色-有缺口-负值反向",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "网格线",
+        "渐变色",
+        "有缺口",
+        "负值反向"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 网格线 / 渐变色 / 有缺口 / 负值反向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68a7e00c0e0180227b59fbd6",
+      "previewUrl": "templates/68a7e00c0e0180227b59fbd6/preview.png",
+      "svgUrl": "templates/68a7e00c0e0180227b59fbd6/rendered.svg",
+      "metaUrl": "templates/68a7e00c0e0180227b59fbd6/meta.json",
+      "pythonUrl": "templates/68a7e00c0e0180227b59fbd6/python_example.py",
+      "rUrl": "templates/68a7e00c0e0180227b59fbd6/R_example.R",
+      "dirUrl": "templates/68a7e00c0e0180227b59fbd6",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68a7e00c0e0180227b59fbd6/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "minv",
+        "maxv",
+        "step",
+        "title"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 38700,
+      "previewSize": 44992
+    },
+    {
+      "id": "692f7facb14bac5cf8b16677",
+      "name": "环形柱状图-多变量-网络连线",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "网络连线"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 网络连线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=692f7facb14bac5cf8b16677",
+      "previewUrl": "templates/692f7facb14bac5cf8b16677/preview.png",
+      "svgUrl": "templates/692f7facb14bac5cf8b16677/rendered.svg",
+      "metaUrl": "templates/692f7facb14bac5cf8b16677/meta.json",
+      "pythonUrl": "templates/692f7facb14bac5cf8b16677/python_example.py",
+      "rUrl": "templates/692f7facb14bac5cf8b16677/R_example.R",
+      "dirUrl": "templates/692f7facb14bac5cf8b16677",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/692f7facb14bac5cf8b16677/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "group",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 36651,
+      "previewSize": 69014
+    },
+    {
+      "id": "68c12fac75c010b4bbee4c73",
+      "name": "环形柱状图-多变量-相向排序-负值反向",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "相向排序",
+        "负值反向"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 相向排序 / 负值反向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68c12fac75c010b4bbee4c73",
+      "previewUrl": "templates/68c12fac75c010b4bbee4c73/preview.png",
+      "svgUrl": "templates/68c12fac75c010b4bbee4c73/rendered.svg",
+      "metaUrl": "templates/68c12fac75c010b4bbee4c73/meta.json",
+      "pythonUrl": "templates/68c12fac75c010b4bbee4c73/python_example.py",
+      "rUrl": "templates/68c12fac75c010b4bbee4c73/R_example.R",
+      "dirUrl": "templates/68c12fac75c010b4bbee4c73",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68c12fac75c010b4bbee4c73/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 33823,
+      "previewSize": 35751
+    },
+    {
+      "id": "67678e5911016aea1c39f9b0",
+      "name": "环形柱状图-多变量-柱子向内",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "柱子向内"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 柱子向内",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67678e5911016aea1c39f9b0",
+      "previewUrl": "templates/67678e5911016aea1c39f9b0/preview.png",
+      "svgUrl": "templates/67678e5911016aea1c39f9b0/rendered.svg",
+      "metaUrl": "templates/67678e5911016aea1c39f9b0/meta.json",
+      "pythonUrl": "templates/67678e5911016aea1c39f9b0/python_example.py",
+      "rUrl": "templates/67678e5911016aea1c39f9b0/R_example.R",
+      "dirUrl": "templates/67678e5911016aea1c39f9b0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67678e5911016aea1c39f9b0/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 25977,
+      "previewSize": 92987
+    },
+    {
+      "id": "67679ca211016aea1c39fdb2",
+      "name": "环形柱状图-多变量-柱子向内-上下对比",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "柱子向内",
+        "上下对比"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 柱子向内 / 上下对比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67679ca211016aea1c39fdb2",
+      "previewUrl": "templates/67679ca211016aea1c39fdb2/preview.png",
+      "svgUrl": "templates/67679ca211016aea1c39fdb2/rendered.svg",
+      "metaUrl": "templates/67679ca211016aea1c39fdb2/meta.json",
+      "pythonUrl": "templates/67679ca211016aea1c39fdb2/python_example.py",
+      "rUrl": "templates/67679ca211016aea1c39fdb2/R_example.R",
+      "dirUrl": "templates/67679ca211016aea1c39fdb2",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67679ca211016aea1c39fdb2/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 24599,
+      "previewSize": 37628
+    },
+    {
+      "id": "6767a01311016aea1c39fea7",
+      "name": "环形柱状图-多变量-柱子向内-四组对比-扇型",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "柱子向内",
+        "四组对比",
+        "扇型"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 柱子向内 / 四组对比 / 扇型",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767a01311016aea1c39fea7",
+      "previewUrl": "templates/6767a01311016aea1c39fea7/preview.png",
+      "svgUrl": "templates/6767a01311016aea1c39fea7/rendered.svg",
+      "metaUrl": "templates/6767a01311016aea1c39fea7/meta.json",
+      "pythonUrl": "templates/6767a01311016aea1c39fea7/python_example.py",
+      "rUrl": "templates/6767a01311016aea1c39fea7/R_example.R",
+      "dirUrl": "templates/6767a01311016aea1c39fea7",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6767a01311016aea1c39fea7/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 37415,
+      "previewSize": 49687
+    },
+    {
+      "id": "676790fd11016aea1c39fa0e",
+      "name": "环形柱状图-多变量-柱子向内-同名同色",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "柱子向内",
+        "同名同色"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 柱子向内 / 同名同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676790fd11016aea1c39fa0e",
+      "previewUrl": "templates/676790fd11016aea1c39fa0e/preview.png",
+      "svgUrl": "templates/676790fd11016aea1c39fa0e/rendered.svg",
+      "metaUrl": "templates/676790fd11016aea1c39fa0e/meta.json",
+      "pythonUrl": "templates/676790fd11016aea1c39fa0e/python_example.py",
+      "rUrl": "templates/676790fd11016aea1c39fa0e/R_example.R",
+      "dirUrl": "templates/676790fd11016aea1c39fa0e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676790fd11016aea1c39fa0e/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "title": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 13435,
+      "previewSize": 57344
+    },
+    {
+      "id": "67679b6c11016aea1c39fd4b",
+      "name": "环形柱状图-多变量-柱子向内-左右对比",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "柱子向内",
+        "左右对比"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 柱子向内 / 左右对比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67679b6c11016aea1c39fd4b",
+      "previewUrl": "templates/67679b6c11016aea1c39fd4b/preview.png",
+      "svgUrl": "templates/67679b6c11016aea1c39fd4b/rendered.svg",
+      "metaUrl": "templates/67679b6c11016aea1c39fd4b/meta.json",
+      "pythonUrl": "templates/67679b6c11016aea1c39fd4b/python_example.py",
+      "rUrl": "templates/67679b6c11016aea1c39fd4b/R_example.R",
+      "dirUrl": "templates/67679b6c11016aea1c39fd4b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67679b6c11016aea1c39fd4b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 19538,
+      "previewSize": 35107
+    },
+    {
+      "id": "67679ee011016aea1c39fe40",
+      "name": "环形柱状图-多变量-柱子向内-左右对比-扇型",
+      "category": "环形柱状图",
+      "categoryTrail": [
+        "环形柱状图",
+        "多变量",
+        "柱子向内",
+        "左右对比",
+        "扇型"
+      ],
+      "categoryTrailText": "环形柱状图 / 多变量 / 柱子向内 / 左右对比 / 扇型",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67679ee011016aea1c39fe40",
+      "previewUrl": "templates/67679ee011016aea1c39fe40/preview.png",
+      "svgUrl": "templates/67679ee011016aea1c39fe40/rendered.svg",
+      "metaUrl": "templates/67679ee011016aea1c39fe40/meta.json",
+      "pythonUrl": "templates/67679ee011016aea1c39fe40/python_example.py",
+      "rUrl": "templates/67679ee011016aea1c39fe40/R_example.R",
+      "dirUrl": "templates/67679ee011016aea1c39fe40",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67679ee011016aea1c39fe40/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 24772,
+      "previewSize": 30338
+    },
+    {
+      "id": "680aeef4a0e69348b047ffd0",
+      "name": "火山图-自动展示N个名称",
+      "category": "火山图",
+      "categoryTrail": [
+        "火山图",
+        "自动展示N个名称"
+      ],
+      "categoryTrailText": "火山图 / 自动展示N个名称",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=680aeef4a0e69348b047ffd0",
+      "previewUrl": "templates/680aeef4a0e69348b047ffd0/preview.png",
+      "svgUrl": "templates/680aeef4a0e69348b047ffd0/rendered.svg",
+      "metaUrl": "templates/680aeef4a0e69348b047ffd0/meta.json",
+      "pythonUrl": "templates/680aeef4a0e69348b047ffd0/python_example.py",
+      "rUrl": "templates/680aeef4a0e69348b047ffd0/R_example.R",
+      "dirUrl": "templates/680aeef4a0e69348b047ffd0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/680aeef4a0e69348b047ffd0/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "xVCol": "log2FoldChange",
+        "yVCol": "pvalue",
+        "idCol": "id",
+        "leftSplitValue": "-1",
+        "rightSplitValue": "1",
+        "horizontalSplitValue": "0.05",
+        "nameShowUpthreshold": "1.3",
+        "txtShowNum": "10",
+        "xTitle": "logFC"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "xVCol",
+        "yVCol",
+        "idCol",
+        "leftSplitValue",
+        "rightSplitValue",
+        "horizontalSplitValue",
+        "nameShowUpthreshold",
+        "txtShowNum",
+        "xTitle"
+      ],
+      "argCount": 11,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 106108,
+      "previewSize": 21175
+    },
+    {
+      "id": "687652ef02c716e5399f39bc",
+      "name": "极坐标堆叠图-单组",
+      "category": "极坐标堆叠图",
+      "categoryTrail": [
+        "极坐标堆叠图",
+        "单组"
+      ],
+      "categoryTrailText": "极坐标堆叠图 / 单组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=687652ef02c716e5399f39bc",
+      "previewUrl": "templates/687652ef02c716e5399f39bc/preview.png",
+      "svgUrl": "templates/687652ef02c716e5399f39bc/rendered.svg",
+      "metaUrl": "templates/687652ef02c716e5399f39bc/meta.json",
+      "pythonUrl": "templates/687652ef02c716e5399f39bc/python_example.py",
+      "rUrl": "templates/687652ef02c716e5399f39bc/R_example.R",
+      "dirUrl": "templates/687652ef02c716e5399f39bc",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/687652ef02c716e5399f39bc/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "maxv",
+        "step"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 41781,
+      "previewSize": 52645
+    },
+    {
+      "id": "69154ebe8a158f1f2e83a7e7",
+      "name": "极坐标堆叠图-单组-计算占比-实心圆",
+      "category": "极坐标堆叠图",
+      "categoryTrail": [
+        "极坐标堆叠图",
+        "单组",
+        "计算占比",
+        "实心圆"
+      ],
+      "categoryTrailText": "极坐标堆叠图 / 单组 / 计算占比 / 实心圆",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=69154ebe8a158f1f2e83a7e7",
+      "previewUrl": "templates/69154ebe8a158f1f2e83a7e7/preview.png",
+      "svgUrl": "templates/69154ebe8a158f1f2e83a7e7/rendered.svg",
+      "metaUrl": "templates/69154ebe8a158f1f2e83a7e7/meta.json",
+      "pythonUrl": "templates/69154ebe8a158f1f2e83a7e7/python_example.py",
+      "rUrl": "templates/69154ebe8a158f1f2e83a7e7/R_example.R",
+      "dirUrl": "templates/69154ebe8a158f1f2e83a7e7",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69154ebe8a158f1f2e83a7e7/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 62530,
+      "previewSize": 41661
+    },
+    {
+      "id": "66a2265d83a6e54bfea23a7c",
+      "name": "极坐标堆叠图-单组-名称贴柱子",
+      "category": "极坐标堆叠图",
+      "categoryTrail": [
+        "极坐标堆叠图",
+        "单组",
+        "名称贴柱子"
+      ],
+      "categoryTrailText": "极坐标堆叠图 / 单组 / 名称贴柱子",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a2265d83a6e54bfea23a7c",
+      "previewUrl": "templates/66a2265d83a6e54bfea23a7c/preview.png",
+      "svgUrl": "templates/66a2265d83a6e54bfea23a7c/rendered.svg",
+      "metaUrl": "templates/66a2265d83a6e54bfea23a7c/meta.json",
+      "pythonUrl": "templates/66a2265d83a6e54bfea23a7c/python_example.py",
+      "rUrl": "templates/66a2265d83a6e54bfea23a7c/R_example.R",
+      "dirUrl": "templates/66a2265d83a6e54bfea23a7c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66a2265d83a6e54bfea23a7c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "centerTitle": "XXXXX",
+        "centerTitle2": "xxxxxxxxxx",
+        "title": "yyyyyyyyy"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "centerTitle",
+        "centerTitle2",
+        "title"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 27502,
+      "previewSize": 46778
+    },
+    {
+      "id": "66a1e17083a6e54bfea231f1",
+      "name": "极坐标堆叠图-多组",
+      "category": "极坐标堆叠图",
+      "categoryTrail": [
+        "极坐标堆叠图",
+        "多组"
+      ],
+      "categoryTrailText": "极坐标堆叠图 / 多组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a1e17083a6e54bfea231f1",
+      "previewUrl": "templates/66a1e17083a6e54bfea231f1/preview.png",
+      "svgUrl": "templates/66a1e17083a6e54bfea231f1/rendered.svg",
+      "metaUrl": "templates/66a1e17083a6e54bfea231f1/meta.json",
+      "pythonUrl": "templates/66a1e17083a6e54bfea231f1/python_example.py",
+      "rUrl": "templates/66a1e17083a6e54bfea231f1/R_example.R",
+      "dirUrl": "templates/66a1e17083a6e54bfea231f1",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66a1e17083a6e54bfea231f1/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 88894,
+      "previewSize": 75318
+    },
+    {
+      "id": "687791fb0c1d5c45d8787124",
+      "name": "极坐标堆叠图-多组-多种刻度",
+      "category": "极坐标堆叠图",
+      "categoryTrail": [
+        "极坐标堆叠图",
+        "多组",
+        "多种刻度"
+      ],
+      "categoryTrailText": "极坐标堆叠图 / 多组 / 多种刻度",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=687791fb0c1d5c45d8787124",
+      "previewUrl": "templates/687791fb0c1d5c45d8787124/preview.png",
+      "svgUrl": "templates/687791fb0c1d5c45d8787124/rendered.svg",
+      "metaUrl": "templates/687791fb0c1d5c45d8787124/meta.json",
+      "pythonUrl": "templates/687791fb0c1d5c45d8787124/python_example.py",
+      "rUrl": "templates/687791fb0c1d5c45d8787124/R_example.R",
+      "dirUrl": "templates/687791fb0c1d5c45d8787124",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/687791fb0c1d5c45d8787124/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVs": "auto",
+        "maxVs": "auto",
+        "steps": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVs",
+        "maxVs",
+        "steps"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 48790,
+      "previewSize": 95903
+    },
+    {
+      "id": "68342a50ccf6706110bfe8c1",
+      "name": "极坐标堆叠图-多组-计算占比",
+      "category": "极坐标堆叠图",
+      "categoryTrail": [
+        "极坐标堆叠图",
+        "多组",
+        "计算占比"
+      ],
+      "categoryTrailText": "极坐标堆叠图 / 多组 / 计算占比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68342a50ccf6706110bfe8c1",
+      "previewUrl": "templates/68342a50ccf6706110bfe8c1/preview.png",
+      "svgUrl": "templates/68342a50ccf6706110bfe8c1/rendered.svg",
+      "metaUrl": "templates/68342a50ccf6706110bfe8c1/meta.json",
+      "pythonUrl": "templates/68342a50ccf6706110bfe8c1/python_example.py",
+      "rUrl": "templates/68342a50ccf6706110bfe8c1/R_example.R",
+      "dirUrl": "templates/68342a50ccf6706110bfe8c1",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68342a50ccf6706110bfe8c1/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "title": "Content (%)"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "title"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 62257,
+      "previewSize": 51951
+    },
+    {
+      "id": "691bd31b94cb9d8b4a28537c",
+      "name": "极坐标堆叠图-多组-两组左右对照",
+      "category": "极坐标堆叠图",
+      "categoryTrail": [
+        "极坐标堆叠图",
+        "多组",
+        "两组左右对照"
+      ],
+      "categoryTrailText": "极坐标堆叠图 / 多组 / 两组左右对照",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=691bd31b94cb9d8b4a28537c",
+      "previewUrl": "templates/691bd31b94cb9d8b4a28537c/preview.png",
+      "svgUrl": "templates/691bd31b94cb9d8b4a28537c/rendered.svg",
+      "metaUrl": "templates/691bd31b94cb9d8b4a28537c/meta.json",
+      "pythonUrl": "templates/691bd31b94cb9d8b4a28537c/python_example.py",
+      "rUrl": "templates/691bd31b94cb9d8b4a28537c/R_example.R",
+      "dirUrl": "templates/691bd31b94cb9d8b4a28537c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/691bd31b94cb9d8b4a28537c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 46586,
+      "previewSize": 51767
+    },
+    {
+      "id": "68c5fdf475e223672986d188",
+      "name": "极坐标堆叠图-多组-名称贴柱子",
+      "category": "极坐标堆叠图",
+      "categoryTrail": [
+        "极坐标堆叠图",
+        "多组",
+        "名称贴柱子"
+      ],
+      "categoryTrailText": "极坐标堆叠图 / 多组 / 名称贴柱子",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68c5fdf475e223672986d188",
+      "previewUrl": "templates/68c5fdf475e223672986d188/preview.png",
+      "svgUrl": "templates/68c5fdf475e223672986d188/rendered.svg",
+      "metaUrl": "templates/68c5fdf475e223672986d188/meta.json",
+      "pythonUrl": "templates/68c5fdf475e223672986d188/python_example.py",
+      "rUrl": "templates/68c5fdf475e223672986d188/R_example.R",
+      "dirUrl": "templates/68c5fdf475e223672986d188",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68c5fdf475e223672986d188/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 86328,
+      "previewSize": 68609
+    },
+    {
+      "id": "6769213b9c799f32fcb7f9de",
+      "name": "极坐标散点图-角度轴半径轴数值",
+      "category": "极坐标散点图",
+      "categoryTrail": [
+        "极坐标散点图",
+        "角度轴半径轴数值"
+      ],
+      "categoryTrailText": "极坐标散点图 / 角度轴半径轴数值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6769213b9c799f32fcb7f9de",
+      "previewUrl": "templates/6769213b9c799f32fcb7f9de/preview.png",
+      "svgUrl": "templates/6769213b9c799f32fcb7f9de/rendered.svg",
+      "metaUrl": "templates/6769213b9c799f32fcb7f9de/meta.json",
+      "pythonUrl": "templates/6769213b9c799f32fcb7f9de/python_example.py",
+      "rUrl": "templates/6769213b9c799f32fcb7f9de/R_example.R",
+      "dirUrl": "templates/6769213b9c799f32fcb7f9de",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6769213b9c799f32fcb7f9de/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "rVCol": "y",
+        "angVCol": "x"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "rVCol",
+        "angVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10462,
+      "previewSize": 28916
+    },
+    {
+      "id": "67692a4495cab84bca013a67",
+      "name": "极坐标散点图-角度轴半径轴数值-分组",
+      "category": "极坐标散点图",
+      "categoryTrail": [
+        "极坐标散点图",
+        "角度轴半径轴数值",
+        "分组"
+      ],
+      "categoryTrailText": "极坐标散点图 / 角度轴半径轴数值 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67692a4495cab84bca013a67",
+      "previewUrl": "templates/67692a4495cab84bca013a67/preview.png",
+      "svgUrl": "templates/67692a4495cab84bca013a67/rendered.svg",
+      "metaUrl": "templates/67692a4495cab84bca013a67/meta.json",
+      "pythonUrl": "templates/67692a4495cab84bca013a67/python_example.py",
+      "rUrl": "templates/67692a4495cab84bca013a67/R_example.R",
+      "dirUrl": "templates/67692a4495cab84bca013a67",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67692a4495cab84bca013a67/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "age",
+        "rVCol": "y",
+        "angVCol": "x"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "rVCol",
+        "angVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 19107,
+      "previewSize": 33786
+    },
+    {
+      "id": "66a114afc846c0bf240ab849",
+      "name": "极坐标散点图-角度轴分类半径轴数值-分组",
+      "category": "极坐标散点图",
+      "categoryTrail": [
+        "极坐标散点图",
+        "角度轴分类半径轴数值",
+        "分组"
+      ],
+      "categoryTrailText": "极坐标散点图 / 角度轴分类半径轴数值 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a114afc846c0bf240ab849",
+      "previewUrl": "templates/66a114afc846c0bf240ab849/preview.png",
+      "svgUrl": "templates/66a114afc846c0bf240ab849/rendered.svg",
+      "metaUrl": "templates/66a114afc846c0bf240ab849/meta.json",
+      "pythonUrl": "templates/66a114afc846c0bf240ab849/python_example.py",
+      "rUrl": "templates/66a114afc846c0bf240ab849/R_example.R",
+      "dirUrl": "templates/66a114afc846c0bf240ab849",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66a114afc846c0bf240ab849/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "yVCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "yVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 81653,
+      "previewSize": 61108
+    },
+    {
+      "id": "676cb690cc586c679bc95108",
+      "name": "极坐标堆叠图-多组-名称贴柱子",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "分组",
+        "半环"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 分组 / 半环",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68c5fdf475e223672986d188",
+      "previewUrl": "templates/676cb690cc586c679bc95108/preview.png",
+      "svgUrl": "templates/676cb690cc586c679bc95108/rendered.svg",
+      "metaUrl": "templates/676cb690cc586c679bc95108/meta.json",
+      "pythonUrl": "templates/676cb690cc586c679bc95108/python_example.py",
+      "rUrl": "templates/676cb690cc586c679bc95108/R_example.R",
+      "dirUrl": "templates/676cb690cc586c679bc95108",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676cb690cc586c679bc95108/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 86328,
+      "previewSize": 28500
+    },
+    {
+      "id": "676ccc81cc586c679bc951fd",
+      "name": "极坐标箱线图-分组-半环-散点",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "分组",
+        "半环",
+        "散点"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 分组 / 半环 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676ccc81cc586c679bc951fd",
+      "previewUrl": "templates/676ccc81cc586c679bc951fd/preview.png",
+      "svgUrl": "templates/676ccc81cc586c679bc951fd/rendered.svg",
+      "metaUrl": "templates/676ccc81cc586c679bc951fd/meta.json",
+      "pythonUrl": "templates/676ccc81cc586c679bc951fd/python_example.py",
+      "rUrl": "templates/676ccc81cc586c679bc951fd/R_example.R",
+      "dirUrl": "templates/676ccc81cc586c679bc951fd",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676ccc81cc586c679bc951fd/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 27766,
+      "previewSize": 32120
+    },
+    {
+      "id": "676cbb18cc586c679bc95133",
+      "name": "极坐标箱线图-分组-半环-组内同色",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "分组",
+        "半环",
+        "组内同色"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 分组 / 半环 / 组内同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cbb18cc586c679bc95133",
+      "previewUrl": "templates/676cbb18cc586c679bc95133/preview.png",
+      "svgUrl": "templates/676cbb18cc586c679bc95133/rendered.svg",
+      "metaUrl": "templates/676cbb18cc586c679bc95133/meta.json",
+      "pythonUrl": "templates/676cbb18cc586c679bc95133/python_example.py",
+      "rUrl": "templates/676cbb18cc586c679bc95133/R_example.R",
+      "dirUrl": "templates/676cbb18cc586c679bc95133",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676cbb18cc586c679bc95133/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15899,
+      "previewSize": 22717
+    },
+    {
+      "id": "676ccd12cc586c679bc95207",
+      "name": "极坐标箱线图-分组-半环-组内同色-散点",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "分组",
+        "半环",
+        "组内同色",
+        "散点"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 分组 / 半环 / 组内同色 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676ccd12cc586c679bc95207",
+      "previewUrl": "templates/676ccd12cc586c679bc95207/preview.png",
+      "svgUrl": "templates/676ccd12cc586c679bc95207/rendered.svg",
+      "metaUrl": "templates/676ccd12cc586c679bc95207/meta.json",
+      "pythonUrl": "templates/676ccd12cc586c679bc95207/python_example.py",
+      "rUrl": "templates/676ccd12cc586c679bc95207/R_example.R",
+      "dirUrl": "templates/676ccd12cc586c679bc95207",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676ccd12cc586c679bc95207/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 27137,
+      "previewSize": 25956
+    },
+    {
+      "id": "676bd3b35da947398b73b577",
+      "name": "极坐标箱线图-分组-散点",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "无分组"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 无分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cc34fcc586c679bc9518c",
+      "previewUrl": "templates/676bd3b35da947398b73b577/preview.png",
+      "svgUrl": "templates/676bd3b35da947398b73b577/rendered.svg",
+      "metaUrl": "templates/676bd3b35da947398b73b577/meta.json",
+      "pythonUrl": "templates/676bd3b35da947398b73b577/python_example.py",
+      "rUrl": "templates/676bd3b35da947398b73b577/R_example.R",
+      "dirUrl": "templates/676bd3b35da947398b73b577",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676bd3b35da947398b73b577/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 27433,
+      "previewSize": 22829
+    },
+    {
+      "id": "676cc34fcc586c679bc9518c",
+      "name": "极坐标箱线图-分组-散点",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "分组",
+        "散点"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 分组 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cc34fcc586c679bc9518c",
+      "previewUrl": "templates/676cc34fcc586c679bc9518c/preview.png",
+      "svgUrl": "templates/676cc34fcc586c679bc9518c/rendered.svg",
+      "metaUrl": "templates/676cc34fcc586c679bc9518c/meta.json",
+      "pythonUrl": "templates/676cc34fcc586c679bc9518c/python_example.py",
+      "rUrl": "templates/676cc34fcc586c679bc9518c/R_example.R",
+      "dirUrl": "templates/676cc34fcc586c679bc9518c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676cc34fcc586c679bc9518c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 27433,
+      "previewSize": 41350
+    },
+    {
+      "id": "676ca844cc586c679bc94ff8",
+      "name": "极坐标箱线图-分组-同名同色",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "分组",
+        "同名同色"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 分组 / 同名同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676ca844cc586c679bc94ff8",
+      "previewUrl": "templates/676ca844cc586c679bc94ff8/preview.png",
+      "svgUrl": "templates/676ca844cc586c679bc94ff8/rendered.svg",
+      "metaUrl": "templates/676ca844cc586c679bc94ff8/meta.json",
+      "pythonUrl": "templates/676ca844cc586c679bc94ff8/python_example.py",
+      "rUrl": "templates/676ca844cc586c679bc94ff8/R_example.R",
+      "dirUrl": "templates/676ca844cc586c679bc94ff8",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676ca844cc586c679bc94ff8/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 16190,
+      "previewSize": 37862
+    },
+    {
+      "id": "676cb201cc586c679bc95073",
+      "name": "极坐标箱线图-分组-同组同色",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "分组",
+        "同组同色"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 分组 / 同组同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cb201cc586c679bc95073",
+      "previewUrl": "templates/676cb201cc586c679bc95073/preview.png",
+      "svgUrl": "templates/676cb201cc586c679bc95073/rendered.svg",
+      "metaUrl": "templates/676cb201cc586c679bc95073/meta.json",
+      "pythonUrl": "templates/676cb201cc586c679bc95073/python_example.py",
+      "rUrl": "templates/676cb201cc586c679bc95073/R_example.R",
+      "dirUrl": "templates/676cb201cc586c679bc95073",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676cb201cc586c679bc95073/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15567,
+      "previewSize": 23793
+    },
+    {
+      "id": "676cc93b4c74c616a3c3950f",
+      "name": "极坐标箱线图-分组-组内同色-散点",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "分组",
+        "组内同色",
+        "散点"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 分组 / 组内同色 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cc93b4c74c616a3c3950f",
+      "previewUrl": "templates/676cc93b4c74c616a3c3950f/preview.png",
+      "svgUrl": "templates/676cc93b4c74c616a3c3950f/rendered.svg",
+      "metaUrl": "templates/676cc93b4c74c616a3c3950f/meta.json",
+      "pythonUrl": "templates/676cc93b4c74c616a3c3950f/python_example.py",
+      "rUrl": "templates/676cc93b4c74c616a3c3950f/R_example.R",
+      "dirUrl": "templates/676cc93b4c74c616a3c3950f",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676cc93b4c74c616a3c3950f/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 26810,
+      "previewSize": 27552
+    },
+    {
+      "id": "676cb2d9cc586c679bc95084",
+      "name": "极坐标箱线图-无分组-半环",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "无分组",
+        "半环"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 无分组 / 半环",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cb2d9cc586c679bc95084",
+      "previewUrl": "templates/676cb2d9cc586c679bc95084/preview.png",
+      "svgUrl": "templates/676cb2d9cc586c679bc95084/rendered.svg",
+      "metaUrl": "templates/676cb2d9cc586c679bc95084/meta.json",
+      "pythonUrl": "templates/676cb2d9cc586c679bc95084/python_example.py",
+      "rUrl": "templates/676cb2d9cc586c679bc95084/R_example.R",
+      "dirUrl": "templates/676cb2d9cc586c679bc95084",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676cb2d9cc586c679bc95084/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15686,
+      "previewSize": 25430
+    },
+    {
+      "id": "676cca4fcc586c679bc951e6",
+      "name": "极坐标箱线图-无分组-半环-散点",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "无分组",
+        "半环",
+        "散点"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 无分组 / 半环 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cca4fcc586c679bc951e6",
+      "previewUrl": "templates/676cca4fcc586c679bc951e6/preview.png",
+      "svgUrl": "templates/676cca4fcc586c679bc951e6/rendered.svg",
+      "metaUrl": "templates/676cca4fcc586c679bc951e6/meta.json",
+      "pythonUrl": "templates/676cca4fcc586c679bc951e6/python_example.py",
+      "rUrl": "templates/676cca4fcc586c679bc951e6/R_example.R",
+      "dirUrl": "templates/676cca4fcc586c679bc951e6",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676cca4fcc586c679bc951e6/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 26923,
+      "previewSize": 29135
+    },
+    {
+      "id": "676e23382c7aca6fc03d080b",
+      "name": "极坐标箱线图-无分组-矩阵",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "无分组",
+        "矩阵"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 无分组 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676e23382c7aca6fc03d080b",
+      "previewUrl": "templates/676e23382c7aca6fc03d080b/preview.png",
+      "svgUrl": "templates/676e23382c7aca6fc03d080b/rendered.svg",
+      "metaUrl": "templates/676e23382c7aca6fc03d080b/meta.json",
+      "pythonUrl": "templates/676e23382c7aca6fc03d080b/python_example.py",
+      "rUrl": "templates/676e23382c7aca6fc03d080b/R_example.R",
+      "dirUrl": "templates/676e23382c7aca6fc03d080b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676e23382c7aca6fc03d080b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "picCol": "pic",
+        "nameCol": "name",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "picCol",
+        "nameCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 60333,
+      "previewSize": 22688
+    },
+    {
+      "id": "676cbca1cc586c679bc95150",
+      "name": "极坐标箱线图-无分组-散点",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "无分组",
+        "散点"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 无分组 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cbca1cc586c679bc95150",
+      "previewUrl": "templates/676cbca1cc586c679bc95150/preview.png",
+      "svgUrl": "templates/676cbca1cc586c679bc95150/rendered.svg",
+      "metaUrl": "templates/676cbca1cc586c679bc95150/meta.json",
+      "pythonUrl": "templates/676cbca1cc586c679bc95150/python_example.py",
+      "rUrl": "templates/676cbca1cc586c679bc95150/R_example.R",
+      "dirUrl": "templates/676cbca1cc586c679bc95150",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676cbca1cc586c679bc95150/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 25662,
+      "previewSize": 26646
+    },
+    {
+      "id": "676e1c902c7aca6fc03d061c",
+      "name": "极坐标折线图-有分组-散点",
+      "category": "极坐标箱线图",
+      "categoryTrail": [
+        "极坐标箱线图",
+        "无分组",
+        "半环",
+        "矩阵"
+      ],
+      "categoryTrailText": "极坐标箱线图 / 无分组 / 半环 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66bc87efa6391e8168b96c84",
+      "previewUrl": "templates/676e1c902c7aca6fc03d061c/preview.png",
+      "svgUrl": "templates/676e1c902c7aca6fc03d061c/rendered.svg",
+      "metaUrl": "templates/676e1c902c7aca6fc03d061c/meta.json",
+      "pythonUrl": "templates/676e1c902c7aca6fc03d061c/python_example.py",
+      "rUrl": "templates/676e1c902c7aca6fc03d061c/R_example.R",
+      "dirUrl": "templates/676e1c902c7aca6fc03d061c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676e1c902c7aca6fc03d061c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 21482,
+      "previewSize": 35863
+    },
+    {
+      "id": "66bc87efa6391e8168b96c84",
+      "name": "极坐标折线图-有分组-散点",
+      "category": "极坐标折线图",
+      "categoryTrail": [
+        "极坐标折线图",
+        "有分组",
+        "散点"
+      ],
+      "categoryTrailText": "极坐标折线图 / 有分组 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66bc87efa6391e8168b96c84",
+      "previewUrl": "templates/66bc87efa6391e8168b96c84/preview.png",
+      "svgUrl": "templates/66bc87efa6391e8168b96c84/rendered.svg",
+      "metaUrl": "templates/66bc87efa6391e8168b96c84/meta.json",
+      "pythonUrl": "templates/66bc87efa6391e8168b96c84/python_example.py",
+      "rUrl": "templates/66bc87efa6391e8168b96c84/R_example.R",
+      "dirUrl": "templates/66bc87efa6391e8168b96c84",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66bc87efa6391e8168b96c84/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 21482,
+      "previewSize": 31134
+    },
+    {
+      "id": "66be9fc1bc77f4488cf030bb",
+      "name": "极坐标折线图-有分组-散点-双Y轴",
+      "category": "极坐标折线图",
+      "categoryTrail": [
+        "极坐标折线图",
+        "有分组",
+        "散点",
+        "双Y轴"
+      ],
+      "categoryTrailText": "极坐标折线图 / 有分组 / 散点 / 双Y轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66be9fc1bc77f4488cf030bb",
+      "previewUrl": "templates/66be9fc1bc77f4488cf030bb/preview.png",
+      "svgUrl": "templates/66be9fc1bc77f4488cf030bb/rendered.svg",
+      "metaUrl": "templates/66be9fc1bc77f4488cf030bb/meta.json",
+      "pythonUrl": "templates/66be9fc1bc77f4488cf030bb/python_example.py",
+      "rUrl": "templates/66be9fc1bc77f4488cf030bb/R_example.R",
+      "dirUrl": "templates/66be9fc1bc77f4488cf030bb",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66be9fc1bc77f4488cf030bb/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "value2VCol": "value2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "value2VCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 40490,
+      "previewSize": 49562
+    },
+    {
+      "id": "69425ce11494871b79b9525a",
+      "name": "极坐标折线图-有分组-散点-误差线",
+      "category": "极坐标折线图",
+      "categoryTrail": [
+        "极坐标折线图",
+        "有分组",
+        "散点",
+        "误差线"
+      ],
+      "categoryTrailText": "极坐标折线图 / 有分组 / 散点 / 误差线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=69425ce11494871b79b9525a",
+      "previewUrl": "templates/69425ce11494871b79b9525a/preview.png",
+      "svgUrl": "templates/69425ce11494871b79b9525a/rendered.svg",
+      "metaUrl": "templates/69425ce11494871b79b9525a/meta.json",
+      "pythonUrl": "templates/69425ce11494871b79b9525a/python_example.py",
+      "rUrl": "templates/69425ce11494871b79b9525a/R_example.R",
+      "dirUrl": "templates/69425ce11494871b79b9525a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69425ce11494871b79b9525a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCols": "value、value2、value3",
+        "stdVCols": "std、std2、std3",
+        "labCols": "lab、lab2、lab3"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols",
+        "stdVCols",
+        "labCols"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 151123,
+      "previewSize": 62041
+    },
+    {
+      "id": "66dbb66a620602b0f69d8088",
+      "name": "雷达图",
+      "category": "雷达图",
+      "categoryTrail": [
+        "雷达图"
+      ],
+      "categoryTrailText": "雷达图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66dbb66a620602b0f69d8088",
+      "previewUrl": "templates/66dbb66a620602b0f69d8088/preview.png",
+      "svgUrl": "templates/66dbb66a620602b0f69d8088/rendered.svg",
+      "metaUrl": "templates/66dbb66a620602b0f69d8088/meta.json",
+      "pythonUrl": "templates/66dbb66a620602b0f69d8088/python_example.py",
+      "rUrl": "templates/66dbb66a620602b0f69d8088/R_example.R",
+      "dirUrl": "templates/66dbb66a620602b0f69d8088",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66dbb66a620602b0f69d8088/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9414,
+      "previewSize": 38517
+    },
+    {
+      "id": "695c8d9d3cefa576c902ac82",
+      "name": "雷达图-背景色按变量-不同刻度范围",
+      "category": "雷达图",
+      "categoryTrail": [
+        "雷达图",
+        "背景色按变量",
+        "不同刻度范围"
+      ],
+      "categoryTrailText": "雷达图 / 背景色按变量 / 不同刻度范围",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=695c8d9d3cefa576c902ac82",
+      "previewUrl": "templates/695c8d9d3cefa576c902ac82/preview.png",
+      "svgUrl": "templates/695c8d9d3cefa576c902ac82/rendered.svg",
+      "metaUrl": "templates/695c8d9d3cefa576c902ac82/meta.json",
+      "pythonUrl": "templates/695c8d9d3cefa576c902ac82/python_example.py",
+      "rUrl": "templates/695c8d9d3cefa576c902ac82/R_example.R",
+      "dirUrl": "templates/695c8d9d3cefa576c902ac82",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/695c8d9d3cefa576c902ac82/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18002,
+      "previewSize": 56578
+    },
+    {
+      "id": "676aa8fbaef372f7ca212b44",
+      "name": "雷达图-变量分组-外环颜色不同",
+      "category": "雷达图",
+      "categoryTrail": [
+        "雷达图",
+        "变量分组",
+        "外环颜色不同"
+      ],
+      "categoryTrailText": "雷达图 / 变量分组 / 外环颜色不同",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676aa8fbaef372f7ca212b44",
+      "previewUrl": "templates/676aa8fbaef372f7ca212b44/preview.png",
+      "svgUrl": "templates/676aa8fbaef372f7ca212b44/rendered.svg",
+      "metaUrl": "templates/676aa8fbaef372f7ca212b44/meta.json",
+      "pythonUrl": "templates/676aa8fbaef372f7ca212b44/python_example.py",
+      "rUrl": "templates/676aa8fbaef372f7ca212b44/R_example.R",
+      "dirUrl": "templates/676aa8fbaef372f7ca212b44",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676aa8fbaef372f7ca212b44/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/676aa8fbaef372f7ca212b44/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "data2VarCol": "varname",
+        "data2GroupCol": "group"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "data2VarCol",
+        "data2GroupCol"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 16635,
+      "previewSize": 49359
+    },
+    {
+      "id": "676a7463aef372f7ca212a5a",
+      "name": "雷达图-不同圈不颜色",
+      "category": "雷达图",
+      "categoryTrail": [
+        "雷达图",
+        "不同圈不颜色"
+      ],
+      "categoryTrailText": "雷达图 / 不同圈不颜色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a7463aef372f7ca212a5a",
+      "previewUrl": "templates/676a7463aef372f7ca212a5a/preview.png",
+      "svgUrl": "templates/676a7463aef372f7ca212a5a/rendered.svg",
+      "metaUrl": "templates/676a7463aef372f7ca212a5a/meta.json",
+      "pythonUrl": "templates/676a7463aef372f7ca212a5a/python_example.py",
+      "rUrl": "templates/676a7463aef372f7ca212a5a/R_example.R",
+      "dirUrl": "templates/676a7463aef372f7ca212a5a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676a7463aef372f7ca212a5a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 13621,
+      "previewSize": 37240
+    },
+    {
+      "id": "676a805baef372f7ca212a93",
+      "name": "雷达图-颜色按变量-显示数值",
+      "category": "雷达图",
+      "categoryTrail": [
+        "雷达图",
+        "颜色按变量",
+        "显示数值"
+      ],
+      "categoryTrailText": "雷达图 / 颜色按变量 / 显示数值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a805baef372f7ca212a93",
+      "previewUrl": "templates/676a805baef372f7ca212a93/preview.png",
+      "svgUrl": "templates/676a805baef372f7ca212a93/rendered.svg",
+      "metaUrl": "templates/676a805baef372f7ca212a93/meta.json",
+      "pythonUrl": "templates/676a805baef372f7ca212a93/python_example.py",
+      "rUrl": "templates/676a805baef372f7ca212a93/R_example.R",
+      "dirUrl": "templates/676a805baef372f7ca212a93",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676a805baef372f7ca212a93/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 16358,
+      "previewSize": 56795
+    },
+    {
+      "id": "676a8324aef372f7ca212aae",
+      "name": "雷达图-颜色按变量分组-数值",
+      "category": "雷达图",
+      "categoryTrail": [
+        "雷达图",
+        "颜色按变量分组",
+        "数值"
+      ],
+      "categoryTrailText": "雷达图 / 颜色按变量分组 / 数值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a8324aef372f7ca212aae",
+      "previewUrl": "templates/676a8324aef372f7ca212aae/preview.png",
+      "svgUrl": "templates/676a8324aef372f7ca212aae/rendered.svg",
+      "metaUrl": "templates/676a8324aef372f7ca212aae/meta.json",
+      "pythonUrl": "templates/676a8324aef372f7ca212aae/python_example.py",
+      "rUrl": "templates/676a8324aef372f7ca212aae/R_example.R",
+      "dirUrl": "templates/676a8324aef372f7ca212aae",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676a8324aef372f7ca212aae/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/676a8324aef372f7ca212aae/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "data2VarCol": "varname",
+        "data2GroupCol": "group"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "data2VarCol",
+        "data2GroupCol"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 16360,
+      "previewSize": 54066
+    },
+    {
+      "id": "676a6973aef372f7ca2129d1",
+      "name": "雷达图-展示节点-有背景",
+      "category": "雷达图",
+      "categoryTrail": [
+        "雷达图",
+        "展示节点",
+        "有背景"
+      ],
+      "categoryTrailText": "雷达图 / 展示节点 / 有背景",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a6973aef372f7ca2129d1",
+      "previewUrl": "templates/676a6973aef372f7ca2129d1/preview.png",
+      "svgUrl": "templates/676a6973aef372f7ca2129d1/rendered.svg",
+      "metaUrl": "templates/676a6973aef372f7ca2129d1/meta.json",
+      "pythonUrl": "templates/676a6973aef372f7ca2129d1/python_example.py",
+      "rUrl": "templates/676a6973aef372f7ca2129d1/R_example.R",
+      "dirUrl": "templates/676a6973aef372f7ca2129d1",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676a6973aef372f7ca2129d1/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 13624,
+      "previewSize": 51583
+    },
+    {
+      "id": "6742d067958211d5ed19d8ee",
+      "name": "流程图-横向",
+      "category": "流程图",
+      "categoryTrail": [
+        "流程图",
+        "横向"
+      ],
+      "categoryTrailText": "流程图 / 横向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6742d067958211d5ed19d8ee",
+      "previewUrl": "templates/6742d067958211d5ed19d8ee/preview.png",
+      "svgUrl": "templates/6742d067958211d5ed19d8ee/rendered.svg",
+      "metaUrl": "templates/6742d067958211d5ed19d8ee/meta.json",
+      "pythonUrl": "templates/6742d067958211d5ed19d8ee/python_example.py",
+      "rUrl": "templates/6742d067958211d5ed19d8ee/R_example.R",
+      "dirUrl": "templates/6742d067958211d5ed19d8ee",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6742d067958211d5ed19d8ee/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15692,
+      "previewSize": 25575
+    },
+    {
+      "id": "67761e9fc8c401fc9d9ed8e2",
+      "name": "流程图-竖直",
+      "category": "流程图",
+      "categoryTrail": [
+        "流程图",
+        "竖直"
+      ],
+      "categoryTrailText": "流程图 / 竖直",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67761e9fc8c401fc9d9ed8e2",
+      "previewUrl": "templates/67761e9fc8c401fc9d9ed8e2/preview.png",
+      "svgUrl": "templates/67761e9fc8c401fc9d9ed8e2/rendered.svg",
+      "metaUrl": "templates/67761e9fc8c401fc9d9ed8e2/meta.json",
+      "pythonUrl": "templates/67761e9fc8c401fc9d9ed8e2/python_example.py",
+      "rUrl": "templates/67761e9fc8c401fc9d9ed8e2/R_example.R",
+      "dirUrl": "templates/67761e9fc8c401fc9d9ed8e2",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67761e9fc8c401fc9d9ed8e2/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 6376,
+      "previewSize": 17341
+    },
+    {
+      "id": "674ffe93b3a7e1a5d417f14b",
+      "name": "面积图-分组-横轴分类",
+      "category": "面积图",
+      "categoryTrail": [
+        "面积图",
+        "分组",
+        "横轴分类"
+      ],
+      "categoryTrailText": "面积图 / 分组 / 横轴分类",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=674ffe93b3a7e1a5d417f14b",
+      "previewUrl": "templates/674ffe93b3a7e1a5d417f14b/preview.png",
+      "svgUrl": "templates/674ffe93b3a7e1a5d417f14b/rendered.svg",
+      "metaUrl": "templates/674ffe93b3a7e1a5d417f14b/meta.json",
+      "pythonUrl": "templates/674ffe93b3a7e1a5d417f14b/python_example.py",
+      "rUrl": "templates/674ffe93b3a7e1a5d417f14b/R_example.R",
+      "dirUrl": "templates/674ffe93b3a7e1a5d417f14b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/674ffe93b3a7e1a5d417f14b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "yVCol": "value",
+        "xCol": "var"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "yVCol",
+        "xCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 13750,
+      "previewSize": 18904
+    },
+    {
+      "id": "6788dd0f02185aae52e958dc",
+      "name": "面积图-三维",
+      "category": "面积图",
+      "categoryTrail": [
+        "面积图",
+        "三维"
+      ],
+      "categoryTrailText": "面积图 / 三维",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6788dd0f02185aae52e958dc",
+      "previewUrl": "templates/6788dd0f02185aae52e958dc/preview.png",
+      "svgUrl": "templates/6788dd0f02185aae52e958dc/rendered.svg",
+      "metaUrl": "templates/6788dd0f02185aae52e958dc/meta.json",
+      "pythonUrl": "templates/6788dd0f02185aae52e958dc/python_example.py",
+      "rUrl": "templates/6788dd0f02185aae52e958dc/R_example.R",
+      "dirUrl": "templates/6788dd0f02185aae52e958dc",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6788dd0f02185aae52e958dc/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "group",
+        "xVCol": "a",
+        "yVCol": "b",
+        "zVCol": "c"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "yVCol",
+        "zVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 19266,
+      "previewSize": 23608
+    },
+    {
+      "id": "6750174ab3a7e1a5d417f527",
+      "name": "气泡图-横纵轴分类-分组-同组同色",
+      "category": "面积图",
+      "categoryTrail": [
+        "面积图",
+        "分组",
+        "横轴分类",
+        "不重叠"
+      ],
+      "categoryTrailText": "面积图 / 分组 / 横轴分类 / 不重叠",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=686c88de85f1a520d77b2686",
+      "previewUrl": "templates/6750174ab3a7e1a5d417f527/preview.png",
+      "svgUrl": "templates/6750174ab3a7e1a5d417f527/rendered.svg",
+      "metaUrl": "templates/6750174ab3a7e1a5d417f527/meta.json",
+      "pythonUrl": "templates/6750174ab3a7e1a5d417f527/python_example.py",
+      "rUrl": "templates/6750174ab3a7e1a5d417f527/R_example.R",
+      "dirUrl": "templates/6750174ab3a7e1a5d417f527",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6750174ab3a7e1a5d417f527/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "group",
+        "valueCol": "value",
+        "rowCol": "name1",
+        "colCol": "name2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "valueCol",
+        "rowCol",
+        "colCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 44221,
+      "previewSize": 7772
+    },
+    {
+      "id": "683d5b836226ac259e6c21c2",
+      "name": "瀑布图-多组",
+      "category": "瀑布图",
+      "categoryTrail": [
+        "瀑布图",
+        "多组"
+      ],
+      "categoryTrailText": "瀑布图 / 多组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=683d5b836226ac259e6c21c2",
+      "previewUrl": "templates/683d5b836226ac259e6c21c2/preview.png",
+      "svgUrl": "templates/683d5b836226ac259e6c21c2/rendered.svg",
+      "metaUrl": "templates/683d5b836226ac259e6c21c2/meta.json",
+      "pythonUrl": "templates/683d5b836226ac259e6c21c2/python_example.py",
+      "rUrl": "templates/683d5b836226ac259e6c21c2/R_example.R",
+      "dirUrl": "templates/683d5b836226ac259e6c21c2",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/683d5b836226ac259e6c21c2/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "groupCol": "group",
+        "xVCol": "x",
+        "yVCol": "y"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "xVCol",
+        "yVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 29562,
+      "previewSize": 7570
+    },
+    {
+      "id": "67567dd660eadfff7810d3d1",
+      "name": "气泡图-横纵轴分类-渐变色-有网格",
+      "category": "瀑布图",
+      "categoryTrail": [
+        "瀑布图",
+        "单组"
+      ],
+      "categoryTrailText": "瀑布图 / 单组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68f88cf753c4ddf667aabfe9",
+      "previewUrl": "templates/67567dd660eadfff7810d3d1/preview.png",
+      "svgUrl": "templates/67567dd660eadfff7810d3d1/rendered.svg",
+      "metaUrl": "templates/67567dd660eadfff7810d3d1/meta.json",
+      "pythonUrl": "templates/67567dd660eadfff7810d3d1/python_example.py",
+      "rUrl": "templates/67567dd660eadfff7810d3d1/R_example.R",
+      "dirUrl": "templates/67567dd660eadfff7810d3d1",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67567dd660eadfff7810d3d1/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "sample",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 30188,
+      "previewSize": 7317
+    },
+    {
+      "id": "686c88de85f1a520d77b2686",
+      "name": "气泡图-横纵轴分类-分组-同组同色",
+      "category": "气泡图",
+      "categoryTrail": [
+        "气泡图",
+        "横纵轴分类",
+        "分组",
+        "同组同色"
+      ],
+      "categoryTrailText": "气泡图 / 横纵轴分类 / 分组 / 同组同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=686c88de85f1a520d77b2686",
+      "previewUrl": "templates/686c88de85f1a520d77b2686/preview.png",
+      "svgUrl": "templates/686c88de85f1a520d77b2686/rendered.svg",
+      "metaUrl": "templates/686c88de85f1a520d77b2686/meta.json",
+      "pythonUrl": "templates/686c88de85f1a520d77b2686/python_example.py",
+      "rUrl": "templates/686c88de85f1a520d77b2686/R_example.R",
+      "dirUrl": "templates/686c88de85f1a520d77b2686",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/686c88de85f1a520d77b2686/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "group",
+        "valueCol": "value",
+        "rowCol": "name1",
+        "colCol": "name2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "valueCol",
+        "rowCol",
+        "colCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 44221,
+      "previewSize": 32166
+    },
+    {
+      "id": "6983f2bb5a9b04028486b6bd",
+      "name": "气泡图-横纵轴分类-横轴分组",
+      "category": "气泡图",
+      "categoryTrail": [
+        "气泡图",
+        "横纵轴分类",
+        "横轴分组"
+      ],
+      "categoryTrailText": "气泡图 / 横纵轴分类 / 横轴分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6983f2bb5a9b04028486b6bd",
+      "previewUrl": "templates/6983f2bb5a9b04028486b6bd/preview.png",
+      "svgUrl": "templates/6983f2bb5a9b04028486b6bd/rendered.svg",
+      "metaUrl": "templates/6983f2bb5a9b04028486b6bd/meta.json",
+      "pythonUrl": "templates/6983f2bb5a9b04028486b6bd/python_example.py",
+      "rUrl": "templates/6983f2bb5a9b04028486b6bd/R_example.R",
+      "dirUrl": "templates/6983f2bb5a9b04028486b6bd",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6983f2bb5a9b04028486b6bd/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6983f2bb5a9b04028486b6bd/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "groupCol": "group",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "groupCol",
+        "nameCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 133462,
+      "previewSize": 66147
+    },
+    {
+      "id": "68f88cf753c4ddf667aabfe9",
+      "name": "气泡图-横纵轴分类-渐变色-有网格",
+      "category": "气泡图",
+      "categoryTrail": [
+        "气泡图",
+        "横纵轴分类",
+        "渐变色",
+        "有网格"
+      ],
+      "categoryTrailText": "气泡图 / 横纵轴分类 / 渐变色 / 有网格",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68f88cf753c4ddf667aabfe9",
+      "previewUrl": "templates/68f88cf753c4ddf667aabfe9/preview.png",
+      "svgUrl": "templates/68f88cf753c4ddf667aabfe9/rendered.svg",
+      "metaUrl": "templates/68f88cf753c4ddf667aabfe9/meta.json",
+      "pythonUrl": "templates/68f88cf753c4ddf667aabfe9/python_example.py",
+      "rUrl": "templates/68f88cf753c4ddf667aabfe9/R_example.R",
+      "dirUrl": "templates/68f88cf753c4ddf667aabfe9",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68f88cf753c4ddf667aabfe9/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "sample",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 30188,
+      "previewSize": 29914
+    },
+    {
+      "id": "6761297c0dc21c3782f035f8",
+      "name": "气泡图-横纵轴分类-统计柱子",
+      "category": "气泡图",
+      "categoryTrail": [
+        "气泡图",
+        "横纵轴分类",
+        "统计柱子"
+      ],
+      "categoryTrailText": "气泡图 / 横纵轴分类 / 统计柱子",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6761297c0dc21c3782f035f8",
+      "previewUrl": "templates/6761297c0dc21c3782f035f8/preview.png",
+      "svgUrl": "templates/6761297c0dc21c3782f035f8/rendered.svg",
+      "metaUrl": "templates/6761297c0dc21c3782f035f8/meta.json",
+      "pythonUrl": "templates/6761297c0dc21c3782f035f8/python_example.py",
+      "rUrl": "templates/6761297c0dc21c3782f035f8/R_example.R",
+      "dirUrl": "templates/6761297c0dc21c3782f035f8",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6761297c0dc21c3782f035f8/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "yVCol": "y",
+        "valueCol": "value",
+        "colorVCol": "y"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "yVCol",
+        "valueCol",
+        "colorVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 19881,
+      "previewSize": 11008
+    },
+    {
+      "id": "676121b90dc21c3782f034ff",
+      "name": "气泡图-横纵轴数值-空心圆",
+      "category": "气泡图",
+      "categoryTrail": [
+        "气泡图",
+        "横纵轴数值",
+        "空心圆"
+      ],
+      "categoryTrailText": "气泡图 / 横纵轴数值 / 空心圆",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676121b90dc21c3782f034ff",
+      "previewUrl": "templates/676121b90dc21c3782f034ff/preview.png",
+      "svgUrl": "templates/676121b90dc21c3782f034ff/rendered.svg",
+      "metaUrl": "templates/676121b90dc21c3782f034ff/meta.json",
+      "pythonUrl": "templates/676121b90dc21c3782f034ff/python_example.py",
+      "rUrl": "templates/676121b90dc21c3782f034ff/R_example.R",
+      "dirUrl": "templates/676121b90dc21c3782f034ff",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676121b90dc21c3782f034ff/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "xVCol": "a",
+        "yVCol": "b",
+        "rVCol": "c",
+        "colorVCol": "c"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "xVCol",
+        "yVCol",
+        "rVCol",
+        "colorVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 31650,
+      "previewSize": 7929
+    },
+    {
+      "id": "66d4202c6d3485916d192ba5",
+      "name": "气泡图-纵轴分类横轴数值-分组-同组同色",
+      "category": "气泡图",
+      "categoryTrail": [
+        "气泡图",
+        "纵轴分类横轴数值",
+        "分组",
+        "同组同色"
+      ],
+      "categoryTrailText": "气泡图 / 纵轴分类横轴数值 / 分组 / 同组同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66d4202c6d3485916d192ba5",
+      "previewUrl": "templates/66d4202c6d3485916d192ba5/preview.png",
+      "svgUrl": "templates/66d4202c6d3485916d192ba5/rendered.svg",
+      "metaUrl": "templates/66d4202c6d3485916d192ba5/meta.json",
+      "pythonUrl": "templates/66d4202c6d3485916d192ba5/python_example.py",
+      "rUrl": "templates/66d4202c6d3485916d192ba5/R_example.R",
+      "dirUrl": "templates/66d4202c6d3485916d192ba5",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66d4202c6d3485916d192ba5/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "type",
+        "xVCol": "percent",
+        "groupCol": "group"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "groupCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 19830,
+      "previewSize": 12392
+    },
+    {
+      "id": "66a0610dc846c0bf2409f8ff",
+      "name": "气泡图-纵轴分类横轴数值-渐变色",
+      "category": "气泡图",
+      "categoryTrail": [
+        "气泡图",
+        "纵轴分类横轴数值",
+        "渐变色"
+      ],
+      "categoryTrailText": "气泡图 / 纵轴分类横轴数值 / 渐变色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a0610dc846c0bf2409f8ff",
+      "previewUrl": "templates/66a0610dc846c0bf2409f8ff/preview.png",
+      "svgUrl": "templates/66a0610dc846c0bf2409f8ff/rendered.svg",
+      "metaUrl": "templates/66a0610dc846c0bf2409f8ff/meta.json",
+      "pythonUrl": "templates/66a0610dc846c0bf2409f8ff/python_example.py",
+      "rUrl": "templates/66a0610dc846c0bf2409f8ff/R_example.R",
+      "dirUrl": "templates/66a0610dc846c0bf2409f8ff",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66a0610dc846c0bf2409f8ff/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "xVCol": "v1",
+        "rVCol": "v2",
+        "colorVCol": "pvalue"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "rVCol",
+        "colorVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 21409,
+      "previewSize": 14055
+    },
+    {
+      "id": "66a07147c846c0bf240a376b",
+      "name": "气泡图-纵轴分类横轴数值-自动计算负logP值",
+      "category": "气泡图",
+      "categoryTrail": [
+        "气泡图",
+        "纵轴分类横轴数值",
+        "自动计算负logP值"
+      ],
+      "categoryTrailText": "气泡图 / 纵轴分类横轴数值 / 自动计算负logP值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a07147c846c0bf240a376b",
+      "previewUrl": "templates/66a07147c846c0bf240a376b/preview.png",
+      "svgUrl": "templates/66a07147c846c0bf240a376b/rendered.svg",
+      "metaUrl": "templates/66a07147c846c0bf240a376b/meta.json",
+      "pythonUrl": "templates/66a07147c846c0bf240a376b/python_example.py",
+      "rUrl": "templates/66a07147c846c0bf240a376b/R_example.R",
+      "dirUrl": "templates/66a07147c846c0bf240a376b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66a07147c846c0bf240a376b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Class",
+        "xVCol": "log2FC",
+        "rVCol": "rawpval",
+        "legendTitle": "-log10P"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "rVCol",
+        "legendTitle"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 76047,
+      "previewSize": 20799
+    },
+    {
+      "id": "68b14a8ac910cf666b2ec29d",
+      "name": "热图-3D柱子-正负相关性",
+      "category": "热图",
+      "categoryTrail": [
+        "热图",
+        "3D柱子",
+        "正负相关性"
+      ],
+      "categoryTrailText": "热图 / 3D柱子 / 正负相关性",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68b14a8ac910cf666b2ec29d",
+      "previewUrl": "templates/68b14a8ac910cf666b2ec29d/preview.png",
+      "svgUrl": "templates/68b14a8ac910cf666b2ec29d/rendered.svg",
+      "metaUrl": "templates/68b14a8ac910cf666b2ec29d/meta.json",
+      "pythonUrl": "templates/68b14a8ac910cf666b2ec29d/python_example.py",
+      "rUrl": "templates/68b14a8ac910cf666b2ec29d/R_example.R",
+      "dirUrl": "templates/68b14a8ac910cf666b2ec29d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68b14a8ac910cf666b2ec29d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 337988,
+      "previewSize": 43999
+    },
+    {
+      "id": "67da7921210978850e12e4ac",
+      "name": "热图-基础",
+      "category": "热图",
+      "categoryTrail": [
+        "热图",
+        "基础"
+      ],
+      "categoryTrailText": "热图 / 基础",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67da7921210978850e12e4ac",
+      "previewUrl": "templates/67da7921210978850e12e4ac/preview.png",
+      "svgUrl": "templates/67da7921210978850e12e4ac/rendered.svg",
+      "metaUrl": "templates/67da7921210978850e12e4ac/meta.json",
+      "pythonUrl": "templates/67da7921210978850e12e4ac/python_example.py",
+      "rUrl": "templates/67da7921210978850e12e4ac/R_example.R",
+      "dirUrl": "templates/67da7921210978850e12e4ac",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67da7921210978850e12e4ac/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 104559,
+      "previewSize": 13377
+    },
+    {
+      "id": "668bb701f7fccc764535b687",
+      "name": "热图-有分类条",
+      "category": "热图",
+      "categoryTrail": [
+        "热图",
+        "有分类条"
+      ],
+      "categoryTrailText": "热图 / 有分类条",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=668bb701f7fccc764535b687",
+      "previewUrl": "templates/668bb701f7fccc764535b687/preview.png",
+      "svgUrl": "templates/668bb701f7fccc764535b687/rendered.svg",
+      "metaUrl": "templates/668bb701f7fccc764535b687/meta.json",
+      "pythonUrl": "templates/668bb701f7fccc764535b687/python_example.py",
+      "rUrl": "templates/668bb701f7fccc764535b687/R_example.R",
+      "dirUrl": "templates/668bb701f7fccc764535b687",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/668bb701f7fccc764535b687/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample",
+        "typesCols": "TypeK、TypeP",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "typesCols",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 128610,
+      "previewSize": 14440
+    },
+    {
+      "id": "66e18ec9bbe664e368cf5cfa",
+      "name": "热图-有分类条-横向",
+      "category": "热图",
+      "categoryTrail": [
+        "热图",
+        "有分类条",
+        "横向"
+      ],
+      "categoryTrailText": "热图 / 有分类条 / 横向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66e18ec9bbe664e368cf5cfa",
+      "previewUrl": "templates/66e18ec9bbe664e368cf5cfa/preview.png",
+      "svgUrl": "templates/66e18ec9bbe664e368cf5cfa/rendered.svg",
+      "metaUrl": "templates/66e18ec9bbe664e368cf5cfa/meta.json",
+      "pythonUrl": "templates/66e18ec9bbe664e368cf5cfa/python_example.py",
+      "rUrl": "templates/66e18ec9bbe664e368cf5cfa/R_example.R",
+      "dirUrl": "templates/66e18ec9bbe664e368cf5cfa",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66e18ec9bbe664e368cf5cfa/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66e18ec9bbe664e368cf5cfa/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "typesCols": "gender、grade、village",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "typesCols",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 235132,
+      "previewSize": 30869
+    },
+    {
+      "id": "67da97ffe0c94627814117b9",
+      "name": "热图-有聚类树-自动匹配",
+      "category": "热图",
+      "categoryTrail": [
+        "热图",
+        "有聚类树",
+        "自动匹配"
+      ],
+      "categoryTrailText": "热图 / 有聚类树 / 自动匹配",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67da97ffe0c94627814117b9",
+      "previewUrl": "templates/67da97ffe0c94627814117b9/preview.png",
+      "svgUrl": "templates/67da97ffe0c94627814117b9/rendered.svg",
+      "metaUrl": "templates/67da97ffe0c94627814117b9/meta.json",
+      "pythonUrl": "templates/67da97ffe0c94627814117b9/python_example.py",
+      "rUrl": "templates/67da97ffe0c94627814117b9/R_example.R",
+      "dirUrl": "templates/67da97ffe0c94627814117b9",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67da97ffe0c94627814117b9/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/67da97ffe0c94627814117b9/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "treeCol": "tree"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "treeCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 33230,
+      "previewSize": 3680
+    },
+    {
+      "id": "69afb03d57da66ecd1599503",
+      "name": "热图-有聚类树-自动匹配",
+      "category": "热图",
+      "categoryTrail": [
+        "热图",
+        "多组"
+      ],
+      "categoryTrailText": "热图 / 多组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67da97ffe0c94627814117b9",
+      "previewUrl": "templates/69afb03d57da66ecd1599503/preview.png",
+      "svgUrl": "templates/69afb03d57da66ecd1599503/rendered.svg",
+      "metaUrl": "templates/69afb03d57da66ecd1599503/meta.json",
+      "pythonUrl": "templates/69afb03d57da66ecd1599503/python_example.py",
+      "rUrl": "templates/69afb03d57da66ecd1599503/R_example.R",
+      "dirUrl": "templates/69afb03d57da66ecd1599503",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69afb03d57da66ecd1599503/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/69afb03d57da66ecd1599503/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "treeCol": "tree"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "treeCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 33230,
+      "previewSize": 13028
+    },
+    {
+      "id": "6863288b8e7da8465b482a70",
+      "name": "三角热图-方块大小渐变",
+      "category": "三角热图",
+      "categoryTrail": [
+        "三角热图",
+        "方块大小渐变"
+      ],
+      "categoryTrailText": "三角热图 / 方块大小渐变",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6863288b8e7da8465b482a70",
+      "previewUrl": "templates/6863288b8e7da8465b482a70/preview.png",
+      "svgUrl": "templates/6863288b8e7da8465b482a70/rendered.svg",
+      "metaUrl": "templates/6863288b8e7da8465b482a70/meta.json",
+      "pythonUrl": "templates/6863288b8e7da8465b482a70/python_example.py",
+      "rUrl": "templates/6863288b8e7da8465b482a70/R_example.R",
+      "dirUrl": "templates/6863288b8e7da8465b482a70",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6863288b8e7da8465b482a70/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "valueCol": "corr",
+        "rowCol": "row",
+        "colCol": "col",
+        "xinCol": "p",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "valueCol",
+        "rowCol",
+        "colCol",
+        "xinCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 153922,
+      "previewSize": 24564
+    },
+    {
+      "id": "6863492eb58cce3d98483cdf",
+      "name": "三角热图-方块大小渐变-自动统一行列顺序-文本靠左",
+      "category": "三角热图",
+      "categoryTrail": [
+        "三角热图",
+        "方块大小渐变",
+        "自动统一行列顺序",
+        "文本靠左"
+      ],
+      "categoryTrailText": "三角热图 / 方块大小渐变 / 自动统一行列顺序 / 文本靠左",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6863492eb58cce3d98483cdf",
+      "previewUrl": "templates/6863492eb58cce3d98483cdf/preview.png",
+      "svgUrl": "templates/6863492eb58cce3d98483cdf/rendered.svg",
+      "metaUrl": "templates/6863492eb58cce3d98483cdf/meta.json",
+      "pythonUrl": "templates/6863492eb58cce3d98483cdf/python_example.py",
+      "rUrl": "templates/6863492eb58cce3d98483cdf/R_example.R",
+      "dirUrl": "templates/6863492eb58cce3d98483cdf",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6863492eb58cce3d98483cdf/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "valueCol": "corr",
+        "rowCol": "col",
+        "colCol": "row",
+        "xinCol": "p",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "valueCol",
+        "rowCol",
+        "colCol",
+        "xinCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 102982,
+      "previewSize": 14893
+    },
+    {
+      "id": "66a4445e39235be1dd448364",
+      "name": "三角热图-显示数值",
+      "category": "三角热图",
+      "categoryTrail": [
+        "三角热图",
+        "显示数值"
+      ],
+      "categoryTrailText": "三角热图 / 显示数值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a4445e39235be1dd448364",
+      "previewUrl": "templates/66a4445e39235be1dd448364/preview.png",
+      "svgUrl": "templates/66a4445e39235be1dd448364/rendered.svg",
+      "metaUrl": "templates/66a4445e39235be1dd448364/meta.json",
+      "pythonUrl": "templates/66a4445e39235be1dd448364/python_example.py",
+      "rUrl": "templates/66a4445e39235be1dd448364/R_example.R",
+      "dirUrl": "templates/66a4445e39235be1dd448364",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66a4445e39235be1dd448364/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "valueCol": "corr",
+        "rowCol": "row",
+        "colCol": "col",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "valueCol",
+        "rowCol",
+        "colCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 108015,
+      "previewSize": 19714
+    },
+    {
+      "id": "6789ca72c08c7f4fd9cca729",
+      "name": "三维堆叠图",
+      "category": "三维堆叠图",
+      "categoryTrail": [
+        "三维堆叠图"
+      ],
+      "categoryTrailText": "三维堆叠图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6789ca72c08c7f4fd9cca729",
+      "previewUrl": "templates/6789ca72c08c7f4fd9cca729/preview.png",
+      "svgUrl": "templates/6789ca72c08c7f4fd9cca729/rendered.svg",
+      "metaUrl": "templates/6789ca72c08c7f4fd9cca729/meta.json",
+      "pythonUrl": "templates/6789ca72c08c7f4fd9cca729/python_example.py",
+      "rUrl": "templates/6789ca72c08c7f4fd9cca729/R_example.R",
+      "dirUrl": "templates/6789ca72c08c7f4fd9cca729",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6789ca72c08c7f4fd9cca729/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "xVCol": "a",
+        "yVCol": "b",
+        "zVCols": "c1、c2、c3",
+        "zTitle": "c"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "xVCol",
+        "yVCol",
+        "zVCols",
+        "zTitle"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 24204,
+      "previewSize": 23711
+    },
+    {
+      "id": "6789d6dac08c7f4fd9cca78a",
+      "name": "三维堆叠图-立体柱子",
+      "category": "三维堆叠图",
+      "categoryTrail": [
+        "三维堆叠图",
+        "立体柱子"
+      ],
+      "categoryTrailText": "三维堆叠图 / 立体柱子",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6789d6dac08c7f4fd9cca78a",
+      "previewUrl": "templates/6789d6dac08c7f4fd9cca78a/preview.png",
+      "svgUrl": "templates/6789d6dac08c7f4fd9cca78a/rendered.svg",
+      "metaUrl": "templates/6789d6dac08c7f4fd9cca78a/meta.json",
+      "pythonUrl": "templates/6789d6dac08c7f4fd9cca78a/python_example.py",
+      "rUrl": "templates/6789d6dac08c7f4fd9cca78a/R_example.R",
+      "dirUrl": "templates/6789d6dac08c7f4fd9cca78a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6789d6dac08c7f4fd9cca78a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "xVCol": "adjjia",
+        "yVCol": "ewigihi",
+        "zVCols": "c1、c2、c3",
+        "zTitle": "abcd"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "xVCol",
+        "yVCol",
+        "zVCols",
+        "zTitle"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 36441,
+      "previewSize": 27032
+    },
+    {
+      "id": "678715759cc482bfd0150b69",
+      "name": "三维散点图-xyz连续型变量",
+      "category": "三维散点图",
+      "categoryTrail": [
+        "三维散点图",
+        "xyz连续型变量"
+      ],
+      "categoryTrailText": "三维散点图 / xyz连续型变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=678715759cc482bfd0150b69",
+      "previewUrl": "templates/678715759cc482bfd0150b69/preview.png",
+      "svgUrl": "templates/678715759cc482bfd0150b69/rendered.svg",
+      "metaUrl": "templates/678715759cc482bfd0150b69/meta.json",
+      "pythonUrl": "templates/678715759cc482bfd0150b69/python_example.py",
+      "rUrl": "templates/678715759cc482bfd0150b69/R_example.R",
+      "dirUrl": "templates/678715759cc482bfd0150b69",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/678715759cc482bfd0150b69/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "sample",
+        "xVCol": "aaaa",
+        "yVCol": "bbbb",
+        "zVCol": "cccc"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "yVCol",
+        "zVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15500,
+      "previewSize": 14511
+    },
+    {
+      "id": "68a8267d19a5da28f549d619",
+      "name": "散点饼图",
+      "category": "三维散点图",
+      "categoryTrail": [
+        "三维散点图",
+        "分组",
+        "xyz连续型变量",
+        "投影"
+      ],
+      "categoryTrailText": "三维散点图 / 分组 / xyz连续型变量 / 投影",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675bc77c840a91c9c316375d",
+      "previewUrl": "templates/68a8267d19a5da28f549d619/preview.png",
+      "svgUrl": "templates/68a8267d19a5da28f549d619/rendered.svg",
+      "metaUrl": "templates/68a8267d19a5da28f549d619/meta.json",
+      "pythonUrl": "templates/68a8267d19a5da28f549d619/python_example.py",
+      "rUrl": "templates/68a8267d19a5da28f549d619/R_example.R",
+      "dirUrl": "templates/68a8267d19a5da28f549d619",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68a8267d19a5da28f549d619/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "yVCol": "y",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "yVCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 16211,
+      "previewSize": 15974
+    },
+    {
+      "id": "6785f7620719133e28747b0b",
+      "name": "散点饼图-半径变化",
+      "category": "三维散点图",
+      "categoryTrail": [
+        "三维散点图",
+        "透视矩阵"
+      ],
+      "categoryTrailText": "三维散点图 / 透视矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675bdafa840a91c9c31637e3",
+      "previewUrl": "templates/6785f7620719133e28747b0b/preview.png",
+      "svgUrl": "templates/6785f7620719133e28747b0b/rendered.svg",
+      "metaUrl": "templates/6785f7620719133e28747b0b/meta.json",
+      "pythonUrl": "templates/6785f7620719133e28747b0b/python_example.py",
+      "rUrl": "templates/6785f7620719133e28747b0b/R_example.R",
+      "dirUrl": "templates/6785f7620719133e28747b0b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6785f7620719133e28747b0b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "yVCol": "y",
+        "rVCol": "v",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "yVCol",
+        "rVCol",
+        "valueCols"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11902,
+      "previewSize": 5125
+    },
+    {
+      "id": "6788d7bd02185aae52e95832",
+      "name": "三维折线图-xyz连续型变量",
+      "category": "三维折线图",
+      "categoryTrail": [
+        "三维折线图",
+        "xyz连续型变量"
+      ],
+      "categoryTrailText": "三维折线图 / xyz连续型变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6788d7bd02185aae52e95832",
+      "previewUrl": "templates/6788d7bd02185aae52e95832/preview.png",
+      "svgUrl": "templates/6788d7bd02185aae52e95832/rendered.svg",
+      "metaUrl": "templates/6788d7bd02185aae52e95832/meta.json",
+      "pythonUrl": "templates/6788d7bd02185aae52e95832/python_example.py",
+      "rUrl": "templates/6788d7bd02185aae52e95832/R_example.R",
+      "dirUrl": "templates/6788d7bd02185aae52e95832",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6788d7bd02185aae52e95832/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "group",
+        "xVCol": "a",
+        "yVCol": "b",
+        "zVCol": "c"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "yVCol",
+        "zVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14662,
+      "previewSize": 23816
+    },
+    {
+      "id": "675bc77c840a91c9c316375d",
+      "name": "散点饼图",
+      "category": "散点饼图",
+      "categoryTrail": [
+        "散点饼图"
+      ],
+      "categoryTrailText": "散点饼图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675bc77c840a91c9c316375d",
+      "previewUrl": "templates/675bc77c840a91c9c316375d/preview.png",
+      "svgUrl": "templates/675bc77c840a91c9c316375d/rendered.svg",
+      "metaUrl": "templates/675bc77c840a91c9c316375d/meta.json",
+      "pythonUrl": "templates/675bc77c840a91c9c316375d/python_example.py",
+      "rUrl": "templates/675bc77c840a91c9c316375d/R_example.R",
+      "dirUrl": "templates/675bc77c840a91c9c316375d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675bc77c840a91c9c316375d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "yVCol": "y",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "yVCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 16211,
+      "previewSize": 10783
+    },
+    {
+      "id": "675bdafa840a91c9c31637e3",
+      "name": "散点饼图-半径变化",
+      "category": "散点饼图",
+      "categoryTrail": [
+        "散点饼图",
+        "半径变化"
+      ],
+      "categoryTrailText": "散点饼图 / 半径变化",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675bdafa840a91c9c31637e3",
+      "previewUrl": "templates/675bdafa840a91c9c31637e3/preview.png",
+      "svgUrl": "templates/675bdafa840a91c9c31637e3/rendered.svg",
+      "metaUrl": "templates/675bdafa840a91c9c31637e3/meta.json",
+      "pythonUrl": "templates/675bdafa840a91c9c31637e3/python_example.py",
+      "rUrl": "templates/675bdafa840a91c9c31637e3/R_example.R",
+      "dirUrl": "templates/675bdafa840a91c9c31637e3",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675bdafa840a91c9c31637e3/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "yVCol": "y",
+        "rVCol": "v",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "yVCol",
+        "rVCol",
+        "valueCols"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11902,
+      "previewSize": 7666
+    },
+    {
+      "id": "675be29c840a91c9c3163891",
+      "name": "散点饼图-半径变化-分组",
+      "category": "散点饼图",
+      "categoryTrail": [
+        "散点饼图",
+        "半径变化",
+        "分组"
+      ],
+      "categoryTrailText": "散点饼图 / 半径变化 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675be29c840a91c9c3163891",
+      "previewUrl": "templates/675be29c840a91c9c3163891/preview.png",
+      "svgUrl": "templates/675be29c840a91c9c3163891/rendered.svg",
+      "metaUrl": "templates/675be29c840a91c9c3163891/meta.json",
+      "pythonUrl": "templates/675be29c840a91c9c3163891/python_example.py",
+      "rUrl": "templates/675be29c840a91c9c3163891/R_example.R",
+      "dirUrl": "templates/675be29c840a91c9c3163891",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675be29c840a91c9c3163891/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "age",
+        "rVCol": "r",
+        "yVCol": "y",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "rVCol",
+        "yVCol",
+        "valueCols"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14926,
+      "previewSize": 8723
+    },
+    {
+      "id": "66d4650e6d3485916d19321b",
+      "name": "散点饼图-不显坐标系",
+      "category": "散点饼图",
+      "categoryTrail": [
+        "散点饼图",
+        "不显坐标系"
+      ],
+      "categoryTrailText": "散点饼图 / 不显坐标系",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66d4650e6d3485916d19321b",
+      "previewUrl": "templates/66d4650e6d3485916d19321b/preview.png",
+      "svgUrl": "templates/66d4650e6d3485916d19321b/rendered.svg",
+      "metaUrl": "templates/66d4650e6d3485916d19321b/meta.json",
+      "pythonUrl": "templates/66d4650e6d3485916d19321b/python_example.py",
+      "rUrl": "templates/66d4650e6d3485916d19321b/R_example.R",
+      "dirUrl": "templates/66d4650e6d3485916d19321b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66d4650e6d3485916d19321b/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66d4650e6d3485916d19321b/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "groupCol": "group",
+        "xVCol": "x",
+        "yVCol": "y",
+        "valueCol": "num",
+        "typeCol": "type"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "groupCol",
+        "xVCol",
+        "yVCol",
+        "valueCol",
+        "typeCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 102189,
+      "previewSize": 68720
+    },
+    {
+      "id": "685204b0f95260dac1ec169c",
+      "name": "散点饼图-横纵轴分类",
+      "category": "散点饼图",
+      "categoryTrail": [
+        "散点饼图",
+        "横纵轴分类"
+      ],
+      "categoryTrailText": "散点饼图 / 横纵轴分类",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=685204b0f95260dac1ec169c",
+      "previewUrl": "templates/685204b0f95260dac1ec169c/preview.png",
+      "svgUrl": "templates/685204b0f95260dac1ec169c/rendered.svg",
+      "metaUrl": "templates/685204b0f95260dac1ec169c/meta.json",
+      "pythonUrl": "templates/685204b0f95260dac1ec169c/python_example.py",
+      "rUrl": "templates/685204b0f95260dac1ec169c/R_example.R",
+      "dirUrl": "templates/685204b0f95260dac1ec169c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/685204b0f95260dac1ec169c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "xSCol": "village",
+        "ySCol": "gender",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "xSCol",
+        "ySCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 39669,
+      "previewSize": 17226
+    },
+    {
+      "id": "6764b527393f82c554556241",
+      "name": "散点饼图-横纵轴数值",
+      "category": "散点饼图",
+      "categoryTrail": [
+        "散点饼图",
+        "横纵轴数值"
+      ],
+      "categoryTrailText": "散点饼图 / 横纵轴数值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6764b527393f82c554556241",
+      "previewUrl": "templates/6764b527393f82c554556241/preview.png",
+      "svgUrl": "templates/6764b527393f82c554556241/rendered.svg",
+      "metaUrl": "templates/6764b527393f82c554556241/meta.json",
+      "pythonUrl": "templates/6764b527393f82c554556241/python_example.py",
+      "rUrl": "templates/6764b527393f82c554556241/R_example.R",
+      "dirUrl": "templates/6764b527393f82c554556241",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6764b527393f82c554556241/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "xVCol": "X",
+        "yVCol": "Y",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "xVCol",
+        "yVCol",
+        "valueCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 24027,
+      "previewSize": 10845
+    },
+    {
+      "id": "675baab0840a91c9c31635bb",
+      "name": "散点图-横轴分类纵轴数值-分组-同组同色",
+      "category": "散点饼图",
+      "categoryTrail": [
+        "散点饼图",
+        "分组"
+      ],
+      "categoryTrailText": "散点饼图 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675e06d0c6a411fef4bd40ae",
+      "previewUrl": "templates/675baab0840a91c9c31635bb/preview.png",
+      "svgUrl": "templates/675baab0840a91c9c31635bb/rendered.svg",
+      "metaUrl": "templates/675baab0840a91c9c31635bb/meta.json",
+      "pythonUrl": "templates/675baab0840a91c9c31635bb/python_example.py",
+      "rUrl": "templates/675baab0840a91c9c31635bb/R_example.R",
+      "dirUrl": "templates/675baab0840a91c9c31635bb",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675baab0840a91c9c31635bb/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "grade",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8994,
+      "previewSize": 14232
+    },
+    {
+      "id": "675e14d3c6a411fef4bd41bd",
+      "name": "散点图-横轴分类纵轴数值-多变量-点多形状",
+      "category": "散点图",
+      "categoryTrail": [
+        "散点图",
+        "横轴分类纵轴数值",
+        "多变量",
+        "点多形状"
+      ],
+      "categoryTrailText": "散点图 / 横轴分类纵轴数值 / 多变量 / 点多形状",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675e14d3c6a411fef4bd41bd",
+      "previewUrl": "templates/675e14d3c6a411fef4bd41bd/preview.png",
+      "svgUrl": "templates/675e14d3c6a411fef4bd41bd/rendered.svg",
+      "metaUrl": "templates/675e14d3c6a411fef4bd41bd/meta.json",
+      "pythonUrl": "templates/675e14d3c6a411fef4bd41bd/python_example.py",
+      "rUrl": "templates/675e14d3c6a411fef4bd41bd/R_example.R",
+      "dirUrl": "templates/675e14d3c6a411fef4bd41bd",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675e14d3c6a411fef4bd41bd/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "grade",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10625,
+      "previewSize": 4907
+    },
+    {
+      "id": "675e06d0c6a411fef4bd40ae",
+      "name": "散点图-横轴分类纵轴数值-分组-同组同色",
+      "category": "散点图",
+      "categoryTrail": [
+        "散点图",
+        "横轴分类纵轴数值",
+        "分组",
+        "同组同色"
+      ],
+      "categoryTrailText": "散点图 / 横轴分类纵轴数值 / 分组 / 同组同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675e06d0c6a411fef4bd40ae",
+      "previewUrl": "templates/675e06d0c6a411fef4bd40ae/preview.png",
+      "svgUrl": "templates/675e06d0c6a411fef4bd40ae/rendered.svg",
+      "metaUrl": "templates/675e06d0c6a411fef4bd40ae/meta.json",
+      "pythonUrl": "templates/675e06d0c6a411fef4bd40ae/python_example.py",
+      "rUrl": "templates/675e06d0c6a411fef4bd40ae/R_example.R",
+      "dirUrl": "templates/675e06d0c6a411fef4bd40ae",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675e06d0c6a411fef4bd40ae/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "grade",
+        "valueCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8994,
+      "previewSize": 4754
+    },
+    {
+      "id": "6947a9f1948ba872102c519b",
+      "name": "散点图-横纵轴数值-点多形状-四个象限",
+      "category": "散点图",
+      "categoryTrail": [
+        "散点图",
+        "横纵轴数值",
+        "点多形状",
+        "四个象限"
+      ],
+      "categoryTrailText": "散点图 / 横纵轴数值 / 点多形状 / 四个象限",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6947a9f1948ba872102c519b",
+      "previewUrl": "templates/6947a9f1948ba872102c519b/preview.png",
+      "svgUrl": "templates/6947a9f1948ba872102c519b/rendered.svg",
+      "metaUrl": "templates/6947a9f1948ba872102c519b/meta.json",
+      "pythonUrl": "templates/6947a9f1948ba872102c519b/python_example.py",
+      "rUrl": "templates/6947a9f1948ba872102c519b/R_example.R",
+      "dirUrl": "templates/6947a9f1948ba872102c519b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6947a9f1948ba872102c519b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "group",
+        "xVCol": "x",
+        "yVCol": "y"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "xVCol",
+        "yVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 22409,
+      "previewSize": 8767
+    },
+    {
+      "id": "67d9443b11eeb4461e7205df",
+      "name": "散点图-横纵轴数值-分组",
+      "category": "散点图",
+      "categoryTrail": [
+        "散点图",
+        "横纵轴数值",
+        "分组"
+      ],
+      "categoryTrailText": "散点图 / 横纵轴数值 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67d9443b11eeb4461e7205df",
+      "previewUrl": "templates/67d9443b11eeb4461e7205df/preview.png",
+      "svgUrl": "templates/67d9443b11eeb4461e7205df/rendered.svg",
+      "metaUrl": "templates/67d9443b11eeb4461e7205df/meta.json",
+      "pythonUrl": "templates/67d9443b11eeb4461e7205df/python_example.py",
+      "rUrl": "templates/67d9443b11eeb4461e7205df/R_example.R",
+      "dirUrl": "templates/67d9443b11eeb4461e7205df",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67d9443b11eeb4461e7205df/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "Sample_ID",
+        "groupCol": "Group",
+        "xVCol": "PC1",
+        "yVCol": "PC2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "xVCol",
+        "yVCol"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 12064,
+      "previewSize": 6410
+    },
+    {
+      "id": "68ff50c6bb52e659119579b8",
+      "name": "散点图-横纵轴数值-分组-点多形状",
+      "category": "散点图",
+      "categoryTrail": [
+        "散点图",
+        "横纵轴数值",
+        "分组",
+        "点多形状"
+      ],
+      "categoryTrailText": "散点图 / 横纵轴数值 / 分组 / 点多形状",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68ff50c6bb52e659119579b8",
+      "previewUrl": "templates/68ff50c6bb52e659119579b8/preview.png",
+      "svgUrl": "templates/68ff50c6bb52e659119579b8/rendered.svg",
+      "metaUrl": "templates/68ff50c6bb52e659119579b8/meta.json",
+      "pythonUrl": "templates/68ff50c6bb52e659119579b8/python_example.py",
+      "rUrl": "templates/68ff50c6bb52e659119579b8/R_example.R",
+      "dirUrl": "templates/68ff50c6bb52e659119579b8",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68ff50c6bb52e659119579b8/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "group",
+        "xVCol": "x",
+        "yVCol": "y"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "yVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18492,
+      "previewSize": 8484
+    },
+    {
+      "id": "668555c131239542b60568ba",
+      "name": "散点图-横纵轴数值-分组-圈内文本",
+      "category": "散点图",
+      "categoryTrail": [
+        "散点图",
+        "横轴分类纵轴数值",
+        "分组",
+        "误差线"
+      ],
+      "categoryTrailText": "散点图 / 横轴分类纵轴数值 / 分组 / 误差线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=680982054f3ff56232c340f4",
+      "previewUrl": "templates/668555c131239542b60568ba/preview.png",
+      "svgUrl": "templates/668555c131239542b60568ba/rendered.svg",
+      "metaUrl": "templates/668555c131239542b60568ba/meta.json",
+      "pythonUrl": "templates/668555c131239542b60568ba/python_example.py",
+      "rUrl": "templates/668555c131239542b60568ba/R_example.R",
+      "dirUrl": "templates/668555c131239542b60568ba",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/668555c131239542b60568ba/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "cluster",
+        "xVCol": "x_coord",
+        "yVCol": "y_coord",
+        "txtShowCol": "layer",
+        "legendTitle": "cluster"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "xVCol",
+        "yVCol",
+        "txtShowCol",
+        "legendTitle"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18014,
+      "previewSize": 11088
+    },
+    {
+      "id": "680982054f3ff56232c340f4",
+      "name": "散点图-横纵轴数值-分组-圈内文本",
+      "category": "散点图",
+      "categoryTrail": [
+        "散点图",
+        "横纵轴数值",
+        "分组",
+        "圈内文本"
+      ],
+      "categoryTrailText": "散点图 / 横纵轴数值 / 分组 / 圈内文本",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=680982054f3ff56232c340f4",
+      "previewUrl": "templates/680982054f3ff56232c340f4/preview.png",
+      "svgUrl": "templates/680982054f3ff56232c340f4/rendered.svg",
+      "metaUrl": "templates/680982054f3ff56232c340f4/meta.json",
+      "pythonUrl": "templates/680982054f3ff56232c340f4/python_example.py",
+      "rUrl": "templates/680982054f3ff56232c340f4/R_example.R",
+      "dirUrl": "templates/680982054f3ff56232c340f4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/680982054f3ff56232c340f4/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "cluster",
+        "xVCol": "x_coord",
+        "yVCol": "y_coord",
+        "txtShowCol": "layer",
+        "legendTitle": "cluster"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "xVCol",
+        "yVCol",
+        "txtShowCol",
+        "legendTitle"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18014,
+      "previewSize": 15388
+    },
+    {
+      "id": "67da4f8bf4b5713b590f4c60",
+      "name": "散点图-横纵轴数值-分组-置信椭圆",
+      "category": "散点图",
+      "categoryTrail": [
+        "散点图",
+        "横纵轴数值",
+        "分组",
+        "置信椭圆"
+      ],
+      "categoryTrailText": "散点图 / 横纵轴数值 / 分组 / 置信椭圆",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67da4f8bf4b5713b590f4c60",
+      "previewUrl": "templates/67da4f8bf4b5713b590f4c60/preview.png",
+      "svgUrl": "templates/67da4f8bf4b5713b590f4c60/rendered.svg",
+      "metaUrl": "templates/67da4f8bf4b5713b590f4c60/meta.json",
+      "pythonUrl": "templates/67da4f8bf4b5713b590f4c60/python_example.py",
+      "rUrl": "templates/67da4f8bf4b5713b590f4c60/R_example.R",
+      "dirUrl": "templates/67da4f8bf4b5713b590f4c60",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67da4f8bf4b5713b590f4c60/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/67da4f8bf4b5713b590f4c60/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "groupCol": "fertilizer",
+        "xVCol": "height",
+        "yVCol": "stem_diameter",
+        "axis1dot1Col": "Point1",
+        "axis1dot2Col": "Point2",
+        "axis2dot1Col": "Point3",
+        "axis2dot2Col": "Point4"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "groupCol",
+        "xVCol",
+        "yVCol",
+        "axis1dot1Col",
+        "axis1dot2Col",
+        "axis2dot1Col",
+        "axis2dot2Col"
+      ],
+      "argCount": 11,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 13346,
+      "previewSize": 10582
+    },
+    {
+      "id": "6775f116d3825c4a9886bb67",
+      "name": "散点图-横纵轴数值-分组-圈内文本",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "横向",
+        "曲线",
+        "不渐变色"
+      ],
+      "categoryTrailText": "桑基图 / 横向 / 曲线 / 不渐变色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=680982054f3ff56232c340f4",
+      "previewUrl": "templates/6775f116d3825c4a9886bb67/preview.png",
+      "svgUrl": "templates/6775f116d3825c4a9886bb67/rendered.svg",
+      "metaUrl": "templates/6775f116d3825c4a9886bb67/meta.json",
+      "pythonUrl": "templates/6775f116d3825c4a9886bb67/python_example.py",
+      "rUrl": "templates/6775f116d3825c4a9886bb67/R_example.R",
+      "dirUrl": "templates/6775f116d3825c4a9886bb67",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6775f116d3825c4a9886bb67/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "cluster",
+        "xVCol": "x_coord",
+        "yVCol": "y_coord",
+        "txtShowCol": "layer",
+        "legendTitle": "cluster"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "xVCol",
+        "yVCol",
+        "txtShowCol",
+        "legendTitle"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18014,
+      "previewSize": 113374
+    },
+    {
+      "id": "6841648809881a15ddd7a49b",
+      "name": "桑基图-横向-曲线-不渐变-连线用目标颜色",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "横向",
+        "曲线",
+        "不渐变",
+        "连线用目标颜色"
+      ],
+      "categoryTrailText": "桑基图 / 横向 / 曲线 / 不渐变 / 连线用目标颜色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6841648809881a15ddd7a49b",
+      "previewUrl": "templates/6841648809881a15ddd7a49b/preview.png",
+      "svgUrl": "templates/6841648809881a15ddd7a49b/rendered.svg",
+      "metaUrl": "templates/6841648809881a15ddd7a49b/meta.json",
+      "pythonUrl": "templates/6841648809881a15ddd7a49b/python_example.py",
+      "rUrl": "templates/6841648809881a15ddd7a49b/R_example.R",
+      "dirUrl": "templates/6841648809881a15ddd7a49b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6841648809881a15ddd7a49b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10775,
+      "previewSize": 21381
+    },
+    {
+      "id": "673a1b0dd1470cbbfcd8af6c",
+      "name": "桑基图-横向-曲线-渐变色",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "横向",
+        "曲线",
+        "渐变色"
+      ],
+      "categoryTrailText": "桑基图 / 横向 / 曲线 / 渐变色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=673a1b0dd1470cbbfcd8af6c",
+      "previewUrl": "templates/673a1b0dd1470cbbfcd8af6c/preview.png",
+      "svgUrl": "templates/673a1b0dd1470cbbfcd8af6c/rendered.svg",
+      "metaUrl": "templates/673a1b0dd1470cbbfcd8af6c/meta.json",
+      "pythonUrl": "templates/673a1b0dd1470cbbfcd8af6c/python_example.py",
+      "rUrl": "templates/673a1b0dd1470cbbfcd8af6c/R_example.R",
+      "dirUrl": "templates/673a1b0dd1470cbbfcd8af6c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/673a1b0dd1470cbbfcd8af6c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 31676,
+      "previewSize": 93039
+    },
+    {
+      "id": "684170dcec5045ab2df69439",
+      "name": "桑基图-横向-曲线-渐变色-多列输入",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "横向",
+        "曲线",
+        "不渐变",
+        "连线用目标颜色",
+        "居上层中"
+      ],
+      "categoryTrailText": "桑基图 / 横向 / 曲线 / 不渐变 / 连线用目标颜色 / 居上层中",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6974a8c4e17d4bb87a4e1b99",
+      "previewUrl": "templates/684170dcec5045ab2df69439/preview.png",
+      "svgUrl": "templates/684170dcec5045ab2df69439/rendered.svg",
+      "metaUrl": "templates/684170dcec5045ab2df69439/meta.json",
+      "pythonUrl": "templates/684170dcec5045ab2df69439/python_example.py",
+      "rUrl": "templates/684170dcec5045ab2df69439/R_example.R",
+      "dirUrl": "templates/684170dcec5045ab2df69439",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/684170dcec5045ab2df69439/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "valueCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 38063,
+      "previewSize": 13976
+    },
+    {
+      "id": "6974a8c4e17d4bb87a4e1b99",
+      "name": "桑基图-横向-曲线-渐变色-多列输入",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "横向",
+        "曲线",
+        "渐变色",
+        "多列输入"
+      ],
+      "categoryTrailText": "桑基图 / 横向 / 曲线 / 渐变色 / 多列输入",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6974a8c4e17d4bb87a4e1b99",
+      "previewUrl": "templates/6974a8c4e17d4bb87a4e1b99/preview.png",
+      "svgUrl": "templates/6974a8c4e17d4bb87a4e1b99/rendered.svg",
+      "metaUrl": "templates/6974a8c4e17d4bb87a4e1b99/meta.json",
+      "pythonUrl": "templates/6974a8c4e17d4bb87a4e1b99/python_example.py",
+      "rUrl": "templates/6974a8c4e17d4bb87a4e1b99/R_example.R",
+      "dirUrl": "templates/6974a8c4e17d4bb87a4e1b99",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6974a8c4e17d4bb87a4e1b99/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "valueCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 38063,
+      "previewSize": 73120
+    },
+    {
+      "id": "67764f79d3825c4a9886c85f",
+      "name": "桑基图-环形-3层",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "横向",
+        "曲线",
+        "单颜色",
+        "分组"
+      ],
+      "categoryTrailText": "桑基图 / 横向 / 曲线 / 单颜色 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=695f44d4b4474423491bb8e9",
+      "previewUrl": "templates/67764f79d3825c4a9886c85f/preview.png",
+      "svgUrl": "templates/67764f79d3825c4a9886c85f/rendered.svg",
+      "metaUrl": "templates/67764f79d3825c4a9886c85f/meta.json",
+      "pythonUrl": "templates/67764f79d3825c4a9886c85f/python_example.py",
+      "rUrl": "templates/67764f79d3825c4a9886c85f/R_example.R",
+      "dirUrl": "templates/67764f79d3825c4a9886c85f",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67764f79d3825c4a9886c85f/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "valueCol": "value",
+        "targetCol": "target"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "valueCol",
+        "targetCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 12598,
+      "previewSize": 109685
+    },
+    {
+      "id": "695f44d4b4474423491bb8e9",
+      "name": "桑基图-环形-3层",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "环形",
+        "3层"
+      ],
+      "categoryTrailText": "桑基图 / 环形 / 3层",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=695f44d4b4474423491bb8e9",
+      "previewUrl": "templates/695f44d4b4474423491bb8e9/preview.png",
+      "svgUrl": "templates/695f44d4b4474423491bb8e9/rendered.svg",
+      "metaUrl": "templates/695f44d4b4474423491bb8e9/meta.json",
+      "pythonUrl": "templates/695f44d4b4474423491bb8e9/python_example.py",
+      "rUrl": "templates/695f44d4b4474423491bb8e9/R_example.R",
+      "dirUrl": "templates/695f44d4b4474423491bb8e9",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/695f44d4b4474423491bb8e9/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "valueCol": "value",
+        "targetCol": "target"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "valueCol",
+        "targetCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 12598,
+      "previewSize": 28420
+    },
+    {
+      "id": "677642a4d3825c4a9886c3f0",
+      "name": "桑基图-竖直-曲线-不渐变",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "竖直",
+        "曲线",
+        "不渐变"
+      ],
+      "categoryTrailText": "桑基图 / 竖直 / 曲线 / 不渐变",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=677642a4d3825c4a9886c3f0",
+      "previewUrl": "templates/677642a4d3825c4a9886c3f0/preview.png",
+      "svgUrl": "templates/677642a4d3825c4a9886c3f0/rendered.svg",
+      "metaUrl": "templates/677642a4d3825c4a9886c3f0/meta.json",
+      "pythonUrl": "templates/677642a4d3825c4a9886c3f0/python_example.py",
+      "rUrl": "templates/677642a4d3825c4a9886c3f0/R_example.R",
+      "dirUrl": "templates/677642a4d3825c4a9886c3f0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/677642a4d3825c4a9886c3f0/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 49728,
+      "previewSize": 88351
+    },
+    {
+      "id": "677646b0d3825c4a9886c495",
+      "name": "桑基图-竖直-曲线-不渐变-无权重",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "竖直",
+        "曲线",
+        "不渐变",
+        "无权重"
+      ],
+      "categoryTrailText": "桑基图 / 竖直 / 曲线 / 不渐变 / 无权重",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=677646b0d3825c4a9886c495",
+      "previewUrl": "templates/677646b0d3825c4a9886c495/preview.png",
+      "svgUrl": "templates/677646b0d3825c4a9886c495/rendered.svg",
+      "metaUrl": "templates/677646b0d3825c4a9886c495/meta.json",
+      "pythonUrl": "templates/677646b0d3825c4a9886c495/python_example.py",
+      "rUrl": "templates/677646b0d3825c4a9886c495/R_example.R",
+      "dirUrl": "templates/677646b0d3825c4a9886c495",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/677646b0d3825c4a9886c495/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 49791,
+      "previewSize": 88410
+    },
+    {
+      "id": "6775ff29d3825c4a9886bcca",
+      "name": "网络图-单层圈-大小排序",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "横向",
+        "曲线",
+        "渐变色",
+        "无权重"
+      ],
+      "categoryTrailText": "桑基图 / 横向 / 曲线 / 渐变色 / 无权重",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6771300b30e3c4642f47664c",
+      "previewUrl": "templates/6775ff29d3825c4a9886bcca/preview.png",
+      "svgUrl": "templates/6775ff29d3825c4a9886bcca/rendered.svg",
+      "metaUrl": "templates/6775ff29d3825c4a9886bcca/meta.json",
+      "pythonUrl": "templates/6775ff29d3825c4a9886bcca/python_example.py",
+      "rUrl": "templates/6775ff29d3825c4a9886bcca/R_example.R",
+      "dirUrl": "templates/6775ff29d3825c4a9886bcca",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6775ff29d3825c4a9886bcca/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target",
+        "weightVCol": "Weight"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol",
+        "weightVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14064,
+      "previewSize": 128077
+    },
+    {
+      "id": "67763e2cd3825c4a9886c18f",
+      "name": "网络图-单层圈-大小排序",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "竖直",
+        "曲线",
+        "渐变色"
+      ],
+      "categoryTrailText": "桑基图 / 竖直 / 曲线 / 渐变色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6771300b30e3c4642f47664c",
+      "previewUrl": "templates/67763e2cd3825c4a9886c18f/preview.png",
+      "svgUrl": "templates/67763e2cd3825c4a9886c18f/rendered.svg",
+      "metaUrl": "templates/67763e2cd3825c4a9886c18f/meta.json",
+      "pythonUrl": "templates/67763e2cd3825c4a9886c18f/python_example.py",
+      "rUrl": "templates/67763e2cd3825c4a9886c18f/R_example.R",
+      "dirUrl": "templates/67763e2cd3825c4a9886c18f",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67763e2cd3825c4a9886c18f/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target",
+        "weightVCol": "Weight"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol",
+        "weightVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14064,
+      "previewSize": 114857
+    },
+    {
+      "id": "6776447fd3825c4a9886c459",
+      "name": "网络图-单层圈-无权重",
+      "category": "桑基图",
+      "categoryTrail": [
+        "桑基图",
+        "竖直",
+        "曲线",
+        "渐变色",
+        "无权重"
+      ],
+      "categoryTrailText": "桑基图 / 竖直 / 曲线 / 渐变色 / 无权重",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6771d4b8faed31dfa1482d58",
+      "previewUrl": "templates/6776447fd3825c4a9886c459/preview.png",
+      "svgUrl": "templates/6776447fd3825c4a9886c459/rendered.svg",
+      "metaUrl": "templates/6776447fd3825c4a9886c459/meta.json",
+      "pythonUrl": "templates/6776447fd3825c4a9886c459/python_example.py",
+      "rUrl": "templates/6776447fd3825c4a9886c459/R_example.R",
+      "dirUrl": "templates/6776447fd3825c4a9886c459",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6776447fd3825c4a9886c459/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "Source",
+        "targetCol": "Target"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9975,
+      "previewSize": 118749
+    },
+    {
+      "id": "67787a92d2113771d90c48fb",
+      "name": "山峦图-不分组",
+      "category": "山峦图",
+      "categoryTrail": [
+        "山峦图",
+        "不分组"
+      ],
+      "categoryTrailText": "山峦图 / 不分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67787a92d2113771d90c48fb",
+      "previewUrl": "templates/67787a92d2113771d90c48fb/preview.png",
+      "svgUrl": "templates/67787a92d2113771d90c48fb/rendered.svg",
+      "metaUrl": "templates/67787a92d2113771d90c48fb/meta.json",
+      "pythonUrl": "templates/67787a92d2113771d90c48fb/python_example.py",
+      "rUrl": "templates/67787a92d2113771d90c48fb/R_example.R",
+      "dirUrl": "templates/67787a92d2113771d90c48fb",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67787a92d2113771d90c48fb/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "densityVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 6088,
+      "previewSize": 5000
+    },
+    {
+      "id": "67787f8dd2113771d90c4ce0",
+      "name": "山峦图-分组",
+      "category": "山峦图",
+      "categoryTrail": [
+        "山峦图",
+        "分组"
+      ],
+      "categoryTrailText": "山峦图 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67787f8dd2113771d90c4ce0",
+      "previewUrl": "templates/67787f8dd2113771d90c4ce0/preview.png",
+      "svgUrl": "templates/67787f8dd2113771d90c4ce0/rendered.svg",
+      "metaUrl": "templates/67787f8dd2113771d90c4ce0/meta.json",
+      "pythonUrl": "templates/67787f8dd2113771d90c4ce0/python_example.py",
+      "rUrl": "templates/67787f8dd2113771d90c4ce0/R_example.R",
+      "dirUrl": "templates/67787f8dd2113771d90c4ce0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67787f8dd2113771d90c4ce0/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/67787f8dd2113771d90c4ce0/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "id",
+        "groupCol": "group",
+        "valueCol": "value",
+        "densityVCol": "density",
+        "idNameCol": "idName"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "densityVCol",
+        "idNameCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7481,
+      "previewSize": 10008
+    },
+    {
+      "id": "6771300b30e3c4642f47664c",
+      "name": "网络图-单层圈-大小排序",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "单层圈",
+        "大小排序"
+      ],
+      "categoryTrailText": "网络图 / 单层圈 / 大小排序",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6771300b30e3c4642f47664c",
+      "previewUrl": "templates/6771300b30e3c4642f47664c/preview.png",
+      "svgUrl": "templates/6771300b30e3c4642f47664c/rendered.svg",
+      "metaUrl": "templates/6771300b30e3c4642f47664c/meta.json",
+      "pythonUrl": "templates/6771300b30e3c4642f47664c/python_example.py",
+      "rUrl": "templates/6771300b30e3c4642f47664c/R_example.R",
+      "dirUrl": "templates/6771300b30e3c4642f47664c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6771300b30e3c4642f47664c/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target",
+        "weightVCol": "Weight"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol",
+        "weightVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14064,
+      "previewSize": 31622
+    },
+    {
+      "id": "6771d4b8faed31dfa1482d58",
+      "name": "网络图-单层圈-无权重",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "单层圈",
+        "无权重"
+      ],
+      "categoryTrailText": "网络图 / 单层圈 / 无权重",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6771d4b8faed31dfa1482d58",
+      "previewUrl": "templates/6771d4b8faed31dfa1482d58/preview.png",
+      "svgUrl": "templates/6771d4b8faed31dfa1482d58/rendered.svg",
+      "metaUrl": "templates/6771d4b8faed31dfa1482d58/meta.json",
+      "pythonUrl": "templates/6771d4b8faed31dfa1482d58/python_example.py",
+      "rUrl": "templates/6771d4b8faed31dfa1482d58/R_example.R",
+      "dirUrl": "templates/6771d4b8faed31dfa1482d58",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6771d4b8faed31dfa1482d58/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "Source",
+        "targetCol": "Target"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9975,
+      "previewSize": 19925
+    },
+    {
+      "id": "692e4e4beb5ce5e1c52c9a1a",
+      "name": "网络图-多层-分组-圆大小变化",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "多层",
+        "分组",
+        "圆大小变化"
+      ],
+      "categoryTrailText": "网络图 / 多层 / 分组 / 圆大小变化",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=692e4e4beb5ce5e1c52c9a1a",
+      "previewUrl": "templates/692e4e4beb5ce5e1c52c9a1a/preview.png",
+      "svgUrl": "templates/692e4e4beb5ce5e1c52c9a1a/rendered.svg",
+      "metaUrl": "templates/692e4e4beb5ce5e1c52c9a1a/meta.json",
+      "pythonUrl": "templates/692e4e4beb5ce5e1c52c9a1a/python_example.py",
+      "rUrl": "templates/692e4e4beb5ce5e1c52c9a1a/R_example.R",
+      "dirUrl": "templates/692e4e4beb5ce5e1c52c9a1a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/692e4e4beb5ce5e1c52c9a1a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "group",
+        "nameCol": "name",
+        "valueCol": "value",
+        "title": "Title"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "nameCol",
+        "valueCol",
+        "title"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 34772,
+      "previewSize": 69246
+    },
+    {
+      "id": "692fab7f8e064404457a216c",
+      "name": "网络图-多层-target菱形",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "多层",
+        "target菱形"
+      ],
+      "categoryTrailText": "网络图 / 多层 / target菱形",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=692fab7f8e064404457a216c",
+      "previewUrl": "templates/692fab7f8e064404457a216c/preview.png",
+      "svgUrl": "templates/692fab7f8e064404457a216c/rendered.svg",
+      "metaUrl": "templates/692fab7f8e064404457a216c/meta.json",
+      "pythonUrl": "templates/692fab7f8e064404457a216c/python_example.py",
+      "rUrl": "templates/692fab7f8e064404457a216c/R_example.R",
+      "dirUrl": "templates/692fab7f8e064404457a216c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/692fab7f8e064404457a216c/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/692fab7f8e064404457a216c/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "groupCol": "layer",
+        "nameCol": "name",
+        "sourceCol": "Source",
+        "targetCol": "Target"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "groupCol",
+        "nameCol",
+        "sourceCol",
+        "targetCol"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 41061,
+      "previewSize": 41946
+    },
+    {
+      "id": "6771deba160f969842c66394",
+      "name": "网络图-多层圈-圈层分组",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "单层圈",
+        "无权重",
+        "多样本"
+      ],
+      "categoryTrailText": "网络图 / 单层圈 / 无权重 / 多样本",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=689fbf83b496cf3007e9fff8",
+      "previewUrl": "templates/6771deba160f969842c66394/preview.png",
+      "svgUrl": "templates/6771deba160f969842c66394/rendered.svg",
+      "metaUrl": "templates/6771deba160f969842c66394/meta.json",
+      "pythonUrl": "templates/6771deba160f969842c66394/python_example.py",
+      "rUrl": "templates/6771deba160f969842c66394/R_example.R",
+      "dirUrl": "templates/6771deba160f969842c66394",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6771deba160f969842c66394/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6771deba160f969842c66394/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "sourceCol": "Source",
+        "targetCol": "Target",
+        "weightVCol": "Weight",
+        "levRs": "120、180"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "sourceCol",
+        "targetCol",
+        "weightVCol",
+        "levRs"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 204722,
+      "previewSize": 263755
+    },
+    {
+      "id": "689fbf83b496cf3007e9fff8",
+      "name": "网络图-多层圈-圈层分组",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "多层圈",
+        "圈层分组"
+      ],
+      "categoryTrailText": "网络图 / 多层圈 / 圈层分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=689fbf83b496cf3007e9fff8",
+      "previewUrl": "templates/689fbf83b496cf3007e9fff8/preview.png",
+      "svgUrl": "templates/689fbf83b496cf3007e9fff8/rendered.svg",
+      "metaUrl": "templates/689fbf83b496cf3007e9fff8/meta.json",
+      "pythonUrl": "templates/689fbf83b496cf3007e9fff8/python_example.py",
+      "rUrl": "templates/689fbf83b496cf3007e9fff8/R_example.R",
+      "dirUrl": "templates/689fbf83b496cf3007e9fff8",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/689fbf83b496cf3007e9fff8/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/689fbf83b496cf3007e9fff8/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "sourceCol": "Source",
+        "targetCol": "Target",
+        "weightVCol": "Weight",
+        "levRs": "120、180"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "sourceCol",
+        "targetCol",
+        "weightVCol",
+        "levRs"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 204722,
+      "previewSize": 264991
+    },
+    {
+      "id": "698cfef4eac3c16402b01d87",
+      "name": "网络图-多层圈-圈层分组-相关性-直线连接-等圆-按组顺序排圈层",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "多层圈",
+        "圈层分组",
+        "相关性",
+        "直线连接",
+        "等圆",
+        "按组顺序排圈层"
+      ],
+      "categoryTrailText": "网络图 / 多层圈 / 圈层分组 / 相关性 / 直线连接 / 等圆 / 按组顺序排圈层",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=698cfef4eac3c16402b01d87",
+      "previewUrl": "templates/698cfef4eac3c16402b01d87/preview.png",
+      "svgUrl": "templates/698cfef4eac3c16402b01d87/rendered.svg",
+      "metaUrl": "templates/698cfef4eac3c16402b01d87/meta.json",
+      "pythonUrl": "templates/698cfef4eac3c16402b01d87/python_example.py",
+      "rUrl": "templates/698cfef4eac3c16402b01d87/R_example.R",
+      "dirUrl": "templates/698cfef4eac3c16402b01d87",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/698cfef4eac3c16402b01d87/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/698cfef4eac3c16402b01d87/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "sourceCol": "Source",
+        "targetCol": "Target",
+        "weightVCol": "rValue",
+        "levRs": "40、80、130、180"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "sourceCol",
+        "targetCol",
+        "weightVCol",
+        "levRs"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 37738,
+      "previewSize": 90923
+    },
+    {
+      "id": "6930f85d1e27a9d69b650d54",
+      "name": "网络图-多层圈-无权重-力导向布局",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "多层圈",
+        "无权重",
+        "力导向布局"
+      ],
+      "categoryTrailText": "网络图 / 多层圈 / 无权重 / 力导向布局",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6930f85d1e27a9d69b650d54",
+      "previewUrl": "templates/6930f85d1e27a9d69b650d54/preview.png",
+      "svgUrl": "templates/6930f85d1e27a9d69b650d54/rendered.svg",
+      "metaUrl": "templates/6930f85d1e27a9d69b650d54/meta.json",
+      "pythonUrl": "templates/6930f85d1e27a9d69b650d54/python_example.py",
+      "rUrl": "templates/6930f85d1e27a9d69b650d54/R_example.R",
+      "dirUrl": "templates/6930f85d1e27a9d69b650d54",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6930f85d1e27a9d69b650d54/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 195032,
+      "previewSize": 240979
+    },
+    {
+      "id": "68aee650f7347bf614ddc08f",
+      "name": "网络图-多层圈-组间关系-组与样本-箭头",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "多层圈",
+        "组间关系",
+        "组与样本",
+        "箭头"
+      ],
+      "categoryTrailText": "网络图 / 多层圈 / 组间关系 / 组与样本 / 箭头",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68aee650f7347bf614ddc08f",
+      "previewUrl": "templates/68aee650f7347bf614ddc08f/preview.png",
+      "svgUrl": "templates/68aee650f7347bf614ddc08f/rendered.svg",
+      "metaUrl": "templates/68aee650f7347bf614ddc08f/meta.json",
+      "pythonUrl": "templates/68aee650f7347bf614ddc08f/python_example.py",
+      "rUrl": "templates/68aee650f7347bf614ddc08f/R_example.R",
+      "dirUrl": "templates/68aee650f7347bf614ddc08f",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68aee650f7347bf614ddc08f/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/68aee650f7347bf614ddc08f/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "village",
+        "sourceCol": "source",
+        "targetCol": "target",
+        "valueCol": "value",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "sourceCol",
+        "targetCol",
+        "valueCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 12,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 68842,
+      "previewSize": 73137
+    },
+    {
+      "id": "6773470fdd64bdf050e9fb02",
+      "name": "网络图-多层圈-组均值-值渐变",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "多层圈",
+        "同颜色",
+        "大小排序"
+      ],
+      "categoryTrailText": "网络图 / 多层圈 / 同颜色 / 大小排序",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68afea0c322673530d26df18",
+      "previewUrl": "templates/6773470fdd64bdf050e9fb02/preview.png",
+      "svgUrl": "templates/6773470fdd64bdf050e9fb02/rendered.svg",
+      "metaUrl": "templates/6773470fdd64bdf050e9fb02/meta.json",
+      "pythonUrl": "templates/6773470fdd64bdf050e9fb02/python_example.py",
+      "rUrl": "templates/6773470fdd64bdf050e9fb02/R_example.R",
+      "dirUrl": "templates/6773470fdd64bdf050e9fb02",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6773470fdd64bdf050e9fb02/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "village",
+        "nameCol": "name",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step",
+        "valueCol"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 70265,
+      "previewSize": 181070
+    },
+    {
+      "id": "68afea0c322673530d26df18",
+      "name": "网络图-多层圈-组均值-值渐变",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "多层圈",
+        "组均值",
+        "值渐变"
+      ],
+      "categoryTrailText": "网络图 / 多层圈 / 组均值 / 值渐变",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68afea0c322673530d26df18",
+      "previewUrl": "templates/68afea0c322673530d26df18/preview.png",
+      "svgUrl": "templates/68afea0c322673530d26df18/rendered.svg",
+      "metaUrl": "templates/68afea0c322673530d26df18/meta.json",
+      "pythonUrl": "templates/68afea0c322673530d26df18/python_example.py",
+      "rUrl": "templates/68afea0c322673530d26df18/R_example.R",
+      "dirUrl": "templates/68afea0c322673530d26df18",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68afea0c322673530d26df18/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "village",
+        "nameCol": "name",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step",
+        "valueCol"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 70265,
+      "previewSize": 87542
+    },
+    {
+      "id": "66c6caf228b0b164d75c0d0f",
+      "name": "网络图-分群-背景颜色",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "多层圈",
+        "圈层不同颜色",
+        "大小排序"
+      ],
+      "categoryTrailText": "网络图 / 多层圈 / 圈层不同颜色 / 大小排序",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6773ac61dd64bdf050ea409e",
+      "previewUrl": "templates/66c6caf228b0b164d75c0d0f/preview.png",
+      "svgUrl": "templates/66c6caf228b0b164d75c0d0f/rendered.svg",
+      "metaUrl": "templates/66c6caf228b0b164d75c0d0f/meta.json",
+      "pythonUrl": "templates/66c6caf228b0b164d75c0d0f/python_example.py",
+      "rUrl": "templates/66c6caf228b0b164d75c0d0f/R_example.R",
+      "dirUrl": "templates/66c6caf228b0b164d75c0d0f",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66c6caf228b0b164d75c0d0f/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66c6caf228b0b164d75c0d0f/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "sourceCol": "Source",
+        "targetCol": "Target"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "sourceCol",
+        "targetCol"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 201183,
+      "previewSize": 204460
+    },
+    {
+      "id": "6771f199faed31dfa1486c87",
+      "name": "网络图-分群-背景颜色",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "多层圈",
+        "无权重"
+      ],
+      "categoryTrailText": "网络图 / 多层圈 / 无权重",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6773ac61dd64bdf050ea409e",
+      "previewUrl": "templates/6771f199faed31dfa1486c87/preview.png",
+      "svgUrl": "templates/6771f199faed31dfa1486c87/rendered.svg",
+      "metaUrl": "templates/6771f199faed31dfa1486c87/meta.json",
+      "pythonUrl": "templates/6771f199faed31dfa1486c87/python_example.py",
+      "rUrl": "templates/6771f199faed31dfa1486c87/R_example.R",
+      "dirUrl": "templates/6771f199faed31dfa1486c87",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6771f199faed31dfa1486c87/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6771f199faed31dfa1486c87/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "sourceCol": "Source",
+        "targetCol": "Target"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "sourceCol",
+        "targetCol"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 201183,
+      "previewSize": 206936
+    },
+    {
+      "id": "6773ac61dd64bdf050ea409e",
+      "name": "网络图-分群-背景颜色",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "分群",
+        "背景颜色"
+      ],
+      "categoryTrailText": "网络图 / 分群 / 背景颜色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6773ac61dd64bdf050ea409e",
+      "previewUrl": "templates/6773ac61dd64bdf050ea409e/preview.png",
+      "svgUrl": "templates/6773ac61dd64bdf050ea409e/rendered.svg",
+      "metaUrl": "templates/6773ac61dd64bdf050ea409e/meta.json",
+      "pythonUrl": "templates/6773ac61dd64bdf050ea409e/python_example.py",
+      "rUrl": "templates/6773ac61dd64bdf050ea409e/R_example.R",
+      "dirUrl": "templates/6773ac61dd64bdf050ea409e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6773ac61dd64bdf050ea409e/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6773ac61dd64bdf050ea409e/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "sourceCol": "Source",
+        "targetCol": "Target"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "sourceCol",
+        "targetCol"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 201183,
+      "previewSize": 216461
+    },
+    {
+      "id": "68a46b735a1ddc69c5c95f86",
+      "name": "网络图-分群-连线权重-正负颜色-曲线",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "分群",
+        "连线权重",
+        "正负颜色",
+        "曲线"
+      ],
+      "categoryTrailText": "网络图 / 分群 / 连线权重 / 正负颜色 / 曲线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68a46b735a1ddc69c5c95f86",
+      "previewUrl": "templates/68a46b735a1ddc69c5c95f86/preview.png",
+      "svgUrl": "templates/68a46b735a1ddc69c5c95f86/rendered.svg",
+      "metaUrl": "templates/68a46b735a1ddc69c5c95f86/meta.json",
+      "pythonUrl": "templates/68a46b735a1ddc69c5c95f86/python_example.py",
+      "rUrl": "templates/68a46b735a1ddc69c5c95f86/R_example.R",
+      "dirUrl": "templates/68a46b735a1ddc69c5c95f86",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68a46b735a1ddc69c5c95f86/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/68a46b735a1ddc69c5c95f86/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "sourceCol": "Source",
+        "targetCol": "Target",
+        "weightVCol": "rValue"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "sourceCol",
+        "targetCol",
+        "weightVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15956,
+      "previewSize": 25218
+    },
+    {
+      "id": "677546ff573a2e7111065530",
+      "name": "网络图-分群-权重-直线连接",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "分群",
+        "权重",
+        "直线连接"
+      ],
+      "categoryTrailText": "网络图 / 分群 / 权重 / 直线连接",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=677546ff573a2e7111065530",
+      "previewUrl": "templates/677546ff573a2e7111065530/preview.png",
+      "svgUrl": "templates/677546ff573a2e7111065530/rendered.svg",
+      "metaUrl": "templates/677546ff573a2e7111065530/meta.json",
+      "pythonUrl": "templates/677546ff573a2e7111065530/python_example.py",
+      "rUrl": "templates/677546ff573a2e7111065530/R_example.R",
+      "dirUrl": "templates/677546ff573a2e7111065530",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/677546ff573a2e7111065530/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/677546ff573a2e7111065530/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "sourceCol": "Source",
+        "targetCol": "Target",
+        "weightVCol": "Weight"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "sourceCol",
+        "targetCol",
+        "weightVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 153268,
+      "previewSize": 101650
+    },
+    {
+      "id": "68648f74869f29770572ab40",
+      "name": "网络图-斜线-两层-分段着色-线分段宽-第一层三角形",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "斜线",
+        "两层",
+        "分段着色",
+        "线分段宽",
+        "第一层三角形"
+      ],
+      "categoryTrailText": "网络图 / 斜线 / 两层 / 分段着色 / 线分段宽 / 第一层三角形",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68648f74869f29770572ab40",
+      "previewUrl": "templates/68648f74869f29770572ab40/preview.png",
+      "svgUrl": "templates/68648f74869f29770572ab40/rendered.svg",
+      "metaUrl": "templates/68648f74869f29770572ab40/meta.json",
+      "pythonUrl": "templates/68648f74869f29770572ab40/python_example.py",
+      "rUrl": "templates/68648f74869f29770572ab40/R_example.R",
+      "dirUrl": "templates/68648f74869f29770572ab40",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68648f74869f29770572ab40/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "sourceCol": "group1",
+        "targetCol": "group2",
+        "weightVCol": "Weight",
+        "pVCol": "pvalue",
+        "pSection": "0.001、0.01、0.05",
+        "weightSection": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "sourceCol",
+        "targetCol",
+        "weightVCol",
+        "pVCol",
+        "pSection",
+        "weightSection"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15524,
+      "previewSize": 26624
+    },
+    {
+      "id": "6773b1a3bf4325b53c21a7af",
+      "name": "箱线图-分组",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "分群",
+        "群内外不同色"
+      ],
+      "categoryTrailText": "网络图 / 分群 / 群内外不同色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bbba25da947398b73b3dd",
+      "previewUrl": "templates/6773b1a3bf4325b53c21a7af/preview.png",
+      "svgUrl": "templates/6773b1a3bf4325b53c21a7af/rendered.svg",
+      "metaUrl": "templates/6773b1a3bf4325b53c21a7af/meta.json",
+      "pythonUrl": "templates/6773b1a3bf4325b53c21a7af/python_example.py",
+      "rUrl": "templates/6773b1a3bf4325b53c21a7af/R_example.R",
+      "dirUrl": "templates/6773b1a3bf4325b53c21a7af",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6773b1a3bf4325b53c21a7af/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10162,
+      "previewSize": 63374
+    },
+    {
+      "id": "67723620faed31dfa1489d98",
+      "name": "箱线图-分组-折线",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "水平",
+        "有权重"
+      ],
+      "categoryTrailText": "网络图 / 水平 / 有权重",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bc7585da947398b73b504",
+      "previewUrl": "templates/67723620faed31dfa1489d98/preview.png",
+      "svgUrl": "templates/67723620faed31dfa1489d98/rendered.svg",
+      "metaUrl": "templates/67723620faed31dfa1489d98/meta.json",
+      "pythonUrl": "templates/67723620faed31dfa1489d98/python_example.py",
+      "rUrl": "templates/67723620faed31dfa1489d98/R_example.R",
+      "dirUrl": "templates/67723620faed31dfa1489d98",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67723620faed31dfa1489d98/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10748,
+      "previewSize": 25337
+    },
+    {
+      "id": "67720492160f969842c672dd",
+      "name": "箱线图-无分组-散点",
+      "category": "网络图",
+      "categoryTrail": [
+        "网络图",
+        "水平",
+        "无权重"
+      ],
+      "categoryTrailText": "网络图 / 水平 / 无权重",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676b53a492814a14afd0027e",
+      "previewUrl": "templates/67720492160f969842c672dd/preview.png",
+      "svgUrl": "templates/67720492160f969842c672dd/rendered.svg",
+      "metaUrl": "templates/67720492160f969842c672dd/meta.json",
+      "pythonUrl": "templates/67720492160f969842c672dd/python_example.py",
+      "rUrl": "templates/67720492160f969842c672dd/R_example.R",
+      "dirUrl": "templates/67720492160f969842c672dd",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67720492160f969842c672dd/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9065,
+      "previewSize": 12934
+    },
+    {
+      "id": "676bbba25da947398b73b3dd",
+      "name": "箱线图-分组",
+      "category": "箱线图",
+      "categoryTrail": [
+        "箱线图",
+        "分组"
+      ],
+      "categoryTrailText": "箱线图 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bbba25da947398b73b3dd",
+      "previewUrl": "templates/676bbba25da947398b73b3dd/preview.png",
+      "svgUrl": "templates/676bbba25da947398b73b3dd/rendered.svg",
+      "metaUrl": "templates/676bbba25da947398b73b3dd/meta.json",
+      "pythonUrl": "templates/676bbba25da947398b73b3dd/python_example.py",
+      "rUrl": "templates/676bbba25da947398b73b3dd/R_example.R",
+      "dirUrl": "templates/676bbba25da947398b73b3dd",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676bbba25da947398b73b3dd/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10162,
+      "previewSize": 3259
+    },
+    {
+      "id": "676bc7585da947398b73b504",
+      "name": "箱线图-分组-折线",
+      "category": "箱线图",
+      "categoryTrail": [
+        "箱线图",
+        "分组",
+        "折线"
+      ],
+      "categoryTrailText": "箱线图 / 分组 / 折线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bc7585da947398b73b504",
+      "previewUrl": "templates/676bc7585da947398b73b504/preview.png",
+      "svgUrl": "templates/676bc7585da947398b73b504/rendered.svg",
+      "metaUrl": "templates/676bc7585da947398b73b504/meta.json",
+      "pythonUrl": "templates/676bc7585da947398b73b504/python_example.py",
+      "rUrl": "templates/676bc7585da947398b73b504/R_example.R",
+      "dirUrl": "templates/676bc7585da947398b73b504",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676bc7585da947398b73b504/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10748,
+      "previewSize": 5731
+    },
+    {
+      "id": "676cdaffcc586c679bc95232",
+      "name": "箱线图-无分组-矩阵",
+      "category": "箱线图",
+      "categoryTrail": [
+        "箱线图",
+        "无分组",
+        "矩阵"
+      ],
+      "categoryTrailText": "箱线图 / 无分组 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cdaffcc586c679bc95232",
+      "previewUrl": "templates/676cdaffcc586c679bc95232/preview.png",
+      "svgUrl": "templates/676cdaffcc586c679bc95232/rendered.svg",
+      "metaUrl": "templates/676cdaffcc586c679bc95232/meta.json",
+      "pythonUrl": "templates/676cdaffcc586c679bc95232/python_example.py",
+      "rUrl": "templates/676cdaffcc586c679bc95232/R_example.R",
+      "dirUrl": "templates/676cdaffcc586c679bc95232",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676cdaffcc586c679bc95232/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "picCol": "pic",
+        "nameCol": "name",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "picCol",
+        "nameCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 40281,
+      "previewSize": 8964
+    },
+    {
+      "id": "676b53a492814a14afd0027e",
+      "name": "箱线图-无分组-散点",
+      "category": "箱线图",
+      "categoryTrail": [
+        "箱线图",
+        "无分组",
+        "散点"
+      ],
+      "categoryTrailText": "箱线图 / 无分组 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676b53a492814a14afd0027e",
+      "previewUrl": "templates/676b53a492814a14afd0027e/preview.png",
+      "svgUrl": "templates/676b53a492814a14afd0027e/rendered.svg",
+      "metaUrl": "templates/676b53a492814a14afd0027e/meta.json",
+      "pythonUrl": "templates/676b53a492814a14afd0027e/python_example.py",
+      "rUrl": "templates/676b53a492814a14afd0027e/R_example.R",
+      "dirUrl": "templates/676b53a492814a14afd0027e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676b53a492814a14afd0027e/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9065,
+      "previewSize": 4589
+    },
+    {
+      "id": "676d368e046bf86f1e25dcc7",
+      "name": "箱线图-无分组-散点",
+      "category": "箱线图",
+      "categoryTrail": [
+        "箱线图",
+        "分组",
+        "矩阵"
+      ],
+      "categoryTrailText": "箱线图 / 分组 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=676b53a492814a14afd0027e",
+      "previewUrl": "templates/676d368e046bf86f1e25dcc7/preview.png",
+      "svgUrl": "templates/676d368e046bf86f1e25dcc7/rendered.svg",
+      "metaUrl": "templates/676d368e046bf86f1e25dcc7/meta.json",
+      "pythonUrl": "templates/676d368e046bf86f1e25dcc7/python_example.py",
+      "rUrl": "templates/676d368e046bf86f1e25dcc7/R_example.R",
+      "dirUrl": "templates/676d368e046bf86f1e25dcc7",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/676d368e046bf86f1e25dcc7/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9065,
+      "previewSize": 7863
+    },
+    {
+      "id": "662f511a8f59c63d4bb85dc3",
+      "name": "箱线图-无分组-散点-显著字母",
+      "category": "箱线图",
+      "categoryTrail": [
+        "箱线图",
+        "无分组"
+      ],
+      "categoryTrailText": "箱线图 / 无分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=668159fd4a54efd0d6916850",
+      "previewUrl": "templates/662f511a8f59c63d4bb85dc3/preview.png",
+      "svgUrl": "templates/662f511a8f59c63d4bb85dc3/rendered.svg",
+      "metaUrl": "templates/662f511a8f59c63d4bb85dc3/meta.json",
+      "pythonUrl": "templates/662f511a8f59c63d4bb85dc3/python_example.py",
+      "rUrl": "templates/662f511a8f59c63d4bb85dc3/R_example.R",
+      "dirUrl": "templates/662f511a8f59c63d4bb85dc3",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/662f511a8f59c63d4bb85dc3/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/662f511a8f59c63d4bb85dc3/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "dotCol": "dotValue",
+        "minVCol": "Min",
+        "q1VCol": "Q1",
+        "midVCol": "Q2",
+        "q3VCol": "Q3",
+        "maxVCol": "Max",
+        "markCol": "mark",
+        "yTtitle": "xxxxxxxxxxx"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "markCol",
+        "yTtitle"
+      ],
+      "argCount": 13,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 22406,
+      "previewSize": 4133
+    },
+    {
+      "id": "668159fd4a54efd0d6916850",
+      "name": "箱线图-无分组-散点-显著字母",
+      "category": "箱线图",
+      "categoryTrail": [
+        "箱线图",
+        "无分组",
+        "散点",
+        "显著字母"
+      ],
+      "categoryTrailText": "箱线图 / 无分组 / 散点 / 显著字母",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=668159fd4a54efd0d6916850",
+      "previewUrl": "templates/668159fd4a54efd0d6916850/preview.png",
+      "svgUrl": "templates/668159fd4a54efd0d6916850/rendered.svg",
+      "metaUrl": "templates/668159fd4a54efd0d6916850/meta.json",
+      "pythonUrl": "templates/668159fd4a54efd0d6916850/python_example.py",
+      "rUrl": "templates/668159fd4a54efd0d6916850/R_example.R",
+      "dirUrl": "templates/668159fd4a54efd0d6916850",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/668159fd4a54efd0d6916850/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/668159fd4a54efd0d6916850/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "dotCol": "dotValue",
+        "minVCol": "Min",
+        "q1VCol": "Q1",
+        "midVCol": "Q2",
+        "q3VCol": "Q3",
+        "maxVCol": "Max",
+        "markCol": "mark",
+        "yTtitle": "xxxxxxxxxxx"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "markCol",
+        "yTtitle"
+      ],
+      "argCount": 13,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 22406,
+      "previewSize": 7329
+    },
+    {
+      "id": "666aba851a9a6da4e94c1c1d",
+      "name": "箱线图-无分组-散点-p值",
+      "category": "箱线图",
+      "categoryTrail": [
+        "箱线图",
+        "无分组",
+        "散点",
+        "p值"
+      ],
+      "categoryTrailText": "箱线图 / 无分组 / 散点 / p值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=666aba851a9a6da4e94c1c1d",
+      "previewUrl": "templates/666aba851a9a6da4e94c1c1d/preview.png",
+      "svgUrl": "templates/666aba851a9a6da4e94c1c1d/rendered.svg",
+      "metaUrl": "templates/666aba851a9a6da4e94c1c1d/meta.json",
+      "pythonUrl": "templates/666aba851a9a6da4e94c1c1d/python_example.py",
+      "rUrl": "templates/666aba851a9a6da4e94c1c1d/R_example.R",
+      "dirUrl": "templates/666aba851a9a6da4e94c1c1d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/666aba851a9a6da4e94c1c1d/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/666aba851a9a6da4e94c1c1d/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "dotCol": "dots",
+        "minVCol": "min",
+        "q1VCol": "qdown",
+        "midVCol": "mid",
+        "q3VCol": "quper",
+        "maxVCol": "max",
+        "pValCol": "p",
+        "pName1Col": "n1",
+        "pName2Col": "n2"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "dotCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "pValCol",
+        "pName1Col",
+        "pName2Col"
+      ],
+      "argCount": 14,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 12162,
+      "previewSize": 5173
+    },
+    {
+      "id": "667ee30727e1fe64e6bc6dd6",
+      "name": "小提琴图-不分组",
+      "category": "箱线图",
+      "categoryTrail": [
+        "箱线图",
+        "无分组",
+        "散点",
+        "显著星号"
+      ],
+      "categoryTrailText": "箱线图 / 无分组 / 散点 / 显著星号",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6777459f53eb9f93596d4c33",
+      "previewUrl": "templates/667ee30727e1fe64e6bc6dd6/preview.png",
+      "svgUrl": "templates/667ee30727e1fe64e6bc6dd6/rendered.svg",
+      "metaUrl": "templates/667ee30727e1fe64e6bc6dd6/meta.json",
+      "pythonUrl": "templates/667ee30727e1fe64e6bc6dd6/python_example.py",
+      "rUrl": "templates/667ee30727e1fe64e6bc6dd6/R_example.R",
+      "dirUrl": "templates/667ee30727e1fe64e6bc6dd6",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/667ee30727e1fe64e6bc6dd6/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "densityVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8421,
+      "previewSize": 8296
+    },
+    {
+      "id": "66b9b1dc0ca340783fc398c0",
+      "name": "箱线图组合",
+      "category": "箱线图组合",
+      "categoryTrail": [
+        "箱线图组合"
+      ],
+      "categoryTrailText": "箱线图组合",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b9b1dc0ca340783fc398c0",
+      "previewUrl": "templates/66b9b1dc0ca340783fc398c0/preview.png",
+      "svgUrl": "templates/66b9b1dc0ca340783fc398c0/rendered.svg",
+      "metaUrl": "templates/66b9b1dc0ca340783fc398c0/meta.json",
+      "pythonUrl": "templates/66b9b1dc0ca340783fc398c0/python_example.py",
+      "rUrl": "templates/66b9b1dc0ca340783fc398c0/R_example.R",
+      "dirUrl": "templates/66b9b1dc0ca340783fc398c0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66b9b1dc0ca340783fc398c0/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66b9b1dc0ca340783fc398c0/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "minVCol": "Min",
+        "q1VCol": "Q1",
+        "midVCol": "Q2",
+        "q3VCol": "Q3",
+        "maxVCol": "Max",
+        "bigVCol": "split1New",
+        "name2Col": "name",
+        "yminV": "-50",
+        "ymaxV": "10",
+        "ystep": "10",
+        "smallVcol": "split0New"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "bigVCol",
+        "name2Col",
+        "yminV",
+        "ymaxV",
+        "ystep",
+        "smallVcol"
+      ],
+      "argCount": 17,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17420,
+      "previewSize": 5183
+    },
+    {
+      "id": "6777459f53eb9f93596d4c33",
+      "name": "小提琴图-不分组",
+      "category": "小提琴图",
+      "categoryTrail": [
+        "小提琴图",
+        "不分组"
+      ],
+      "categoryTrailText": "小提琴图 / 不分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6777459f53eb9f93596d4c33",
+      "previewUrl": "templates/6777459f53eb9f93596d4c33/preview.png",
+      "svgUrl": "templates/6777459f53eb9f93596d4c33/rendered.svg",
+      "metaUrl": "templates/6777459f53eb9f93596d4c33/meta.json",
+      "pythonUrl": "templates/6777459f53eb9f93596d4c33/python_example.py",
+      "rUrl": "templates/6777459f53eb9f93596d4c33/R_example.R",
+      "dirUrl": "templates/6777459f53eb9f93596d4c33",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6777459f53eb9f93596d4c33/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "densityVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8421,
+      "previewSize": 10691
+    },
+    {
+      "id": "67778fcc53eb9f93596d544b",
+      "name": "小提琴图-不分组-箱线",
+      "category": "小提琴图",
+      "categoryTrail": [
+        "小提琴图",
+        "不分组",
+        "箱线"
+      ],
+      "categoryTrailText": "小提琴图 / 不分组 / 箱线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67778fcc53eb9f93596d544b",
+      "previewUrl": "templates/67778fcc53eb9f93596d544b/preview.png",
+      "svgUrl": "templates/67778fcc53eb9f93596d544b/rendered.svg",
+      "metaUrl": "templates/67778fcc53eb9f93596d544b/meta.json",
+      "pythonUrl": "templates/67778fcc53eb9f93596d544b/python_example.py",
+      "rUrl": "templates/67778fcc53eb9f93596d544b/R_example.R",
+      "dirUrl": "templates/67778fcc53eb9f93596d544b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67778fcc53eb9f93596d544b/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/67778fcc53eb9f93596d544b/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minVCol": "min",
+        "q1VCol": "q1",
+        "midVCol": "mid",
+        "q3VCol": "q3",
+        "maxVCol": "max",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "densityVCol"
+      ],
+      "argCount": 12,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8989,
+      "previewSize": 6453
+    },
+    {
+      "id": "67774cd953eb9f93596d4d38",
+      "name": "小提琴图-分组",
+      "category": "小提琴图",
+      "categoryTrail": [
+        "小提琴图",
+        "分组"
+      ],
+      "categoryTrailText": "小提琴图 / 分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67774cd953eb9f93596d4d38",
+      "previewUrl": "templates/67774cd953eb9f93596d4d38/preview.png",
+      "svgUrl": "templates/67774cd953eb9f93596d4d38/rendered.svg",
+      "metaUrl": "templates/67774cd953eb9f93596d4d38/meta.json",
+      "pythonUrl": "templates/67774cd953eb9f93596d4d38/python_example.py",
+      "rUrl": "templates/67774cd953eb9f93596d4d38/R_example.R",
+      "dirUrl": "templates/67774cd953eb9f93596d4d38",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67774cd953eb9f93596d4d38/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/67774cd953eb9f93596d4d38/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "densityVCol"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7819,
+      "previewSize": 8813
+    },
+    {
+      "id": "6778ede31c2ae301f1e33564",
+      "name": "小提琴图-分组-多行多列",
+      "category": "小提琴图",
+      "categoryTrail": [
+        "小提琴图",
+        "分组",
+        "多行多列"
+      ],
+      "categoryTrailText": "小提琴图 / 分组 / 多行多列",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6778ede31c2ae301f1e33564",
+      "previewUrl": "templates/6778ede31c2ae301f1e33564/preview.png",
+      "svgUrl": "templates/6778ede31c2ae301f1e33564/rendered.svg",
+      "metaUrl": "templates/6778ede31c2ae301f1e33564/meta.json",
+      "pythonUrl": "templates/6778ede31c2ae301f1e33564/python_example.py",
+      "rUrl": "templates/6778ede31c2ae301f1e33564/R_example.R",
+      "dirUrl": "templates/6778ede31c2ae301f1e33564",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6778ede31c2ae301f1e33564/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6778ede31c2ae301f1e33564/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "valueCol": "value",
+        "densityVCol": "density",
+        "ySCol": "name",
+        "xSCol": "group",
+        "idSCol": "id"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "valueCol",
+        "densityVCol",
+        "ySCol",
+        "xSCol",
+        "idSCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 4349,
+      "previewSize": 5119
+    },
+    {
+      "id": "69b0ab4ee941e70c9db96082",
+      "name": "小提琴图-分组-纵向-一半-边框",
+      "category": "小提琴图",
+      "categoryTrail": [
+        "小提琴图",
+        "分组",
+        "纵向",
+        "一半",
+        "边框"
+      ],
+      "categoryTrailText": "小提琴图 / 分组 / 纵向 / 一半 / 边框",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=69b0ab4ee941e70c9db96082",
+      "previewUrl": "templates/69b0ab4ee941e70c9db96082/preview.png",
+      "svgUrl": "templates/69b0ab4ee941e70c9db96082/rendered.svg",
+      "metaUrl": "templates/69b0ab4ee941e70c9db96082/meta.json",
+      "pythonUrl": "templates/69b0ab4ee941e70c9db96082/python_example.py",
+      "rUrl": "templates/69b0ab4ee941e70c9db96082/R_example.R",
+      "dirUrl": "templates/69b0ab4ee941e70c9db96082",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69b0ab4ee941e70c9db96082/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/69b0ab4ee941e70c9db96082/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minVCol": "min",
+        "q1VCol": "q1",
+        "midVCol": "mid",
+        "q3VCol": "q3",
+        "maxVCol": "max",
+        "densityVCol": "density",
+        "groupCol": "group"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "densityVCol",
+        "groupCol"
+      ],
+      "argCount": 13,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14123,
+      "previewSize": 9186
+    },
+    {
+      "id": "677777de53eb9f93596d5241",
+      "name": "小提琴图-分组-左右对比",
+      "category": "小提琴图",
+      "categoryTrail": [
+        "小提琴图",
+        "分组",
+        "左右对比"
+      ],
+      "categoryTrailText": "小提琴图 / 分组 / 左右对比",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=677777de53eb9f93596d5241",
+      "previewUrl": "templates/677777de53eb9f93596d5241/preview.png",
+      "svgUrl": "templates/677777de53eb9f93596d5241/rendered.svg",
+      "metaUrl": "templates/677777de53eb9f93596d5241/meta.json",
+      "pythonUrl": "templates/677777de53eb9f93596d5241/python_example.py",
+      "rUrl": "templates/677777de53eb9f93596d5241/R_example.R",
+      "dirUrl": "templates/677777de53eb9f93596d5241",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/677777de53eb9f93596d5241/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/677777de53eb9f93596d5241/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "id",
+        "groupCol": "group",
+        "valueCol": "value",
+        "densityVCol": "density",
+        "idNameCol": "idName"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "densityVCol",
+        "idNameCol"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 6846,
+      "previewSize": 5693
+    },
+    {
+      "id": "687aff46e3740d1ecd70014b",
+      "name": "旭日图-2层-自动排序-渐变色",
+      "category": "旭日图",
+      "categoryTrail": [
+        "旭日图",
+        "2层",
+        "自动排序",
+        "渐变色"
+      ],
+      "categoryTrailText": "旭日图 / 2层 / 自动排序 / 渐变色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=687aff46e3740d1ecd70014b",
+      "previewUrl": "templates/687aff46e3740d1ecd70014b/preview.png",
+      "svgUrl": "templates/687aff46e3740d1ecd70014b/rendered.svg",
+      "metaUrl": "templates/687aff46e3740d1ecd70014b/meta.json",
+      "pythonUrl": "templates/687aff46e3740d1ecd70014b/python_example.py",
+      "rUrl": "templates/687aff46e3740d1ecd70014b/R_example.R",
+      "dirUrl": "templates/687aff46e3740d1ecd70014b",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/687aff46e3740d1ecd70014b/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18393,
+      "previewSize": 65156
+    },
+    {
+      "id": "67621ff589cb0d2350dda0ac",
+      "name": "旭日图-多层",
+      "category": "旭日图",
+      "categoryTrail": [
+        "旭日图",
+        "多层"
+      ],
+      "categoryTrailText": "旭日图 / 多层",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67621ff589cb0d2350dda0ac",
+      "previewUrl": "templates/67621ff589cb0d2350dda0ac/preview.png",
+      "svgUrl": "templates/67621ff589cb0d2350dda0ac/rendered.svg",
+      "metaUrl": "templates/67621ff589cb0d2350dda0ac/meta.json",
+      "pythonUrl": "templates/67621ff589cb0d2350dda0ac/python_example.py",
+      "rUrl": "templates/67621ff589cb0d2350dda0ac/R_example.R",
+      "dirUrl": "templates/67621ff589cb0d2350dda0ac",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67621ff589cb0d2350dda0ac/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "valueCol": "value",
+        "levelCols": "level1、level2、name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "valueCol",
+        "levelCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 20347,
+      "previewSize": 59356
+    },
+    {
+      "id": "6850ef1c8375d86d3a0b10c9",
+      "name": "序列图-分组-连线",
+      "category": "序列图",
+      "categoryTrail": [
+        "序列图",
+        "分组",
+        "连线"
+      ],
+      "categoryTrailText": "序列图 / 分组 / 连线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6850ef1c8375d86d3a0b10c9",
+      "previewUrl": "templates/6850ef1c8375d86d3a0b10c9/preview.png",
+      "svgUrl": "templates/6850ef1c8375d86d3a0b10c9/rendered.svg",
+      "metaUrl": "templates/6850ef1c8375d86d3a0b10c9/meta.json",
+      "pythonUrl": "templates/6850ef1c8375d86d3a0b10c9/python_example.py",
+      "rUrl": "templates/6850ef1c8375d86d3a0b10c9/R_example.R",
+      "dirUrl": "templates/6850ef1c8375d86d3a0b10c9",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6850ef1c8375d86d3a0b10c9/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "groupCol": "group",
+        "yVCol": "id",
+        "varCols": "、"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "groupCol",
+        "yVCol",
+        "varCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 37455,
+      "previewSize": 4037
+    },
+    {
+      "id": "667d6c33837ae2465043c6da",
+      "name": "云雨图-不分组-纵向",
+      "category": "序列图",
+      "categoryTrail": [
+        "序列图",
+        "排序",
+        "组分割"
+      ],
+      "categoryTrailText": "序列图 / 排序 / 组分割",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6777a96d53eb9f93596d6be4",
+      "previewUrl": "templates/667d6c33837ae2465043c6da/preview.png",
+      "svgUrl": "templates/667d6c33837ae2465043c6da/rendered.svg",
+      "metaUrl": "templates/667d6c33837ae2465043c6da/meta.json",
+      "pythonUrl": "templates/667d6c33837ae2465043c6da/python_example.py",
+      "rUrl": "templates/667d6c33837ae2465043c6da/R_example.R",
+      "dirUrl": "templates/667d6c33837ae2465043c6da",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/667d6c33837ae2465043c6da/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/667d6c33837ae2465043c6da/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/667d6c33837ae2465043c6da/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data3type": "txt_tab",
+        "data3": "name\tvalue\na\t1\na\t2\na\t3\na\t4\na\t5\na\t6\na\t7\na\t8\na\t9\na\t10\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\na\t5\na\t5\na\t5\na\t3\na\t4\na\t5\na\t6\na\t7\na\t5\na\t5\na\t5\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\na\t3\na\t4\na\t5\na\t6\na\t7\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\nb\t1\nb\t2\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t8\nb\t9\nb\t10\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nc\t1\nc\t2\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nd\t1\nd\t2\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minVCol": "min",
+        "q1VCol": "q1",
+        "midVCol": "mid",
+        "q3VCol": "q3",
+        "maxVCol": "max",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "valueCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "densityVCol"
+      ],
+      "argCount": 15,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 46639,
+      "previewSize": 5139
+    },
+    {
+      "id": "668882533608d2fc7bddff93",
+      "name": "玉玦图-多变量",
+      "category": "玉玦图",
+      "categoryTrail": [
+        "玉玦图",
+        "多变量"
+      ],
+      "categoryTrailText": "玉玦图 / 多变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=668882533608d2fc7bddff93",
+      "previewUrl": "templates/668882533608d2fc7bddff93/preview.png",
+      "svgUrl": "templates/668882533608d2fc7bddff93/rendered.svg",
+      "metaUrl": "templates/668882533608d2fc7bddff93/meta.json",
+      "pythonUrl": "templates/668882533608d2fc7bddff93/python_example.py",
+      "rUrl": "templates/668882533608d2fc7bddff93/R_example.R",
+      "dirUrl": "templates/668882533608d2fc7bddff93",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/668882533608d2fc7bddff93/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 12291,
+      "previewSize": 85794
+    },
+    {
+      "id": "6768db92222ceb58bb3714fe",
+      "name": "玉珏图",
+      "category": "玉珏图",
+      "categoryTrail": [
+        "玉珏图"
+      ],
+      "categoryTrailText": "玉珏图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6768db92222ceb58bb3714fe",
+      "previewUrl": "templates/6768db92222ceb58bb3714fe/preview.png",
+      "svgUrl": "templates/6768db92222ceb58bb3714fe/rendered.svg",
+      "metaUrl": "templates/6768db92222ceb58bb3714fe/meta.json",
+      "pythonUrl": "templates/6768db92222ceb58bb3714fe/python_example.py",
+      "rUrl": "templates/6768db92222ceb58bb3714fe/R_example.R",
+      "dirUrl": "templates/6768db92222ceb58bb3714fe",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6768db92222ceb58bb3714fe/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 6882,
+      "previewSize": 32600
+    },
+    {
+      "id": "67779da433a330fef02df301",
+      "name": "云雨图-不分组",
+      "category": "云雨图",
+      "categoryTrail": [
+        "云雨图",
+        "不分组"
+      ],
+      "categoryTrailText": "云雨图 / 不分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67779da433a330fef02df301",
+      "previewUrl": "templates/67779da433a330fef02df301/preview.png",
+      "svgUrl": "templates/67779da433a330fef02df301/rendered.svg",
+      "metaUrl": "templates/67779da433a330fef02df301/meta.json",
+      "pythonUrl": "templates/67779da433a330fef02df301/python_example.py",
+      "rUrl": "templates/67779da433a330fef02df301/R_example.R",
+      "dirUrl": "templates/67779da433a330fef02df301",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67779da433a330fef02df301/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/67779da433a330fef02df301/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/67779da433a330fef02df301/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data3type": "txt_tab",
+        "data3": "name\tvalue\na\t1\na\t2\na\t3\na\t4\na\t5\na\t6\na\t7\na\t8\na\t9\na\t10\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\na\t5\na\t5\na\t5\na\t3\na\t4\na\t5\na\t6\na\t7\na\t5\na\t5\na\t5\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\na\t3\na\t4\na\t5\na\t6\na\t7\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\nb\t1\nb\t2\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t8\nb\t9\nb\t10\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nc\t1\nc\t2\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nd\t1\nd\t2\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minVCol": "min",
+        "q1VCol": "q1",
+        "midVCol": "mid",
+        "q3VCol": "q3",
+        "maxVCol": "max",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "valueCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "densityVCol"
+      ],
+      "argCount": 15,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 49673,
+      "previewSize": 5544
+    },
+    {
+      "id": "6777a96d53eb9f93596d6be4",
+      "name": "云雨图-不分组-纵向",
+      "category": "云雨图",
+      "categoryTrail": [
+        "云雨图",
+        "不分组",
+        "纵向"
+      ],
+      "categoryTrailText": "云雨图 / 不分组 / 纵向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6777a96d53eb9f93596d6be4",
+      "previewUrl": "templates/6777a96d53eb9f93596d6be4/preview.png",
+      "svgUrl": "templates/6777a96d53eb9f93596d6be4/rendered.svg",
+      "metaUrl": "templates/6777a96d53eb9f93596d6be4/meta.json",
+      "pythonUrl": "templates/6777a96d53eb9f93596d6be4/python_example.py",
+      "rUrl": "templates/6777a96d53eb9f93596d6be4/R_example.R",
+      "dirUrl": "templates/6777a96d53eb9f93596d6be4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6777a96d53eb9f93596d6be4/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6777a96d53eb9f93596d6be4/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/6777a96d53eb9f93596d6be4/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data3type": "txt_tab",
+        "data3": "name\tvalue\na\t1\na\t2\na\t3\na\t4\na\t5\na\t6\na\t7\na\t8\na\t9\na\t10\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\na\t5\na\t5\na\t5\na\t3\na\t4\na\t5\na\t6\na\t7\na\t5\na\t5\na\t5\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\na\t3\na\t4\na\t5\na\t6\na\t7\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\nb\t1\nb\t2\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t8\nb\t9\nb\t10\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nc\t1\nc\t2\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nd\t1\nd\t2\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minVCol": "min",
+        "q1VCol": "q1",
+        "midVCol": "mid",
+        "q3VCol": "q3",
+        "maxVCol": "max",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "valueCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "densityVCol"
+      ],
+      "argCount": 15,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 46639,
+      "previewSize": 5811
+    },
+    {
+      "id": "69869a6a08a1e6ebd494d3a5",
+      "name": "云雨图-不分组-纵向-三角无填充",
+      "category": "云雨图",
+      "categoryTrail": [
+        "云雨图",
+        "不分组",
+        "纵向",
+        "三角无填充"
+      ],
+      "categoryTrailText": "云雨图 / 不分组 / 纵向 / 三角无填充",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=69869a6a08a1e6ebd494d3a5",
+      "previewUrl": "templates/69869a6a08a1e6ebd494d3a5/preview.png",
+      "svgUrl": "templates/69869a6a08a1e6ebd494d3a5/rendered.svg",
+      "metaUrl": "templates/69869a6a08a1e6ebd494d3a5/meta.json",
+      "pythonUrl": "templates/69869a6a08a1e6ebd494d3a5/python_example.py",
+      "rUrl": "templates/69869a6a08a1e6ebd494d3a5/R_example.R",
+      "dirUrl": "templates/69869a6a08a1e6ebd494d3a5",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69869a6a08a1e6ebd494d3a5/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/69869a6a08a1e6ebd494d3a5/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/69869a6a08a1e6ebd494d3a5/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data3type": "txt_tab",
+        "data3": "name\tvalue\na\t4\na\t5\na\t6\na\t7\na\t8\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\na\t5\na\t5\na\t5\na\t3\na\t4\na\t5\na\t6\na\t7\nb\t4\nb\t5\nb\t6\nb\t7\nb\t8\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nc\t5\nc\t4\nc\t5\nc\t6\nc\t7\nc\t8\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nd\t5\nd\t4\nd\t5\nd\t6\nd\t7\nd\t8\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minVCol": "min",
+        "q1VCol": "q1",
+        "midVCol": "mid",
+        "q3VCol": "q3",
+        "maxVCol": "max",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "valueCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "densityVCol"
+      ],
+      "argCount": 15,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 30940,
+      "previewSize": 9260
+    },
+    {
+      "id": "6986a72608a1e6ebd494db80",
+      "name": "云雨图-不分组-纵向-无填充-单向",
+      "category": "云雨图",
+      "categoryTrail": [
+        "云雨图",
+        "不分组",
+        "纵向",
+        "无填充",
+        "单向"
+      ],
+      "categoryTrailText": "云雨图 / 不分组 / 纵向 / 无填充 / 单向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6986a72608a1e6ebd494db80",
+      "previewUrl": "templates/6986a72608a1e6ebd494db80/preview.png",
+      "svgUrl": "templates/6986a72608a1e6ebd494db80/rendered.svg",
+      "metaUrl": "templates/6986a72608a1e6ebd494db80/meta.json",
+      "pythonUrl": "templates/6986a72608a1e6ebd494db80/python_example.py",
+      "rUrl": "templates/6986a72608a1e6ebd494db80/R_example.R",
+      "dirUrl": "templates/6986a72608a1e6ebd494db80",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6986a72608a1e6ebd494db80/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6986a72608a1e6ebd494db80/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/6986a72608a1e6ebd494db80/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data3type": "txt_tab",
+        "data3": "name\tvalue\na\t4\na\t5\na\t6\na\t7\na\t8\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\na\t5\na\t5\na\t5\na\t3\na\t4\na\t5\na\t6\na\t7\nb\t4\nb\t5\nb\t6\nb\t7\nb\t8\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nc\t5\nc\t4\nc\t5\nc\t6\nc\t7\nc\t8\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nd\t5\nd\t4\nd\t5\nd\t6\nd\t7\nd\t8\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minVCol": "min",
+        "q1VCol": "q1",
+        "midVCol": "mid",
+        "q3VCol": "q3",
+        "maxVCol": "max",
+        "densityVCol": "density"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "valueCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "densityVCol"
+      ],
+      "argCount": 15,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 28939,
+      "previewSize": 7365
+    },
+    {
+      "id": "698950259802c3c53e918653",
+      "name": "云雨图-分组-纵向-三角无填充",
+      "category": "云雨图",
+      "categoryTrail": [
+        "云雨图",
+        "分组",
+        "纵向",
+        "三角无填充"
+      ],
+      "categoryTrailText": "云雨图 / 分组 / 纵向 / 三角无填充",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=698950259802c3c53e918653",
+      "previewUrl": "templates/698950259802c3c53e918653/preview.png",
+      "svgUrl": "templates/698950259802c3c53e918653/rendered.svg",
+      "metaUrl": "templates/698950259802c3c53e918653/meta.json",
+      "pythonUrl": "templates/698950259802c3c53e918653/python_example.py",
+      "rUrl": "templates/698950259802c3c53e918653/R_example.R",
+      "dirUrl": "templates/698950259802c3c53e918653",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/698950259802c3c53e918653/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/698950259802c3c53e918653/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/698950259802c3c53e918653/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data3type": "txt_tab",
+        "data3": "group\tname\tvalue\ngroup1\ta\t4\ngroup1\ta\t5\ngroup1\ta\t6\ngroup1\ta\t7\ngroup1\ta\t8\ngroup1\ta\t4\ngroup1\ta\t5\ngroup1\ta\t5\ngroup1\ta\t6\ngroup1\ta\t6\ngroup1\ta\t7\ngroup1\ta\t5\ngroup1\ta\t5\ngroup1\ta\t5\ngroup1\ta\t3\ngroup1\ta\t4\ngroup1\ta\t5\ngroup1\ta\t6\ngroup1\ta\t7\ngroup1\tb\t4\ngroup1\tb\t5\ngroup1\tb\t6\ngroup1\tb\t7\ngroup1\tb\t8\ngroup1\tb\t4\ngroup1\tb\t5\ngroup1\tb\t5\ngroup1\tb\t6\ngroup1\tb\t6\ngroup1\tb\t7\ngroup1\tb\t5\ngroup1\tb\t5\ngroup1\tb\t5\ngroup1\tb\t3\ngroup1\tb\t4\ngroup1\tb\t5\ngroup1\tb\t6\ngroup2\tb\t7\ngroup2\tc\t5\ngroup2\tc\t4\ngroup2\tc\t5\ngroup2\tc\t6\ngroup2\tc\t7\ngroup2\tc\t8\ngroup2\tc\t4\ngroup2\tc\t5\ngroup2\tc\t5\ngroup2\tc\t6\ngroup2\tc\t6\ngroup2\tc\t7\ngroup2\tc\t5\ngroup2\tc\t5\ngroup2\tc\t5\ngroup2\tc\t3\ngroup2\tc\t4\ngroup2\tc\t5\ngroup2\tc\t6\ngroup2\tc\t7\ngroup2\td\t5\ngroup2\td\t4\ngroup2\td\t5\ngroup2\td\t6\ngroup2\td\t7\ngroup2\td\t8\ngroup2\td\t4\ngroup2\td\t5\ngroup2\td\t5\ngroup2\td\t6\ngroup2\td\t6\ngroup2\td\t7\ngroup2\td\t5\ngroup2\td\t5\ngroup2\td\t5\ngroup2\td\t3\ngroup2\td\t4\ngroup2\td\t5\ngroup2\td\t6\ngroup2\td\t7",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minVCol": "min",
+        "q1VCol": "q1",
+        "midVCol": "mid",
+        "q3VCol": "q3",
+        "maxVCol": "max",
+        "densityVCol": "density",
+        "groupCol": "group"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "valueCol",
+        "minVCol",
+        "q1VCol",
+        "midVCol",
+        "q3VCol",
+        "maxVCol",
+        "densityVCol",
+        "groupCol"
+      ],
+      "argCount": 16,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 31683,
+      "previewSize": 10079
+    },
+    {
+      "id": "66b4d4e0a62bc5aad627a42a",
+      "name": "折线图-无分组-散点-面域",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "无分组",
+        "散点",
+        "面域"
+      ],
+      "categoryTrailText": "折线图 / 无分组 / 散点 / 面域",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b4d4e0a62bc5aad627a42a",
+      "previewUrl": "templates/66b4d4e0a62bc5aad627a42a/preview.png",
+      "svgUrl": "templates/66b4d4e0a62bc5aad627a42a/rendered.svg",
+      "metaUrl": "templates/66b4d4e0a62bc5aad627a42a/meta.json",
+      "pythonUrl": "templates/66b4d4e0a62bc5aad627a42a/python_example.py",
+      "rUrl": "templates/66b4d4e0a62bc5aad627a42a/R_example.R",
+      "dirUrl": "templates/66b4d4e0a62bc5aad627a42a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66b4d4e0a62bc5aad627a42a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "xVCol": "x",
+        "yVCol": "y",
+        "xtitle": "X",
+        "ytitle": "Y",
+        "title": "xxxxx"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "xVCol",
+        "yVCol",
+        "xtitle",
+        "ytitle",
+        "title"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7762,
+      "previewSize": 7025
+    },
+    {
+      "id": "698450da5a9b04028486b7ff",
+      "name": "折线图-无分组-散点-平均值连线",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "无分组",
+        "散点",
+        "平均值连线"
+      ],
+      "categoryTrailText": "折线图 / 无分组 / 散点 / 平均值连线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=698450da5a9b04028486b7ff",
+      "previewUrl": "templates/698450da5a9b04028486b7ff/preview.png",
+      "svgUrl": "templates/698450da5a9b04028486b7ff/rendered.svg",
+      "metaUrl": "templates/698450da5a9b04028486b7ff/meta.json",
+      "pythonUrl": "templates/698450da5a9b04028486b7ff/python_example.py",
+      "rUrl": "templates/698450da5a9b04028486b7ff/R_example.R",
+      "dirUrl": "templates/698450da5a9b04028486b7ff",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/698450da5a9b04028486b7ff/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol"
+      ],
+      "argCount": 3,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 18979,
+      "previewSize": 6956
+    },
+    {
+      "id": "668797dd3608d2fc7bdd455f",
+      "name": "折线图-无分组-散点-误差棒",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "无分组"
+      ],
+      "categoryTrailText": "折线图 / 无分组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=668e71b21e7a0d382f5fa7f0",
+      "previewUrl": "templates/668797dd3608d2fc7bdd455f/preview.png",
+      "svgUrl": "templates/668797dd3608d2fc7bdd455f/rendered.svg",
+      "metaUrl": "templates/668797dd3608d2fc7bdd455f/meta.json",
+      "pythonUrl": "templates/668797dd3608d2fc7bdd455f/python_example.py",
+      "rUrl": "templates/668797dd3608d2fc7bdd455f/R_example.R",
+      "dirUrl": "templates/668797dd3608d2fc7bdd455f",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/668797dd3608d2fc7bdd455f/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "y",
+        "sdVCol": "sd",
+        "pCol": "p",
+        "ytitle": "yyy"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "sdVCol",
+        "pCol",
+        "ytitle"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11367,
+      "previewSize": 6683
+    },
+    {
+      "id": "668e71b21e7a0d382f5fa7f0",
+      "name": "折线图-无分组-散点-误差棒",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "无分组",
+        "散点",
+        "误差棒"
+      ],
+      "categoryTrailText": "折线图 / 无分组 / 散点 / 误差棒",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=668e71b21e7a0d382f5fa7f0",
+      "previewUrl": "templates/668e71b21e7a0d382f5fa7f0/preview.png",
+      "svgUrl": "templates/668e71b21e7a0d382f5fa7f0/rendered.svg",
+      "metaUrl": "templates/668e71b21e7a0d382f5fa7f0/meta.json",
+      "pythonUrl": "templates/668e71b21e7a0d382f5fa7f0/python_example.py",
+      "rUrl": "templates/668e71b21e7a0d382f5fa7f0/R_example.R",
+      "dirUrl": "templates/668e71b21e7a0d382f5fa7f0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/668e71b21e7a0d382f5fa7f0/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "y",
+        "sdVCol": "sd",
+        "pCol": "p",
+        "ytitle": "yyy"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "sdVCol",
+        "pCol",
+        "ytitle"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11367,
+      "previewSize": 4512
+    },
+    {
+      "id": "667d101971c06acd9bd3c9b1",
+      "name": "折线图-无分组-散点拟合线-统计柱状图",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "无分组",
+        "散点拟合线",
+        "统计柱状图"
+      ],
+      "categoryTrailText": "折线图 / 无分组 / 散点拟合线 / 统计柱状图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=667d101971c06acd9bd3c9b1",
+      "previewUrl": "templates/667d101971c06acd9bd3c9b1/preview.png",
+      "svgUrl": "templates/667d101971c06acd9bd3c9b1/rendered.svg",
+      "metaUrl": "templates/667d101971c06acd9bd3c9b1/meta.json",
+      "pythonUrl": "templates/667d101971c06acd9bd3c9b1/python_example.py",
+      "rUrl": "templates/667d101971c06acd9bd3c9b1/R_example.R",
+      "dirUrl": "templates/667d101971c06acd9bd3c9b1",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/667d101971c06acd9bd3c9b1/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/667d101971c06acd9bd3c9b1/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "xVCol": "x",
+        "yVCol": "y",
+        "linex1VCol": "x1",
+        "liney1VCol": "y1",
+        "linex2VCol": "x2",
+        "liney2VCol": "y2"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "xVCol",
+        "yVCol",
+        "linex1VCol",
+        "liney1VCol",
+        "linex2VCol",
+        "liney2VCol"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14309,
+      "previewSize": 6043
+    },
+    {
+      "id": "6694bb381d0e0391ccd00e87",
+      "name": "折线图-无分组-散点拟合线-统计柱状图",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "无分组",
+        "散点"
+      ],
+      "categoryTrailText": "折线图 / 无分组 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=667d101971c06acd9bd3c9b1",
+      "previewUrl": "templates/6694bb381d0e0391ccd00e87/preview.png",
+      "svgUrl": "templates/6694bb381d0e0391ccd00e87/rendered.svg",
+      "metaUrl": "templates/6694bb381d0e0391ccd00e87/meta.json",
+      "pythonUrl": "templates/6694bb381d0e0391ccd00e87/python_example.py",
+      "rUrl": "templates/6694bb381d0e0391ccd00e87/R_example.R",
+      "dirUrl": "templates/6694bb381d0e0391ccd00e87",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6694bb381d0e0391ccd00e87/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6694bb381d0e0391ccd00e87/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "xVCol": "x",
+        "yVCol": "y",
+        "linex1VCol": "x1",
+        "liney1VCol": "y1",
+        "linex2VCol": "x2",
+        "liney2VCol": "y2"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "xVCol",
+        "yVCol",
+        "linex1VCol",
+        "liney1VCol",
+        "linex2VCol",
+        "liney2VCol"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14309,
+      "previewSize": 4469
+    },
+    {
+      "id": "66b486871ed116b7326bf8d0",
+      "name": "折线图-无分组-散点拟合线-显示R和P值",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "无分组",
+        "散点拟合线",
+        "显示R和P值"
+      ],
+      "categoryTrailText": "折线图 / 无分组 / 散点拟合线 / 显示R和P值",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b486871ed116b7326bf8d0",
+      "previewUrl": "templates/66b486871ed116b7326bf8d0/preview.png",
+      "svgUrl": "templates/66b486871ed116b7326bf8d0/rendered.svg",
+      "metaUrl": "templates/66b486871ed116b7326bf8d0/meta.json",
+      "pythonUrl": "templates/66b486871ed116b7326bf8d0/python_example.py",
+      "rUrl": "templates/66b486871ed116b7326bf8d0/R_example.R",
+      "dirUrl": "templates/66b486871ed116b7326bf8d0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66b486871ed116b7326bf8d0/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "xVCol": "x",
+        "yVCol": "y",
+        "x1": "29",
+        "y1": "0.18",
+        "x2": "1",
+        "y2": "0.61",
+        "r": "r = xx",
+        "p": "p = xx",
+        "yTxtN": "1",
+        "ytitle": "yyyy",
+        "xtitle": "xxxx"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "xVCol",
+        "yVCol",
+        "x1",
+        "y1",
+        "x2",
+        "y2",
+        "r",
+        "p",
+        "yTxtN",
+        "ytitle",
+        "xtitle"
+      ],
+      "argCount": 13,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9829,
+      "previewSize": 5255
+    },
+    {
+      "id": "667cd1817addf6468a7b5d6e",
+      "name": "折线图-无分组-散点拟合线-置信区间",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "无分组",
+        "散点拟合线",
+        "置信区间"
+      ],
+      "categoryTrailText": "折线图 / 无分组 / 散点拟合线 / 置信区间",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=667cd1817addf6468a7b5d6e",
+      "previewUrl": "templates/667cd1817addf6468a7b5d6e/preview.png",
+      "svgUrl": "templates/667cd1817addf6468a7b5d6e/rendered.svg",
+      "metaUrl": "templates/667cd1817addf6468a7b5d6e/meta.json",
+      "pythonUrl": "templates/667cd1817addf6468a7b5d6e/python_example.py",
+      "rUrl": "templates/667cd1817addf6468a7b5d6e/R_example.R",
+      "dirUrl": "templates/667cd1817addf6468a7b5d6e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/667cd1817addf6468a7b5d6e/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/667cd1817addf6468a7b5d6e/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/667cd1817addf6468a7b5d6e/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data3type": "txt",
+        "data3": "x\tupper\tlower\n32.79\t111.1633676\t93.12794191\n43.82\t114.9523584\t100.9746721\n57.63\t120.1583376\t110.3370797\n62.72\t122.3446237\t113.5203149\n74.05\t128.1231075\t119.6940268\n76.78\t129.7227823\t120.9742721\n85.91\t135.5261441\t124.8022912\n86.06\t135.6259831\t124.8606896\n89.86\t138.1898917\t126.3054609\n90.43\t138.5795922\t126.5170625",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "xVCol": "x",
+        "yVCol": "y",
+        "linex1VCol": "x1",
+        "liney1VCol": "y1",
+        "linex2VCol": "x2",
+        "liney2VCol": "y2",
+        "areaBaseVCol": "lower",
+        "areaPosVCol": "x",
+        "areaJumpVCol": "upper"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "xVCol",
+        "yVCol",
+        "linex1VCol",
+        "liney1VCol",
+        "linex2VCol",
+        "liney2VCol",
+        "areaBaseVCol",
+        "areaPosVCol",
+        "areaJumpVCol"
+      ],
+      "argCount": 16,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8860,
+      "previewSize": 8346
+    },
+    {
+      "id": "66bf0f5b4d827e03fea3db68",
+      "name": "折线图-有分组-点多样式",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "有分组",
+        "点多样式"
+      ],
+      "categoryTrailText": "折线图 / 有分组 / 点多样式",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66bf0f5b4d827e03fea3db68",
+      "previewUrl": "templates/66bf0f5b4d827e03fea3db68/preview.png",
+      "svgUrl": "templates/66bf0f5b4d827e03fea3db68/rendered.svg",
+      "metaUrl": "templates/66bf0f5b4d827e03fea3db68/meta.json",
+      "pythonUrl": "templates/66bf0f5b4d827e03fea3db68/python_example.py",
+      "rUrl": "templates/66bf0f5b4d827e03fea3db68/R_example.R",
+      "dirUrl": "templates/66bf0f5b4d827e03fea3db68",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66bf0f5b4d827e03fea3db68/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "group",
+        "xVCol": "x",
+        "yVCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "yVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 27533,
+      "previewSize": 9371
+    },
+    {
+      "id": "66cdcef3bf89ff2f8e8cadbd",
+      "name": "折线图-有分组-拟合线-置信区间",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "有分组",
+        "拟合线",
+        "置信区间"
+      ],
+      "categoryTrailText": "折线图 / 有分组 / 拟合线 / 置信区间",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66cdcef3bf89ff2f8e8cadbd",
+      "previewUrl": "templates/66cdcef3bf89ff2f8e8cadbd/preview.png",
+      "svgUrl": "templates/66cdcef3bf89ff2f8e8cadbd/rendered.svg",
+      "metaUrl": "templates/66cdcef3bf89ff2f8e8cadbd/meta.json",
+      "pythonUrl": "templates/66cdcef3bf89ff2f8e8cadbd/python_example.py",
+      "rUrl": "templates/66cdcef3bf89ff2f8e8cadbd/R_example.R",
+      "dirUrl": "templates/66cdcef3bf89ff2f8e8cadbd",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66cdcef3bf89ff2f8e8cadbd/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66cdcef3bf89ff2f8e8cadbd/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "groupCol": "group",
+        "linex1VCol": "x1",
+        "liney1VCol": "y1",
+        "linex2VCol": "x2",
+        "liney2VCol": "y2",
+        "areaBaseVCol": "lower",
+        "areaPosVCol": "x",
+        "areaJumpVCol": "upper"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "groupCol",
+        "linex1VCol",
+        "liney1VCol",
+        "linex2VCol",
+        "liney2VCol",
+        "areaBaseVCol",
+        "areaPosVCol",
+        "areaJumpVCol"
+      ],
+      "argCount": 12,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9465,
+      "previewSize": 7368
+    },
+    {
+      "id": "66b567c5d978618f7525fd09",
+      "name": "折线图-有分组-散点-空心点",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "有分组",
+        "散点",
+        "空心点"
+      ],
+      "categoryTrailText": "折线图 / 有分组 / 散点 / 空心点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b567c5d978618f7525fd09",
+      "previewUrl": "templates/66b567c5d978618f7525fd09/preview.png",
+      "svgUrl": "templates/66b567c5d978618f7525fd09/rendered.svg",
+      "metaUrl": "templates/66b567c5d978618f7525fd09/meta.json",
+      "pythonUrl": "templates/66b567c5d978618f7525fd09/python_example.py",
+      "rUrl": "templates/66b567c5d978618f7525fd09/R_example.R",
+      "dirUrl": "templates/66b567c5d978618f7525fd09",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66b567c5d978618f7525fd09/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "group",
+        "xVCol": "Number",
+        "yVCol": "value",
+        "xtitle": "Time",
+        "ytitle": "Value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "yVCol",
+        "xtitle",
+        "ytitle"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 34746,
+      "previewSize": 12278
+    },
+    {
+      "id": "69843e705a9b04028486b76d",
+      "name": "折线图-有分组-散点-平滑线",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "有分组",
+        "散点",
+        "平滑线"
+      ],
+      "categoryTrailText": "折线图 / 有分组 / 散点 / 平滑线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=69843e705a9b04028486b76d",
+      "previewUrl": "templates/69843e705a9b04028486b76d/preview.png",
+      "svgUrl": "templates/69843e705a9b04028486b76d/rendered.svg",
+      "metaUrl": "templates/69843e705a9b04028486b76d/meta.json",
+      "pythonUrl": "templates/69843e705a9b04028486b76d/python_example.py",
+      "rUrl": "templates/69843e705a9b04028486b76d/R_example.R",
+      "dirUrl": "templates/69843e705a9b04028486b76d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69843e705a9b04028486b76d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "xVCol": "x",
+        "yVCol": "y",
+        "groupCol": "group"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "xVCol",
+        "yVCol",
+        "groupCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 23548,
+      "previewSize": 14952
+    },
+    {
+      "id": "66c1d630d62f5aab6341aee1",
+      "name": "折线图-有分组-散点拟合线",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "有分组",
+        "散点拟合线"
+      ],
+      "categoryTrailText": "折线图 / 有分组 / 散点拟合线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66c1d630d62f5aab6341aee1",
+      "previewUrl": "templates/66c1d630d62f5aab6341aee1/preview.png",
+      "svgUrl": "templates/66c1d630d62f5aab6341aee1/rendered.svg",
+      "metaUrl": "templates/66c1d630d62f5aab6341aee1/meta.json",
+      "pythonUrl": "templates/66c1d630d62f5aab6341aee1/python_example.py",
+      "rUrl": "templates/66c1d630d62f5aab6341aee1/R_example.R",
+      "dirUrl": "templates/66c1d630d62f5aab6341aee1",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66c1d630d62f5aab6341aee1/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66c1d630d62f5aab6341aee1/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "groupCol": "group",
+        "xVCol": "x",
+        "yVCol": "y",
+        "linex1VCol": "x1",
+        "liney1VCol": "y1",
+        "linex2VCol": "x2",
+        "liney2VCol": "y2"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "groupCol",
+        "xVCol",
+        "yVCol",
+        "linex1VCol",
+        "liney1VCol",
+        "linex2VCol",
+        "liney2VCol"
+      ],
+      "argCount": 11,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9390,
+      "previewSize": 7335
+    },
+    {
+      "id": "68ff30e4bb52e65911957081",
+      "name": "折线图-有分组-散点拟合线-点多形状",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "有分组",
+        "散点拟合线",
+        "点多形状"
+      ],
+      "categoryTrailText": "折线图 / 有分组 / 散点拟合线 / 点多形状",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68ff30e4bb52e65911957081",
+      "previewUrl": "templates/68ff30e4bb52e65911957081/preview.png",
+      "svgUrl": "templates/68ff30e4bb52e65911957081/rendered.svg",
+      "metaUrl": "templates/68ff30e4bb52e65911957081/meta.json",
+      "pythonUrl": "templates/68ff30e4bb52e65911957081/python_example.py",
+      "rUrl": "templates/68ff30e4bb52e65911957081/R_example.R",
+      "dirUrl": "templates/68ff30e4bb52e65911957081",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68ff30e4bb52e65911957081/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/68ff30e4bb52e65911957081/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "group",
+        "groupCol": "group",
+        "xVCol": "x",
+        "yVCol": "y",
+        "linex1VCol": "x1",
+        "liney1VCol": "y1",
+        "linex2VCol": "x2",
+        "liney2VCol": "y2"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "xVCol",
+        "yVCol",
+        "linex1VCol",
+        "liney1VCol",
+        "linex2VCol",
+        "liney2VCol"
+      ],
+      "argCount": 12,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 17480,
+      "previewSize": 9401
+    },
+    {
+      "id": "667cdfd87addf6468a7b5f66",
+      "name": "折线图-有分组-散点拟合线-置信区间-信息标注",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "有分组",
+        "散点拟合线",
+        "置信区间",
+        "信息标注"
+      ],
+      "categoryTrailText": "折线图 / 有分组 / 散点拟合线 / 置信区间 / 信息标注",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=667cdfd87addf6468a7b5f66",
+      "previewUrl": "templates/667cdfd87addf6468a7b5f66/preview.png",
+      "svgUrl": "templates/667cdfd87addf6468a7b5f66/rendered.svg",
+      "metaUrl": "templates/667cdfd87addf6468a7b5f66/meta.json",
+      "pythonUrl": "templates/667cdfd87addf6468a7b5f66/python_example.py",
+      "rUrl": "templates/667cdfd87addf6468a7b5f66/R_example.R",
+      "dirUrl": "templates/667cdfd87addf6468a7b5f66",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/667cdfd87addf6468a7b5f66/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/667cdfd87addf6468a7b5f66/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/667cdfd87addf6468a7b5f66/data3.txt"
+        },
+        {
+          "name": "data4.txt",
+          "url": "templates/667cdfd87addf6468a7b5f66/data4.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data3type": "txt",
+        "data3": "group\tx\ty\tupper\tlower\n1\t32.79\t102.14565476552461\t111.16336762570648\t93.12794190534274\n1\t43.82\t107.96351525017499\t114.9523583778281\t100.97467212252188\n1\t57.63\t115.24770865842719\t120.15833762456637\t110.337079692288\n1\t62.72\t117.9324692991226\t122.34462371111209\t113.52031488713311\n1\t74.05\t123.90856714962928\t128.12310753032924\t119.6940267689293\n1\t76.78\t125.34852717892171\t129.72278227708512\t120.97427208075831\n1\t85.91\t130.16421767981547\t135.52614412632013\t124.8022912333108\n1\t86.06\t130.2433363627436\t135.6259831146236\t124.86068961086362\n1\t89.86\t132.24767633025687\t138.18989172375547\t126.30546093675827\n1\t90.43\t132.54832732538387\t138.57959216182653\t126.51706248894122\n2\t22.43\t129.0268422909414\t138.63507783257202\t119.41860674931078\n2\t25.77\t126.8807462157423\t135.99019908369362\t117.77129334779099\n2\t76.4\t94.34875690815831\t98.63442803536569\t90.06308578095093\n2\t77.73\t93.4941737404892\t97.80864193636697\t89.17970554461144\n2\t83.7\t89.65818764200458\t94.23562248221201\t85.08075280179715\n2\t88.05\t86.86312239436504\t91.75394830832444\t81.97229648040563\n2\t88.64\t86.4840215906622\t91.42412965096644\t81.54391353035795\n2\t89.85\t85.70654367120385\t90.75229260778215\t80.66079473462554\n2\t90.3\t85.41739899041355\t90.50394305775212\t80.33085492307497\n2\t94.7\t82.59020655601951\t88.1142611636079\t77.06615194843111\n3\t31.27\t31.646147968333576\t42.259156771458976\t21.033139165208173\n3\t47.21\t35.36659740768608\t41.9918608782654\t28.74133393710676\n3\t47.27\t35.38060160883797\t41.9929116250285\t28.76829159264744\n3\t57.16\t37.68896076537475\t42.62910080846363\t32.74882072228587\n3\t70.76\t40.86324635980349\t46.04835324230409\t35.67813947730289\n3\t73.79\t41.57045851797401\t47.229003128945166\t35.911913907002855\n3\t73.87\t41.589130786176526\t47.261634013874946\t35.916627558478105\n3\t74.97\t41.8458744739612\t47.71699716929818\t35.974751778624224\n3\t76.03\t42.09328202764462\t48.166803164400704\t36.019760890888534\n3\t77.24\t42.375700084207764\t48.692112583027296\t36.05928758538823\n4\t11.89\t69.32187175724279\t77.30032062128562\t61.34342289319995\n4\t18.88\t66.90062121318259\t73.97209510069428\t59.829147325670895\n4\t21.45\t66.01040463260537\t72.76509912196305\t59.255710143247704\n4\t44.83\t57.91185846377455\t62.55464442072595\t53.26907250682315\n4\t46.55\t57.316071491559455\t61.88850208691896\t52.74364089619995\n4\t58.54\t53.16288207478094\t57.70837153919273\t48.617392610369144\n4\t70.28\t49.09628960163835\t54.355964052943825\t43.83661515033287\n4\t76.93\t46.79281090092299\t52.69284145640021\t40.892780345445765\n4\t86.0\t43.651073785811974\t50.59831365764609\t36.70383391397786\n4\t94.04\t40.86611607848092\t48.85152222023501\t32.88070993672683",
+        "data4type": "txt_tab",
+        "data4": "group\tslope\tintercept\tr\tr2\tp\tstd_err\n1\t0.190651838802026\t74.331149526536\t0.17142883259233077\t0.029387844643969367\t0.6592079873476638\t0.4141245467635077\n2\t-0.36691576352752453\t85.0732423021245\t-0.7710349033007543\t0.5944948221080035\t0.02509151149484238\t0.12371287766962967\n3\t0.4874961407841927\t43.91417104044458\t0.18969728366915103\t0.03598505943145436\t0.6527583117811266\t1.0300927417405121\n4\t-0.36691576352752453\t85.0732423021245\t-0.7710349033007543\t0.5944948221080035\t0.02509151149484238\t0.12371287766962967",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "data4typeApp": "txt_tab",
+        "groupCol": "group",
+        "xVCol": "x",
+        "yVCol": "y",
+        "linex1VCol": "x1",
+        "liney1VCol": "y1",
+        "linex2VCol": "x2",
+        "liney2VCol": "y2",
+        "areaBaseVCol": "lower",
+        "areaPosVCol": "x",
+        "areaJumpVCol": "upper"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data4type",
+        "data4",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "data4typeApp",
+        "groupCol",
+        "xVCol",
+        "yVCol",
+        "linex1VCol",
+        "liney1VCol",
+        "linex2VCol",
+        "liney2VCol",
+        "areaBaseVCol",
+        "areaPosVCol",
+        "areaJumpVCol"
+      ],
+      "argCount": 20,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 24947,
+      "previewSize": 19583
+    },
+    {
+      "id": "6697d5003d4b3662f9fac6ad",
+      "name": "折线图-有分组-线多样式",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "有分组",
+        "线多样式"
+      ],
+      "categoryTrailText": "折线图 / 有分组 / 线多样式",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6697d5003d4b3662f9fac6ad",
+      "previewUrl": "templates/6697d5003d4b3662f9fac6ad/preview.png",
+      "svgUrl": "templates/6697d5003d4b3662f9fac6ad/rendered.svg",
+      "metaUrl": "templates/6697d5003d4b3662f9fac6ad/meta.json",
+      "pythonUrl": "templates/6697d5003d4b3662f9fac6ad/python_example.py",
+      "rUrl": "templates/6697d5003d4b3662f9fac6ad/R_example.R",
+      "dirUrl": "templates/6697d5003d4b3662f9fac6ad",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6697d5003d4b3662f9fac6ad/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "xVCol": "x",
+        "yVCol": "y",
+        "xtitle": "XXXXX",
+        "ytitle": "YYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "xVCol",
+        "yVCol",
+        "xtitle",
+        "ytitle"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8378,
+      "previewSize": 13083
+    },
+    {
+      "id": "66aa0363f00c758ce03e8961",
+      "name": "柱状图-单变量-截断轴",
+      "category": "折线图",
+      "categoryTrail": [
+        "折线图",
+        "有分组",
+        "上下层"
+      ],
+      "categoryTrailText": "折线图 / 有分组 / 上下层",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67580aca538842d3d5d8d177",
+      "previewUrl": "templates/66aa0363f00c758ce03e8961/preview.png",
+      "svgUrl": "templates/66aa0363f00c758ce03e8961/rendered.svg",
+      "metaUrl": "templates/66aa0363f00c758ce03e8961/meta.json",
+      "pythonUrl": "templates/66aa0363f00c758ce03e8961/python_example.py",
+      "rUrl": "templates/66aa0363f00c758ce03e8961/R_example.R",
+      "dirUrl": "templates/66aa0363f00c758ce03e8961",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66aa0363f00c758ce03e8961/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "Physics",
+        "yRange": "0,100;250,300;1000,1100",
+        "step": "30"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "yRange",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8882,
+      "previewSize": 13534
+    },
+    {
+      "id": "6628c371600adfbc6f08c696",
+      "name": "柱状图-单变量",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量"
+      ],
+      "categoryTrailText": "柱状图 / 单变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6628c371600adfbc6f08c696",
+      "previewUrl": "templates/6628c371600adfbc6f08c696/preview.png",
+      "svgUrl": "templates/6628c371600adfbc6f08c696/rendered.svg",
+      "metaUrl": "templates/6628c371600adfbc6f08c696/meta.json",
+      "pythonUrl": "templates/6628c371600adfbc6f08c696/python_example.py",
+      "rUrl": "templates/6628c371600adfbc6f08c696/R_example.R",
+      "dirUrl": "templates/6628c371600adfbc6f08c696",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6628c371600adfbc6f08c696/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "score"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7613,
+      "previewSize": 4384
+    },
+    {
+      "id": "670c8eed6ffa135c741c07ec",
+      "name": "柱状图-单变量-渐变色",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "渐变色"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 渐变色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=670c8eed6ffa135c741c07ec",
+      "previewUrl": "templates/670c8eed6ffa135c741c07ec/preview.png",
+      "svgUrl": "templates/670c8eed6ffa135c741c07ec/rendered.svg",
+      "metaUrl": "templates/670c8eed6ffa135c741c07ec/meta.json",
+      "pythonUrl": "templates/670c8eed6ffa135c741c07ec/python_example.py",
+      "rUrl": "templates/670c8eed6ffa135c741c07ec/R_example.R",
+      "dirUrl": "templates/670c8eed6ffa135c741c07ec",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/670c8eed6ffa135c741c07ec/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "Geography"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10383,
+      "previewSize": 5484
+    },
+    {
+      "id": "67580aca538842d3d5d8d177",
+      "name": "柱状图-单变量-截断轴",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "截断轴"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 截断轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67580aca538842d3d5d8d177",
+      "previewUrl": "templates/67580aca538842d3d5d8d177/preview.png",
+      "svgUrl": "templates/67580aca538842d3d5d8d177/rendered.svg",
+      "metaUrl": "templates/67580aca538842d3d5d8d177/meta.json",
+      "pythonUrl": "templates/67580aca538842d3d5d8d177/python_example.py",
+      "rUrl": "templates/67580aca538842d3d5d8d177/R_example.R",
+      "dirUrl": "templates/67580aca538842d3d5d8d177",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67580aca538842d3d5d8d177/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "Physics",
+        "yRange": "0,100;250,300;1000,1100",
+        "step": "30"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "yRange",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8882,
+      "previewSize": 4945
+    },
+    {
+      "id": "6758f9e4b309cfee57d3c71e",
+      "name": "柱状图-单变量-矩阵",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "矩阵"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758f9e4b309cfee57d3c71e",
+      "previewUrl": "templates/6758f9e4b309cfee57d3c71e/preview.png",
+      "svgUrl": "templates/6758f9e4b309cfee57d3c71e/rendered.svg",
+      "metaUrl": "templates/6758f9e4b309cfee57d3c71e/meta.json",
+      "pythonUrl": "templates/6758f9e4b309cfee57d3c71e/python_example.py",
+      "rUrl": "templates/6758f9e4b309cfee57d3c71e/R_example.R",
+      "dirUrl": "templates/6758f9e4b309cfee57d3c71e",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6758f9e4b309cfee57d3c71e/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "picCol": "group",
+        "nameCol": "name",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "picCol",
+        "nameCol",
+        "valueCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 21989,
+      "previewSize": 8044
+    },
+    {
+      "id": "6685058897141f45bb9fec49",
+      "name": "柱状图-单变量-误差线",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "误差线"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 误差线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6685058897141f45bb9fec49",
+      "previewUrl": "templates/6685058897141f45bb9fec49/preview.png",
+      "svgUrl": "templates/6685058897141f45bb9fec49/rendered.svg",
+      "metaUrl": "templates/6685058897141f45bb9fec49/meta.json",
+      "pythonUrl": "templates/6685058897141f45bb9fec49/python_example.py",
+      "rUrl": "templates/6685058897141f45bb9fec49/R_example.R",
+      "dirUrl": "templates/6685058897141f45bb9fec49",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6685058897141f45bb9fec49/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "Mean",
+        "sdVCol": "SD",
+        "yTitle": "aaaa"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "sdVCol",
+        "yTitle"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7756,
+      "previewSize": 3383
+    },
+    {
+      "id": "6699f06052361d679a078102",
+      "name": "柱状图-单变量-误差线-渐变色",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "误差线",
+        "渐变色"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 误差线 / 渐变色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6699f06052361d679a078102",
+      "previewUrl": "templates/6699f06052361d679a078102/preview.png",
+      "svgUrl": "templates/6699f06052361d679a078102/rendered.svg",
+      "metaUrl": "templates/6699f06052361d679a078102/meta.json",
+      "pythonUrl": "templates/6699f06052361d679a078102/python_example.py",
+      "rUrl": "templates/6699f06052361d679a078102/R_example.R",
+      "dirUrl": "templates/6699f06052361d679a078102",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6699f06052361d679a078102/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "Mean",
+        "sdVCol": "SD"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "sdVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10823,
+      "previewSize": 4263
+    },
+    {
+      "id": "670092cc8d2e516eb281aaab",
+      "name": "柱状图-单变量-误差线-渐变色",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "散点",
+        "散点连线"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 散点 / 散点连线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6699f06052361d679a078102",
+      "previewUrl": "templates/670092cc8d2e516eb281aaab/preview.png",
+      "svgUrl": "templates/670092cc8d2e516eb281aaab/rendered.svg",
+      "metaUrl": "templates/670092cc8d2e516eb281aaab/meta.json",
+      "pythonUrl": "templates/670092cc8d2e516eb281aaab/python_example.py",
+      "rUrl": "templates/670092cc8d2e516eb281aaab/R_example.R",
+      "dirUrl": "templates/670092cc8d2e516eb281aaab",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/670092cc8d2e516eb281aaab/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "Mean",
+        "sdVCol": "SD"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCol",
+        "sdVCol"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10823,
+      "previewSize": 15507
+    },
+    {
+      "id": "6757a979538842d3d5d8cb3f",
+      "name": "柱状图-单变量-误差线-矩阵",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "散点",
+        "散点连线"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 散点 / 散点连线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675985a1646e71bae4dd3f70",
+      "previewUrl": "templates/6757a979538842d3d5d8cb3f/preview.png",
+      "svgUrl": "templates/6757a979538842d3d5d8cb3f/rendered.svg",
+      "metaUrl": "templates/6757a979538842d3d5d8cb3f/meta.json",
+      "pythonUrl": "templates/6757a979538842d3d5d8cb3f/python_example.py",
+      "rUrl": "templates/6757a979538842d3d5d8cb3f/R_example.R",
+      "dirUrl": "templates/6757a979538842d3d5d8cb3f",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6757a979538842d3d5d8cb3f/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "picCol": "age",
+        "nameCol": "name",
+        "valueCol": "Mean",
+        "sdCols": "SD",
+        "minVs": "0、0、0、0",
+        "maxVs": "100、100、100、100",
+        "steps": "20、20、20、20"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "picCol",
+        "nameCol",
+        "valueCol",
+        "sdCols",
+        "minVs",
+        "maxVs",
+        "steps"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 29858,
+      "previewSize": 6216
+    },
+    {
+      "id": "675985a1646e71bae4dd3f70",
+      "name": "柱状图-单变量-误差线-矩阵",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "误差线",
+        "矩阵"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 误差线 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675985a1646e71bae4dd3f70",
+      "previewUrl": "templates/675985a1646e71bae4dd3f70/preview.png",
+      "svgUrl": "templates/675985a1646e71bae4dd3f70/rendered.svg",
+      "metaUrl": "templates/675985a1646e71bae4dd3f70/meta.json",
+      "pythonUrl": "templates/675985a1646e71bae4dd3f70/python_example.py",
+      "rUrl": "templates/675985a1646e71bae4dd3f70/R_example.R",
+      "dirUrl": "templates/675985a1646e71bae4dd3f70",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675985a1646e71bae4dd3f70/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "picCol": "age",
+        "nameCol": "name",
+        "valueCol": "Mean",
+        "sdCols": "SD",
+        "minVs": "0、0、0、0",
+        "maxVs": "100、100、100、100",
+        "steps": "20、20、20、20"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "picCol",
+        "nameCol",
+        "valueCol",
+        "sdCols",
+        "minVs",
+        "maxVs",
+        "steps"
+      ],
+      "argCount": 9,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 29858,
+      "previewSize": 9506
+    },
+    {
+      "id": "669aeaee52361d679a09fec9",
+      "name": "柱状图-单变量-误差线-显著星号-两组",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "误差线",
+        "差异字母",
+        "渐变色"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 误差线 / 差异字母 / 渐变色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a9b20bf00c758ce03e86cf",
+      "previewUrl": "templates/669aeaee52361d679a09fec9/preview.png",
+      "svgUrl": "templates/669aeaee52361d679a09fec9/rendered.svg",
+      "metaUrl": "templates/669aeaee52361d679a09fec9/meta.json",
+      "pythonUrl": "templates/669aeaee52361d679a09fec9/python_example.py",
+      "rUrl": "templates/669aeaee52361d679a09fec9/R_example.R",
+      "dirUrl": "templates/669aeaee52361d679a09fec9",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/669aeaee52361d679a09fec9/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/669aeaee52361d679a09fec9/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "mean",
+        "sdCols": "sd",
+        "Name1Col": "n1",
+        "Name2Col": "n2",
+        "xinCol": "xin",
+        "ytitle": "YYYYYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "Name1Col",
+        "Name2Col",
+        "xinCol",
+        "ytitle"
+      ],
+      "argCount": 11,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 5660,
+      "previewSize": 5213
+    },
+    {
+      "id": "66a9b20bf00c758ce03e86cf",
+      "name": "柱状图-单变量-误差线-显著星号-两组",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "误差线",
+        "显著星号",
+        "两组"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 误差线 / 显著星号 / 两组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a9b20bf00c758ce03e86cf",
+      "previewUrl": "templates/66a9b20bf00c758ce03e86cf/preview.png",
+      "svgUrl": "templates/66a9b20bf00c758ce03e86cf/rendered.svg",
+      "metaUrl": "templates/66a9b20bf00c758ce03e86cf/meta.json",
+      "pythonUrl": "templates/66a9b20bf00c758ce03e86cf/python_example.py",
+      "rUrl": "templates/66a9b20bf00c758ce03e86cf/R_example.R",
+      "dirUrl": "templates/66a9b20bf00c758ce03e86cf",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66a9b20bf00c758ce03e86cf/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66a9b20bf00c758ce03e86cf/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "mean",
+        "sdCols": "sd",
+        "Name1Col": "n1",
+        "Name2Col": "n2",
+        "xinCol": "xin",
+        "ytitle": "YYYYYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "Name1Col",
+        "Name2Col",
+        "xinCol",
+        "ytitle"
+      ],
+      "argCount": 11,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 5660,
+      "previewSize": 2302
+    },
+    {
+      "id": "66cc7d811cedc4fc9f289534",
+      "name": "柱状图-单变量-误差线-显著星号-散点-渐变色-两组",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "误差线",
+        "显著星号",
+        "散点",
+        "渐变色",
+        "两组"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 误差线 / 显著星号 / 散点 / 渐变色 / 两组",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66cc7d811cedc4fc9f289534",
+      "previewUrl": "templates/66cc7d811cedc4fc9f289534/preview.png",
+      "svgUrl": "templates/66cc7d811cedc4fc9f289534/rendered.svg",
+      "metaUrl": "templates/66cc7d811cedc4fc9f289534/meta.json",
+      "pythonUrl": "templates/66cc7d811cedc4fc9f289534/python_example.py",
+      "rUrl": "templates/66cc7d811cedc4fc9f289534/R_example.R",
+      "dirUrl": "templates/66cc7d811cedc4fc9f289534",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66cc7d811cedc4fc9f289534/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66cc7d811cedc4fc9f289534/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/66cc7d811cedc4fc9f289534/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data3type": "txt_tab",
+        "data3": "value\tname\n69\tChinese\n80\tChinese\n71\tChinese\n99\tChinese\n93\tChinese\n49\tMath\n10\tMath\n5\tMath\n30\tMath\n23\tMath",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "mean1",
+        "sdCols": "sd1",
+        "Name1Col": "n1",
+        "Name2Col": "n2",
+        "xinCol": "xin",
+        "dotsValCol": "value",
+        "ytitle": "YYYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "Name1Col",
+        "Name2Col",
+        "xinCol",
+        "dotsValCol",
+        "ytitle"
+      ],
+      "argCount": 15,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8684,
+      "previewSize": 3438
+    },
+    {
+      "id": "6758ed43b309cfee57d3c6a3",
+      "name": "柱状图-单变量-误差线-显著字母-矩阵",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "误差线",
+        "显著星号",
+        "截断轴"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 误差线 / 显著星号 / 截断轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675a2355646e71bae4dd40ce",
+      "previewUrl": "templates/6758ed43b309cfee57d3c6a3/preview.png",
+      "svgUrl": "templates/6758ed43b309cfee57d3c6a3/rendered.svg",
+      "metaUrl": "templates/6758ed43b309cfee57d3c6a3/meta.json",
+      "pythonUrl": "templates/6758ed43b309cfee57d3c6a3/python_example.py",
+      "rUrl": "templates/6758ed43b309cfee57d3c6a3/R_example.R",
+      "dirUrl": "templates/6758ed43b309cfee57d3c6a3",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6758ed43b309cfee57d3c6a3/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "picCol": "pic",
+        "nameCol": "name",
+        "valueCol": "var",
+        "sdCols": "var_sd",
+        "labCol": "var_lab"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "picCol",
+        "nameCol",
+        "valueCol",
+        "sdCols",
+        "labCol"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 33157,
+      "previewSize": 2997
+    },
+    {
+      "id": "675a2355646e71bae4dd40ce",
+      "name": "柱状图-单变量-误差线-显著字母-矩阵",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "误差线",
+        "显著字母",
+        "矩阵"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 误差线 / 显著字母 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=675a2355646e71bae4dd40ce",
+      "previewUrl": "templates/675a2355646e71bae4dd40ce/preview.png",
+      "svgUrl": "templates/675a2355646e71bae4dd40ce/rendered.svg",
+      "metaUrl": "templates/675a2355646e71bae4dd40ce/meta.json",
+      "pythonUrl": "templates/675a2355646e71bae4dd40ce/python_example.py",
+      "rUrl": "templates/675a2355646e71bae4dd40ce/R_example.R",
+      "dirUrl": "templates/675a2355646e71bae4dd40ce",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675a2355646e71bae4dd40ce/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "picCol": "pic",
+        "nameCol": "name",
+        "valueCol": "var",
+        "sdCols": "var_sd",
+        "labCol": "var_lab"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "picCol",
+        "nameCol",
+        "valueCol",
+        "sdCols",
+        "labCol"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 33157,
+      "previewSize": 10539
+    },
+    {
+      "id": "670d06923e8970b5ee420de4",
+      "name": "柱状图-多变量",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量"
+      ],
+      "categoryTrailText": "柱状图 / 多变量",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=670d06923e8970b5ee420de4",
+      "previewUrl": "templates/670d06923e8970b5ee420de4/preview.png",
+      "svgUrl": "templates/670d06923e8970b5ee420de4/rendered.svg",
+      "metaUrl": "templates/670d06923e8970b5ee420de4/meta.json",
+      "pythonUrl": "templates/670d06923e8970b5ee420de4/python_example.py",
+      "rUrl": "templates/670d06923e8970b5ee420de4/R_example.R",
+      "dirUrl": "templates/670d06923e8970b5ee420de4",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/670d06923e8970b5ee420de4/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "village",
+        "valueCols": "Chinese、Math、Physics、Chemistry"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8870,
+      "previewSize": 5037
+    },
+    {
+      "id": "67578ab3de641c7a2fe010f0",
+      "name": "柱状图-多变量-计算总和",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "计算总和"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 计算总和",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67578ab3de641c7a2fe010f0",
+      "previewUrl": "templates/67578ab3de641c7a2fe010f0/preview.png",
+      "svgUrl": "templates/67578ab3de641c7a2fe010f0/rendered.svg",
+      "metaUrl": "templates/67578ab3de641c7a2fe010f0/meta.json",
+      "pythonUrl": "templates/67578ab3de641c7a2fe010f0/python_example.py",
+      "rUrl": "templates/67578ab3de641c7a2fe010f0/R_example.R",
+      "dirUrl": "templates/67578ab3de641c7a2fe010f0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67578ab3de641c7a2fe010f0/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "village",
+        "valueCols": "Chinese、Math、Physics、Chemistry"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10642,
+      "previewSize": 6320
+    },
+    {
+      "id": "6758e412538842d3d5d8d269",
+      "name": "柱状图-多变量-计算总和-截断轴",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "单变量",
+        "误差线",
+        "显著字母",
+        "截断轴"
+      ],
+      "categoryTrailText": "柱状图 / 单变量 / 误差线 / 显著字母 / 截断轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758f2c3b309cfee57d3c6f0",
+      "previewUrl": "templates/6758e412538842d3d5d8d269/preview.png",
+      "svgUrl": "templates/6758e412538842d3d5d8d269/rendered.svg",
+      "metaUrl": "templates/6758e412538842d3d5d8d269/meta.json",
+      "pythonUrl": "templates/6758e412538842d3d5d8d269/python_example.py",
+      "rUrl": "templates/6758e412538842d3d5d8d269/R_example.R",
+      "dirUrl": "templates/6758e412538842d3d5d8d269",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6758e412538842d3d5d8d269/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "village",
+        "valueCols": "Chinese、Math、Physics、Chemistry",
+        "step": "50",
+        "yRange": "0,120;280,400"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols",
+        "step",
+        "yRange"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10734,
+      "previewSize": 6442
+    },
+    {
+      "id": "6758e992b309cfee57d3c687",
+      "name": "柱状图-多变量-截断轴",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "截断轴"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 截断轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758e992b309cfee57d3c687",
+      "previewUrl": "templates/6758e992b309cfee57d3c687/preview.png",
+      "svgUrl": "templates/6758e992b309cfee57d3c687/rendered.svg",
+      "metaUrl": "templates/6758e992b309cfee57d3c687/meta.json",
+      "pythonUrl": "templates/6758e992b309cfee57d3c687/python_example.py",
+      "rUrl": "templates/6758e992b309cfee57d3c687/R_example.R",
+      "dirUrl": "templates/6758e992b309cfee57d3c687",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6758e992b309cfee57d3c687/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "village",
+        "valueCols": "Chinese、Math、Physics、Chemistry",
+        "step": "10",
+        "yRange": "0,23;77,100"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols",
+        "step",
+        "yRange"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9841,
+      "previewSize": 5544
+    },
+    {
+      "id": "6756bb0cde641c7a2fe00f65",
+      "name": "柱状图-多变量-嵌套",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "嵌套"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 嵌套",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6756bb0cde641c7a2fe00f65",
+      "previewUrl": "templates/6756bb0cde641c7a2fe00f65/preview.png",
+      "svgUrl": "templates/6756bb0cde641c7a2fe00f65/rendered.svg",
+      "metaUrl": "templates/6756bb0cde641c7a2fe00f65/meta.json",
+      "pythonUrl": "templates/6756bb0cde641c7a2fe00f65/python_example.py",
+      "rUrl": "templates/6756bb0cde641c7a2fe00f65/R_example.R",
+      "dirUrl": "templates/6756bb0cde641c7a2fe00f65",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6756bb0cde641c7a2fe00f65/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "A、B、C、D"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10278,
+      "previewSize": 4180
+    },
+    {
+      "id": "6758f0e3b309cfee57d3c6cf",
+      "name": "柱状图-多变量-嵌套-截断轴",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "嵌套",
+        "截断轴"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 嵌套 / 截断轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758f0e3b309cfee57d3c6cf",
+      "previewUrl": "templates/6758f0e3b309cfee57d3c6cf/preview.png",
+      "svgUrl": "templates/6758f0e3b309cfee57d3c6cf/rendered.svg",
+      "metaUrl": "templates/6758f0e3b309cfee57d3c6cf/meta.json",
+      "pythonUrl": "templates/6758f0e3b309cfee57d3c6cf/python_example.py",
+      "rUrl": "templates/6758f0e3b309cfee57d3c6cf/R_example.R",
+      "dirUrl": "templates/6758f0e3b309cfee57d3c6cf",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6758f0e3b309cfee57d3c6cf/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "A、B、C、D",
+        "step": "20",
+        "yRange": "0,42;215,300"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols",
+        "step",
+        "yRange"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 12024,
+      "previewSize": 5015
+    },
+    {
+      "id": "6758f2c3b309cfee57d3c6f0",
+      "name": "柱状图-多变量-嵌套-截断轴",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "计算总和",
+        "截断轴"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 计算总和 / 截断轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758f0e3b309cfee57d3c6cf",
+      "previewUrl": "templates/6758f2c3b309cfee57d3c6f0/preview.png",
+      "svgUrl": "templates/6758f2c3b309cfee57d3c6f0/rendered.svg",
+      "metaUrl": "templates/6758f2c3b309cfee57d3c6f0/meta.json",
+      "pythonUrl": "templates/6758f2c3b309cfee57d3c6f0/python_example.py",
+      "rUrl": "templates/6758f2c3b309cfee57d3c6f0/R_example.R",
+      "dirUrl": "templates/6758f2c3b309cfee57d3c6f0",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6758f2c3b309cfee57d3c6f0/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "A、B、C、D",
+        "step": "20",
+        "yRange": "0,42;215,300"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols",
+        "step",
+        "yRange"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 12024,
+      "previewSize": 5908
+    },
+    {
+      "id": "6756ab8260eadfff7810d71d",
+      "name": "柱状图-多变量-嵌套-累计柱子",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "嵌套",
+        "累计柱子"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 嵌套 / 累计柱子",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6756ab8260eadfff7810d71d",
+      "previewUrl": "templates/6756ab8260eadfff7810d71d/preview.png",
+      "svgUrl": "templates/6756ab8260eadfff7810d71d/rendered.svg",
+      "metaUrl": "templates/6756ab8260eadfff7810d71d/meta.json",
+      "pythonUrl": "templates/6756ab8260eadfff7810d71d/python_example.py",
+      "rUrl": "templates/6756ab8260eadfff7810d71d/R_example.R",
+      "dirUrl": "templates/6756ab8260eadfff7810d71d",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6756ab8260eadfff7810d71d/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "时间",
+        "valueCols": "收入、支出"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10817,
+      "previewSize": 5343
+    },
+    {
+      "id": "6756c9cdde641c7a2fe00fbc",
+      "name": "柱状图-多变量-嵌套-误差线",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "嵌套",
+        "误差线"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 嵌套 / 误差线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6756c9cdde641c7a2fe00fbc",
+      "previewUrl": "templates/6756c9cdde641c7a2fe00fbc/preview.png",
+      "svgUrl": "templates/6756c9cdde641c7a2fe00fbc/rendered.svg",
+      "metaUrl": "templates/6756c9cdde641c7a2fe00fbc/meta.json",
+      "pythonUrl": "templates/6756c9cdde641c7a2fe00fbc/python_example.py",
+      "rUrl": "templates/6756c9cdde641c7a2fe00fbc/R_example.R",
+      "dirUrl": "templates/6756c9cdde641c7a2fe00fbc",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6756c9cdde641c7a2fe00fbc/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "B、A",
+        "sdCols": "SD1、SD2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11108,
+      "previewSize": 4766
+    },
+    {
+      "id": "675a2a21646e71bae4dd418a",
+      "name": "柱状图-多变量-嵌套-误差线",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "矩阵"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6756c9cdde641c7a2fe00fbc",
+      "previewUrl": "templates/675a2a21646e71bae4dd418a/preview.png",
+      "svgUrl": "templates/675a2a21646e71bae4dd418a/rendered.svg",
+      "metaUrl": "templates/675a2a21646e71bae4dd418a/meta.json",
+      "pythonUrl": "templates/675a2a21646e71bae4dd418a/python_example.py",
+      "rUrl": "templates/675a2a21646e71bae4dd418a/R_example.R",
+      "dirUrl": "templates/675a2a21646e71bae4dd418a",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675a2a21646e71bae4dd418a/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "B、A",
+        "sdCols": "SD1、SD2"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols"
+      ],
+      "argCount": 5,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11108,
+      "previewSize": 11054
+    },
+    {
+      "id": "6758f1d7b309cfee57d3c6dc",
+      "name": "柱状图-多变量-嵌套-误差线-截断轴",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "嵌套",
+        "误差线",
+        "截断轴"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 嵌套 / 误差线 / 截断轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758f1d7b309cfee57d3c6dc",
+      "previewUrl": "templates/6758f1d7b309cfee57d3c6dc/preview.png",
+      "svgUrl": "templates/6758f1d7b309cfee57d3c6dc/rendered.svg",
+      "metaUrl": "templates/6758f1d7b309cfee57d3c6dc/meta.json",
+      "pythonUrl": "templates/6758f1d7b309cfee57d3c6dc/python_example.py",
+      "rUrl": "templates/6758f1d7b309cfee57d3c6dc/R_example.R",
+      "dirUrl": "templates/6758f1d7b309cfee57d3c6dc",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6758f1d7b309cfee57d3c6dc/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "A、B",
+        "sdCols": "SD1、SD2",
+        "step": "20",
+        "yRange": "0,52;145,200"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "step",
+        "yRange"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 12102,
+      "previewSize": 5248
+    },
+    {
+      "id": "67578d21de641c7a2fe010fb",
+      "name": "柱状图-多变量-趋势线",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "趋势线"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 趋势线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=67578d21de641c7a2fe010fb",
+      "previewUrl": "templates/67578d21de641c7a2fe010fb/preview.png",
+      "svgUrl": "templates/67578d21de641c7a2fe010fb/rendered.svg",
+      "metaUrl": "templates/67578d21de641c7a2fe010fb/meta.json",
+      "pythonUrl": "templates/67578d21de641c7a2fe010fb/python_example.py",
+      "rUrl": "templates/67578d21de641c7a2fe010fb/R_example.R",
+      "dirUrl": "templates/67578d21de641c7a2fe010fb",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/67578d21de641c7a2fe010fb/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "village",
+        "valueCols": "Chinese、Math、Physics、Chemistry"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 9993,
+      "previewSize": 10321
+    },
+    {
+      "id": "66cea984bf89ff2f8e8cca3c",
+      "name": "柱状图-多变量-双层名字",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "双层名字"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 双层名字",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66cea984bf89ff2f8e8cca3c",
+      "previewUrl": "templates/66cea984bf89ff2f8e8cca3c/preview.png",
+      "svgUrl": "templates/66cea984bf89ff2f8e8cca3c/rendered.svg",
+      "metaUrl": "templates/66cea984bf89ff2f8e8cca3c/meta.json",
+      "pythonUrl": "templates/66cea984bf89ff2f8e8cca3c/python_example.py",
+      "rUrl": "templates/66cea984bf89ff2f8e8cca3c/R_example.R",
+      "dirUrl": "templates/66cea984bf89ff2f8e8cca3c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66cea984bf89ff2f8e8cca3c/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66cea984bf89ff2f8e8cca3c/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "a、b",
+        "pValCol": "P",
+        "pName1Col": "n1",
+        "pName2Col": "n2",
+        "txtVarNames": "a、b、v1、v2、v3",
+        "txtShowNames": "Test group、CK group、AAAAAAA、BBBBB、CCCC",
+        "txtShowAdd": "、、aaaa、bbbb、 cccc",
+        "title": "Title ( % )"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCols",
+        "pValCol",
+        "pName1Col",
+        "pName2Col",
+        "txtVarNames",
+        "txtShowNames",
+        "txtShowAdd",
+        "title"
+      ],
+      "argCount": 13,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 8288,
+      "previewSize": 3618
+    },
+    {
+      "id": "669ba02e184d971e874c6301",
+      "name": "柱状图-多变量-误差线",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "误差线"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 误差线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=669ba02e184d971e874c6301",
+      "previewUrl": "templates/669ba02e184d971e874c6301/preview.png",
+      "svgUrl": "templates/669ba02e184d971e874c6301/rendered.svg",
+      "metaUrl": "templates/669ba02e184d971e874c6301/meta.json",
+      "pythonUrl": "templates/669ba02e184d971e874c6301/python_example.py",
+      "rUrl": "templates/669ba02e184d971e874c6301/R_example.R",
+      "dirUrl": "templates/669ba02e184d971e874c6301",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/669ba02e184d971e874c6301/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "组别",
+        "valueCols": "A、B",
+        "sdVCols": "Asd、Bsd",
+        "xtitle": "xxxxxxx",
+        "ytitle": "yyyyyyy"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols",
+        "sdVCols",
+        "xtitle",
+        "ytitle"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7118,
+      "previewSize": 3606
+    },
+    {
+      "id": "6758e7c8b309cfee57d3c676",
+      "name": "柱状图-多变量-误差线-截断轴",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "误差线",
+        "截断轴"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 误差线 / 截断轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758e7c8b309cfee57d3c676",
+      "previewUrl": "templates/6758e7c8b309cfee57d3c676/preview.png",
+      "svgUrl": "templates/6758e7c8b309cfee57d3c676/rendered.svg",
+      "metaUrl": "templates/6758e7c8b309cfee57d3c676/meta.json",
+      "pythonUrl": "templates/6758e7c8b309cfee57d3c676/python_example.py",
+      "rUrl": "templates/6758e7c8b309cfee57d3c676/R_example.R",
+      "dirUrl": "templates/6758e7c8b309cfee57d3c676",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6758e7c8b309cfee57d3c676/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "village",
+        "valueCols": "Chinese、Math、Physics、Chemistry",
+        "sdCols": "Chinese-std、Math-std、Physics-std、Chemistry-std",
+        "step": "20",
+        "yRange": "0,125;255,280"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "step",
+        "yRange"
+      ],
+      "argCount": 7,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14366,
+      "previewSize": 6306
+    },
+    {
+      "id": "66695112119b3e6624619973",
+      "name": "柱状图-多变量-误差线-显著星号",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "误差线",
+        "显著星号"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 误差线 / 显著星号",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66695112119b3e6624619973",
+      "previewUrl": "templates/66695112119b3e6624619973/preview.png",
+      "svgUrl": "templates/66695112119b3e6624619973/rendered.svg",
+      "metaUrl": "templates/66695112119b3e6624619973/meta.json",
+      "pythonUrl": "templates/66695112119b3e6624619973/python_example.py",
+      "rUrl": "templates/66695112119b3e6624619973/R_example.R",
+      "dirUrl": "templates/66695112119b3e6624619973",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66695112119b3e6624619973/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66695112119b3e6624619973/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "a、b、c",
+        "sdCols": "a_sd、b_sd、c_sd",
+        "pValCol": "p",
+        "pName1Col": "n1",
+        "pName2Col": "n2"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "pValCol",
+        "pName1Col",
+        "pName2Col"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15490,
+      "previewSize": 4801
+    },
+    {
+      "id": "669ba4dac8a31dbcbc7bde89",
+      "name": "柱状图-多变量-误差线-显著星号",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "误差线",
+        "显著星号"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 误差线 / 显著星号",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=669ba4dac8a31dbcbc7bde89",
+      "previewUrl": "templates/669ba4dac8a31dbcbc7bde89/preview.png",
+      "svgUrl": "templates/669ba4dac8a31dbcbc7bde89/rendered.svg",
+      "metaUrl": "templates/669ba4dac8a31dbcbc7bde89/meta.json",
+      "pythonUrl": "templates/669ba4dac8a31dbcbc7bde89/python_example.py",
+      "rUrl": "templates/669ba4dac8a31dbcbc7bde89/R_example.R",
+      "dirUrl": "templates/669ba4dac8a31dbcbc7bde89",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/669ba4dac8a31dbcbc7bde89/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/669ba4dac8a31dbcbc7bde89/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "VarName",
+        "valueCols": "A、B",
+        "sdCols": "Asd、Bsd",
+        "pValCol": "pValue",
+        "pName1Col": "n1",
+        "pName2Col": "n2",
+        "ytitle": "YYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "pValCol",
+        "pName1Col",
+        "pName2Col",
+        "ytitle"
+      ],
+      "argCount": 11,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 14602,
+      "previewSize": 5082
+    },
+    {
+      "id": "66d5376df06c3c0bbd5e88d2",
+      "name": "柱状图-多变量-误差线-显著星号-截断轴",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "上下分层",
+        "渐变色"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 上下分层 / 渐变色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758eb7cb309cfee57d3c697",
+      "previewUrl": "templates/66d5376df06c3c0bbd5e88d2/preview.png",
+      "svgUrl": "templates/66d5376df06c3c0bbd5e88d2/rendered.svg",
+      "metaUrl": "templates/66d5376df06c3c0bbd5e88d2/meta.json",
+      "pythonUrl": "templates/66d5376df06c3c0bbd5e88d2/python_example.py",
+      "rUrl": "templates/66d5376df06c3c0bbd5e88d2/R_example.R",
+      "dirUrl": "templates/66d5376df06c3c0bbd5e88d2",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66d5376df06c3c0bbd5e88d2/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66d5376df06c3c0bbd5e88d2/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "VarName",
+        "valueCols": "A、B",
+        "sdCols": "Asd、Bsd",
+        "pValCol": "pValue",
+        "pName1Col": "n1",
+        "pName2Col": "n2",
+        "step": "0.2",
+        "yRange": "0,1.1;2.9,3.6",
+        "ytitle": "YYYYYYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "pValCol",
+        "pName1Col",
+        "pName2Col",
+        "step",
+        "yRange",
+        "ytitle"
+      ],
+      "argCount": 13,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10917,
+      "previewSize": 20669
+    },
+    {
+      "id": "6758eb7cb309cfee57d3c697",
+      "name": "柱状图-多变量-误差线-显著星号-截断轴",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "误差线",
+        "显著星号",
+        "截断轴"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 误差线 / 显著星号 / 截断轴",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758eb7cb309cfee57d3c697",
+      "previewUrl": "templates/6758eb7cb309cfee57d3c697/preview.png",
+      "svgUrl": "templates/6758eb7cb309cfee57d3c697/rendered.svg",
+      "metaUrl": "templates/6758eb7cb309cfee57d3c697/meta.json",
+      "pythonUrl": "templates/6758eb7cb309cfee57d3c697/python_example.py",
+      "rUrl": "templates/6758eb7cb309cfee57d3c697/R_example.R",
+      "dirUrl": "templates/6758eb7cb309cfee57d3c697",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6758eb7cb309cfee57d3c697/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6758eb7cb309cfee57d3c697/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "VarName",
+        "valueCols": "A、B",
+        "sdCols": "Asd、Bsd",
+        "pValCol": "pValue",
+        "pName1Col": "n1",
+        "pName2Col": "n2",
+        "step": "0.2",
+        "yRange": "0,1.1;2.9,3.6",
+        "ytitle": "YYYYYYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "pValCol",
+        "pName1Col",
+        "pName2Col",
+        "step",
+        "yRange",
+        "ytitle"
+      ],
+      "argCount": 13,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10917,
+      "previewSize": 4561
+    },
+    {
+      "id": "675a3530646e71bae4dd4254",
+      "name": "柱状图-多变量-误差线-显著星号-截断轴",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "误差线",
+        "矩阵"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 误差线 / 矩阵",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758eb7cb309cfee57d3c697",
+      "previewUrl": "templates/675a3530646e71bae4dd4254/preview.png",
+      "svgUrl": "templates/675a3530646e71bae4dd4254/rendered.svg",
+      "metaUrl": "templates/675a3530646e71bae4dd4254/meta.json",
+      "pythonUrl": "templates/675a3530646e71bae4dd4254/python_example.py",
+      "rUrl": "templates/675a3530646e71bae4dd4254/R_example.R",
+      "dirUrl": "templates/675a3530646e71bae4dd4254",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/675a3530646e71bae4dd4254/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/675a3530646e71bae4dd4254/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "VarName",
+        "valueCols": "A、B",
+        "sdCols": "Asd、Bsd",
+        "pValCol": "pValue",
+        "pName1Col": "n1",
+        "pName2Col": "n2",
+        "step": "0.2",
+        "yRange": "0,1.1;2.9,3.6",
+        "ytitle": "YYYYYYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "pValCol",
+        "pName1Col",
+        "pName2Col",
+        "step",
+        "yRange",
+        "ytitle"
+      ],
+      "argCount": 13,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 10917,
+      "previewSize": 8227
+    },
+    {
+      "id": "66ce7fc2bf89ff2f8e8cc8c8",
+      "name": "柱状图-多变量-误差线-显著星号-双层名字",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "误差线",
+        "显著星号",
+        "双层名字"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 误差线 / 显著星号 / 双层名字",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66ce7fc2bf89ff2f8e8cc8c8",
+      "previewUrl": "templates/66ce7fc2bf89ff2f8e8cc8c8/preview.png",
+      "svgUrl": "templates/66ce7fc2bf89ff2f8e8cc8c8/rendered.svg",
+      "metaUrl": "templates/66ce7fc2bf89ff2f8e8cc8c8/meta.json",
+      "pythonUrl": "templates/66ce7fc2bf89ff2f8e8cc8c8/python_example.py",
+      "rUrl": "templates/66ce7fc2bf89ff2f8e8cc8c8/R_example.R",
+      "dirUrl": "templates/66ce7fc2bf89ff2f8e8cc8c8",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66ce7fc2bf89ff2f8e8cc8c8/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/66ce7fc2bf89ff2f8e8cc8c8/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "a、b",
+        "pValCol": "P",
+        "pName1Col": "n1",
+        "pName2Col": "n2",
+        "per1Cols": "a2、b2",
+        "per2Cols": "a1、b1",
+        "txtVarNames": "a、b、v1、v2、v3",
+        "txtShowNames": "Test group、CK group、AAAAAAA、BBBBB、CCCC",
+        "txtShowAdd": "、、aaaa、bbbb、 cccc",
+        "title": "Title"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "valueCols",
+        "pValCol",
+        "pName1Col",
+        "pName2Col",
+        "per1Cols",
+        "per2Cols",
+        "txtVarNames",
+        "txtShowNames",
+        "txtShowAdd",
+        "title"
+      ],
+      "argCount": 15,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 11898,
+      "previewSize": 4112
+    },
+    {
+      "id": "66aae86075f3830da7050961",
+      "name": "柱状图-多变量-误差线-有分割线",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "误差线",
+        "显著星号",
+        "渐变色"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 误差线 / 显著星号 / 渐变色",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66cdaf56bf89ff2f8e8c5022",
+      "previewUrl": "templates/66aae86075f3830da7050961/preview.png",
+      "svgUrl": "templates/66aae86075f3830da7050961/rendered.svg",
+      "metaUrl": "templates/66aae86075f3830da7050961/meta.json",
+      "pythonUrl": "templates/66aae86075f3830da7050961/python_example.py",
+      "rUrl": "templates/66aae86075f3830da7050961/R_example.R",
+      "dirUrl": "templates/66aae86075f3830da7050961",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66aae86075f3830da7050961/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCols": "mean",
+        "sdCols": "sd",
+        "zimuCol": "lab",
+        "ytitle": "YYYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols",
+        "sdCols",
+        "zimuCol",
+        "ytitle"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 23323,
+      "previewSize": 3865
+    },
+    {
+      "id": "66cdaf56bf89ff2f8e8c5022",
+      "name": "柱状图-多变量-误差线-有分割线",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "误差线",
+        "有分割线"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 误差线 / 有分割线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=66cdaf56bf89ff2f8e8c5022",
+      "previewUrl": "templates/66cdaf56bf89ff2f8e8c5022/preview.png",
+      "svgUrl": "templates/66cdaf56bf89ff2f8e8c5022/rendered.svg",
+      "metaUrl": "templates/66cdaf56bf89ff2f8e8c5022/meta.json",
+      "pythonUrl": "templates/66cdaf56bf89ff2f8e8c5022/python_example.py",
+      "rUrl": "templates/66cdaf56bf89ff2f8e8c5022/R_example.R",
+      "dirUrl": "templates/66cdaf56bf89ff2f8e8c5022",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/66cdaf56bf89ff2f8e8c5022/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "group",
+        "valueCols": "mean",
+        "sdCols": "sd",
+        "zimuCol": "lab",
+        "ytitle": "YYYYYY"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCols",
+        "sdCols",
+        "zimuCol",
+        "ytitle"
+      ],
+      "argCount": 8,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 23323,
+      "previewSize": 7350
+    },
+    {
+      "id": "666a67721101de2a56bc2eee",
+      "name": "柱状图-多变量-正负双向",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "正负双向"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 正负双向",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=666a67721101de2a56bc2eee",
+      "previewUrl": "templates/666a67721101de2a56bc2eee/preview.png",
+      "svgUrl": "templates/666a67721101de2a56bc2eee/rendered.svg",
+      "metaUrl": "templates/666a67721101de2a56bc2eee/meta.json",
+      "pythonUrl": "templates/666a67721101de2a56bc2eee/python_example.py",
+      "rUrl": "templates/666a67721101de2a56bc2eee/R_example.R",
+      "dirUrl": "templates/666a67721101de2a56bc2eee",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/666a67721101de2a56bc2eee/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data1typeApp": "txt_tab",
+        "nameCol": "时间",
+        "valueCols": "收入、支出"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "valueCols"
+      ],
+      "argCount": 4,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 7190,
+      "previewSize": 4041
+    },
+    {
+      "id": "666a9c36698df4eebb5a9f81",
+      "name": "组合图-面积图-箱线图-散点图",
+      "category": "柱状图",
+      "categoryTrail": [
+        "柱状图",
+        "多变量",
+        "误差线",
+        "显著星号",
+        "散点"
+      ],
+      "categoryTrailText": "柱状图 / 多变量 / 误差线 / 显著星号 / 散点",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=693005ae56824bcc74877b22",
+      "previewUrl": "templates/666a9c36698df4eebb5a9f81/preview.png",
+      "svgUrl": "templates/666a9c36698df4eebb5a9f81/rendered.svg",
+      "metaUrl": "templates/666a9c36698df4eebb5a9f81/meta.json",
+      "pythonUrl": "templates/666a9c36698df4eebb5a9f81/python_example.py",
+      "rUrl": "templates/666a9c36698df4eebb5a9f81/R_example.R",
+      "dirUrl": "templates/666a9c36698df4eebb5a9f81",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/666a9c36698df4eebb5a9f81/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/666a9c36698df4eebb5a9f81/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/666a9c36698df4eebb5a9f81/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data3type": "txt_tab",
+        "data3": "var\tname\tQ1\tQ2\tQ3\tIQR\tOutliers\tMin\tMax\nTissueA\tA\t14.55\t19.95\t31.650000000000002\t17.1\t67.6,72.2,72.0,65.6,64.7,79.6\t4.9\t45.1\nTissueA\tB\t13.5\t16.6\t24.3\t10.8\t69.0,55.0,73.5,43.8,93.0,53.2,53.9,48.5,48.3,64.2\t6.8\t39.0\nTissueB\tA\t13.25\t20.35\t38.4\t25.15\t-\t5.4\t73.4\nTissueB\tB\t14.2\t23.6\t33.8\t19.599999999999998\t79.2,73.1,71.1,64.1,64.6,66.9,74.6\t4.4\t54.0",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto",
+        "groupCol": "var",
+        "maxCol": "Max",
+        "q3Col": "Q3",
+        "q1Col": "Q1",
+        "minCol": "Min",
+        "midCol": "Q2",
+        "densityCol": "density",
+        "data1NameCol": "Group"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "valueCol",
+        "minv",
+        "maxv",
+        "step",
+        "groupCol",
+        "maxCol",
+        "q3Col",
+        "q1Col",
+        "minCol",
+        "midCol",
+        "densityCol",
+        "data1NameCol"
+      ],
+      "argCount": 20,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 83989,
+      "previewSize": 8139
+    },
+    {
+      "id": "68662a4a53f3d6a5dbef7830",
+      "name": "柱状图-多变量-误差线-显著星号-散点",
+      "category": "组合热图",
+      "categoryTrail": [
+        "组合热图",
+        "网络图",
+        "方块大小渐变"
+      ],
+      "categoryTrailText": "组合热图 / 网络图 / 方块大小渐变",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=666a9c36698df4eebb5a9f81",
+      "previewUrl": "templates/68662a4a53f3d6a5dbef7830/preview.png",
+      "svgUrl": "templates/68662a4a53f3d6a5dbef7830/rendered.svg",
+      "metaUrl": "templates/68662a4a53f3d6a5dbef7830/meta.json",
+      "pythonUrl": "templates/68662a4a53f3d6a5dbef7830/python_example.py",
+      "rUrl": "templates/68662a4a53f3d6a5dbef7830/R_example.R",
+      "dirUrl": "templates/68662a4a53f3d6a5dbef7830",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68662a4a53f3d6a5dbef7830/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/68662a4a53f3d6a5dbef7830/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/68662a4a53f3d6a5dbef7830/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt",
+        "data2type": "txt",
+        "data3type": "txt",
+        "data3": "name  n  sample\nname1  a  10,12,13,15,17,19,20,22,60\nname1  b  0,12,13,14,15,45,50,33,60,63,57,58,60,65,62\nname1  c  10,12,13,14,15,22,27,30,45,60\nname2  a  10,12,13,15,17,19,20,22,60\nname2  b  0,12,13,14,15,45,50,33,60,63,57,58,60,65,62\nname2  c  10,12,13,14,15,22,27,30,45,60\nname3  a  10,12,13,15,17,19,20,22,60\nname3  b  0,12,13,14,15,45,50,33,60,63,57,58,60,65,62\nname3  c  10,12,13,14,15,22,27,30,45,60",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCols": "a、b、c",
+        "sdCols": "a_sd、b_sd、c_sd",
+        "pValCol": "p",
+        "pName1Col": "n1",
+        "pName2Col": "n2",
+        "dotSubNameCol": "n",
+        "dotValCol": "sample"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "valueCols",
+        "sdCols",
+        "pValCol",
+        "pName1Col",
+        "pName2Col",
+        "dotSubNameCol",
+        "dotValCol"
+      ],
+      "argCount": 15,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 37578,
+      "previewSize": 38894
+    },
+    {
+      "id": "6871c7c15a17bf5ffc87a104",
+      "name": "组合热图-网络图-方块大小渐变-圆大小不变-不显著虚线",
+      "category": "组合热图",
+      "categoryTrail": [
+        "组合热图",
+        "网络图",
+        "方块大小渐变",
+        "圆大小不变",
+        "不显著虚线"
+      ],
+      "categoryTrailText": "组合热图 / 网络图 / 方块大小渐变 / 圆大小不变 / 不显著虚线",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6871c7c15a17bf5ffc87a104",
+      "previewUrl": "templates/6871c7c15a17bf5ffc87a104/preview.png",
+      "svgUrl": "templates/6871c7c15a17bf5ffc87a104/rendered.svg",
+      "metaUrl": "templates/6871c7c15a17bf5ffc87a104/meta.json",
+      "pythonUrl": "templates/6871c7c15a17bf5ffc87a104/python_example.py",
+      "rUrl": "templates/6871c7c15a17bf5ffc87a104/R_example.R",
+      "dirUrl": "templates/6871c7c15a17bf5ffc87a104",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6871c7c15a17bf5ffc87a104/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6871c7c15a17bf5ffc87a104/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target",
+        "valueCol": "corr",
+        "weightVCol": "Weight",
+        "rowCol": "col",
+        "colCol": "row",
+        "pVCol": "pvalue",
+        "maxv": "auto",
+        "pSection": "0.001、0.01、0.05",
+        "weightSection": "0.1、0.3"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "sourceCol",
+        "targetCol",
+        "valueCol",
+        "weightVCol",
+        "rowCol",
+        "colCol",
+        "pVCol",
+        "maxv",
+        "pSection",
+        "weightSection"
+      ],
+      "argCount": 14,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 80804,
+      "previewSize": 69925
+    },
+    {
+      "id": "68662c1553f3d6a5dbef79e5",
+      "name": "组合热图-网络图-方块大小渐变-p值转显著星号",
+      "category": "组合热图",
+      "categoryTrail": [
+        "组合热图",
+        "网络图",
+        "方块大小渐变",
+        "p值转显著星号"
+      ],
+      "categoryTrailText": "组合热图 / 网络图 / 方块大小渐变 / p值转显著星号",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=68662c1553f3d6a5dbef79e5",
+      "previewUrl": "templates/68662c1553f3d6a5dbef79e5/preview.png",
+      "svgUrl": "templates/68662c1553f3d6a5dbef79e5/rendered.svg",
+      "metaUrl": "templates/68662c1553f3d6a5dbef79e5/meta.json",
+      "pythonUrl": "templates/68662c1553f3d6a5dbef79e5/python_example.py",
+      "rUrl": "templates/68662c1553f3d6a5dbef79e5/R_example.R",
+      "dirUrl": "templates/68662c1553f3d6a5dbef79e5",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/68662c1553f3d6a5dbef79e5/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/68662c1553f3d6a5dbef79e5/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "sourceCol": "source",
+        "targetCol": "target",
+        "valueCol": "corr",
+        "weightVCol": "Weight",
+        "rowCol": "col",
+        "colCol": "row",
+        "xinVCol": "p",
+        "pVCol": "pvalue",
+        "pSection": "0.001、0.01、0.05",
+        "weightSection": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "sourceCol",
+        "targetCol",
+        "valueCol",
+        "weightVCol",
+        "rowCol",
+        "colCol",
+        "xinVCol",
+        "pVCol",
+        "pSection",
+        "weightSection"
+      ],
+      "argCount": 14,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 118460,
+      "previewSize": 50204
+    },
+    {
+      "id": "6937a5045dfd85d7ee54074c",
+      "name": "组合图-环形柱状图-蜂群图-散点渐变",
+      "category": "组合图",
+      "categoryTrail": [
+        "组合图",
+        "环形柱状图",
+        "蜂群图",
+        "散点渐变"
+      ],
+      "categoryTrailText": "组合图 / 环形柱状图 / 蜂群图 / 散点渐变",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=6937a5045dfd85d7ee54074c",
+      "previewUrl": "templates/6937a5045dfd85d7ee54074c/preview.png",
+      "svgUrl": "templates/6937a5045dfd85d7ee54074c/rendered.svg",
+      "metaUrl": "templates/6937a5045dfd85d7ee54074c/meta.json",
+      "pythonUrl": "templates/6937a5045dfd85d7ee54074c/python_example.py",
+      "rUrl": "templates/6937a5045dfd85d7ee54074c/R_example.R",
+      "dirUrl": "templates/6937a5045dfd85d7ee54074c",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/6937a5045dfd85d7ee54074c/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/6937a5045dfd85d7ee54074c/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "groupCol": "name",
+        "valueCol": "value",
+        "minv": "-1",
+        "maxv": "1",
+        "step": "0.5"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "groupCol",
+        "valueCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "y",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 41089,
+      "previewSize": 26445
+    },
+    {
+      "id": "693005ae56824bcc74877b22",
+      "name": "组合图-面积图-箱线图-散点图",
+      "category": "组合图",
+      "categoryTrail": [
+        "组合图",
+        "面积图",
+        "箱线图",
+        "散点图"
+      ],
+      "categoryTrailText": "组合图 / 面积图 / 箱线图 / 散点图",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=693005ae56824bcc74877b22",
+      "previewUrl": "templates/693005ae56824bcc74877b22/preview.png",
+      "svgUrl": "templates/693005ae56824bcc74877b22/rendered.svg",
+      "metaUrl": "templates/693005ae56824bcc74877b22/meta.json",
+      "pythonUrl": "templates/693005ae56824bcc74877b22/python_example.py",
+      "rUrl": "templates/693005ae56824bcc74877b22/R_example.R",
+      "dirUrl": "templates/693005ae56824bcc74877b22",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/693005ae56824bcc74877b22/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/693005ae56824bcc74877b22/data2.txt"
+        },
+        {
+          "name": "data3.txt",
+          "url": "templates/693005ae56824bcc74877b22/data3.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data3type": "txt_tab",
+        "data3": "var\tname\tQ1\tQ2\tQ3\tIQR\tOutliers\tMin\tMax\nTissueA\tA\t14.55\t19.95\t31.650000000000002\t17.1\t67.6,72.2,72.0,65.6,64.7,79.6\t4.9\t45.1\nTissueA\tB\t13.5\t16.6\t24.3\t10.8\t69.0,55.0,73.5,43.8,93.0,53.2,53.9,48.5,48.3,64.2\t6.8\t39.0\nTissueB\tA\t13.25\t20.35\t38.4\t25.15\t-\t5.4\t73.4\nTissueB\tB\t14.2\t23.6\t33.8\t19.599999999999998\t79.2,73.1,71.1,64.1,64.6,66.9,74.6\t4.4\t54.0",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "data3typeApp": "txt_tab",
+        "nameCol": "name",
+        "valueCol": "value",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto",
+        "groupCol": "var",
+        "maxCol": "Max",
+        "q3Col": "Q3",
+        "q1Col": "Q1",
+        "minCol": "Min",
+        "midCol": "Q2",
+        "densityCol": "density",
+        "data1NameCol": "Group"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data3type",
+        "data3",
+        "data1typeApp",
+        "data2typeApp",
+        "data3typeApp",
+        "nameCol",
+        "valueCol",
+        "minv",
+        "maxv",
+        "step",
+        "groupCol",
+        "maxCol",
+        "q3Col",
+        "q1Col",
+        "minCol",
+        "midCol",
+        "densityCol",
+        "data1NameCol"
+      ],
+      "argCount": 20,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 83989,
+      "previewSize": 31601
+    },
+    {
+      "id": "69367e2a139236dfba8eecce",
+      "name": "组合图-热图-小提琴图-扇子",
+      "category": "组合图",
+      "categoryTrail": [
+        "组合图",
+        "热图",
+        "小提琴图",
+        "扇子"
+      ],
+      "categoryTrailText": "组合图 / 热图 / 小提琴图 / 扇子",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=69367e2a139236dfba8eecce",
+      "previewUrl": "templates/69367e2a139236dfba8eecce/preview.png",
+      "svgUrl": "templates/69367e2a139236dfba8eecce/rendered.svg",
+      "metaUrl": "templates/69367e2a139236dfba8eecce/meta.json",
+      "pythonUrl": "templates/69367e2a139236dfba8eecce/python_example.py",
+      "rUrl": "templates/69367e2a139236dfba8eecce/R_example.R",
+      "dirUrl": "templates/69367e2a139236dfba8eecce",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69367e2a139236dfba8eecce/data1.txt"
+        },
+        {
+          "name": "data2.txt",
+          "url": "templates/69367e2a139236dfba8eecce/data2.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data2type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "data2typeApp": "txt_tab",
+        "nameCol": "name",
+        "minv": "-1",
+        "maxv": "1",
+        "step": "0.5",
+        "densityCol": "density",
+        "valueCol": "value"
+      },
+      "argKeys": [
+        "data1type",
+        "data2type",
+        "data1typeApp",
+        "data2typeApp",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step",
+        "densityCol",
+        "valueCol"
+      ],
+      "argCount": 10,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 55391,
+      "previewSize": 31069
+    },
+    {
+      "id": "69337d4f4af04ea2529b2d03",
+      "name": "组合图-柱状图-表格",
+      "category": "组合图",
+      "categoryTrail": [
+        "组合图",
+        "柱状图",
+        "表格"
+      ],
+      "categoryTrailText": "组合图 / 柱状图 / 表格",
+      "url": "https://www.bioinforw.com/ldm/webdraw/?id=69337d4f4af04ea2529b2d03",
+      "previewUrl": "templates/69337d4f4af04ea2529b2d03/preview.png",
+      "svgUrl": "templates/69337d4f4af04ea2529b2d03/rendered.svg",
+      "metaUrl": "templates/69337d4f4af04ea2529b2d03/meta.json",
+      "pythonUrl": "templates/69337d4f4af04ea2529b2d03/python_example.py",
+      "rUrl": "templates/69337d4f4af04ea2529b2d03/R_example.R",
+      "dirUrl": "templates/69337d4f4af04ea2529b2d03",
+      "dataFiles": [
+        {
+          "name": "data1.txt",
+          "url": "templates/69337d4f4af04ea2529b2d03/data1.txt"
+        }
+      ],
+      "argMap": {
+        "data1type": "txt_tab",
+        "data1typeApp": "txt_tab",
+        "nameCol": "VarName",
+        "minv": "auto",
+        "maxv": "auto",
+        "step": "auto"
+      },
+      "argKeys": [
+        "data1type",
+        "data1typeApp",
+        "nameCol",
+        "minv",
+        "maxv",
+        "step"
+      ],
+      "argCount": 6,
+      "caseCount": 0,
+      "sub": "n",
+      "hasPython": true,
+      "hasR": true,
+      "hasPreview": true,
+      "svgSize": 15868,
+      "previewSize": 4710
+    }
+  ]
+};

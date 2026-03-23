@@ -1,0 +1,27 @@
+{
+  "id": "676a6973aef372f7ca2129d1",
+  "name": "雷达图-展示节点-有背景",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a6973aef372f7ca2129d1",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676a6973aef372f7ca2129d1.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name"
+  },
+  "categories": [
+    "雷达图",
+    "展示节点",
+    "有背景"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

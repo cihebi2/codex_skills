@@ -1,0 +1,31 @@
+{
+  "id": "67661104c008c077c11b6a1e",
+  "name": "环形柱状图-多变量-刻度环-背景色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67661104c008c077c11b6a1e",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67661104c008c077c11b6a1e.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value",
+    "title": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "刻度环",
+    "背景色"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

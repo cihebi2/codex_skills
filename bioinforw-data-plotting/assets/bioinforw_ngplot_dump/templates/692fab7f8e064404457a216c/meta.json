@@ -1,0 +1,26 @@
+{
+  "id": "692fab7f8e064404457a216c",
+  "name": "网络图-多层-target菱形",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=692fab7f8e064404457a216c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/692fab7f8e064404457a216c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "groupCol": "layer",
+    "nameCol": "name",
+    "sourceCol": "Source",
+    "targetCol": "Target"
+  },
+  "categories": [
+    "网络图",
+    "多层",
+    "target菱形"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

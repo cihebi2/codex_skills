@@ -1,0 +1,39 @@
+{
+  "id": "68662c1553f3d6a5dbef79e5",
+  "name": "组合热图-网络图-方块大小渐变-p值转显著星号",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68662c1553f3d6a5dbef79e5",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68662c1553f3d6a5dbef79e5.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target",
+    "valueCol": "corr",
+    "weightVCol": "Weight",
+    "rowCol": "col",
+    "colCol": "row",
+    "xinVCol": "p",
+    "pVCol": "pvalue",
+    "pSection": "0.001、0.01、0.05",
+    "weightSection": "auto"
+  },
+  "categories": [
+    "组合热图",
+    "网络图",
+    "方块大小渐变",
+    "p值转显著星号"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 55
+    }
+  ]
+}

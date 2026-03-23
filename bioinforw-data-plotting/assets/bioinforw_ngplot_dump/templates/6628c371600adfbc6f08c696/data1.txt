@@ -1,0 +1,7 @@
+name	score
+name1	95
+name2	86
+name3	90
+name4	56
+name5	84
+name6	87

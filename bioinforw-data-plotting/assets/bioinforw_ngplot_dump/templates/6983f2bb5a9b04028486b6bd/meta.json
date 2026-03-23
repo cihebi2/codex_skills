@@ -1,0 +1,30 @@
+{
+  "id": "6983f2bb5a9b04028486b6bd",
+  "name": "气泡图-横纵轴分类-横轴分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6983f2bb5a9b04028486b6bd",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6983f2bb5a9b04028486b6bd.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "groupCol": "group",
+    "nameCol": "name"
+  },
+  "categories": [
+    "气泡图",
+    "横纵轴分类",
+    "横轴分组"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 23
+    }
+  ]
+}

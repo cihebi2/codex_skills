@@ -1,0 +1,27 @@
+{
+  "id": "6742d067958211d5ed19d8ee",
+  "name": "流程图-横向",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6742d067958211d5ed19d8ee",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6742d067958211d5ed19d8ee.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target"
+  },
+  "categories": [
+    "流程图",
+    "横向"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 159
+    }
+  ]
+}

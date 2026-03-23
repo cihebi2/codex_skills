@@ -1,0 +1,26 @@
+{
+  "id": "676a7226aef372f7ca212a38",
+  "name": "环形雷达图-不同圈不同色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a7226aef372f7ca212a38",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676a7226aef372f7ca212a38.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name"
+  },
+  "categories": [
+    "环形雷达图",
+    "不同圈不同色"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 127
+    }
+  ]
+}

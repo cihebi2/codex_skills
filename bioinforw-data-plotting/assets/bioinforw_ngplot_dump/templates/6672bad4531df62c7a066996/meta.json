@@ -1,0 +1,28 @@
+{
+  "id": "6672bad4531df62c7a066996",
+  "name": "横向大头针图-无分组-等大圈",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6672bad4531df62c7a066996",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6672bad4531df62c7a066996.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "a"
+  },
+  "categories": [
+    "横向大头针图",
+    "无分组",
+    "等大圈"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

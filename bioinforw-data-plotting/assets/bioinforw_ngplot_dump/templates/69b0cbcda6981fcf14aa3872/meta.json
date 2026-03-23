@@ -1,0 +1,29 @@
+{
+  "id": "69b0cbcda6981fcf14aa3872",
+  "name": "饼图-花瓣-等角度-热力颜色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=69b0cbcda6981fcf14aa3872",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/69b0cbcda6981fcf14aa3872.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "饼图",
+    "花瓣",
+    "等角度",
+    "热力颜色"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 31
+    }
+  ]
+}

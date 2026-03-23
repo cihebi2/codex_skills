@@ -1,0 +1,29 @@
+{
+  "id": "67567dd660eadfff7810d3d1",
+  "name": "气泡图-横纵轴分类-渐变色-有网格",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68f88cf753c4ddf667aabfe9",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67567dd660eadfff7810d3d1.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "sample",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "瀑布图",
+    "单组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 15
+    }
+  ]
+}

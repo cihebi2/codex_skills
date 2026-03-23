@@ -1,0 +1,29 @@
+{
+  "id": "6769167e9c799f32fcb7f583",
+  "name": "环形热图-无缺口",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6769167e9c799f32fcb7f583",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6769167e9c799f32fcb7f583.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "环形热图",
+    "无缺口"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 23
+    }
+  ]
+}

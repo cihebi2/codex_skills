@@ -1,0 +1,36 @@
+{
+  "id": "67da4f8bf4b5713b590f4c60",
+  "name": "散点图-横纵轴数值-分组-置信椭圆",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67da4f8bf4b5713b590f4c60",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67da4f8bf4b5713b590f4c60.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "groupCol": "fertilizer",
+    "xVCol": "height",
+    "yVCol": "stem_diameter",
+    "axis1dot1Col": "Point1",
+    "axis1dot2Col": "Point2",
+    "axis2dot1Col": "Point3",
+    "axis2dot2Col": "Point4"
+  },
+  "categories": [
+    "散点图",
+    "横纵轴数值",
+    "分组",
+    "置信椭圆"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 95
+    }
+  ]
+}

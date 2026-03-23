@@ -1,0 +1,12 @@
+name	value
+name1	360
+name2	90
+name3	70
+name4	6
+name5	500
+name6	70
+name7	80
+name8	150
+name9	200
+name10	15
+name11	300

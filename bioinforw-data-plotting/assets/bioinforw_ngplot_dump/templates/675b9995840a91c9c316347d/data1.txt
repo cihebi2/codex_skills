@@ -1,0 +1,8 @@
+name	value
+AAAAAAAAA	22
+BBBBB	5
+CCCC	2
+DDD	2
+EEEEE	1
+
+

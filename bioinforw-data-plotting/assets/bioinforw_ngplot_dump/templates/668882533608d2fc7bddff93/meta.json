@@ -1,0 +1,26 @@
+{
+  "id": "668882533608d2fc7bddff93",
+  "name": "玉玦图-多变量",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=668882533608d2fc7bddff93",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/668882533608d2fc7bddff93.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name"
+  },
+  "categories": [
+    "玉玦图",
+    "多变量"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

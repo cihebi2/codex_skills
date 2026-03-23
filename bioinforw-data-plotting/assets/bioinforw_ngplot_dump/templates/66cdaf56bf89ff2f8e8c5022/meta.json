@@ -1,0 +1,33 @@
+{
+  "id": "66cdaf56bf89ff2f8e8c5022",
+  "name": "柱状图-多变量-误差线-有分割线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66cdaf56bf89ff2f8e8c5022",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66cdaf56bf89ff2f8e8c5022.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCols": "mean",
+    "sdCols": "sd",
+    "zimuCol": "lab",
+    "ytitle": "YYYYYY"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "误差线",
+    "有分割线"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 47
+    }
+  ]
+}

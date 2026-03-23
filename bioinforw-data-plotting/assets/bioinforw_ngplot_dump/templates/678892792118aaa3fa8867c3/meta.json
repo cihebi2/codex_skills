@@ -1,0 +1,23 @@
+{
+  "id": "678892792118aaa3fa8867c3",
+  "name": "3D柱状图-xyz连续型变量",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=678892792118aaa3fa8867c3",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/678892792118aaa3fa8867c3.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "group",
+    "xVCol": "a",
+    "yVCol": "b",
+    "zVCol": "c"
+  },
+  "categories": [
+    "3D柱状图",
+    "xyz连续型变量"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

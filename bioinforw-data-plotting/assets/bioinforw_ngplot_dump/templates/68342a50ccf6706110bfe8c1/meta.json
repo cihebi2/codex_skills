@@ -1,0 +1,29 @@
+{
+  "id": "68342a50ccf6706110bfe8c1",
+  "name": "极坐标堆叠图-多组-计算占比",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68342a50ccf6706110bfe8c1",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68342a50ccf6706110bfe8c1.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "title": "Content (%)"
+  },
+  "categories": [
+    "极坐标堆叠图",
+    "多组",
+    "计算占比"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 143
+    }
+  ]
+}

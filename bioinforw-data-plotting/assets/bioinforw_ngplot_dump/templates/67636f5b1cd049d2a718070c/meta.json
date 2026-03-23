@@ -1,0 +1,22 @@
+{
+  "id": "67636f5b1cd049d2a718070c",
+  "name": "半径变饼图-扇型-自动排序",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67636f5b1cd049d2a718070c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67636f5b1cd049d2a718070c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "半径变饼图",
+    "扇型",
+    "自动排序"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

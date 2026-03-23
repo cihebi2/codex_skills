@@ -1,0 +1,29 @@
+{
+  "id": "6758f9e4b309cfee57d3c71e",
+  "name": "柱状图-单变量-矩阵",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758f9e4b309cfee57d3c71e",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6758f9e4b309cfee57d3c71e.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "picCol": "group",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "柱状图",
+    "单变量",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 72
+    }
+  ]
+}

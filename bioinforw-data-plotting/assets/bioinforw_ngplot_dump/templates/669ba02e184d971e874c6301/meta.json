@@ -1,0 +1,31 @@
+{
+  "id": "669ba02e184d971e874c6301",
+  "name": "柱状图-多变量-误差线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=669ba02e184d971e874c6301",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/669ba02e184d971e874c6301.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "组别",
+    "valueCols": "A、B",
+    "sdVCols": "Asd、Bsd",
+    "xtitle": "xxxxxxx",
+    "ytitle": "yyyyyyy"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "误差线"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

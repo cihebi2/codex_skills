@@ -1,0 +1,28 @@
+{
+  "id": "6769213b9c799f32fcb7f9de",
+  "name": "极坐标散点图-角度轴半径轴数值",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6769213b9c799f32fcb7f9de",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6769213b9c799f32fcb7f9de.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "rVCol": "y",
+    "angVCol": "x"
+  },
+  "categories": [
+    "极坐标散点图",
+    "角度轴半径轴数值"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

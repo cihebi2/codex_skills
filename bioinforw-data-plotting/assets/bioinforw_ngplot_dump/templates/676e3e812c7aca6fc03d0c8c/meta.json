@@ -1,0 +1,23 @@
+{
+  "id": "676e3e812c7aca6fc03d0c8c",
+  "name": "堆叠图-单组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a5faf760d953862d3ff696",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676e3e812c7aca6fc03d0c8c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "ytitle": "yyyyyyyyyy(%)"
+  },
+  "categories": [
+    "大头针图",
+    "无分组",
+    "兼容负值",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

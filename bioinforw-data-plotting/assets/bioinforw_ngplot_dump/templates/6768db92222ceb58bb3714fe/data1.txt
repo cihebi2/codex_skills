@@ -1,0 +1,6 @@
+name	value
+name1	3
+name2	5
+name3	8
+name4	12
+name5	13

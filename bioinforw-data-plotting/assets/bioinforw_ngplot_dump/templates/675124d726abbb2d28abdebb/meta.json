@@ -1,0 +1,28 @@
+{
+  "id": "675124d726abbb2d28abdebb",
+  "name": "堆叠面积图-单组-计算占比",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675124d726abbb2d28abdebb",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675124d726abbb2d28abdebb.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "ytitle": "yyy"
+  },
+  "categories": [
+    "堆叠面积图",
+    "单组",
+    "计算占比"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 111
+    }
+  ]
+}

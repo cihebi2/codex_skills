@@ -1,0 +1,22 @@
+{
+  "id": "67516868afec8963ccde9735",
+  "name": "堆叠图-单组-连线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67516868afec8963ccde9735",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67516868afec8963ccde9735.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "、"
+  },
+  "categories": [
+    "堆叠图",
+    "单组",
+    "连线"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

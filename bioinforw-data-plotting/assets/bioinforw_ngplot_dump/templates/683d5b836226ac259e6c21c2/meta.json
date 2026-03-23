@@ -1,0 +1,28 @@
+{
+  "id": "683d5b836226ac259e6c21c2",
+  "name": "瀑布图-多组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=683d5b836226ac259e6c21c2",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/683d5b836226ac259e6c21c2.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "groupCol": "group",
+    "xVCol": "x",
+    "yVCol": "y"
+  },
+  "categories": [
+    "瀑布图",
+    "多组"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

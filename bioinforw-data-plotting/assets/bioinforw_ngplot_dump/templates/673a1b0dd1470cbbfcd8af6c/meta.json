@@ -1,0 +1,30 @@
+{
+  "id": "673a1b0dd1470cbbfcd8af6c",
+  "name": "桑基图-横向-曲线-渐变色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=673a1b0dd1470cbbfcd8af6c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/673a1b0dd1470cbbfcd8af6c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target",
+    "valueCol": "value"
+  },
+  "categories": [
+    "桑基图",
+    "横向",
+    "曲线",
+    "渐变色"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 159
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+name	y	value
+Chinese	a	94.42 
+Math	b	50.76 
+English	b	56.16 
+Physics	a	96.60 
+Chemistry	c	62.08 
+Biology	d	41.04 
+Biology	a	82.37 
+Biology	b	68.33 

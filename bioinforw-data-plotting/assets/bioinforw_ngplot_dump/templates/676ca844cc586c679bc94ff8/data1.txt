@@ -1,0 +1,8 @@
+group	name	max	quper	mid	qdown	min
+aaaa	name1	60	43	33	13	10
+aaaa	name2	63	52	32	19	16
+bbbb	name1	66	47	22	15	6
+bbbb	name2	62	52	40	19	6
+cccc	name1	68	51	31	14	4
+cccc	name2	68	51	31	14	4
+

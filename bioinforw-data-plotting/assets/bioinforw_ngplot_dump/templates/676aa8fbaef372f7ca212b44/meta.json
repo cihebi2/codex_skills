@@ -1,0 +1,31 @@
+{
+  "id": "676aa8fbaef372f7ca212b44",
+  "name": "雷达图-变量分组-外环颜色不同",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676aa8fbaef372f7ca212b44",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676aa8fbaef372f7ca212b44.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "data2VarCol": "varname",
+    "data2GroupCol": "group"
+  },
+  "categories": [
+    "雷达图",
+    "变量分组",
+    "外环颜色不同"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 143
+    }
+  ]
+}

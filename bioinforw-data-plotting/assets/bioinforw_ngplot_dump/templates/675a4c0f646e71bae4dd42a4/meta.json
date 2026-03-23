@@ -1,0 +1,22 @@
+{
+  "id": "675a4c0f646e71bae4dd42a4",
+  "name": "横向柱状图-多变量-负值反向",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6757ec94538842d3d5d8d08f",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675a4c0f646e71bae4dd42a4.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "、"
+  },
+  "categories": [
+    "横向柱状图",
+    "单变量",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

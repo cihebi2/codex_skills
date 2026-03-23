@@ -1,0 +1,30 @@
+{
+  "id": "676e297e2c7aca6fc03d0975",
+  "name": "环形柱状图-单变量-半环-矩阵",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676e297e2c7aca6fc03d0975",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676e297e2c7aca6fc03d0975.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "picCol": "pic",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "半环",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 111
+    }
+  ]
+}

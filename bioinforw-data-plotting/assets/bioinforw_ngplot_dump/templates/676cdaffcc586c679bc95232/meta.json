@@ -1,0 +1,33 @@
+{
+  "id": "676cdaffcc586c679bc95232",
+  "name": "箱线图-无分组-矩阵",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cdaffcc586c679bc95232",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676cdaffcc586c679bc95232.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "picCol": "pic",
+    "nameCol": "name",
+    "minVCol": "min",
+    "q1VCol": "qdown",
+    "midVCol": "mid",
+    "q3VCol": "quper",
+    "maxVCol": "max"
+  },
+  "categories": [
+    "箱线图",
+    "无分组",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 71
+    }
+  ]
+}

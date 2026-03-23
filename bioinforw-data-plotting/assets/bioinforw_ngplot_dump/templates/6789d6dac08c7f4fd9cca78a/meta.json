@@ -1,0 +1,29 @@
+{
+  "id": "6789d6dac08c7f4fd9cca78a",
+  "name": "三维堆叠图-立体柱子",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6789d6dac08c7f4fd9cca78a",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6789d6dac08c7f4fd9cca78a.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "xVCol": "adjjia",
+    "yVCol": "ewigihi",
+    "zVCols": "c1、c2、c3",
+    "zTitle": "abcd"
+  },
+  "categories": [
+    "三维堆叠图",
+    "立体柱子"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

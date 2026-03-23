@@ -1,0 +1,32 @@
+{
+  "id": "685e0b47c0ef3995ad6985b5",
+  "name": "环形柱状图-单变量-对数刻度",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=685e0b47c0ef3995ad6985b5",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/685e0b47c0ef3995ad6985b5.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "minV": "1",
+    "maxV": "1000",
+    "logStep": "10",
+    "title": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "对数刻度"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 151
+    }
+  ]
+}

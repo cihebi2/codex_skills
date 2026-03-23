@@ -1,0 +1,29 @@
+{
+  "id": "6672d7f54b978b43a67a415b",
+  "name": "大头针图-分组-等大圈",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6672d7f54b978b43a67a415b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6672d7f54b978b43a67a415b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value"
+  },
+  "categories": [
+    "大头针图",
+    "分组",
+    "等大圈"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

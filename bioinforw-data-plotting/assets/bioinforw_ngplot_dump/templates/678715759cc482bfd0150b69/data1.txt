@@ -1,0 +1,7 @@
+sample	aaaa	bbbb	cccc
+name1	1	4	0
+name2	2	2	29
+name3 	2	2	10
+name4 	5	1	20
+name5	5	2	40
+

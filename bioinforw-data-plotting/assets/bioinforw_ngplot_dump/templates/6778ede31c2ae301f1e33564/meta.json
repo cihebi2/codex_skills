@@ -1,0 +1,33 @@
+{
+  "id": "6778ede31c2ae301f1e33564",
+  "name": "小提琴图-分组-多行多列",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6778ede31c2ae301f1e33564",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6778ede31c2ae301f1e33564.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "valueCol": "value",
+    "densityVCol": "density",
+    "ySCol": "name",
+    "xSCol": "group",
+    "idSCol": "id"
+  },
+  "categories": [
+    "小提琴图",
+    "分组",
+    "多行多列"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "676799f111016aea1c39fc9f",
+  "name": "环形柱状图-单变量-柱子向内-半环-空心圆",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676799f111016aea1c39fc9f",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676799f111016aea1c39fc9f.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "柱子向内",
+    "半环",
+    "空心圆"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 191
+    }
+  ]
+}

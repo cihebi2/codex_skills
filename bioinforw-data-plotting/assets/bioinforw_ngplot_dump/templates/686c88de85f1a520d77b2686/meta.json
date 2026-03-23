@@ -1,0 +1,31 @@
+{
+  "id": "686c88de85f1a520d77b2686",
+  "name": "气泡图-横纵轴分类-分组-同组同色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=686c88de85f1a520d77b2686",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/686c88de85f1a520d77b2686.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "groupCol": "group",
+    "valueCol": "value",
+    "rowCol": "name1",
+    "colCol": "name2"
+  },
+  "categories": [
+    "气泡图",
+    "横纵轴分类",
+    "分组",
+    "同组同色"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 111
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "67778fcc53eb9f93596d544b",
+  "name": "小提琴图-不分组-箱线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67778fcc53eb9f93596d544b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67778fcc53eb9f93596d544b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "minVCol": "min",
+    "q1VCol": "q1",
+    "midVCol": "mid",
+    "q3VCol": "q3",
+    "maxVCol": "max",
+    "densityVCol": "density"
+  },
+  "categories": [
+    "小提琴图",
+    "不分组",
+    "箱线"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

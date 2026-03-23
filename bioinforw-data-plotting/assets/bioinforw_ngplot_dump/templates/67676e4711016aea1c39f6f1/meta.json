@@ -1,0 +1,29 @@
+{
+  "id": "67676e4711016aea1c39f6f1",
+  "name": "环形柱状图-多变量-两组上下对比",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67676e4711016aea1c39f6f1",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67676e4711016aea1c39f6f1.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "两组上下对比"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

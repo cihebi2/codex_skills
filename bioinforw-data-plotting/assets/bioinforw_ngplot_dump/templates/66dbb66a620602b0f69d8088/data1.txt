@@ -1,0 +1,4 @@
+name	a	b	ccc	d	e	f	g
+aaaaa	20	29	35	66	51	63	22
+bbbbb	50	39	75	16	41	23	62
+

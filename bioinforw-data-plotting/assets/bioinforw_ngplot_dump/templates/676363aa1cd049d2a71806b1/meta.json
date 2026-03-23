@@ -1,0 +1,27 @@
+{
+  "id": "676363aa1cd049d2a71806b1",
+  "name": "饼图-半环",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676363aa1cd049d2a71806b1",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676363aa1cd049d2a71806b1.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "饼图",
+    "半环"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

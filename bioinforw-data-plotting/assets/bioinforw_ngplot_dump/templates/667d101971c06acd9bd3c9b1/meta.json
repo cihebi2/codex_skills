@@ -1,0 +1,35 @@
+{
+  "id": "667d101971c06acd9bd3c9b1",
+  "name": "折线图-无分组-散点拟合线-统计柱状图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=667d101971c06acd9bd3c9b1",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/667d101971c06acd9bd3c9b1.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "xVCol": "x",
+    "yVCol": "y",
+    "linex1VCol": "x1",
+    "liney1VCol": "y1",
+    "linex2VCol": "x2",
+    "liney2VCol": "y2"
+  },
+  "categories": [
+    "折线图",
+    "无分组",
+    "散点拟合线",
+    "统计柱状图"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

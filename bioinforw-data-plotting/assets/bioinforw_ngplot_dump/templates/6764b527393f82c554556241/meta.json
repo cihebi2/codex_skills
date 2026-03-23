@@ -1,0 +1,28 @@
+{
+  "id": "6764b527393f82c554556241",
+  "name": "散点饼图-横纵轴数值",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6764b527393f82c554556241",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6764b527393f82c554556241.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "xVCol": "X",
+    "yVCol": "Y",
+    "valueCols": "、"
+  },
+  "categories": [
+    "散点饼图",
+    "横纵轴数值"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 199
+    }
+  ]
+}

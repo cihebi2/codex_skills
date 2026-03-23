@@ -1,0 +1,39 @@
+{
+  "id": "69b0ab4ee941e70c9db96082",
+  "name": "小提琴图-分组-纵向-一半-边框",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=69b0ab4ee941e70c9db96082",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/69b0ab4ee941e70c9db96082.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "minVCol": "min",
+    "q1VCol": "q1",
+    "midVCol": "mid",
+    "q3VCol": "q3",
+    "maxVCol": "max",
+    "densityVCol": "density",
+    "groupCol": "group"
+  },
+  "categories": [
+    "小提琴图",
+    "分组",
+    "纵向",
+    "一半",
+    "边框"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

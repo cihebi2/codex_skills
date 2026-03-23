@@ -1,0 +1,27 @@
+{
+  "id": "6758ed43b309cfee57d3c6a3",
+  "name": "柱状图-单变量-误差线-显著字母-矩阵",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675a2355646e71bae4dd40ce",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6758ed43b309cfee57d3c6a3.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "picCol": "pic",
+    "nameCol": "name",
+    "valueCol": "var",
+    "sdCols": "var_sd",
+    "labCol": "var_lab"
+  },
+  "categories": [
+    "柱状图",
+    "单变量",
+    "误差线",
+    "显著星号",
+    "截断轴"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

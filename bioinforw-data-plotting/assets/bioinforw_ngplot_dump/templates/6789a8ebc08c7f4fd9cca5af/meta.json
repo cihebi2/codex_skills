@@ -1,0 +1,23 @@
+{
+  "id": "6789a8ebc08c7f4fd9cca5af",
+  "name": "3D柱状图-立体柱",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6789a8ebc08c7f4fd9cca5af",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6789a8ebc08c7f4fd9cca5af.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "group",
+    "xVCol": "a",
+    "yVCol": "b",
+    "zVCol": "c"
+  },
+  "categories": [
+    "3D柱状图",
+    "立体柱"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

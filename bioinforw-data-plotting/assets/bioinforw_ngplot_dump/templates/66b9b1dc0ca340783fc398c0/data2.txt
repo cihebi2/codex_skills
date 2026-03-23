@@ -1,0 +1,7 @@
+name	split0New	split1New
+aa	-28	-18
+bb	-42	-24
+cc	-30	-20
+dd	-19	-9
+ee	-28.9	-23.6
+

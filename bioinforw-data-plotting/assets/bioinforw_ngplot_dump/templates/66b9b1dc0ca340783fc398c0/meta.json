@@ -1,0 +1,39 @@
+{
+  "id": "66b9b1dc0ca340783fc398c0",
+  "name": "箱线图组合",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b9b1dc0ca340783fc398c0",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66b9b1dc0ca340783fc398c0.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "minVCol": "Min",
+    "q1VCol": "Q1",
+    "midVCol": "Q2",
+    "q3VCol": "Q3",
+    "maxVCol": "Max",
+    "bigVCol": "split1New",
+    "name2Col": "name",
+    "yminV": "-50",
+    "ymaxV": "10",
+    "ystep": "10",
+    "smallVcol": "split0New"
+  },
+  "categories": [
+    "箱线图组合"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

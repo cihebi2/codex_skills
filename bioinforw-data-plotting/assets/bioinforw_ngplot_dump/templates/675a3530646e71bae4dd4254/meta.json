@@ -1,0 +1,32 @@
+{
+  "id": "675a3530646e71bae4dd4254",
+  "name": "柱状图-多变量-误差线-显著星号-截断轴",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758eb7cb309cfee57d3c697",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675a3530646e71bae4dd4254.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "VarName",
+    "valueCols": "A、B",
+    "sdCols": "Asd、Bsd",
+    "pValCol": "pValue",
+    "pName1Col": "n1",
+    "pName2Col": "n2",
+    "step": "0.2",
+    "yRange": "0,1.1;2.9,3.6",
+    "ytitle": "YYYYYYYYY"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "误差线",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

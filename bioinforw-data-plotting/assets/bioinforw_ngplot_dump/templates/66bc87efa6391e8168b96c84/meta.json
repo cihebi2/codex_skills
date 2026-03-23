@@ -1,0 +1,29 @@
+{
+  "id": "66bc87efa6391e8168b96c84",
+  "name": "极坐标折线图-有分组-散点",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66bc87efa6391e8168b96c84",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66bc87efa6391e8168b96c84.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value"
+  },
+  "categories": [
+    "极坐标折线图",
+    "有分组",
+    "散点"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 87
+    }
+  ]
+}

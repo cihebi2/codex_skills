@@ -1,0 +1,30 @@
+{
+  "id": "676684ce7c30723b1e464676",
+  "name": "环形柱状图-单变量-刻度环-名称贴柱子",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b5b609d978618f7526182b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676684ce7c30723b1e464676.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data3type": "txt_tab",
+    "data3": "cluster\tele\n0\tname1;name5;name6;name7;name8\n1\tname2;name3;name4;name9;name10;name11;name12;name13;name14;name15;name16;name17;name18;name19;name20;name21;name22;name23\n2\tname24;name25;name26;name27;name28;name29;name30\n3\tname31;name32;name33;name34;name35\n4\tname36;name37;name38;name39;name40;name41;name42;name43;name52\n5\tname44;name45;name46;name47;name48;name49;name50;name51",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "data3typeApp": "txt_tab",
+    "nameCol": "name",
+    "treeCol": "value",
+    "clusterIdCol": "cluster",
+    "clusterEleCol": "ele"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "刻度环",
+    "名称贴柱子"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

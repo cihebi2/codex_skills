@@ -1,0 +1,11 @@
+name	Geography
+name1	5
+name2	16
+name3	28
+name4	34
+name5	40
+name6	59
+name7	64
+name8	70
+name9	86
+name10	97

@@ -1,0 +1,30 @@
+{
+  "id": "68317aafe56add23e0545c2d",
+  "name": "环形柱状图-多变量-多种刻度-误差线-差异字母",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68317aafe56add23e0545c2d",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68317aafe56add23e0545c2d.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "treat",
+    "valueCol": "value",
+    "stdVCol": "std",
+    "labelCol": "label",
+    "minVs": "auto",
+    "maxVs": "auto",
+    "steps": "auto"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "多种刻度",
+    "误差线",
+    "差异字母"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

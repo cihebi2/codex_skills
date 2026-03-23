@@ -1,0 +1,35 @@
+{
+  "id": "69367e2a139236dfba8eecce",
+  "name": "组合图-热图-小提琴图-扇子",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=69367e2a139236dfba8eecce",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/69367e2a139236dfba8eecce.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "minv": "-1",
+    "maxv": "1",
+    "step": "0.5",
+    "densityCol": "density",
+    "valueCol": "value"
+  },
+  "categories": [
+    "组合图",
+    "热图",
+    "小提琴图",
+    "扇子"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 135
+    }
+  ]
+}

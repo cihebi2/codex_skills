@@ -1,0 +1,6 @@
+name	Math	English	Physics
+name1	93	99	80
+name2	97	92	86
+name3	103	102	80
+name4	75	86	56
+name5	83	105	84

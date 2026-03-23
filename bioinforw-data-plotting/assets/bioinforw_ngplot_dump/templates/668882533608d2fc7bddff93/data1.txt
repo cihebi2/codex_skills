@@ -1,0 +1,6 @@
+name	var1	var2	var3	var4	var5
+sample1	3.5	2.0	2.5	1.0	4.0
+sample2	4.7	3.2	4.0	1.0	2.8
+sample3	3.3	2.6	2.2	4.5	3.0
+sample4	5.0	4.0	4.0	2.5	1.5
+sample5	5.0	2.0	3.0	2.0	1.0

@@ -1,0 +1,31 @@
+{
+  "id": "67d14a685f0f9bb53762e88a",
+  "name": "环形柱状图-单变量-柱子向内-同名同色-刻度值",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67d14a685f0f9bb53762e88a",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67d14a685f0f9bb53762e88a.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "柱子向内",
+    "同名同色",
+    "刻度值"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 199
+    }
+  ]
+}

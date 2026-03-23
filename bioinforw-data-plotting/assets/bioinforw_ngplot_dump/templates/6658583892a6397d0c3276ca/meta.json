@@ -1,0 +1,27 @@
+{
+  "id": "6658583892a6397d0c3276ca",
+  "name": "饼图-矩阵",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6658583892a6397d0c3276ca",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6658583892a6397d0c3276ca.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "a、b、c、d"
+  },
+  "categories": [
+    "饼图",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 55
+    }
+  ]
+}

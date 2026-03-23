@@ -1,0 +1,32 @@
+{
+  "id": "682ed496a545144c4eacedfa",
+  "name": "环形柱状图-多变量-多种刻度",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=682ed496a545144c4eacedfa",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/682ed496a545144c4eacedfa.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value",
+    "minVs": "auto",
+    "maxVs": "auto",
+    "steps": "auto"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "多种刻度"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 152
+    }
+  ]
+}

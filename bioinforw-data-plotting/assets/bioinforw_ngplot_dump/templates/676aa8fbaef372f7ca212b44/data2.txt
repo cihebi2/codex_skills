@@ -1,0 +1,8 @@
+varname  group
+a   g1
+b   g1
+ccc g1
+d   g2
+e   g2
+f   g3
+g   g3

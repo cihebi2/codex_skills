@@ -1,0 +1,29 @@
+{
+  "id": "675e14d3c6a411fef4bd41bd",
+  "name": "散点图-横轴分类纵轴数值-多变量-点多形状",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675e14d3c6a411fef4bd41bd",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675e14d3c6a411fef4bd41bd.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "grade",
+    "valueCols": "、"
+  },
+  "categories": [
+    "散点图",
+    "横轴分类纵轴数值",
+    "多变量",
+    "点多形状"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 55
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "667ee30727e1fe64e6bc6dd6",
+  "name": "小提琴图-不分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6777459f53eb9f93596d4c33",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/667ee30727e1fe64e6bc6dd6.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "densityVCol": "density"
+  },
+  "categories": [
+    "箱线图",
+    "无分组",
+    "散点",
+    "显著星号"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

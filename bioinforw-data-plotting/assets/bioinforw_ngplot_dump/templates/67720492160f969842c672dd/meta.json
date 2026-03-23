@@ -1,0 +1,33 @@
+{
+  "id": "67720492160f969842c672dd",
+  "name": "箱线图-无分组-散点",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676b53a492814a14afd0027e",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67720492160f969842c672dd.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "dotCol": "dots",
+    "minVCol": "min",
+    "q1VCol": "qdown",
+    "midVCol": "mid",
+    "q3VCol": "quper",
+    "maxVCol": "max"
+  },
+  "categories": [
+    "网络图",
+    "水平",
+    "无权重"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

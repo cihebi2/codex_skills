@@ -1,0 +1,9 @@
+name	group	Chinese	Politics	Badminton	Sailing
+name1	A	107	76	36	36
+name2	A	73	69	23	19
+name3	B	86	90	37	18
+name7	A	90	57	21	18
+name4	B	102	56	27	11
+name5	B	108	86	24	15
+name6	B	101	55	36	16
+name8	A	91	56	32	16

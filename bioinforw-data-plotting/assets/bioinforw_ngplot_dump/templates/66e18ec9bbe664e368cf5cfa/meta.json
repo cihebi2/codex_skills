@@ -1,0 +1,33 @@
+{
+  "id": "66e18ec9bbe664e368cf5cfa",
+  "name": "热图-有分类条-横向",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66e18ec9bbe664e368cf5cfa",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66e18ec9bbe664e368cf5cfa.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "typesCols": "gender、grade、village",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "热图",
+    "有分类条",
+    "横向"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 23
+    }
+  ]
+}

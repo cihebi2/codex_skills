@@ -1,0 +1,33 @@
+{
+  "id": "6758f1d7b309cfee57d3c6dc",
+  "name": "柱状图-多变量-嵌套-误差线-截断轴",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758f1d7b309cfee57d3c6dc",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6758f1d7b309cfee57d3c6dc.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "A、B",
+    "sdCols": "SD1、SD2",
+    "step": "20",
+    "yRange": "0,52;145,200"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "嵌套",
+    "误差线",
+    "截断轴"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+name	v1	v2	pvalue
+Hippocampal	20	12	0.3175 
+Cerebrovascular accident	12	16	0.1905 
+Intracranial tumors	8	28	0.1270 
+Brain trauma	7	20	0.1111 
+Central nervous system infection	5	24	0.0794 
+Autoimmune encephalitis	4	8	0.0635 
+Cavernous hemangioma	3	8	0.0476 
+Metabolic etiology	3	4	0.0476 
+Nodular sclerosis	1	0	0.0159 
+Cortical dysplasia	0	4	0.0000 

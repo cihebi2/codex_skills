@@ -1,0 +1,32 @@
+{
+  "id": "6767874611016aea1c39f87c",
+  "name": "环形柱状图-多变量-扇型",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767874611016aea1c39f87c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6767874611016aea1c39f87c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value",
+    "maxVs": "10",
+    "minVs": "auto",
+    "steps": "auto"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "扇型"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

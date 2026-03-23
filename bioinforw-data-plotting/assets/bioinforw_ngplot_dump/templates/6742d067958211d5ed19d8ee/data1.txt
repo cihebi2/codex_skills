@@ -1,0 +1,17 @@
+source	target
+Imm1	C1
+Imm1	C2
+Imm2	C3
+Imm2	C4
+Imm3/4	C5
+Imm5	C1
+C1	Bm1
+C1	Bm2
+C1	Bn
+C2	Macrophages
+C3	Bn
+C3	CD4+Tm
+C3	CD8+Tn
+C3	Lymphocytes
+C3	Macrophages
+C4	GZMB+ Macrophages

@@ -1,0 +1,31 @@
+{
+  "id": "6758f0e3b309cfee57d3c6cf",
+  "name": "柱状图-多变量-嵌套-截断轴",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758f0e3b309cfee57d3c6cf",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6758f0e3b309cfee57d3c6cf.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "A、B、C、D",
+    "step": "20",
+    "yRange": "0,42;215,300"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "嵌套",
+    "截断轴"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

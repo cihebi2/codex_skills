@@ -1,0 +1,32 @@
+{
+  "id": "67556f3230ab6999487650e7",
+  "name": "堆叠图-单组-矩阵",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67556f3230ab6999487650e7",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67556f3230ab6999487650e7.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "Sample",
+    "groupCol": "type",
+    "valueCols": "var1、var2、var3",
+    "minv": "0",
+    "maxV": "200",
+    "step": "50"
+  },
+  "categories": [
+    "堆叠图",
+    "单组",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

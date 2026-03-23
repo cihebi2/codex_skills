@@ -1,0 +1,21 @@
+{
+  "id": "67636997b6a9f908910e3232",
+  "name": "半径变饼图-桥式",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67636997b6a9f908910e3232",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67636997b6a9f908910e3232.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "半径变饼图",
+    "桥式"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

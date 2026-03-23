@@ -1,0 +1,38 @@
+{
+  "id": "668159fd4a54efd0d6916850",
+  "name": "箱线图-无分组-散点-显著字母",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=668159fd4a54efd0d6916850",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/668159fd4a54efd0d6916850.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "dotCol": "dotValue",
+    "minVCol": "Min",
+    "q1VCol": "Q1",
+    "midVCol": "Q2",
+    "q3VCol": "Q3",
+    "maxVCol": "Max",
+    "markCol": "mark",
+    "yTtitle": "xxxxxxxxxxx"
+  },
+  "categories": [
+    "箱线图",
+    "无分组",
+    "散点",
+    "显著字母"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

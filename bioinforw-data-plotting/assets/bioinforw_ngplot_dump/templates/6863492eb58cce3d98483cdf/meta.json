@@ -1,0 +1,34 @@
+{
+  "id": "6863492eb58cce3d98483cdf",
+  "name": "三角热图-方块大小渐变-自动统一行列顺序-文本靠左",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6863492eb58cce3d98483cdf",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6863492eb58cce3d98483cdf.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "valueCol": "corr",
+    "rowCol": "col",
+    "colCol": "row",
+    "xinCol": "p",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "三角热图",
+    "方块大小渐变",
+    "自动统一行列顺序",
+    "文本靠左"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 23
+    }
+  ]
+}

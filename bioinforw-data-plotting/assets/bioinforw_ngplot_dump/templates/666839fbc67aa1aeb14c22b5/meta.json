@@ -1,0 +1,23 @@
+{
+  "id": "666839fbc67aa1aeb14c22b5",
+  "name": "横向柱状图-单变量-左右双向",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=666839fbc67aa1aeb14c22b5",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/666839fbc67aa1aeb14c22b5.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value"
+  },
+  "categories": [
+    "横向柱状图",
+    "单变量",
+    "左右双向"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

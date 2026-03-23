@@ -1,0 +1,8 @@
+name	a	b	c	d
+name1	3	2	1	6
+name2	3	1	6	9
+name3	6	2	6	8
+name4	5	9	6	1
+name5	8	4	4	5
+name6	7	9	6	6
+

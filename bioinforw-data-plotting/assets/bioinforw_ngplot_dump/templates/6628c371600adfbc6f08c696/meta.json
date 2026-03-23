@@ -1,0 +1,27 @@
+{
+  "id": "6628c371600adfbc6f08c696",
+  "name": "柱状图-单变量",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6628c371600adfbc6f08c696",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6628c371600adfbc6f08c696.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "score"
+  },
+  "categories": [
+    "柱状图",
+    "单变量"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 55
+    }
+  ]
+}

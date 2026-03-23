@@ -1,0 +1,31 @@
+{
+  "id": "6697d5003d4b3662f9fac6ad",
+  "name": "折线图-有分组-线多样式",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6697d5003d4b3662f9fac6ad",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6697d5003d4b3662f9fac6ad.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "xVCol": "x",
+    "yVCol": "y",
+    "xtitle": "XXXXX",
+    "ytitle": "YYYYY"
+  },
+  "categories": [
+    "折线图",
+    "有分组",
+    "线多样式"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

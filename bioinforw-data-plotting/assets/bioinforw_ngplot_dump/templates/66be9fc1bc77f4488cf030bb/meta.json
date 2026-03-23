@@ -1,0 +1,31 @@
+{
+  "id": "66be9fc1bc77f4488cf030bb",
+  "name": "极坐标折线图-有分组-散点-双Y轴",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66be9fc1bc77f4488cf030bb",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66be9fc1bc77f4488cf030bb.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value",
+    "value2VCol": "value2"
+  },
+  "categories": [
+    "极坐标折线图",
+    "有分组",
+    "散点",
+    "双Y轴"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 103
+    }
+  ]
+}

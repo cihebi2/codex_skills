@@ -1,0 +1,9 @@
+value   group   name
+30.0   a  name1
+60.0   a  name2
+70.0   a  name3
+75.0   a  name4
+9.0   b  name1
+60.0   b  name2
+70.0   b  name3
+70.0   b  name4

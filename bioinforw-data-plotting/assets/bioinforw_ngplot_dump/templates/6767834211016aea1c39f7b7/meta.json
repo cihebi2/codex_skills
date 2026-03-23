@@ -1,0 +1,33 @@
+{
+  "id": "6767834211016aea1c39f7b7",
+  "name": "环形柱状图-多变量-四组对比-扇形",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767834211016aea1c39f7b7",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6767834211016aea1c39f7b7.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value",
+    "minVs": "auto",
+    "maxVs": "auto",
+    "steps": "auto"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "四组对比",
+    "扇形"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "666a9c36698df4eebb5a9f81",
+  "name": "组合图-面积图-箱线图-散点图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=693005ae56824bcc74877b22",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/666a9c36698df4eebb5a9f81.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data3type": "txt_tab",
+    "data3": "var\tname\tQ1\tQ2\tQ3\tIQR\tOutliers\tMin\tMax\nTissueA\tA\t14.55\t19.95\t31.650000000000002\t17.1\t67.6,72.2,72.0,65.6,64.7,79.6\t4.9\t45.1\nTissueA\tB\t13.5\t16.6\t24.3\t10.8\t69.0,55.0,73.5,43.8,93.0,53.2,53.9,48.5,48.3,64.2\t6.8\t39.0\nTissueB\tA\t13.25\t20.35\t38.4\t25.15\t-\t5.4\t73.4\nTissueB\tB\t14.2\t23.6\t33.8\t19.599999999999998\t79.2,73.1,71.1,64.1,64.6,66.9,74.6\t4.4\t54.0",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "data3typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto",
+    "groupCol": "var",
+    "maxCol": "Max",
+    "q3Col": "Q3",
+    "q1Col": "Q1",
+    "minCol": "Min",
+    "midCol": "Q2",
+    "densityCol": "density",
+    "data1NameCol": "Group"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "误差线",
+    "显著星号",
+    "散点"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

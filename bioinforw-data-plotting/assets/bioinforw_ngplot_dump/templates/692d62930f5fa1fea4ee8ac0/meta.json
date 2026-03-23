@@ -1,0 +1,31 @@
+{
+  "id": "692d62930f5fa1fea4ee8ac0",
+  "name": "横向柱状图-两组-左右对比-中间名称-带刻度尺",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=692d62930f5fa1fea4ee8ac0",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/692d62930f5fa1fea4ee8ac0.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "rightVCol": "Group1",
+    "leftVCol": "Group2"
+  },
+  "categories": [
+    "横向柱状图",
+    "两组",
+    "左右对比",
+    "中间名称",
+    "带刻度尺"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

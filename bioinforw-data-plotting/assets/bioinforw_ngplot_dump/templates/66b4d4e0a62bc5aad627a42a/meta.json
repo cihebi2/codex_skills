@@ -1,0 +1,32 @@
+{
+  "id": "66b4d4e0a62bc5aad627a42a",
+  "name": "折线图-无分组-散点-面域",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b4d4e0a62bc5aad627a42a",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66b4d4e0a62bc5aad627a42a.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "xVCol": "x",
+    "yVCol": "y",
+    "xtitle": "X",
+    "ytitle": "Y",
+    "title": "xxxxx"
+  },
+  "categories": [
+    "折线图",
+    "无分组",
+    "散点",
+    "面域"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 95
+    }
+  ]
+}

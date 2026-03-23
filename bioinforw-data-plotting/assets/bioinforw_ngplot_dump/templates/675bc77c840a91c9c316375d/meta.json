@@ -1,0 +1,27 @@
+{
+  "id": "675bc77c840a91c9c316375d",
+  "name": "散点饼图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675bc77c840a91c9c316375d",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675bc77c840a91c9c316375d.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "yVCol": "y",
+    "valueCols": "、"
+  },
+  "categories": [
+    "散点饼图"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 199
+    }
+  ]
+}

@@ -1,0 +1,4228 @@
+[
+  {
+    "id": "6789a8ebc08c7f4fd9cca5af",
+    "name": "3D柱状图-立体柱",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "3D柱状图",
+      "立体柱"
+    ]
+  },
+  {
+    "id": "678892792118aaa3fa8867c3",
+    "name": "3D柱状图-xyz连续型变量",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "3D柱状图",
+      "xyz连续型变量"
+    ]
+  },
+  {
+    "id": "67636997b6a9f908910e3232",
+    "name": "半径变饼图-桥式",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "半径变饼图",
+      "桥式"
+    ]
+  },
+  {
+    "id": "67636f5b1cd049d2a718070c",
+    "name": "半径变饼图-扇型-自动排序",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "半径变饼图",
+      "扇型",
+      "自动排序"
+    ]
+  },
+  {
+    "id": "676371b91cd049d2a718071d",
+    "name": "半径变饼图-自动排序",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "半径变饼图",
+      "自动排序"
+    ]
+  },
+  {
+    "id": "676363aa1cd049d2a71806b1",
+    "name": "饼图-半环",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "饼图",
+      "半环"
+    ]
+  },
+  {
+    "id": "6763748cb6a9f908910e329d",
+    "name": "饼图-花瓣",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "饼图",
+      "花瓣"
+    ]
+  },
+  {
+    "id": "69b0cbcda6981fcf14aa3872",
+    "name": "饼图-花瓣-等角度-热力颜色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "饼图",
+      "花瓣",
+      "等角度",
+      "热力颜色"
+    ]
+  },
+  {
+    "id": "69b0d61da6981fcf14aa3911",
+    "name": "饼图-花瓣-热力颜色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "饼图",
+      "花瓣",
+      "热力颜色"
+    ]
+  },
+  {
+    "id": "6658583892a6397d0c3276ca",
+    "name": "饼图-矩阵",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "饼图",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "67637318b6a9f908910e327c",
+    "name": "饼图-任意起止位置",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "饼图",
+      "任意起止位置"
+    ]
+  },
+  {
+    "id": "66736add4b978b43a67a42c4",
+    "name": "饼图-甜甜圈",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "饼图",
+      "甜甜圈"
+    ]
+  },
+  {
+    "id": "669fbedf2d679386c4e3b19a",
+    "name": "饼图-图例",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "饼图",
+      "图例"
+    ]
+  },
+  {
+    "id": "6633138e9f1a544b6ce93d0b",
+    "name": "饼图-自动顺序",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "饼图",
+      "自动顺序"
+    ]
+  },
+  {
+    "id": "675b74666ad24ba18dcc4b48",
+    "name": "大头针图-多变量",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "大头针图",
+      "多变量"
+    ]
+  },
+  {
+    "id": "675b8e476ad24ba18dcc4d97",
+    "name": "大头针图-多变量-兼容负值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "大头针图",
+      "多变量",
+      "兼容负值"
+    ]
+  },
+  {
+    "id": "675b9995840a91c9c316347d",
+    "name": "大头针图-多变量-兼容负值-重叠",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "大头针图",
+      "多变量",
+      "兼容负值",
+      "重叠"
+    ]
+  },
+  {
+    "id": "675b81de6ad24ba18dcc4c5c",
+    "name": "大头针图-分组-大小圈",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "大头针图",
+      "分组",
+      "大小圈"
+    ]
+  },
+  {
+    "id": "675b8fce6ad24ba18dcc4dce",
+    "name": "大头针图-分组-大小圈-兼容负值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "大头针图",
+      "分组",
+      "大小圈",
+      "兼容负值"
+    ]
+  },
+  {
+    "id": "6672d7f54b978b43a67a415b",
+    "name": "大头针图-分组-等大圈",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "大头针图",
+      "分组",
+      "等大圈"
+    ]
+  },
+  {
+    "id": "675b73b66ad24ba18dcc4b36",
+    "name": "大头针图-无分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "大头针图",
+      "无分组"
+    ]
+  },
+  {
+    "id": "675b8bd56ad24ba18dcc4d1b",
+    "name": "大头针图-无分组-兼容负值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "大头针图",
+      "无分组",
+      "兼容负值"
+    ]
+  },
+  {
+    "id": "676e3e812c7aca6fc03d0c8c",
+    "name": "大头针图-无分组-兼容负值-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "大头针图",
+      "无分组",
+      "兼容负值",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "676e37562c7aca6fc03d0aaf",
+    "name": "大头针图-无分组-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "大头针图",
+      "无分组",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "6750208ab3a7e1a5d417f60d",
+    "name": "堆叠面积图-单组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠面积图",
+      "单组"
+    ]
+  },
+  {
+    "id": "675124d726abbb2d28abdebb",
+    "name": "堆叠面积图-单组-计算占比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠面积图",
+      "单组",
+      "计算占比"
+    ]
+  },
+  {
+    "id": "66a5faf760d953862d3ff696",
+    "name": "堆叠图-单组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "单组"
+    ]
+  },
+  {
+    "id": "67525188406250678487fd35",
+    "name": "堆叠图-单组-截断轴",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "单组",
+      "截断轴"
+    ]
+  },
+  {
+    "id": "67528d8c406250678487fefd",
+    "name": "堆叠图-单组-截断轴-计算占比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "单组",
+      "截断轴",
+      "计算占比"
+    ]
+  },
+  {
+    "id": "67556f3230ab6999487650e7",
+    "name": "堆叠图-单组-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "单组",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "67511d7826abbb2d28abdd30",
+    "name": "堆叠图-单组-连线",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "单组",
+      "连线"
+    ]
+  },
+  {
+    "id": "67516868afec8963ccde9735",
+    "name": "堆叠图-单组-连线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "单组",
+      "连线"
+    ]
+  },
+  {
+    "id": "675406eea9a528dc30e39996",
+    "name": "堆叠图-单组-连线-计算占比-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "单组",
+      "连线",
+      "计算占比",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "67515c68afec8963ccde967e",
+    "name": "堆叠图-单组-连线-误差棒",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "单组",
+      "连线",
+      "误差棒"
+    ]
+  },
+  {
+    "id": "66a9da12f00c758ce03e87d9",
+    "name": "堆叠图-多组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "多组"
+    ]
+  },
+  {
+    "id": "66d12450e4241f11dffdab3d",
+    "name": "堆叠图-多组-不同堆叠颜色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "多组",
+      "不同堆叠颜色"
+    ]
+  },
+  {
+    "id": "66d146a1e4241f11dffdadf1",
+    "name": "堆叠图-多组-负值向下",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "多组",
+      "负值向下"
+    ]
+  },
+  {
+    "id": "67519933379e0b4b79b3e9b4",
+    "name": "堆叠图-多组-连线-多组色块",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "多组",
+      "连线",
+      "多组色块"
+    ]
+  },
+  {
+    "id": "665d618c55ee1eb3b08a6856",
+    "name": "堆叠图-多组-网格线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "多组",
+      "网格线"
+    ]
+  },
+  {
+    "id": "67517092afec8963ccde97a5",
+    "name": "堆叠图-多组-网格线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "多组",
+      "网格线"
+    ]
+  },
+  {
+    "id": "67517311afec8963ccde9840",
+    "name": "堆叠图-多组-网格线-分组色块",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠图",
+      "多组",
+      "网格线",
+      "分组色块"
+    ]
+  },
+  {
+    "id": "6768ea2c222ceb58bb37164e",
+    "name": "堆叠玉玦图-单组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "堆叠玉玦图",
+      "单组"
+    ]
+  },
+  {
+    "id": "668c6de46c40df40b314ebb7",
+    "name": "分类型热图-两组颜色标有无",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "分类型热图",
+      "两组颜色标有无"
+    ]
+  },
+  {
+    "id": "66ad6628a3e8c0d845e3b310",
+    "name": "分类型热图-颜色标有无",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "分类型热图",
+      "颜色标有无"
+    ]
+  },
+  {
+    "id": "66ac2b714552a7ec5580c050",
+    "name": "分类型热图-颜色标有无-统计百分比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "分类型热图",
+      "颜色标有无",
+      "统计百分比"
+    ]
+  },
+  {
+    "id": "66bb0080e65b64e3d7de4742",
+    "name": "分类型热图-颜色标有无-统计柱状图",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "分类型热图",
+      "颜色标有无",
+      "统计柱状图"
+    ]
+  },
+  {
+    "id": "667e4231db91fef406caa33d",
+    "name": "蜂群图",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "蜂群图"
+    ]
+  },
+  {
+    "id": "676237df89cb0d2350dda22a",
+    "name": "复合饼图-环绕小饼图",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "复合饼图",
+      "环绕小饼图"
+    ]
+  },
+  {
+    "id": "6762931c89cb0d2350dda794",
+    "name": "复合饼图-条形图",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "复合饼图",
+      "条形图"
+    ]
+  },
+  {
+    "id": "6756a45c60eadfff7810d6f0",
+    "name": "甘特图",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "甘特图"
+    ]
+  },
+  {
+    "id": "675b9c78840a91c9c3163498",
+    "name": "横向大头针图-分组-大小圈-兼容负值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向大头针图",
+      "分组",
+      "大小圈",
+      "兼容负值"
+    ]
+  },
+  {
+    "id": "68f8a0d853c4ddf667aac328",
+    "name": "横向大头针图-分组-双向",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向大头针图",
+      "分组",
+      "双向"
+    ]
+  },
+  {
+    "id": "675b85106ad24ba18dcc4cdf",
+    "name": "横向大头针图-无分组-大小圈",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向大头针图",
+      "无分组",
+      "大小圈"
+    ]
+  },
+  {
+    "id": "675b8d156ad24ba18dcc4d5c",
+    "name": "横向大头针图-无分组-大小圈-兼容负值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向大头针图",
+      "无分组",
+      "大小圈",
+      "兼容负值"
+    ]
+  },
+  {
+    "id": "676e4080eb9bcc77a044ffb4",
+    "name": "横向大头针图-无分组-大小圈-兼容负值-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向大头针图",
+      "无分组",
+      "大小圈",
+      "兼容负值",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "676e3aff2c7aca6fc03d0b6e",
+    "name": "横向大头针图-无分组-大小圈-矩阵",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向大头针图",
+      "无分组",
+      "大小圈",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "6672bad4531df62c7a066996",
+    "name": "横向大头针图-无分组-等大圈",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向大头针图",
+      "无分组",
+      "等大圈"
+    ]
+  },
+  {
+    "id": "66458593b60b5302731c7a30",
+    "name": "横向堆叠图-单组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向堆叠图",
+      "单组"
+    ]
+  },
+  {
+    "id": "6752aaee406250678487ffb4",
+    "name": "横向堆叠图-单组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向堆叠图",
+      "单组"
+    ]
+  },
+  {
+    "id": "6752b15d406250678487fffb",
+    "name": "横向堆叠图-单组-反向",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向堆叠图",
+      "单组",
+      "反向"
+    ]
+  },
+  {
+    "id": "6753e626a9a528dc30e398b3",
+    "name": "横向堆叠图-单组-负值向左",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向堆叠图",
+      "单组",
+      "负值向左"
+    ]
+  },
+  {
+    "id": "67555da630ab699948765015",
+    "name": "横向堆叠图-单组-计算占比-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向堆叠图",
+      "单组",
+      "计算占比",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "6755691a30ab699948765097",
+    "name": "横向堆叠图-单组-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向堆叠图",
+      "单组",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "6752ade5406250678487ffd4",
+    "name": "横向堆叠图-多组-左右双向",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向堆叠图",
+      "多组",
+      "左右双向"
+    ]
+  },
+  {
+    "id": "6753a1eaa9a528dc30e3977e",
+    "name": "横向堆叠图-多组-左右双向-不同变量",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向堆叠图",
+      "多组",
+      "左右双向",
+      "不同变量"
+    ]
+  },
+  {
+    "id": "676bc46a5da947398b73b4bf",
+    "name": "横向箱线图-分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向箱线图",
+      "分组"
+    ]
+  },
+  {
+    "id": "676e026beb9bcc77a044ff0d",
+    "name": "横向箱线图-分组-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向箱线图",
+      "分组",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "676bccee5da947398b73b53e",
+    "name": "横向箱线图-分组-折线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向箱线图",
+      "分组",
+      "折线"
+    ]
+  },
+  {
+    "id": "6676aef8a7c8e1374434bb62",
+    "name": "横向箱线图-无分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向箱线图",
+      "无分组"
+    ]
+  },
+  {
+    "id": "676d2d414830778dcb2443b8",
+    "name": "横向箱线图-无分组-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向箱线图",
+      "无分组",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "676bb440426ffedf7ec8e6df",
+    "name": "横向箱线图-无分组-散点",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向箱线图",
+      "无分组",
+      "散点"
+    ]
+  },
+  {
+    "id": "6777673e53eb9f93596d4edb",
+    "name": "横向小提琴图-不分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向小提琴图",
+      "不分组"
+    ]
+  },
+  {
+    "id": "6777960253eb9f93596d57ce",
+    "name": "横向小提琴图-不分组-箱线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向小提琴图",
+      "不分组",
+      "箱线"
+    ]
+  },
+  {
+    "id": "677901251c2ae301f1e33881",
+    "name": "横向小提琴图-多行多列",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向小提琴图",
+      "多行多列"
+    ]
+  },
+  {
+    "id": "67776abd53eb9f93596d4f32",
+    "name": "横向小提琴图-分组",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向小提琴图",
+      "分组"
+    ]
+  },
+  {
+    "id": "67777e6d53eb9f93596d53b2",
+    "name": "横向小提琴图-分组-上下对比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向小提琴图",
+      "分组",
+      "上下对比"
+    ]
+  },
+  {
+    "id": "6627b1edd0977e6439d4a203",
+    "name": "横向柱状图-单变量",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 4,
+    "categoryTrail": [
+      "横向柱状图",
+      "单变量"
+    ]
+  },
+  {
+    "id": "67565b7760eadfff7810cf4b",
+    "name": "横向柱状图-单变量-百分比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "单变量",
+      "百分比"
+    ]
+  },
+  {
+    "id": "675a9b4b6ad24ba18dcc4939",
+    "name": "横向柱状图-单变量-负值反向-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "单变量",
+      "负值反向",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "675a91fb6ad24ba18dcc442d",
+    "name": "横向柱状图-单变量-负值反向-矩阵-正负颜色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "单变量",
+      "负值反向",
+      "矩阵",
+      "正负颜色"
+    ]
+  },
+  {
+    "id": "675a4c0f646e71bae4dd42a4",
+    "name": "横向柱状图-单变量-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "单变量",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "6757adf1538842d3d5d8cb90",
+    "name": "横向柱状图-单变量-颜色分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "单变量",
+      "颜色分组"
+    ]
+  },
+  {
+    "id": "666839fbc67aa1aeb14c22b5",
+    "name": "横向柱状图-单变量-左右双向",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "单变量",
+      "左右双向"
+    ]
+  },
+  {
+    "id": "6757d10a538842d3d5d8cf52",
+    "name": "横向柱状图-多变量",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "多变量"
+    ]
+  },
+  {
+    "id": "6757ec94538842d3d5d8d08f",
+    "name": "横向柱状图-多变量-负值反向",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "多变量",
+      "负值反向"
+    ]
+  },
+  {
+    "id": "675a5da6646e71bae4dd4328",
+    "name": "横向柱状图-多变量-负值反向-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "多变量",
+      "负值反向",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "6757fff2538842d3d5d8d0d6",
+    "name": "横向柱状图-多变量-双向",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "多变量",
+      "双向"
+    ]
+  },
+  {
+    "id": "675a7b276ad24ba18dcc4384",
+    "name": "横向柱状图-负值反向",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "负值反向"
+    ]
+  },
+  {
+    "id": "692d62930f5fa1fea4ee8ac0",
+    "name": "横向柱状图-两组-左右对比-中间名称-带刻度尺",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "横向柱状图",
+      "两组",
+      "左右对比",
+      "中间名称",
+      "带刻度尺"
+    ]
+  },
+  {
+    "id": "676a6f90aef372f7ca212a1c",
+    "name": "环形雷达图",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形雷达图"
+    ]
+  },
+  {
+    "id": "676a7226aef372f7ca212a38",
+    "name": "环形雷达图-不同圈不同色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形雷达图",
+      "不同圈不同色"
+    ]
+  },
+  {
+    "id": "669082186d7e1596e33b6b56",
+    "name": "环形热图",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形热图"
+    ]
+  },
+  {
+    "id": "69043d5cfadf43df302c5fb6",
+    "name": "环形热图-扇形-相关性",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形热图",
+      "扇形",
+      "相关性"
+    ]
+  },
+  {
+    "id": "6769167e9c799f32fcb7f583",
+    "name": "环形热图-无缺口",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形热图",
+      "无缺口"
+    ]
+  },
+  {
+    "id": "66cc2e8c80c9fb61b66ad173",
+    "name": "环形热图-向上缺口",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形热图",
+      "向上缺口"
+    ]
+  },
+  {
+    "id": "6847e0656bc5138431abc959",
+    "name": "环形热图-有分组",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形热图",
+      "有分组"
+    ]
+  },
+  {
+    "id": "684969fd356977bc83e1e284",
+    "name": "环形热图-有分组-有p值-p值排序",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形热图",
+      "有分组",
+      "有p值",
+      "p值排序"
+    ]
+  },
+  {
+    "id": "66b5b609d978618f7526182b",
+    "name": "环形热图-有聚类树",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形热图",
+      "有聚类树"
+    ]
+  },
+  {
+    "id": "676680937c30723b1e4644e6",
+    "name": "环形柱状图-单变量-半环",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "半环"
+    ]
+  },
+  {
+    "id": "676e297e2c7aca6fc03d0975",
+    "name": "环形柱状图-单变量-半环-矩阵",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "半环",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "685e0b47c0ef3995ad6985b5",
+    "name": "环形柱状图-单变量-对数刻度",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "对数刻度"
+    ]
+  },
+  {
+    "id": "676684ce7c30723b1e464676",
+    "name": "环形柱状图-单变量-刻度环-名称贴柱子",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "刻度环",
+      "名称贴柱子"
+    ]
+  },
+  {
+    "id": "68727c676756cd7a76293a9b",
+    "name": "环形柱状图-单变量-名称径向",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "名称径向"
+    ]
+  },
+  {
+    "id": "6766904e7c30723b1e4647f8",
+    "name": "环形柱状图-单变量-扇型右",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "扇型右"
+    ]
+  },
+  {
+    "id": "67668d8d7c30723b1e4647bb",
+    "name": "环形柱状图-单变量-扇型左",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "扇型左"
+    ]
+  },
+  {
+    "id": "692295715a83abc7b49fcaf4",
+    "name": "环形柱状图-单变量-同组同色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "同组同色"
+    ]
+  },
+  {
+    "id": "687cbd23e21a3d48dcc80126",
+    "name": "环形柱状图-单变量-网格线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "网格线"
+    ]
+  },
+  {
+    "id": "687cdbffe21a3d48dcc80464",
+    "name": "环形柱状图-单变量-网格线-负值反向",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "网格线",
+      "负值反向"
+    ]
+  },
+  {
+    "id": "6863ac45df2413ba028f0588",
+    "name": "环形柱状图-单变量-误差线-差异字母",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "误差线",
+      "差异字母"
+    ]
+  },
+  {
+    "id": "68761232d4c91cf8658fc705",
+    "name": "环形柱状图-单变量-颜色渐变",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "颜色渐变"
+    ]
+  },
+  {
+    "id": "676792eb11016aea1c39fa52",
+    "name": "环形柱状图-单变量-柱子向内",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "柱子向内"
+    ]
+  },
+  {
+    "id": "676796ac11016aea1c39fb0a",
+    "name": "环形柱状图-单变量-柱子向内-半环",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "柱子向内",
+      "半环"
+    ]
+  },
+  {
+    "id": "676799f111016aea1c39fc9f",
+    "name": "环形柱状图-单变量-柱子向内-半环-空心圆",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "柱子向内",
+      "半环",
+      "空心圆"
+    ]
+  },
+  {
+    "id": "67d14a685f0f9bb53762e88a",
+    "name": "环形柱状图-单变量-柱子向内-同名同色-刻度值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "柱子向内",
+      "同名同色",
+      "刻度值"
+    ]
+  },
+  {
+    "id": "676798de11016aea1c39fc20",
+    "name": "环形柱状图-单变量-柱子向内-右扇型",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "柱子向内",
+      "右扇型"
+    ]
+  },
+  {
+    "id": "6767983c11016aea1c39fbcb",
+    "name": "环形柱状图-单变量-柱子向内-左扇型",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "柱子向内",
+      "左扇型"
+    ]
+  },
+  {
+    "id": "685d026d84d30a9076d2deaa",
+    "name": "环形柱状图-单变量-LOG处理",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "单变量",
+      "LOG处理"
+    ]
+  },
+  {
+    "id": "66b08d1df5382dad1050fcbe",
+    "name": "环形柱状图-多变量",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量"
+    ]
+  },
+  {
+    "id": "6764c35c393f82c554556292",
+    "name": "环形柱状图-多变量",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量"
+    ]
+  },
+  {
+    "id": "67667c057c30723b1e464400",
+    "name": "环形柱状图-多变量-半环",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "半环"
+    ]
+  },
+  {
+    "id": "682ed496a545144c4eacedfa",
+    "name": "环形柱状图-多变量-多种刻度",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "多种刻度"
+    ]
+  },
+  {
+    "id": "68317aafe56add23e0545c2d",
+    "name": "环形柱状图-多变量-多种刻度-误差线-差异字母",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "多种刻度",
+      "误差线",
+      "差异字母"
+    ]
+  },
+  {
+    "id": "67661104c008c077c11b6a1e",
+    "name": "环形柱状图-多变量-刻度环-背景色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "刻度环",
+      "背景色"
+    ]
+  },
+  {
+    "id": "67c6adcc518a3a24468a099d",
+    "name": "环形柱状图-多变量-刻度环-同名同色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "刻度环",
+      "同名同色"
+    ]
+  },
+  {
+    "id": "67676e4711016aea1c39f6f1",
+    "name": "环形柱状图-多变量-两组上下对比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "两组上下对比"
+    ]
+  },
+  {
+    "id": "676692337c30723b1e46485a",
+    "name": "环形柱状图-多变量-两组左右对比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "两组左右对比"
+    ]
+  },
+  {
+    "id": "6767707811016aea1c39f75d",
+    "name": "环形柱状图-多变量-两组左右对比-扇型",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "两组左右对比",
+      "扇型"
+    ]
+  },
+  {
+    "id": "676679127c30723b1e4642cb",
+    "name": "环形柱状图-多变量-名称贴柱子",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "名称贴柱子"
+    ]
+  },
+  {
+    "id": "6767874611016aea1c39f87c",
+    "name": "环形柱状图-多变量-扇型",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "扇型"
+    ]
+  },
+  {
+    "id": "6767834211016aea1c39f7b7",
+    "name": "环形柱状图-多变量-四组对比-扇形",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "四组对比",
+      "扇形"
+    ]
+  },
+  {
+    "id": "68a7e00c0e0180227b59fbd6",
+    "name": "环形柱状图-多变量-网格线-渐变色-有缺口-负值反向",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "网格线",
+      "渐变色",
+      "有缺口",
+      "负值反向"
+    ]
+  },
+  {
+    "id": "692f7facb14bac5cf8b16677",
+    "name": "环形柱状图-多变量-网络连线",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "网络连线"
+    ]
+  },
+  {
+    "id": "68c12fac75c010b4bbee4c73",
+    "name": "环形柱状图-多变量-相向排序-负值反向",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "相向排序",
+      "负值反向"
+    ]
+  },
+  {
+    "id": "67678e5911016aea1c39f9b0",
+    "name": "环形柱状图-多变量-柱子向内",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "柱子向内"
+    ]
+  },
+  {
+    "id": "6767a0f411016aea1c39fee4",
+    "name": "环形柱状图-多变量-柱子向内-扇型",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "柱子向内",
+      "扇型"
+    ]
+  },
+  {
+    "id": "67679ca211016aea1c39fdb2",
+    "name": "环形柱状图-多变量-柱子向内-上下对比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "柱子向内",
+      "上下对比"
+    ]
+  },
+  {
+    "id": "6767a01311016aea1c39fea7",
+    "name": "环形柱状图-多变量-柱子向内-四组对比-扇型",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "柱子向内",
+      "四组对比",
+      "扇型"
+    ]
+  },
+  {
+    "id": "676790fd11016aea1c39fa0e",
+    "name": "环形柱状图-多变量-柱子向内-同名同色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "柱子向内",
+      "同名同色"
+    ]
+  },
+  {
+    "id": "67679b6c11016aea1c39fd4b",
+    "name": "环形柱状图-多变量-柱子向内-左右对比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "柱子向内",
+      "左右对比"
+    ]
+  },
+  {
+    "id": "67679ee011016aea1c39fe40",
+    "name": "环形柱状图-多变量-柱子向内-左右对比-扇型",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "环形柱状图",
+      "多变量",
+      "柱子向内",
+      "左右对比",
+      "扇型"
+    ]
+  },
+  {
+    "id": "680aeef4a0e69348b047ffd0",
+    "name": "火山图-自动展示N个名称",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "火山图",
+      "自动展示N个名称"
+    ]
+  },
+  {
+    "id": "687652ef02c716e5399f39bc",
+    "name": "极坐标堆叠图-单组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标堆叠图",
+      "单组"
+    ]
+  },
+  {
+    "id": "69154ebe8a158f1f2e83a7e7",
+    "name": "极坐标堆叠图-单组-计算占比-实心圆",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标堆叠图",
+      "单组",
+      "计算占比",
+      "实心圆"
+    ]
+  },
+  {
+    "id": "66a2265d83a6e54bfea23a7c",
+    "name": "极坐标堆叠图-单组-名称贴柱子",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标堆叠图",
+      "单组",
+      "名称贴柱子"
+    ]
+  },
+  {
+    "id": "66a1e17083a6e54bfea231f1",
+    "name": "极坐标堆叠图-多组",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标堆叠图",
+      "多组"
+    ]
+  },
+  {
+    "id": "687791fb0c1d5c45d8787124",
+    "name": "极坐标堆叠图-多组-多种刻度",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标堆叠图",
+      "多组",
+      "多种刻度"
+    ]
+  },
+  {
+    "id": "68342a50ccf6706110bfe8c1",
+    "name": "极坐标堆叠图-多组-计算占比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标堆叠图",
+      "多组",
+      "计算占比"
+    ]
+  },
+  {
+    "id": "691bd31b94cb9d8b4a28537c",
+    "name": "极坐标堆叠图-多组-两组左右对照",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标堆叠图",
+      "多组",
+      "两组左右对照"
+    ]
+  },
+  {
+    "id": "68c5fdf475e223672986d188",
+    "name": "极坐标堆叠图-多组-名称贴柱子",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标堆叠图",
+      "多组",
+      "名称贴柱子"
+    ]
+  },
+  {
+    "id": "6769213b9c799f32fcb7f9de",
+    "name": "极坐标散点图-角度轴半径轴数值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标散点图",
+      "角度轴半径轴数值"
+    ]
+  },
+  {
+    "id": "67692a4495cab84bca013a67",
+    "name": "极坐标散点图-角度轴半径轴数值-分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标散点图",
+      "角度轴半径轴数值",
+      "分组"
+    ]
+  },
+  {
+    "id": "66a114afc846c0bf240ab849",
+    "name": "极坐标散点图-角度轴分类半径轴数值-分组",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标散点图",
+      "角度轴分类半径轴数值",
+      "分组"
+    ]
+  },
+  {
+    "id": "676cb690cc586c679bc95108",
+    "name": "极坐标箱线图-分组-半环",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "分组",
+      "半环"
+    ]
+  },
+  {
+    "id": "676ccc81cc586c679bc951fd",
+    "name": "极坐标箱线图-分组-半环-散点",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "分组",
+      "半环",
+      "散点"
+    ]
+  },
+  {
+    "id": "676cbb18cc586c679bc95133",
+    "name": "极坐标箱线图-分组-半环-组内同色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "分组",
+      "半环",
+      "组内同色"
+    ]
+  },
+  {
+    "id": "676ccd12cc586c679bc95207",
+    "name": "极坐标箱线图-分组-半环-组内同色-散点",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "分组",
+      "半环",
+      "组内同色",
+      "散点"
+    ]
+  },
+  {
+    "id": "676cc34fcc586c679bc9518c",
+    "name": "极坐标箱线图-分组-散点",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "分组",
+      "散点"
+    ]
+  },
+  {
+    "id": "676ca844cc586c679bc94ff8",
+    "name": "极坐标箱线图-分组-同名同色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "分组",
+      "同名同色"
+    ]
+  },
+  {
+    "id": "676cb201cc586c679bc95073",
+    "name": "极坐标箱线图-分组-同组同色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "分组",
+      "同组同色"
+    ]
+  },
+  {
+    "id": "676cc93b4c74c616a3c3950f",
+    "name": "极坐标箱线图-分组-组内同色-散点",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "分组",
+      "组内同色",
+      "散点"
+    ]
+  },
+  {
+    "id": "676bd3b35da947398b73b577",
+    "name": "极坐标箱线图-无分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "无分组"
+    ]
+  },
+  {
+    "id": "676cb2d9cc586c679bc95084",
+    "name": "极坐标箱线图-无分组-半环",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "无分组",
+      "半环"
+    ]
+  },
+  {
+    "id": "676e1c902c7aca6fc03d061c",
+    "name": "极坐标箱线图-无分组-半环-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "无分组",
+      "半环",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "676cca4fcc586c679bc951e6",
+    "name": "极坐标箱线图-无分组-半环-散点",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "无分组",
+      "半环",
+      "散点"
+    ]
+  },
+  {
+    "id": "676e23382c7aca6fc03d080b",
+    "name": "极坐标箱线图-无分组-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "无分组",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "676cbca1cc586c679bc95150",
+    "name": "极坐标箱线图-无分组-散点",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标箱线图",
+      "无分组",
+      "散点"
+    ]
+  },
+  {
+    "id": "66bc87efa6391e8168b96c84",
+    "name": "极坐标折线图-有分组-散点",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标折线图",
+      "有分组",
+      "散点"
+    ]
+  },
+  {
+    "id": "66be9fc1bc77f4488cf030bb",
+    "name": "极坐标折线图-有分组-散点-双Y轴",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标折线图",
+      "有分组",
+      "散点",
+      "双Y轴"
+    ]
+  },
+  {
+    "id": "69425ce11494871b79b9525a",
+    "name": "极坐标折线图-有分组-散点-误差线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "极坐标折线图",
+      "有分组",
+      "散点",
+      "误差线"
+    ]
+  },
+  {
+    "id": "66dbb66a620602b0f69d8088",
+    "name": "雷达图",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "雷达图"
+    ]
+  },
+  {
+    "id": "695c8d9d3cefa576c902ac82",
+    "name": "雷达图-背景色按变量-不同刻度范围",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "雷达图",
+      "背景色按变量",
+      "不同刻度范围"
+    ]
+  },
+  {
+    "id": "676aa8fbaef372f7ca212b44",
+    "name": "雷达图-变量分组-外环颜色不同",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "雷达图",
+      "变量分组",
+      "外环颜色不同"
+    ]
+  },
+  {
+    "id": "676a7463aef372f7ca212a5a",
+    "name": "雷达图-不同圈不颜色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "雷达图",
+      "不同圈不颜色"
+    ]
+  },
+  {
+    "id": "676a805baef372f7ca212a93",
+    "name": "雷达图-颜色按变量-显示数值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "雷达图",
+      "颜色按变量",
+      "显示数值"
+    ]
+  },
+  {
+    "id": "676a8324aef372f7ca212aae",
+    "name": "雷达图-颜色按变量分组-数值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "雷达图",
+      "颜色按变量分组",
+      "数值"
+    ]
+  },
+  {
+    "id": "676a6973aef372f7ca2129d1",
+    "name": "雷达图-展示节点-有背景",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "雷达图",
+      "展示节点",
+      "有背景"
+    ]
+  },
+  {
+    "id": "6742d067958211d5ed19d8ee",
+    "name": "流程图-横向",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "流程图",
+      "横向"
+    ]
+  },
+  {
+    "id": "67761e9fc8c401fc9d9ed8e2",
+    "name": "流程图-竖直",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "流程图",
+      "竖直"
+    ]
+  },
+  {
+    "id": "674ffe93b3a7e1a5d417f14b",
+    "name": "面积图-分组-横轴分类",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "面积图",
+      "分组",
+      "横轴分类"
+    ]
+  },
+  {
+    "id": "6750174ab3a7e1a5d417f527",
+    "name": "面积图-分组-横轴分类-不重叠",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "面积图",
+      "分组",
+      "横轴分类",
+      "不重叠"
+    ]
+  },
+  {
+    "id": "6788dd0f02185aae52e958dc",
+    "name": "面积图-三维",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "面积图",
+      "三维"
+    ]
+  },
+  {
+    "id": "67567dd660eadfff7810d3d1",
+    "name": "瀑布图-单组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "瀑布图",
+      "单组"
+    ]
+  },
+  {
+    "id": "683d5b836226ac259e6c21c2",
+    "name": "瀑布图-多组",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "瀑布图",
+      "多组"
+    ]
+  },
+  {
+    "id": "686c88de85f1a520d77b2686",
+    "name": "气泡图-横纵轴分类-分组-同组同色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "气泡图",
+      "横纵轴分类",
+      "分组",
+      "同组同色"
+    ]
+  },
+  {
+    "id": "6983f2bb5a9b04028486b6bd",
+    "name": "气泡图-横纵轴分类-横轴分组",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "气泡图",
+      "横纵轴分类",
+      "横轴分组"
+    ]
+  },
+  {
+    "id": "68f88cf753c4ddf667aabfe9",
+    "name": "气泡图-横纵轴分类-渐变色-有网格",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "气泡图",
+      "横纵轴分类",
+      "渐变色",
+      "有网格"
+    ]
+  },
+  {
+    "id": "6761297c0dc21c3782f035f8",
+    "name": "气泡图-横纵轴分类-统计柱子",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "气泡图",
+      "横纵轴分类",
+      "统计柱子"
+    ]
+  },
+  {
+    "id": "676121b90dc21c3782f034ff",
+    "name": "气泡图-横纵轴数值-空心圆",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "气泡图",
+      "横纵轴数值",
+      "空心圆"
+    ]
+  },
+  {
+    "id": "66d4202c6d3485916d192ba5",
+    "name": "气泡图-纵轴分类横轴数值-分组-同组同色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "气泡图",
+      "纵轴分类横轴数值",
+      "分组",
+      "同组同色"
+    ]
+  },
+  {
+    "id": "66a0610dc846c0bf2409f8ff",
+    "name": "气泡图-纵轴分类横轴数值-渐变色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "气泡图",
+      "纵轴分类横轴数值",
+      "渐变色"
+    ]
+  },
+  {
+    "id": "66a07147c846c0bf240a376b",
+    "name": "气泡图-纵轴分类横轴数值-自动计算负logP值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "气泡图",
+      "纵轴分类横轴数值",
+      "自动计算负logP值"
+    ]
+  },
+  {
+    "id": "68b14a8ac910cf666b2ec29d",
+    "name": "热图-3D柱子-正负相关性",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "热图",
+      "3D柱子",
+      "正负相关性"
+    ]
+  },
+  {
+    "id": "69afb03d57da66ecd1599503",
+    "name": "热图-多组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "热图",
+      "多组"
+    ]
+  },
+  {
+    "id": "67da7921210978850e12e4ac",
+    "name": "热图-基础",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "热图",
+      "基础"
+    ]
+  },
+  {
+    "id": "668bb701f7fccc764535b687",
+    "name": "热图-有分类条",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "热图",
+      "有分类条"
+    ]
+  },
+  {
+    "id": "66e18ec9bbe664e368cf5cfa",
+    "name": "热图-有分类条-横向",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "热图",
+      "有分类条",
+      "横向"
+    ]
+  },
+  {
+    "id": "67da97ffe0c94627814117b9",
+    "name": "热图-有聚类树-自动匹配",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "热图",
+      "有聚类树",
+      "自动匹配"
+    ]
+  },
+  {
+    "id": "6863288b8e7da8465b482a70",
+    "name": "三角热图-方块大小渐变",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "三角热图",
+      "方块大小渐变"
+    ]
+  },
+  {
+    "id": "6863492eb58cce3d98483cdf",
+    "name": "三角热图-方块大小渐变-自动统一行列顺序-文本靠左",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "三角热图",
+      "方块大小渐变",
+      "自动统一行列顺序",
+      "文本靠左"
+    ]
+  },
+  {
+    "id": "66a4445e39235be1dd448364",
+    "name": "三角热图-显示数值",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "三角热图",
+      "显示数值"
+    ]
+  },
+  {
+    "id": "6789ca72c08c7f4fd9cca729",
+    "name": "三维堆叠图",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "三维堆叠图"
+    ]
+  },
+  {
+    "id": "6789d6dac08c7f4fd9cca78a",
+    "name": "三维堆叠图-立体柱子",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "三维堆叠图",
+      "立体柱子"
+    ]
+  },
+  {
+    "id": "68a8267d19a5da28f549d619",
+    "name": "三维散点图-分组-xyz连续型变量-投影",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "三维散点图",
+      "分组",
+      "xyz连续型变量",
+      "投影"
+    ]
+  },
+  {
+    "id": "6785f7620719133e28747b0b",
+    "name": "三维散点图-透视矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "三维散点图",
+      "透视矩阵"
+    ]
+  },
+  {
+    "id": "678715759cc482bfd0150b69",
+    "name": "三维散点图-xyz连续型变量",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "三维散点图",
+      "xyz连续型变量"
+    ]
+  },
+  {
+    "id": "6788d7bd02185aae52e95832",
+    "name": "三维折线图-xyz连续型变量",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "三维折线图",
+      "xyz连续型变量"
+    ]
+  },
+  {
+    "id": "675bc77c840a91c9c316375d",
+    "name": "散点饼图",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点饼图"
+    ]
+  },
+  {
+    "id": "675bdafa840a91c9c31637e3",
+    "name": "散点饼图-半径变化",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点饼图",
+      "半径变化"
+    ]
+  },
+  {
+    "id": "675be29c840a91c9c3163891",
+    "name": "散点饼图-半径变化-分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点饼图",
+      "半径变化",
+      "分组"
+    ]
+  },
+  {
+    "id": "66d4650e6d3485916d19321b",
+    "name": "散点饼图-不显坐标系",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点饼图",
+      "不显坐标系"
+    ]
+  },
+  {
+    "id": "675baab0840a91c9c31635bb",
+    "name": "散点饼图-分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点饼图",
+      "分组"
+    ]
+  },
+  {
+    "id": "685204b0f95260dac1ec169c",
+    "name": "散点饼图-横纵轴分类",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点饼图",
+      "横纵轴分类"
+    ]
+  },
+  {
+    "id": "6764b527393f82c554556241",
+    "name": "散点饼图-横纵轴数值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点饼图",
+      "横纵轴数值"
+    ]
+  },
+  {
+    "id": "675e14d3c6a411fef4bd41bd",
+    "name": "散点图-横轴分类纵轴数值-多变量-点多形状",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点图",
+      "横轴分类纵轴数值",
+      "多变量",
+      "点多形状"
+    ]
+  },
+  {
+    "id": "675e06d0c6a411fef4bd40ae",
+    "name": "散点图-横轴分类纵轴数值-分组-同组同色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点图",
+      "横轴分类纵轴数值",
+      "分组",
+      "同组同色"
+    ]
+  },
+  {
+    "id": "668555c131239542b60568ba",
+    "name": "散点图-横轴分类纵轴数值-分组-误差线",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点图",
+      "横轴分类纵轴数值",
+      "分组",
+      "误差线"
+    ]
+  },
+  {
+    "id": "6947a9f1948ba872102c519b",
+    "name": "散点图-横纵轴数值-点多形状-四个象限",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点图",
+      "横纵轴数值",
+      "点多形状",
+      "四个象限"
+    ]
+  },
+  {
+    "id": "67d9443b11eeb4461e7205df",
+    "name": "散点图-横纵轴数值-分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点图",
+      "横纵轴数值",
+      "分组"
+    ]
+  },
+  {
+    "id": "68ff50c6bb52e659119579b8",
+    "name": "散点图-横纵轴数值-分组-点多形状",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点图",
+      "横纵轴数值",
+      "分组",
+      "点多形状"
+    ]
+  },
+  {
+    "id": "680982054f3ff56232c340f4",
+    "name": "散点图-横纵轴数值-分组-圈内文本",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点图",
+      "横纵轴数值",
+      "分组",
+      "圈内文本"
+    ]
+  },
+  {
+    "id": "67da4f8bf4b5713b590f4c60",
+    "name": "散点图-横纵轴数值-分组-置信椭圆",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "散点图",
+      "横纵轴数值",
+      "分组",
+      "置信椭圆"
+    ]
+  },
+  {
+    "id": "6841648809881a15ddd7a49b",
+    "name": "桑基图-横向-曲线-不渐变-连线用目标颜色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "横向",
+      "曲线",
+      "不渐变",
+      "连线用目标颜色"
+    ]
+  },
+  {
+    "id": "684170dcec5045ab2df69439",
+    "name": "桑基图-横向-曲线-不渐变-连线用目标颜色-居上层中",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "横向",
+      "曲线",
+      "不渐变",
+      "连线用目标颜色",
+      "居上层中"
+    ]
+  },
+  {
+    "id": "6775f116d3825c4a9886bb67",
+    "name": "桑基图-横向-曲线-不渐变色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "横向",
+      "曲线",
+      "不渐变色"
+    ]
+  },
+  {
+    "id": "67764f79d3825c4a9886c85f",
+    "name": "桑基图-横向-曲线-单颜色-分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "横向",
+      "曲线",
+      "单颜色",
+      "分组"
+    ]
+  },
+  {
+    "id": "673a1b0dd1470cbbfcd8af6c",
+    "name": "桑基图-横向-曲线-渐变色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "横向",
+      "曲线",
+      "渐变色"
+    ]
+  },
+  {
+    "id": "6974a8c4e17d4bb87a4e1b99",
+    "name": "桑基图-横向-曲线-渐变色-多列输入",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "横向",
+      "曲线",
+      "渐变色",
+      "多列输入"
+    ]
+  },
+  {
+    "id": "6775ff29d3825c4a9886bcca",
+    "name": "桑基图-横向-曲线-渐变色-无权重",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "横向",
+      "曲线",
+      "渐变色",
+      "无权重"
+    ]
+  },
+  {
+    "id": "695f44d4b4474423491bb8e9",
+    "name": "桑基图-环形-3层",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "环形",
+      "3层"
+    ]
+  },
+  {
+    "id": "677642a4d3825c4a9886c3f0",
+    "name": "桑基图-竖直-曲线-不渐变",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "竖直",
+      "曲线",
+      "不渐变"
+    ]
+  },
+  {
+    "id": "677646b0d3825c4a9886c495",
+    "name": "桑基图-竖直-曲线-不渐变-无权重",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "竖直",
+      "曲线",
+      "不渐变",
+      "无权重"
+    ]
+  },
+  {
+    "id": "67763e2cd3825c4a9886c18f",
+    "name": "桑基图-竖直-曲线-渐变色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "竖直",
+      "曲线",
+      "渐变色"
+    ]
+  },
+  {
+    "id": "6776447fd3825c4a9886c459",
+    "name": "桑基图-竖直-曲线-渐变色-无权重",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "桑基图",
+      "竖直",
+      "曲线",
+      "渐变色",
+      "无权重"
+    ]
+  },
+  {
+    "id": "67787a92d2113771d90c48fb",
+    "name": "山峦图-不分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "山峦图",
+      "不分组"
+    ]
+  },
+  {
+    "id": "67787f8dd2113771d90c4ce0",
+    "name": "山峦图-分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "山峦图",
+      "分组"
+    ]
+  },
+  {
+    "id": "6771300b30e3c4642f47664c",
+    "name": "网络图-单层圈-大小排序",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "单层圈",
+      "大小排序"
+    ]
+  },
+  {
+    "id": "6771d4b8faed31dfa1482d58",
+    "name": "网络图-单层圈-无权重",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "单层圈",
+      "无权重"
+    ]
+  },
+  {
+    "id": "6771deba160f969842c66394",
+    "name": "网络图-单层圈-无权重-多样本",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "单层圈",
+      "无权重",
+      "多样本"
+    ]
+  },
+  {
+    "id": "692e4e4beb5ce5e1c52c9a1a",
+    "name": "网络图-多层-分组-圆大小变化",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "多层",
+      "分组",
+      "圆大小变化"
+    ]
+  },
+  {
+    "id": "692fab7f8e064404457a216c",
+    "name": "网络图-多层-target菱形",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "多层",
+      "target菱形"
+    ]
+  },
+  {
+    "id": "66c6caf228b0b164d75c0d0f",
+    "name": "网络图-多层圈-圈层不同颜色-大小排序",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "多层圈",
+      "圈层不同颜色",
+      "大小排序"
+    ]
+  },
+  {
+    "id": "689fbf83b496cf3007e9fff8",
+    "name": "网络图-多层圈-圈层分组",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "多层圈",
+      "圈层分组"
+    ]
+  },
+  {
+    "id": "698cfef4eac3c16402b01d87",
+    "name": "网络图-多层圈-圈层分组-相关性-直线连接-等圆-按组顺序排圈层",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "多层圈",
+      "圈层分组",
+      "相关性",
+      "直线连接",
+      "等圆",
+      "按组顺序排圈层"
+    ]
+  },
+  {
+    "id": "6773470fdd64bdf050e9fb02",
+    "name": "网络图-多层圈-同颜色-大小排序",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "多层圈",
+      "同颜色",
+      "大小排序"
+    ]
+  },
+  {
+    "id": "6771f199faed31dfa1486c87",
+    "name": "网络图-多层圈-无权重",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "多层圈",
+      "无权重"
+    ]
+  },
+  {
+    "id": "6930f85d1e27a9d69b650d54",
+    "name": "网络图-多层圈-无权重-力导向布局",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "多层圈",
+      "无权重",
+      "力导向布局"
+    ]
+  },
+  {
+    "id": "68aee650f7347bf614ddc08f",
+    "name": "网络图-多层圈-组间关系-组与样本-箭头",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "多层圈",
+      "组间关系",
+      "组与样本",
+      "箭头"
+    ]
+  },
+  {
+    "id": "68afea0c322673530d26df18",
+    "name": "网络图-多层圈-组均值-值渐变",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "多层圈",
+      "组均值",
+      "值渐变"
+    ]
+  },
+  {
+    "id": "6773ac61dd64bdf050ea409e",
+    "name": "网络图-分群-背景颜色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "分群",
+      "背景颜色"
+    ]
+  },
+  {
+    "id": "68a46b735a1ddc69c5c95f86",
+    "name": "网络图-分群-连线权重-正负颜色-曲线",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "分群",
+      "连线权重",
+      "正负颜色",
+      "曲线"
+    ]
+  },
+  {
+    "id": "677546ff573a2e7111065530",
+    "name": "网络图-分群-权重-直线连接",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "分群",
+      "权重",
+      "直线连接"
+    ]
+  },
+  {
+    "id": "6773b1a3bf4325b53c21a7af",
+    "name": "网络图-分群-群内外不同色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "分群",
+      "群内外不同色"
+    ]
+  },
+  {
+    "id": "67720492160f969842c672dd",
+    "name": "网络图-水平-无权重",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "水平",
+      "无权重"
+    ]
+  },
+  {
+    "id": "67723620faed31dfa1489d98",
+    "name": "网络图-水平-有权重",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "水平",
+      "有权重"
+    ]
+  },
+  {
+    "id": "68648f74869f29770572ab40",
+    "name": "网络图-斜线-两层-分段着色-线分段宽-第一层三角形",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "网络图",
+      "斜线",
+      "两层",
+      "分段着色",
+      "线分段宽",
+      "第一层三角形"
+    ]
+  },
+  {
+    "id": "676bbba25da947398b73b3dd",
+    "name": "箱线图-分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "箱线图",
+      "分组"
+    ]
+  },
+  {
+    "id": "676d368e046bf86f1e25dcc7",
+    "name": "箱线图-分组-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "箱线图",
+      "分组",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "676bc7585da947398b73b504",
+    "name": "箱线图-分组-折线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "箱线图",
+      "分组",
+      "折线"
+    ]
+  },
+  {
+    "id": "662f511a8f59c63d4bb85dc3",
+    "name": "箱线图-无分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "箱线图",
+      "无分组"
+    ]
+  },
+  {
+    "id": "676cdaffcc586c679bc95232",
+    "name": "箱线图-无分组-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "箱线图",
+      "无分组",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "676b53a492814a14afd0027e",
+    "name": "箱线图-无分组-散点",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "箱线图",
+      "无分组",
+      "散点"
+    ]
+  },
+  {
+    "id": "667ee30727e1fe64e6bc6dd6",
+    "name": "箱线图-无分组-散点-显著星号",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "箱线图",
+      "无分组",
+      "散点",
+      "显著星号"
+    ]
+  },
+  {
+    "id": "668159fd4a54efd0d6916850",
+    "name": "箱线图-无分组-散点-显著字母",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "箱线图",
+      "无分组",
+      "散点",
+      "显著字母"
+    ]
+  },
+  {
+    "id": "666aba851a9a6da4e94c1c1d",
+    "name": "箱线图-无分组-散点-p值",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "箱线图",
+      "无分组",
+      "散点",
+      "p值"
+    ]
+  },
+  {
+    "id": "66b9b1dc0ca340783fc398c0",
+    "name": "箱线图组合",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "箱线图组合"
+    ]
+  },
+  {
+    "id": "6777459f53eb9f93596d4c33",
+    "name": "小提琴图-不分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "小提琴图",
+      "不分组"
+    ]
+  },
+  {
+    "id": "67778fcc53eb9f93596d544b",
+    "name": "小提琴图-不分组-箱线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "小提琴图",
+      "不分组",
+      "箱线"
+    ]
+  },
+  {
+    "id": "67774cd953eb9f93596d4d38",
+    "name": "小提琴图-分组",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "小提琴图",
+      "分组"
+    ]
+  },
+  {
+    "id": "6778ede31c2ae301f1e33564",
+    "name": "小提琴图-分组-多行多列",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "小提琴图",
+      "分组",
+      "多行多列"
+    ]
+  },
+  {
+    "id": "69b0ab4ee941e70c9db96082",
+    "name": "小提琴图-分组-纵向-一半-边框",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "小提琴图",
+      "分组",
+      "纵向",
+      "一半",
+      "边框"
+    ]
+  },
+  {
+    "id": "677777de53eb9f93596d5241",
+    "name": "小提琴图-分组-左右对比",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "小提琴图",
+      "分组",
+      "左右对比"
+    ]
+  },
+  {
+    "id": "687aff46e3740d1ecd70014b",
+    "name": "旭日图-2层-自动排序-渐变色",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "旭日图",
+      "2层",
+      "自动排序",
+      "渐变色"
+    ]
+  },
+  {
+    "id": "67621ff589cb0d2350dda0ac",
+    "name": "旭日图-多层",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "旭日图",
+      "多层"
+    ]
+  },
+  {
+    "id": "6850ef1c8375d86d3a0b10c9",
+    "name": "序列图-分组-连线",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "序列图",
+      "分组",
+      "连线"
+    ]
+  },
+  {
+    "id": "667d6c33837ae2465043c6da",
+    "name": "序列图-排序-组分割",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "序列图",
+      "排序",
+      "组分割"
+    ]
+  },
+  {
+    "id": "668882533608d2fc7bddff93",
+    "name": "玉玦图-多变量",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "玉玦图",
+      "多变量"
+    ]
+  },
+  {
+    "id": "6768db92222ceb58bb3714fe",
+    "name": "玉珏图",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "玉珏图"
+    ]
+  },
+  {
+    "id": "67779da433a330fef02df301",
+    "name": "云雨图-不分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "云雨图",
+      "不分组"
+    ]
+  },
+  {
+    "id": "6777a96d53eb9f93596d6be4",
+    "name": "云雨图-不分组-纵向",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "云雨图",
+      "不分组",
+      "纵向"
+    ]
+  },
+  {
+    "id": "69869a6a08a1e6ebd494d3a5",
+    "name": "云雨图-不分组-纵向-三角无填充",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "云雨图",
+      "不分组",
+      "纵向",
+      "三角无填充"
+    ]
+  },
+  {
+    "id": "6986a72608a1e6ebd494db80",
+    "name": "云雨图-不分组-纵向-无填充-单向",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "云雨图",
+      "不分组",
+      "纵向",
+      "无填充",
+      "单向"
+    ]
+  },
+  {
+    "id": "698950259802c3c53e918653",
+    "name": "云雨图-分组-纵向-三角无填充",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "云雨图",
+      "分组",
+      "纵向",
+      "三角无填充"
+    ]
+  },
+  {
+    "id": "668797dd3608d2fc7bdd455f",
+    "name": "折线图-无分组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "无分组"
+    ]
+  },
+  {
+    "id": "6694bb381d0e0391ccd00e87",
+    "name": "折线图-无分组-散点",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "无分组",
+      "散点"
+    ]
+  },
+  {
+    "id": "66b4d4e0a62bc5aad627a42a",
+    "name": "折线图-无分组-散点-面域",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "无分组",
+      "散点",
+      "面域"
+    ]
+  },
+  {
+    "id": "698450da5a9b04028486b7ff",
+    "name": "折线图-无分组-散点-平均值连线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "无分组",
+      "散点",
+      "平均值连线"
+    ]
+  },
+  {
+    "id": "668e71b21e7a0d382f5fa7f0",
+    "name": "折线图-无分组-散点-误差棒",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "无分组",
+      "散点",
+      "误差棒"
+    ]
+  },
+  {
+    "id": "667d101971c06acd9bd3c9b1",
+    "name": "折线图-无分组-散点拟合线-统计柱状图",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "无分组",
+      "散点拟合线",
+      "统计柱状图"
+    ]
+  },
+  {
+    "id": "66b486871ed116b7326bf8d0",
+    "name": "折线图-无分组-散点拟合线-显示R和P值",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "无分组",
+      "散点拟合线",
+      "显示R和P值"
+    ]
+  },
+  {
+    "id": "667cd1817addf6468a7b5d6e",
+    "name": "折线图-无分组-散点拟合线-置信区间",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "无分组",
+      "散点拟合线",
+      "置信区间"
+    ]
+  },
+  {
+    "id": "66bf0f5b4d827e03fea3db68",
+    "name": "折线图-有分组-点多样式",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "有分组",
+      "点多样式"
+    ]
+  },
+  {
+    "id": "66cdcef3bf89ff2f8e8cadbd",
+    "name": "折线图-有分组-拟合线-置信区间",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "有分组",
+      "拟合线",
+      "置信区间"
+    ]
+  },
+  {
+    "id": "66b567c5d978618f7525fd09",
+    "name": "折线图-有分组-散点-空心点",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "有分组",
+      "散点",
+      "空心点"
+    ]
+  },
+  {
+    "id": "69843e705a9b04028486b76d",
+    "name": "折线图-有分组-散点-平滑线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "有分组",
+      "散点",
+      "平滑线"
+    ]
+  },
+  {
+    "id": "66c1d630d62f5aab6341aee1",
+    "name": "折线图-有分组-散点拟合线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "有分组",
+      "散点拟合线"
+    ]
+  },
+  {
+    "id": "68ff30e4bb52e65911957081",
+    "name": "折线图-有分组-散点拟合线-点多形状",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "有分组",
+      "散点拟合线",
+      "点多形状"
+    ]
+  },
+  {
+    "id": "667cdfd87addf6468a7b5f66",
+    "name": "折线图-有分组-散点拟合线-置信区间-信息标注",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "有分组",
+      "散点拟合线",
+      "置信区间",
+      "信息标注"
+    ]
+  },
+  {
+    "id": "66aa0363f00c758ce03e8961",
+    "name": "折线图-有分组-上下层",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "有分组",
+      "上下层"
+    ]
+  },
+  {
+    "id": "6697d5003d4b3662f9fac6ad",
+    "name": "折线图-有分组-线多样式",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "折线图",
+      "有分组",
+      "线多样式"
+    ]
+  },
+  {
+    "id": "6628c371600adfbc6f08c696",
+    "name": "柱状图-单变量",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量"
+    ]
+  },
+  {
+    "id": "670c8eed6ffa135c741c07ec",
+    "name": "柱状图-单变量-渐变色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "渐变色"
+    ]
+  },
+  {
+    "id": "67580aca538842d3d5d8d177",
+    "name": "柱状图-单变量-截断轴",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "截断轴"
+    ]
+  },
+  {
+    "id": "6758f9e4b309cfee57d3c71e",
+    "name": "柱状图-单变量-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "670092cc8d2e516eb281aaab",
+    "name": "柱状图-单变量-散点-散点连线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "散点",
+      "散点连线"
+    ]
+  },
+  {
+    "id": "6757a979538842d3d5d8cb3f",
+    "name": "柱状图-单变量-散点-散点连线",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "散点",
+      "散点连线"
+    ]
+  },
+  {
+    "id": "6685058897141f45bb9fec49",
+    "name": "柱状图-单变量-误差线",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "误差线"
+    ]
+  },
+  {
+    "id": "669aeaee52361d679a09fec9",
+    "name": "柱状图-单变量-误差线-差异字母-渐变色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "误差线",
+      "差异字母",
+      "渐变色"
+    ]
+  },
+  {
+    "id": "6699f06052361d679a078102",
+    "name": "柱状图-单变量-误差线-渐变色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "误差线",
+      "渐变色"
+    ]
+  },
+  {
+    "id": "675985a1646e71bae4dd3f70",
+    "name": "柱状图-单变量-误差线-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "误差线",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "6758ed43b309cfee57d3c6a3",
+    "name": "柱状图-单变量-误差线-显著星号-截断轴",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "误差线",
+      "显著星号",
+      "截断轴"
+    ]
+  },
+  {
+    "id": "66a9b20bf00c758ce03e86cf",
+    "name": "柱状图-单变量-误差线-显著星号-两组",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "误差线",
+      "显著星号",
+      "两组"
+    ]
+  },
+  {
+    "id": "66cc7d811cedc4fc9f289534",
+    "name": "柱状图-单变量-误差线-显著星号-散点-渐变色-两组",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "误差线",
+      "显著星号",
+      "散点",
+      "渐变色",
+      "两组"
+    ]
+  },
+  {
+    "id": "6758e412538842d3d5d8d269",
+    "name": "柱状图-单变量-误差线-显著字母-截断轴",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "误差线",
+      "显著字母",
+      "截断轴"
+    ]
+  },
+  {
+    "id": "675a2355646e71bae4dd40ce",
+    "name": "柱状图-单变量-误差线-显著字母-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "单变量",
+      "误差线",
+      "显著字母",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "670d06923e8970b5ee420de4",
+    "name": "柱状图-多变量",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量"
+    ]
+  },
+  {
+    "id": "67578ab3de641c7a2fe010f0",
+    "name": "柱状图-多变量-计算总和",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "计算总和"
+    ]
+  },
+  {
+    "id": "6758f2c3b309cfee57d3c6f0",
+    "name": "柱状图-多变量-计算总和-截断轴",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "计算总和",
+      "截断轴"
+    ]
+  },
+  {
+    "id": "6758e992b309cfee57d3c687",
+    "name": "柱状图-多变量-截断轴",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "截断轴"
+    ]
+  },
+  {
+    "id": "675a2a21646e71bae4dd418a",
+    "name": "柱状图-多变量-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "6756bb0cde641c7a2fe00f65",
+    "name": "柱状图-多变量-嵌套",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "嵌套"
+    ]
+  },
+  {
+    "id": "6758f0e3b309cfee57d3c6cf",
+    "name": "柱状图-多变量-嵌套-截断轴",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "嵌套",
+      "截断轴"
+    ]
+  },
+  {
+    "id": "6756ab8260eadfff7810d71d",
+    "name": "柱状图-多变量-嵌套-累计柱子",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "嵌套",
+      "累计柱子"
+    ]
+  },
+  {
+    "id": "6756c9cdde641c7a2fe00fbc",
+    "name": "柱状图-多变量-嵌套-误差线",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "嵌套",
+      "误差线"
+    ]
+  },
+  {
+    "id": "6758f1d7b309cfee57d3c6dc",
+    "name": "柱状图-多变量-嵌套-误差线-截断轴",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "嵌套",
+      "误差线",
+      "截断轴"
+    ]
+  },
+  {
+    "id": "67578d21de641c7a2fe010fb",
+    "name": "柱状图-多变量-趋势线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "趋势线"
+    ]
+  },
+  {
+    "id": "66d5376df06c3c0bbd5e88d2",
+    "name": "柱状图-多变量-上下分层-渐变色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "上下分层",
+      "渐变色"
+    ]
+  },
+  {
+    "id": "66cea984bf89ff2f8e8cca3c",
+    "name": "柱状图-多变量-双层名字",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "双层名字"
+    ]
+  },
+  {
+    "id": "669ba02e184d971e874c6301",
+    "name": "柱状图-多变量-误差线",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "误差线"
+    ]
+  },
+  {
+    "id": "6758e7c8b309cfee57d3c676",
+    "name": "柱状图-多变量-误差线-截断轴",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "误差线",
+      "截断轴"
+    ]
+  },
+  {
+    "id": "675a3530646e71bae4dd4254",
+    "name": "柱状图-多变量-误差线-矩阵",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "误差线",
+      "矩阵"
+    ]
+  },
+  {
+    "id": "66695112119b3e6624619973",
+    "name": "柱状图-多变量-误差线-显著星号",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "误差线",
+      "显著星号"
+    ]
+  },
+  {
+    "id": "669ba4dac8a31dbcbc7bde89",
+    "name": "柱状图-多变量-误差线-显著星号",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "误差线",
+      "显著星号"
+    ]
+  },
+  {
+    "id": "66aae86075f3830da7050961",
+    "name": "柱状图-多变量-误差线-显著星号-渐变色",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "误差线",
+      "显著星号",
+      "渐变色"
+    ]
+  },
+  {
+    "id": "6758eb7cb309cfee57d3c697",
+    "name": "柱状图-多变量-误差线-显著星号-截断轴",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "误差线",
+      "显著星号",
+      "截断轴"
+    ]
+  },
+  {
+    "id": "666a9c36698df4eebb5a9f81",
+    "name": "柱状图-多变量-误差线-显著星号-散点",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "误差线",
+      "显著星号",
+      "散点"
+    ]
+  },
+  {
+    "id": "66ce7fc2bf89ff2f8e8cc8c8",
+    "name": "柱状图-多变量-误差线-显著星号-双层名字",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "误差线",
+      "显著星号",
+      "双层名字"
+    ]
+  },
+  {
+    "id": "66cdaf56bf89ff2f8e8c5022",
+    "name": "柱状图-多变量-误差线-有分割线",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "误差线",
+      "有分割线"
+    ]
+  },
+  {
+    "id": "666a67721101de2a56bc2eee",
+    "name": "柱状图-多变量-正负双向",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "柱状图",
+      "多变量",
+      "正负双向"
+    ]
+  },
+  {
+    "id": "68662a4a53f3d6a5dbef7830",
+    "name": "组合热图-网络图-方块大小渐变",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "组合热图",
+      "网络图",
+      "方块大小渐变"
+    ]
+  },
+  {
+    "id": "6871c7c15a17bf5ffc87a104",
+    "name": "组合热图-网络图-方块大小渐变-圆大小不变-不显著虚线",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "组合热图",
+      "网络图",
+      "方块大小渐变",
+      "圆大小不变",
+      "不显著虚线"
+    ]
+  },
+  {
+    "id": "68662c1553f3d6a5dbef79e5",
+    "name": "组合热图-网络图-方块大小渐变-p值转显著星号",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "组合热图",
+      "网络图",
+      "方块大小渐变",
+      "p值转显著星号"
+    ]
+  },
+  {
+    "id": "6937a5045dfd85d7ee54074c",
+    "name": "组合图-环形柱状图-蜂群图-散点渐变",
+    "acc": "newmer",
+    "sub": "y",
+    "caseCount": 0,
+    "categoryTrail": [
+      "组合图",
+      "环形柱状图",
+      "蜂群图",
+      "散点渐变"
+    ]
+  },
+  {
+    "id": "693005ae56824bcc74877b22",
+    "name": "组合图-面积图-箱线图-散点图",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "组合图",
+      "面积图",
+      "箱线图",
+      "散点图"
+    ]
+  },
+  {
+    "id": "69367e2a139236dfba8eecce",
+    "name": "组合图-热图-小提琴图-扇子",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "组合图",
+      "热图",
+      "小提琴图",
+      "扇子"
+    ]
+  },
+  {
+    "id": "69337d4f4af04ea2529b2d03",
+    "name": "组合图-柱状图-表格",
+    "acc": "newmer",
+    "sub": "n",
+    "caseCount": 0,
+    "categoryTrail": [
+      "组合图",
+      "柱状图",
+      "表格"
+    ]
+  }
+]

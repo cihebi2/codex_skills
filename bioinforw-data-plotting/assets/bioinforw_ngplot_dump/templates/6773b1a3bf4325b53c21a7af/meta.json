@@ -1,0 +1,33 @@
+{
+  "id": "6773b1a3bf4325b53c21a7af",
+  "name": "箱线图-分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bbba25da947398b73b3dd",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6773b1a3bf4325b53c21a7af.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "minVCol": "min",
+    "q1VCol": "qdown",
+    "midVCol": "mid",
+    "q3VCol": "quper",
+    "maxVCol": "max"
+  },
+  "categories": [
+    "网络图",
+    "分群",
+    "群内外不同色"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 71
+    }
+  ]
+}

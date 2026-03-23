@@ -4,7 +4,7 @@ This repo contains personal Codex skills.
 
 ## Skills
 
-- `bioinforw-data-plotting/` - Recommend scientific plotting templates from a local Bioinforw/NGplot catalog, regenerate embedding input, rank top-k figure templates, and return reusable Python/R code paths for dataset-driven plotting.
+- `bioinforw-data-plotting/` - Recommend scientific plotting templates from a local Bioinforw/NGplot catalog, regenerate embedding input, rank top-k figure templates, and return reusable Python/R code paths for dataset-driven plotting. The skill also bundles a `345`-template snapshot with preview images, rendered SVGs, example Python/R scripts, example data files, local index page, and enriched catalog files.
 - `dl-paper-code-blog/` - Write Chinese blog posts from a paper+code bundle, enforce cropped figures, upload figures to Lsky, query local journal metrics (JCR/CAS), and provide QA gates + self-review checklist.
 - `lsky-uploader/` - Upload files to a self-hosted Lsky Pro instance and return URLs/Markdown snippets.
 

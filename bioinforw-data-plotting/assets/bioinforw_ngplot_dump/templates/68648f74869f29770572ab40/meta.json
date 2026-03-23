@@ -1,0 +1,35 @@
+{
+  "id": "68648f74869f29770572ab40",
+  "name": "网络图-斜线-两层-分段着色-线分段宽-第一层三角形",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68648f74869f29770572ab40",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68648f74869f29770572ab40.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "group1",
+    "targetCol": "group2",
+    "weightVCol": "Weight",
+    "pVCol": "pvalue",
+    "pSection": "0.001、0.01、0.05",
+    "weightSection": "auto"
+  },
+  "categories": [
+    "网络图",
+    "斜线",
+    "两层",
+    "分段着色",
+    "线分段宽",
+    "第一层三角形"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 128
+    }
+  ]
+}

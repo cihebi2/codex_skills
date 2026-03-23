@@ -1,0 +1,29 @@
+{
+  "id": "68761232d4c91cf8658fc705",
+  "name": "环形柱状图-单变量-颜色渐变",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68761232d4c91cf8658fc705",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68761232d4c91cf8658fc705.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "title": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "颜色渐变"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 15
+    }
+  ]
+}

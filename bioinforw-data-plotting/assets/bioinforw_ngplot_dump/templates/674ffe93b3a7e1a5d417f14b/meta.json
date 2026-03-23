@@ -1,0 +1,29 @@
+{
+  "id": "674ffe93b3a7e1a5d417f14b",
+  "name": "面积图-分组-横轴分类",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=674ffe93b3a7e1a5d417f14b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/674ffe93b3a7e1a5d417f14b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "yVCol": "value",
+    "xCol": "var"
+  },
+  "categories": [
+    "面积图",
+    "分组",
+    "横轴分类"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 159
+    }
+  ]
+}

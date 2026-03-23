@@ -1,0 +1,37 @@
+{
+  "id": "66cdcef3bf89ff2f8e8cadbd",
+  "name": "折线图-有分组-拟合线-置信区间",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66cdcef3bf89ff2f8e8cadbd",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66cdcef3bf89ff2f8e8cadbd.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "groupCol": "group",
+    "linex1VCol": "x1",
+    "liney1VCol": "y1",
+    "linex2VCol": "x2",
+    "liney2VCol": "y2",
+    "areaBaseVCol": "lower",
+    "areaPosVCol": "x",
+    "areaJumpVCol": "upper"
+  },
+  "categories": [
+    "折线图",
+    "有分组",
+    "拟合线",
+    "置信区间"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

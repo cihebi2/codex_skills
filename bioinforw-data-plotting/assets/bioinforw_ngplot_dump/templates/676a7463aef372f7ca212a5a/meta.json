@@ -1,0 +1,26 @@
+{
+  "id": "676a7463aef372f7ca212a5a",
+  "name": "雷达图-不同圈不颜色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a7463aef372f7ca212a5a",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676a7463aef372f7ca212a5a.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name"
+  },
+  "categories": [
+    "雷达图",
+    "不同圈不颜色"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 183
+    }
+  ]
+}

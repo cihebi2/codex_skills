@@ -1,0 +1,7 @@
+group	name	max	quper	mid	qdown	min
+a	name1	60	43	33	13	10
+a	name2	63	52	32	19	16
+b	name1	66	47	22	15	6
+b	name2	62	52	40	19	6
+c	name1	68	51	31	14	4
+c	name2	68	51	31	14	4

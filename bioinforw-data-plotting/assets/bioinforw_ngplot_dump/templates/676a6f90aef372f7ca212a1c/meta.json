@@ -1,0 +1,19 @@
+{
+  "id": "676a6f90aef372f7ca212a1c",
+  "name": "环形雷达图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a6f90aef372f7ca212a1c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676a6f90aef372f7ca212a1c.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name"
+  },
+  "categories": [
+    "环形雷达图"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

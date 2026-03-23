@@ -1,0 +1,23 @@
+{
+  "id": "66bb0080e65b64e3d7de4742",
+  "name": "横向大头针图-无分组-大小圈-兼容负值",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b8d156ad24ba18dcc4d5c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66bb0080e65b64e3d7de4742.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "a",
+    "rVCol": "a"
+  },
+  "categories": [
+    "分类型热图",
+    "颜色标有无",
+    "统计柱状图"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

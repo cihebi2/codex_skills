@@ -1,0 +1,30 @@
+{
+  "id": "69043d5cfadf43df302c5fb6",
+  "name": "环形热图-扇形-相关性",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=69043d5cfadf43df302c5fb6",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/69043d5cfadf43df302c5fb6.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "环形热图",
+    "扇形",
+    "相关性"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 135
+    }
+  ]
+}

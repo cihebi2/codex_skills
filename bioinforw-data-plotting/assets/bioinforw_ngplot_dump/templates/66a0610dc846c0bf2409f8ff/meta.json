@@ -1,0 +1,30 @@
+{
+  "id": "66a0610dc846c0bf2409f8ff",
+  "name": "气泡图-纵轴分类横轴数值-渐变色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a0610dc846c0bf2409f8ff",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66a0610dc846c0bf2409f8ff.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "xVCol": "v1",
+    "rVCol": "v2",
+    "colorVCol": "pvalue"
+  },
+  "categories": [
+    "气泡图",
+    "纵轴分类横轴数值",
+    "渐变色"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

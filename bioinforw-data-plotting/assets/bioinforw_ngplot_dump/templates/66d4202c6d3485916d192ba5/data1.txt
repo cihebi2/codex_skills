@@ -1,0 +1,41 @@
+group	type	num	percent
+a	A tumor cells	18417	0.6899 
+a	B tumor cells	494	0.0185 
+a	Macrophages	3989	0.1494 
+a	Fibroblasts	1879	0.0704 
+a	Oligodendrocytes	144	0.0054 
+a	C tumor cells	118	0.0044 
+a	T cells	1036	0.0388 
+a	D tumor cells	160	0.0060 
+a	plasma cells	434	0.0163 
+a	F tumor cells	26	0.0010 
+b	A tumor cells	10125	0.4641 
+b	B tumor cells	1388	0.0636 
+b	Macrophages	3817	0.1749 
+b	Fibroblasts	47	0.0022 
+b	Oligodendrocytes	4263	0.1954 
+b	C tumor cells	641	0.0294 
+b	T cells	458	0.0210 
+b	D tumor cells	1017	0.0466 
+b	plasma cells	51	0.0023 
+b	F tumor cells	11	0.0005 
+c	A tumor cells	5745	0.2638 
+c	B tumor cells	1693	0.0777 
+c	Macrophages	3468	0.1593 
+c	Fibroblasts	332	0.0152 
+c	Oligodendrocytes	1678	0.0771 
+c	C tumor cells	6407	0.2942 
+c	T cells	861	0.0395 
+c	D tumor cells	1318	0.0605 
+c	plasma cells	258	0.0118 
+c	F tumor cells	15	0.0007 
+d	A tumor cells	731	0.0571 
+d	B tumor cells	1008	0.0788 
+d	Macrophages	102	0.0080 
+d	Fibroblasts	471	0.0368 
+d	Oligodendrocytes	3	0.0002 
+d	C tumor cells	8816	0.6888 
+d	T cells	963	0.0752 
+d	D tumor cells	616	0.0481 
+d	plasma cells	11	0.0009 
+d	F tumor cells	79	0.0062 

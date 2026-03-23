@@ -1,0 +1,30 @@
+{
+  "id": "668bb701f7fccc764535b687",
+  "name": "热图-有分类条",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=668bb701f7fccc764535b687",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/668bb701f7fccc764535b687.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "Sample",
+    "typesCols": "TypeK、TypeP",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "热图",
+    "有分类条"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 23
+    }
+  ]
+}

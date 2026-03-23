@@ -1,0 +1,33 @@
+{
+  "id": "66d12450e4241f11dffdab3d",
+  "name": "堆叠图-多组-不同堆叠颜色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66d12450e4241f11dffdab3d",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66d12450e4241f11dffdab3d.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "sample",
+    "groupCol": "category",
+    "valueCols": "v1、v2、v3、v4、v5、v6",
+    "showTxtCol": "vnames",
+    "legendShowCol": "show"
+  },
+  "categories": [
+    "堆叠图",
+    "多组",
+    "不同堆叠颜色"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

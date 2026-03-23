@@ -1,0 +1,28 @@
+{
+  "id": "69154ebe8a158f1f2e83a7e7",
+  "name": "极坐标堆叠图-单组-计算占比-实心圆",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=69154ebe8a158f1f2e83a7e7",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/69154ebe8a158f1f2e83a7e7.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name"
+  },
+  "categories": [
+    "极坐标堆叠图",
+    "单组",
+    "计算占比",
+    "实心圆"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 143
+    }
+  ]
+}

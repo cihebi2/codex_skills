@@ -1,0 +1,30 @@
+{
+  "id": "66aa0363f00c758ce03e8961",
+  "name": "柱状图-单变量-截断轴",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67580aca538842d3d5d8d177",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66aa0363f00c758ce03e8961.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "Physics",
+    "yRange": "0,100;250,300;1000,1100",
+    "step": "30"
+  },
+  "categories": [
+    "折线图",
+    "有分组",
+    "上下层"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 55
+    }
+  ]
+}

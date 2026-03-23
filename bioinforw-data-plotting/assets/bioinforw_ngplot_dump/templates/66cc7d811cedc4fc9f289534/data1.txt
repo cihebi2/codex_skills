@@ -1,0 +1,3 @@
+name	mean1	sd1
+Chinese	94.42 	3.42 
+Math	20.76 	2.26 

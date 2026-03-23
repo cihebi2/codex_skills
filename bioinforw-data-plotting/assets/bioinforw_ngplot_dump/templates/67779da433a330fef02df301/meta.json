@@ -1,0 +1,38 @@
+{
+  "id": "67779da433a330fef02df301",
+  "name": "云雨图-不分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67779da433a330fef02df301",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67779da433a330fef02df301.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data3type": "txt_tab",
+    "data3": "name\tvalue\na\t1\na\t2\na\t3\na\t4\na\t5\na\t6\na\t7\na\t8\na\t9\na\t10\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\na\t5\na\t5\na\t5\na\t3\na\t4\na\t5\na\t6\na\t7\na\t5\na\t5\na\t5\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\na\t3\na\t4\na\t5\na\t6\na\t7\na\t4\na\t5\na\t5\na\t6\na\t6\na\t7\nb\t1\nb\t2\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t8\nb\t9\nb\t10\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nb\t3\nb\t4\nb\t5\nb\t6\nb\t7\nb\t5\nb\t5\nb\t5\nb\t4\nb\t5\nb\t5\nb\t6\nb\t6\nb\t7\nc\t1\nc\t2\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nc\t3\nc\t4\nc\t5\nc\t6\nc\t7\nc\t5\nc\t5\nc\t5\nc\t4\nc\t5\nc\t5\nc\t6\nc\t6\nc\t7\nd\t1\nd\t2\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7\nd\t3\nd\t4\nd\t5\nd\t6\nd\t7\nd\t5\nd\t5\nd\t5\nd\t4\nd\t5\nd\t5\nd\t6\nd\t6\nd\t7",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "data3typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "minVCol": "min",
+    "q1VCol": "q1",
+    "midVCol": "mid",
+    "q3VCol": "q3",
+    "maxVCol": "max",
+    "densityVCol": "density"
+  },
+  "categories": [
+    "云雨图",
+    "不分组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

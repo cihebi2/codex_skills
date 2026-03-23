@@ -1,0 +1,29 @@
+{
+  "id": "69afb03d57da66ecd1599503",
+  "name": "热图-有聚类树-自动匹配",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67da97ffe0c94627814117b9",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/69afb03d57da66ecd1599503.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "treeCol": "tree"
+  },
+  "categories": [
+    "热图",
+    "多组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 21
+    }
+  ]
+}

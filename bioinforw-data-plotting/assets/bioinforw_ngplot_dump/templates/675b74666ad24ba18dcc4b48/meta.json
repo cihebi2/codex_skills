@@ -1,0 +1,27 @@
+{
+  "id": "675b74666ad24ba18dcc4b48",
+  "name": "大头针图-多变量",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b74666ad24ba18dcc4b48",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675b74666ad24ba18dcc4b48.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "、"
+  },
+  "categories": [
+    "大头针图",
+    "多变量"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

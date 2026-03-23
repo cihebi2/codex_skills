@@ -1,0 +1,29 @@
+{
+  "id": "67da7921210978850e12e4ac",
+  "name": "热图-基础",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67da7921210978850e12e4ac",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67da7921210978850e12e4ac.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "Sample",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "热图",
+    "基础"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 21
+    }
+  ]
+}

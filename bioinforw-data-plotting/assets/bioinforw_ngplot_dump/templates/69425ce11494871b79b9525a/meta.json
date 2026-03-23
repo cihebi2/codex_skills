@@ -1,0 +1,26 @@
+{
+  "id": "69425ce11494871b79b9525a",
+  "name": "极坐标折线图-有分组-散点-误差线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=69425ce11494871b79b9525a",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/69425ce11494871b79b9525a.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCols": "value、value2、value3",
+    "stdVCols": "std、std2、std3",
+    "labCols": "lab、lab2、lab3"
+  },
+  "categories": [
+    "极坐标折线图",
+    "有分组",
+    "散点",
+    "误差线"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "67667c057c30723b1e464400",
+  "name": "环形柱状图-单变量-柱子向内-左扇型",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767983c11016aea1c39fbcb",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67667c057c30723b1e464400.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "半环"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 191
+    }
+  ]
+}

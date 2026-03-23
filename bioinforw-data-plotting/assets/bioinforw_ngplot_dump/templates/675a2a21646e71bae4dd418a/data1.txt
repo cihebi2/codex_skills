@@ -1,0 +1,6 @@
+name	A	B	SD1	SD2
+name1	76	37	7	6
+name2	69	34	4	3
+name3	90	38	3	6
+name4	56	27	4	5
+name5	86	23	6	5

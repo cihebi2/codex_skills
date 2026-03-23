@@ -1,0 +1,28 @@
+{
+  "id": "689fbf83b496cf3007e9fff8",
+  "name": "网络图-多层圈-圈层分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=689fbf83b496cf3007e9fff8",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/689fbf83b496cf3007e9fff8.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "sourceCol": "Source",
+    "targetCol": "Target",
+    "weightVCol": "Weight",
+    "levRs": "120、180"
+  },
+  "categories": [
+    "网络图",
+    "多层圈",
+    "圈层分组"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

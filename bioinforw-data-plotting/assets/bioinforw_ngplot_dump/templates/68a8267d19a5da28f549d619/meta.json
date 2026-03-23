@@ -1,0 +1,30 @@
+{
+  "id": "68a8267d19a5da28f549d619",
+  "name": "散点饼图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675bc77c840a91c9c316375d",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68a8267d19a5da28f549d619.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "yVCol": "y",
+    "valueCols": "、"
+  },
+  "categories": [
+    "三维散点图",
+    "分组",
+    "xyz连续型变量",
+    "投影"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 199
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "67761e9fc8c401fc9d9ed8e2",
+  "name": "流程图-竖直",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67761e9fc8c401fc9d9ed8e2",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67761e9fc8c401fc9d9ed8e2.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target"
+  },
+  "categories": [
+    "流程图",
+    "竖直"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 263
+    }
+  ]
+}

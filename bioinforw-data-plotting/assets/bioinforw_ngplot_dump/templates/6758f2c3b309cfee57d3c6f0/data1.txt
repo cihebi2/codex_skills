@@ -1,0 +1,6 @@
+name	A	B	C	D
+name1	276	37	17	6
+name2	269	34	14	9
+name3	290	38	13	8
+name4	256	27	14	1
+name5	286	23	16	5

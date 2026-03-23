@@ -1,0 +1,28 @@
+{
+  "id": "6771d4b8faed31dfa1482d58",
+  "name": "网络图-单层圈-无权重",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6771d4b8faed31dfa1482d58",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6771d4b8faed31dfa1482d58.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "Source",
+    "targetCol": "Target"
+  },
+  "categories": [
+    "网络图",
+    "单层圈",
+    "无权重"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

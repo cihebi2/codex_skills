@@ -159,9 +159,13 @@ def discover_root_dir(provided: str | None) -> Path:
             return candidate
         raise SystemExit(f"catalog_enriched.jsonl not found under: {candidate}")
 
+    script_dir = Path(__file__).resolve().parent
+    bundled_dir = script_dir.parent / "assets" / "bioinforw_ngplot_dump"
+
     direct_candidates = [
         Path.cwd() / "bioinforw_ngplot_dump",
         Path.cwd(),
+        bundled_dir,
     ]
     for candidate in direct_candidates:
         if (candidate / "catalog_enriched.jsonl").exists():

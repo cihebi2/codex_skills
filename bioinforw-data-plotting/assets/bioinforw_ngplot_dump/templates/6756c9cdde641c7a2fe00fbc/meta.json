@@ -1,0 +1,30 @@
+{
+  "id": "6756c9cdde641c7a2fe00fbc",
+  "name": "柱状图-多变量-嵌套-误差线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6756c9cdde641c7a2fe00fbc",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6756c9cdde641c7a2fe00fbc.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "B、A",
+    "sdCols": "SD1、SD2"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "嵌套",
+    "误差线"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

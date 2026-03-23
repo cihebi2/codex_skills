@@ -1,0 +1,30 @@
+{
+  "id": "6758e992b309cfee57d3c687",
+  "name": "柱状图-多变量-截断轴",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758e992b309cfee57d3c687",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6758e992b309cfee57d3c687.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "village",
+    "valueCols": "Chinese、Math、Physics、Chemistry",
+    "step": "10",
+    "yRange": "0,23;77,100"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "截断轴"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 55
+    }
+  ]
+}

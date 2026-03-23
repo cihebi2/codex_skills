@@ -1,0 +1,5 @@
+id	group	idName
+a	group1	name1
+b	group1	name2
+c	group2	name1
+d	group2	name2

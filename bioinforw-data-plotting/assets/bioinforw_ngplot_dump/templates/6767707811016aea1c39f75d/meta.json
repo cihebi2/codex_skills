@@ -1,0 +1,30 @@
+{
+  "id": "6767707811016aea1c39f75d",
+  "name": "环形柱状图-多变量-两组左右对比-扇型",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767707811016aea1c39f75d",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6767707811016aea1c39f75d.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "两组左右对比",
+    "扇型"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

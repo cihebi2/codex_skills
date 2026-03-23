@@ -1,0 +1,32 @@
+{
+  "id": "67787f8dd2113771d90c4ce0",
+  "name": "山峦图-分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67787f8dd2113771d90c4ce0",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67787f8dd2113771d90c4ce0.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "id",
+    "groupCol": "group",
+    "valueCol": "value",
+    "densityVCol": "density",
+    "idNameCol": "idName"
+  },
+  "categories": [
+    "山峦图",
+    "分组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+a  b  c  a_sd  b_sd   c_sd   name
+20  60  40  1  5  5  name1
+30  70  50  1  5  5  name2
+70  60  20  1  5  5  name3

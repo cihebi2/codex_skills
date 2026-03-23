@@ -1,0 +1,29 @@
+{
+  "id": "68727c676756cd7a76293a9b",
+  "name": "环形柱状图-单变量-名称径向",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68727c676756cd7a76293a9b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68727c676756cd7a76293a9b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "title": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "名称径向"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

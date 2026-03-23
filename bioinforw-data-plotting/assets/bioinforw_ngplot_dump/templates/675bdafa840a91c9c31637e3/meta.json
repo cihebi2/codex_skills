@@ -1,0 +1,29 @@
+{
+  "id": "675bdafa840a91c9c31637e3",
+  "name": "散点饼图-半径变化",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675bdafa840a91c9c31637e3",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675bdafa840a91c9c31637e3.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "yVCol": "y",
+    "rVCol": "v",
+    "valueCols": "、"
+  },
+  "categories": [
+    "散点饼图",
+    "半径变化"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 199
+    }
+  ]
+}

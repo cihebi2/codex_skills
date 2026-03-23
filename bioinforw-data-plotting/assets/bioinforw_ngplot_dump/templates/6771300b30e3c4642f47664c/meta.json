@@ -1,0 +1,29 @@
+{
+  "id": "6771300b30e3c4642f47664c",
+  "name": "网络图-单层圈-大小排序",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6771300b30e3c4642f47664c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6771300b30e3c4642f47664c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target",
+    "weightVCol": "Weight"
+  },
+  "categories": [
+    "网络图",
+    "单层圈",
+    "大小排序"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "67555da630ab699948765015",
+  "name": "横向箱线图-分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bc46a5da947398b73b4bf",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67555da630ab699948765015.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "minVCol": "min",
+    "q1VCol": "qdown",
+    "midVCol": "mid",
+    "q3VCol": "quper",
+    "maxVCol": "max"
+  },
+  "categories": [
+    "横向堆叠图",
+    "单组",
+    "计算占比",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

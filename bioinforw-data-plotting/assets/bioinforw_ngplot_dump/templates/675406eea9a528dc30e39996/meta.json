@@ -1,0 +1,31 @@
+{
+  "id": "675406eea9a528dc30e39996",
+  "name": "堆叠图-单组-连线-计算占比-矩阵",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675406eea9a528dc30e39996",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675406eea9a528dc30e39996.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "Sample",
+    "groupCol": "type",
+    "valueCols": "var1、var2、var3"
+  },
+  "categories": [
+    "堆叠图",
+    "单组",
+    "连线",
+    "计算占比",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

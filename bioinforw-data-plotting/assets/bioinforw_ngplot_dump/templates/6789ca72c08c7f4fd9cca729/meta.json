@@ -1,0 +1,28 @@
+{
+  "id": "6789ca72c08c7f4fd9cca729",
+  "name": "三维堆叠图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6789ca72c08c7f4fd9cca729",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6789ca72c08c7f4fd9cca729.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "xVCol": "a",
+    "yVCol": "b",
+    "zVCols": "c1、c2、c3",
+    "zTitle": "c"
+  },
+  "categories": [
+    "三维堆叠图"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

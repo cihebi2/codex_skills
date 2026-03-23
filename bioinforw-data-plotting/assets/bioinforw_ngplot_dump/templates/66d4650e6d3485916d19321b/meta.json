@@ -1,0 +1,32 @@
+{
+  "id": "66d4650e6d3485916d19321b",
+  "name": "散点饼图-不显坐标系",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66d4650e6d3485916d19321b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66d4650e6d3485916d19321b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "groupCol": "group",
+    "xVCol": "x",
+    "yVCol": "y",
+    "valueCol": "num",
+    "typeCol": "type"
+  },
+  "categories": [
+    "散点饼图",
+    "不显坐标系"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 111
+    }
+  ]
+}

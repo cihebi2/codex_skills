@@ -1,0 +1,27 @@
+{
+  "id": "66736add4b978b43a67a42c4",
+  "name": "饼图-甜甜圈",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66736add4b978b43a67a42c4",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66736add4b978b43a67a42c4.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "饼图",
+    "甜甜圈"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 71
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "66b567c5d978618f7525fd09",
+  "name": "折线图-有分组-散点-空心点",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b567c5d978618f7525fd09",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66b567c5d978618f7525fd09.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "group",
+    "xVCol": "Number",
+    "yVCol": "value",
+    "xtitle": "Time",
+    "ytitle": "Value"
+  },
+  "categories": [
+    "折线图",
+    "有分组",
+    "散点",
+    "空心点"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 23
+    }
+  ]
+}

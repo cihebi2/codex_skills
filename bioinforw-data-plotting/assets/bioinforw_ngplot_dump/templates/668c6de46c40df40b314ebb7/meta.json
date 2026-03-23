@@ -1,0 +1,21 @@
+{
+  "id": "668c6de46c40df40b314ebb7",
+  "name": "蜂群图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=667e4231db91fef406caa33d",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/668c6de46c40df40b314ebb7.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "分类型热图",
+    "两组颜色标有无"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

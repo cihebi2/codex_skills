@@ -1,0 +1,11 @@
+value	name
+69	Chinese
+80	Chinese
+71	Chinese
+99	Chinese
+93	Chinese
+49	Math
+10	Math
+5	Math
+30	Math
+23	Math

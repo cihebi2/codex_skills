@@ -1,0 +1,29 @@
+{
+  "id": "6752ade5406250678487ffd4",
+  "name": "横向堆叠图-多组-左右双向",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6752ade5406250678487ffd4",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6752ade5406250678487ffd4.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCols": "、"
+  },
+  "categories": [
+    "横向堆叠图",
+    "多组",
+    "左右双向"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

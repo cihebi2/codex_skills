@@ -1,0 +1,27 @@
+{
+  "id": "676e026beb9bcc77a044ff0d",
+  "name": "横向箱线图-无分组-散点",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676bb440426ffedf7ec8e6df",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676e026beb9bcc77a044ff0d.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "dotCol": "dots",
+    "minVCol": "min",
+    "q1VCol": "qdown",
+    "midVCol": "mid",
+    "q3VCol": "quper",
+    "maxVCol": "max"
+  },
+  "categories": [
+    "横向箱线图",
+    "分组",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

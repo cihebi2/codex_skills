@@ -1,0 +1,24 @@
+{
+  "id": "67763e2cd3825c4a9886c18f",
+  "name": "网络图-单层圈-大小排序",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6771300b30e3c4642f47664c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67763e2cd3825c4a9886c18f.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target",
+    "weightVCol": "Weight"
+  },
+  "categories": [
+    "桑基图",
+    "竖直",
+    "曲线",
+    "渐变色"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

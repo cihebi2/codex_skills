@@ -1,0 +1,5 @@
+group	name	max	q3	mid	q1	min
+group1	a	7	6	5	4	3
+group1	b	7	6	5	4	3
+group2	a	7	6	5	4	3
+group2	b	7	6	5	4	3

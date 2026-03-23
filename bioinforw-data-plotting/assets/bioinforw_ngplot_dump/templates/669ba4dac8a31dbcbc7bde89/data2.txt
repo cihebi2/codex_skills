@@ -1,0 +1,3 @@
+VarName n1      n2      pValue
+group1      A   B  0.02
+group2       A   B  0.03

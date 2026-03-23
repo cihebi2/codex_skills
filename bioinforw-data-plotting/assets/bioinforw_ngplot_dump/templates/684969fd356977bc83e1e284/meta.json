@@ -1,0 +1,31 @@
+{
+  "id": "684969fd356977bc83e1e284",
+  "name": "环形热图-有分组-有p值-p值排序",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=684969fd356977bc83e1e284",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/684969fd356977bc83e1e284.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "Gene",
+    "groupCol": "geneGroup",
+    "pValCol": "pval",
+    "legendTitle": "fraction"
+  },
+  "categories": [
+    "环形热图",
+    "有分组",
+    "有p值",
+    "p值排序"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 135
+    }
+  ]
+}

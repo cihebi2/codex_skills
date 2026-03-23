@@ -1,0 +1,28 @@
+{
+  "id": "6752b15d406250678487fffb",
+  "name": "横向堆叠图-单组-反向",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6752b15d406250678487fffb",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6752b15d406250678487fffb.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "、"
+  },
+  "categories": [
+    "横向堆叠图",
+    "单组",
+    "反向"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

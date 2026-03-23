@@ -1,0 +1,31 @@
+{
+  "id": "676790fd11016aea1c39fa0e",
+  "name": "环形柱状图-多变量-柱子向内-同名同色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676790fd11016aea1c39fa0e",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676790fd11016aea1c39fa0e.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value",
+    "title": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "柱子向内",
+    "同名同色"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 199
+    }
+  ]
+}

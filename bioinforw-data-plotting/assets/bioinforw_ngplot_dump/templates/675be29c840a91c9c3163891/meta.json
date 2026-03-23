@@ -1,0 +1,31 @@
+{
+  "id": "675be29c840a91c9c3163891",
+  "name": "散点饼图-半径变化-分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675be29c840a91c9c3163891",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675be29c840a91c9c3163891.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "age",
+    "rVCol": "r",
+    "yVCol": "y",
+    "valueCols": "、"
+  },
+  "categories": [
+    "散点饼图",
+    "半径变化",
+    "分组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 199
+    }
+  ]
+}

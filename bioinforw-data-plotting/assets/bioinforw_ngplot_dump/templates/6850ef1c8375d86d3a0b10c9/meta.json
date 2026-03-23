@@ -1,0 +1,29 @@
+{
+  "id": "6850ef1c8375d86d3a0b10c9",
+  "name": "序列图-分组-连线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6850ef1c8375d86d3a0b10c9",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6850ef1c8375d86d3a0b10c9.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "groupCol": "group",
+    "yVCol": "id",
+    "varCols": "、"
+  },
+  "categories": [
+    "序列图",
+    "分组",
+    "连线"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 95
+    }
+  ]
+}

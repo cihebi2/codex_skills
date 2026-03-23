@@ -1,0 +1,29 @@
+{
+  "id": "675b9995840a91c9c316347d",
+  "name": "饼图-图例",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=669fbedf2d679386c4e3b19a",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675b9995840a91c9c316347d.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "大头针图",
+    "多变量",
+    "兼容负值",
+    "重叠"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 47
+    }
+  ]
+}

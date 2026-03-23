@@ -1,0 +1,31 @@
+{
+  "id": "687791fb0c1d5c45d8787124",
+  "name": "极坐标堆叠图-多组-多种刻度",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=687791fb0c1d5c45d8787124",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/687791fb0c1d5c45d8787124.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "minVs": "auto",
+    "maxVs": "auto",
+    "steps": "auto"
+  },
+  "categories": [
+    "极坐标堆叠图",
+    "多组",
+    "多种刻度"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 152
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6841648809881a15ddd7a49b",
+  "name": "桑基图-横向-曲线-不渐变-连线用目标颜色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6841648809881a15ddd7a49b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6841648809881a15ddd7a49b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target",
+    "valueCol": "value"
+  },
+  "categories": [
+    "桑基图",
+    "横向",
+    "曲线",
+    "不渐变",
+    "连线用目标颜色"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 71
+    }
+  ]
+}

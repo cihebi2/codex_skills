@@ -1,0 +1,9 @@
+name	x	y
+name1	1	6
+name2	6	9
+name5	4	5
+name6	6	6
+name7	8	8
+name8	2	6
+name10	7	5
+name11	3	7

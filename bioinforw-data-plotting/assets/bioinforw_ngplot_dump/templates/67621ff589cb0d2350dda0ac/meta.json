@@ -1,0 +1,27 @@
+{
+  "id": "67621ff589cb0d2350dda0ac",
+  "name": "旭日图-多层",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67621ff589cb0d2350dda0ac",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67621ff589cb0d2350dda0ac.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "valueCol": "value",
+    "levelCols": "level1、level2、name"
+  },
+  "categories": [
+    "旭日图",
+    "多层"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 95
+    }
+  ]
+}

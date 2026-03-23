@@ -1,0 +1,540 @@
+{
+  "request": {
+    "goal": "我有多个处理组的连续数值，想比较分布差异，最好带显著性标注和散点，风格简洁适合论文",
+    "data_schema": {
+      "n_tables": 1,
+      "variables": [
+        {
+          "name": "treatment",
+          "type": "categorical",
+          "role": "group"
+        },
+        {
+          "name": "feature",
+          "type": "categorical",
+          "role": "category"
+        },
+        {
+          "name": "value",
+          "type": "numeric",
+          "role": "measurement"
+        }
+      ],
+      "has_grouping": true,
+      "has_replicates": true
+    },
+    "preferences": {
+      "style": [
+        "简洁",
+        "论文风"
+      ],
+      "need_stats": true
+    },
+    "must_have_features": [
+      "散点",
+      "显著"
+    ],
+    "avoid_families": [
+      "饼图"
+    ],
+    "_raw_query_text": "{\n  \"goal\": \"我有多个处理组的连续数值，想比较分布差异，最好带显著性标注和散点，风格简洁适合论文\",\n  \"data_schema\": {\n    \"n_tables\": 1,\n    \"variables\": [\n      {\n        \"name\": \"treatment\",\n        \"type\": \"categorical\",\n        \"role\": \"group\"\n      },\n      {\n        \"name\": \"feature\",\n        \"type\": \"categorical\",\n        \"role\": \"category\"\n      },\n      {\n        \"name\": \"value\",\n        \"type\": \"numeric\",\n        \"role\": \"measurement\"\n      }\n    ],\n    \"has_grouping\": true,\n    \"has_replicates\": true\n  },\n  \"preferences\": {\n    \"style\": [\n      \"简洁\",\n      \"论文风\"\n    ],\n    \"need_stats\": true\n  },\n  \"must_have_features\": [\n    \"散点\",\n    \"显著\"\n  ],\n  \"avoid_families\": [\n    \"饼图\"\n  ]\n}"
+  },
+  "top_k": 5,
+  "results": [
+    {
+      "id": "676e1c902c7aca6fc03d061c",
+      "name": "极坐标折线图-有分组-散点",
+      "chart_family": "箱线图",
+      "source_chart_family": "极坐标箱线图",
+      "score": 106.5,
+      "reasons": [
+        "分析目标匹配：分布比较",
+        "字段语义匹配：分组变量",
+        "字段语义匹配：主数值",
+        "数据表数量匹配：1",
+        "支持分组比较",
+        "适合统计标注或误差展示"
+      ],
+      "selection_summary": "该模板属于极坐标箱线图，主要用于分布比较、离散度展示、组间分布差异。通常需要 1 张数据表，关键字段包括 group、name、value。视觉上强调 矩阵排版、散点叠加、半环布局、极坐标，适合作为 AI 推荐时的候选模板。",
+      "paths": {
+        "python_path": "templates/676e1c902c7aca6fc03d061c/python_example.py",
+        "r_path": "templates/676e1c902c7aca6fc03d061c/R_example.R",
+        "svg_path": "templates/676e1c902c7aca6fc03d061c/rendered.svg",
+        "preview_path": "templates/676e1c902c7aca6fc03d061c/preview.png",
+        "meta_path": "templates/676e1c902c7aca6fc03d061c/meta.json",
+        "data_paths": [
+          "templates/676e1c902c7aca6fc03d061c/data1.txt"
+        ]
+      },
+      "analysis_goal": [
+        "分布比较",
+        "离散度展示",
+        "组间分布差异",
+        "模式发现"
+      ],
+      "visual_features": [
+        "矩阵排版",
+        "散点叠加",
+        "半环布局",
+        "极坐标"
+      ],
+      "required_columns": [
+        {
+          "arg_key": "groupCol",
+          "column_name": "group",
+          "semantic": "分组变量",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "nameCol",
+          "column_name": "name",
+          "semantic": "类别名称",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "valueCol",
+          "column_name": "value",
+          "semantic": "主数值",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        }
+      ],
+      "complexity": "high"
+    },
+    {
+      "id": "666a9c36698df4eebb5a9f81",
+      "name": "组合图-面积图-箱线图-散点图",
+      "chart_family": "柱状图",
+      "source_chart_family": "柱状图",
+      "score": 92.5,
+      "reasons": [
+        "分析目标匹配：显著性展示",
+        "字段语义匹配：分组变量",
+        "字段语义匹配：主数值",
+        "支持分组比较",
+        "适合统计标注或误差展示",
+        "满足指定特征：散点"
+      ],
+      "selection_summary": "该模板属于柱状图，主要用于组间比较、数值高低比较、排名展示。通常需要 3 张数据表，关键字段包括 Group、density、name、value、var、Max。视觉上强调 误差线、显著性星号、散点叠加，适合作为 AI 推荐时的候选模板。",
+      "paths": {
+        "python_path": "templates/666a9c36698df4eebb5a9f81/python_example.py",
+        "r_path": "templates/666a9c36698df4eebb5a9f81/R_example.R",
+        "svg_path": "templates/666a9c36698df4eebb5a9f81/rendered.svg",
+        "preview_path": "templates/666a9c36698df4eebb5a9f81/preview.png",
+        "meta_path": "templates/666a9c36698df4eebb5a9f81/meta.json",
+        "data_paths": [
+          "templates/666a9c36698df4eebb5a9f81/data1.txt",
+          "templates/666a9c36698df4eebb5a9f81/data2.txt",
+          "templates/666a9c36698df4eebb5a9f81/data3.txt"
+        ]
+      },
+      "analysis_goal": [
+        "组间比较",
+        "数值高低比较",
+        "排名展示",
+        "显著性展示"
+      ],
+      "visual_features": [
+        "误差线",
+        "显著性星号",
+        "散点叠加"
+      ],
+      "required_columns": [
+        {
+          "arg_key": "data1NameCol",
+          "column_name": "Group",
+          "semantic": "名称/类别变量",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "densityCol",
+          "column_name": "density",
+          "semantic": "数值字段",
+          "data_type": "numeric",
+          "source_table": "data2.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "nameCol",
+          "column_name": "name",
+          "semantic": "类别名称",
+          "data_type": "categorical",
+          "source_table": "data2.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "valueCol",
+          "column_name": "value",
+          "semantic": "主数值",
+          "data_type": "numeric",
+          "source_table": "data2.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "groupCol",
+          "column_name": "var",
+          "semantic": "分组变量",
+          "data_type": "categorical",
+          "source_table": "data2.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "maxCol",
+          "column_name": "Max",
+          "semantic": "最大值",
+          "data_type": "numeric",
+          "source_table": "data3.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "minCol",
+          "column_name": "Min",
+          "semantic": "最小值",
+          "data_type": "numeric",
+          "source_table": "data3.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "q1Col",
+          "column_name": "Q1",
+          "semantic": "第一四分位数",
+          "data_type": "numeric",
+          "source_table": "data3.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "midCol",
+          "column_name": "Q2",
+          "semantic": "中位数",
+          "data_type": "numeric",
+          "source_table": "data3.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "q3Col",
+          "column_name": "Q3",
+          "semantic": "第三四分位数",
+          "data_type": "numeric",
+          "source_table": "data3.txt",
+          "is_example_header_match": true
+        }
+      ],
+      "complexity": "medium"
+    },
+    {
+      "id": "676ccc81cc586c679bc951fd",
+      "name": "极坐标箱线图-分组-半环-散点",
+      "chart_family": "箱线图",
+      "source_chart_family": "极坐标箱线图",
+      "score": 92.5,
+      "reasons": [
+        "分析目标匹配：分布比较",
+        "字段语义匹配：分组变量",
+        "数据表数量匹配：1",
+        "支持分组比较",
+        "适合统计标注或误差展示",
+        "适合分布差异展示"
+      ],
+      "selection_summary": "该模板属于极坐标箱线图，主要用于分布比较、离散度展示、组间分布差异。通常需要 1 张数据表，关键字段包括 dots、group、max、mid、min、name。视觉上强调 散点叠加、半环布局、极坐标，适合作为 AI 推荐时的候选模板。",
+      "paths": {
+        "python_path": "templates/676ccc81cc586c679bc951fd/python_example.py",
+        "r_path": "templates/676ccc81cc586c679bc951fd/R_example.R",
+        "svg_path": "templates/676ccc81cc586c679bc951fd/rendered.svg",
+        "preview_path": "templates/676ccc81cc586c679bc951fd/preview.png",
+        "meta_path": "templates/676ccc81cc586c679bc951fd/meta.json",
+        "data_paths": [
+          "templates/676ccc81cc586c679bc951fd/data1.txt"
+        ]
+      },
+      "analysis_goal": [
+        "分布比较",
+        "离散度展示",
+        "组间分布差异"
+      ],
+      "visual_features": [
+        "散点叠加",
+        "半环布局",
+        "极坐标"
+      ],
+      "required_columns": [
+        {
+          "arg_key": "dotCol",
+          "column_name": "dots",
+          "semantic": "点位类别",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "groupCol",
+          "column_name": "group",
+          "semantic": "分组变量",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "maxVCol",
+          "column_name": "max",
+          "semantic": "最大值",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "midVCol",
+          "column_name": "mid",
+          "semantic": "中位数",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "minVCol",
+          "column_name": "min",
+          "semantic": "最小值",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "nameCol",
+          "column_name": "name",
+          "semantic": "类别名称",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "q1VCol",
+          "column_name": "qdown",
+          "semantic": "第一四分位数",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "q3VCol",
+          "column_name": "quper",
+          "semantic": "第三四分位数",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        }
+      ],
+      "complexity": "medium"
+    },
+    {
+      "id": "676ccd12cc586c679bc95207",
+      "name": "极坐标箱线图-分组-半环-组内同色-散点",
+      "chart_family": "箱线图",
+      "source_chart_family": "极坐标箱线图",
+      "score": 92.5,
+      "reasons": [
+        "分析目标匹配：分布比较",
+        "字段语义匹配：分组变量",
+        "数据表数量匹配：1",
+        "支持分组比较",
+        "适合统计标注或误差展示",
+        "适合分布差异展示"
+      ],
+      "selection_summary": "该模板属于极坐标箱线图，主要用于分布比较、离散度展示、组间分布差异。通常需要 1 张数据表，关键字段包括 dots、group、max、mid、min、name。视觉上强调 散点叠加、半环布局、极坐标，适合作为 AI 推荐时的候选模板。",
+      "paths": {
+        "python_path": "templates/676ccd12cc586c679bc95207/python_example.py",
+        "r_path": "templates/676ccd12cc586c679bc95207/R_example.R",
+        "svg_path": "templates/676ccd12cc586c679bc95207/rendered.svg",
+        "preview_path": "templates/676ccd12cc586c679bc95207/preview.png",
+        "meta_path": "templates/676ccd12cc586c679bc95207/meta.json",
+        "data_paths": [
+          "templates/676ccd12cc586c679bc95207/data1.txt"
+        ]
+      },
+      "analysis_goal": [
+        "分布比较",
+        "离散度展示",
+        "组间分布差异"
+      ],
+      "visual_features": [
+        "散点叠加",
+        "半环布局",
+        "极坐标"
+      ],
+      "required_columns": [
+        {
+          "arg_key": "dotCol",
+          "column_name": "dots",
+          "semantic": "点位类别",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "groupCol",
+          "column_name": "group",
+          "semantic": "分组变量",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "maxVCol",
+          "column_name": "max",
+          "semantic": "最大值",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "midVCol",
+          "column_name": "mid",
+          "semantic": "中位数",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "minVCol",
+          "column_name": "min",
+          "semantic": "最小值",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "nameCol",
+          "column_name": "name",
+          "semantic": "类别名称",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "q1VCol",
+          "column_name": "qdown",
+          "semantic": "第一四分位数",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "q3VCol",
+          "column_name": "quper",
+          "semantic": "第三四分位数",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        }
+      ],
+      "complexity": "medium"
+    },
+    {
+      "id": "676bd3b35da947398b73b577",
+      "name": "极坐标箱线图-分组-散点",
+      "chart_family": "箱线图",
+      "source_chart_family": "极坐标箱线图",
+      "score": 92.5,
+      "reasons": [
+        "分析目标匹配：分布比较",
+        "字段语义匹配：分组变量",
+        "数据表数量匹配：1",
+        "支持分组比较",
+        "适合统计标注或误差展示",
+        "适合分布差异展示"
+      ],
+      "selection_summary": "该模板属于极坐标箱线图，主要用于分布比较、离散度展示、组间分布差异。通常需要 1 张数据表，关键字段包括 dots、group、max、mid、min、name。视觉上强调 散点叠加、极坐标，适合作为 AI 推荐时的候选模板。",
+      "paths": {
+        "python_path": "templates/676bd3b35da947398b73b577/python_example.py",
+        "r_path": "templates/676bd3b35da947398b73b577/R_example.R",
+        "svg_path": "templates/676bd3b35da947398b73b577/rendered.svg",
+        "preview_path": "templates/676bd3b35da947398b73b577/preview.png",
+        "meta_path": "templates/676bd3b35da947398b73b577/meta.json",
+        "data_paths": [
+          "templates/676bd3b35da947398b73b577/data1.txt"
+        ]
+      },
+      "analysis_goal": [
+        "分布比较",
+        "离散度展示",
+        "组间分布差异"
+      ],
+      "visual_features": [
+        "散点叠加",
+        "极坐标"
+      ],
+      "required_columns": [
+        {
+          "arg_key": "dotCol",
+          "column_name": "dots",
+          "semantic": "点位类别",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "groupCol",
+          "column_name": "group",
+          "semantic": "分组变量",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "maxVCol",
+          "column_name": "max",
+          "semantic": "最大值",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "midVCol",
+          "column_name": "mid",
+          "semantic": "中位数",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "minVCol",
+          "column_name": "min",
+          "semantic": "最小值",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "nameCol",
+          "column_name": "name",
+          "semantic": "类别名称",
+          "data_type": "categorical",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "q1VCol",
+          "column_name": "qdown",
+          "semantic": "第一四分位数",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        },
+        {
+          "arg_key": "q3VCol",
+          "column_name": "quper",
+          "semantic": "第三四分位数",
+          "data_type": "numeric",
+          "source_table": "data1.txt",
+          "is_example_header_match": true
+        }
+      ],
+      "complexity": "medium"
+    }
+  ]
+}

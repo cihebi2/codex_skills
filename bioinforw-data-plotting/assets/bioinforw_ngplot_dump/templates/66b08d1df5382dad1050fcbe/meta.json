@@ -1,0 +1,28 @@
+{
+  "id": "66b08d1df5382dad1050fcbe",
+  "name": "环形柱状图-多变量",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b08d1df5382dad1050fcbe",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66b08d1df5382dad1050fcbe.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCols": "var1、var2"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 151
+    }
+  ]
+}

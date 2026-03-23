@@ -1,0 +1,31 @@
+{
+  "id": "676a8324aef372f7ca212aae",
+  "name": "雷达图-颜色按变量分组-数值",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a8324aef372f7ca212aae",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676a8324aef372f7ca212aae.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "data2VarCol": "varname",
+    "data2GroupCol": "group"
+  },
+  "categories": [
+    "雷达图",
+    "颜色按变量分组",
+    "数值"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 143
+    }
+  ]
+}

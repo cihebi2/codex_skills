@@ -1,0 +1,25 @@
+{
+  "id": "67764f79d3825c4a9886c85f",
+  "name": "桑基图-环形-3层",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=695f44d4b4474423491bb8e9",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67764f79d3825c4a9886c85f.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "source",
+    "valueCol": "value",
+    "targetCol": "target"
+  },
+  "categories": [
+    "桑基图",
+    "横向",
+    "曲线",
+    "单颜色",
+    "分组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

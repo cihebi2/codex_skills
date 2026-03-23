@@ -1,0 +1,37 @@
+{
+  "id": "66a9b20bf00c758ce03e86cf",
+  "name": "柱状图-单变量-误差线-显著星号-两组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a9b20bf00c758ce03e86cf",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66a9b20bf00c758ce03e86cf.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "mean",
+    "sdCols": "sd",
+    "Name1Col": "n1",
+    "Name2Col": "n2",
+    "xinCol": "xin",
+    "ytitle": "YYYYYYYY"
+  },
+  "categories": [
+    "柱状图",
+    "单变量",
+    "误差线",
+    "显著星号",
+    "两组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

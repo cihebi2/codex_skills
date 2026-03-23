@@ -1,0 +1,30 @@
+{
+  "id": "67c6adcc518a3a24468a099d",
+  "name": "环形柱状图-多变量-刻度环-同名同色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67c6adcc518a3a24468a099d",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67c6adcc518a3a24468a099d.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "刻度环",
+    "同名同色"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 199
+    }
+  ]
+}

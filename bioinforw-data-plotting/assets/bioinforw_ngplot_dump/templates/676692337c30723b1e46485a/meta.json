@@ -1,0 +1,26 @@
+{
+  "id": "676692337c30723b1e46485a",
+  "name": "环形柱状图-多变量-两组左右对比",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6767834211016aea1c39f7b7",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676692337c30723b1e46485a.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value",
+    "minVs": "auto",
+    "maxVs": "auto",
+    "steps": "auto"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "两组左右对比"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "6947a9f1948ba872102c519b",
+  "name": "散点图-横纵轴数值-点多形状-四个象限",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6947a9f1948ba872102c519b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6947a9f1948ba872102c519b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "groupCol": "group",
+    "xVCol": "x",
+    "yVCol": "y"
+  },
+  "categories": [
+    "散点图",
+    "横纵轴数值",
+    "点多形状",
+    "四个象限"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

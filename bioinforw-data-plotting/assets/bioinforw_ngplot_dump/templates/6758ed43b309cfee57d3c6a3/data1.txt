@@ -1,0 +1,13 @@
+pic name	var	var_sd	var_lab
+A G1	21.6	1.7	a
+A G2	16.1	1.2	b
+A G3	11	1.2	c
+B G4	9	0.2	d
+B G5	7.7	1.1	d
+B G6	8	0.9	d
+C G1	21.6	1.7	a
+C G2	16.1	1.2	b
+C G3	11	1.2	c
+D G4	9	0.2	d
+D G5	7.7	1.1	d
+D G6	8	0.9	d

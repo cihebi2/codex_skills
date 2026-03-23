@@ -1,0 +1,33 @@
+{
+  "id": "68afea0c322673530d26df18",
+  "name": "网络图-多层圈-组均值-值渐变",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68afea0c322673530d26df18",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68afea0c322673530d26df18.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "groupCol": "village",
+    "nameCol": "name",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto",
+    "valueCol": "value"
+  },
+  "categories": [
+    "网络图",
+    "多层圈",
+    "组均值",
+    "值渐变"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 127
+    }
+  ]
+}

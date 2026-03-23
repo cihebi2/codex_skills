@@ -11,7 +11,7 @@ Prefer the local template catalog before inventing a chart from scratch. Start b
 
 ## Workflow
 
-1. Discover the local catalog. Prefer `bioinforw_ngplot_dump/catalog_enriched.jsonl`. If the path is not obvious, search the workspace for `catalog_enriched.jsonl`.
+1. Discover the local catalog. Prefer `bioinforw_ngplot_dump/catalog_enriched.jsonl`. If the user workspace does not contain one, fall back to the bundled asset catalog under `assets/bioinforw_ngplot_dump/`.
 2. Refresh `embedding_input.jsonl` when it is missing or stale. Use `scripts/build_embedding_input.py`. The script can auto-discover the dump root from the current workspace.
 3. Convert the user request into a structured query when possible. Capture analysis goal, table count, variable roles, grouping, statistical annotation needs, must-have visual features, and families to avoid. Use `references/request-format.md`.
 4. Rank templates with `scripts/recommend_bioinforw_templates.py`. Prefer JSON output for downstream use.
@@ -46,3 +46,4 @@ Pass an explicit path when the catalog is not under the current working director
 - `scripts/build_embedding_input.py`: Regenerate `embedding_input.jsonl` from `catalog_enriched.jsonl`.
 - `scripts/recommend_bioinforw_templates.py`: Score templates against natural-language or structured requests and return reusable code paths.
 - `references/request-format.md`: Structured query fields, examples, and response expectations.
+- `assets/bioinforw_ngplot_dump/`: Bundled `345`-template snapshot with `catalog_enriched.jsonl`, `embedding_input.jsonl`, local index page, preview images, rendered SVGs, example Python/R code, and example input data.

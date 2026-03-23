@@ -1,0 +1,41 @@
+{
+  "id": "667cd1817addf6468a7b5d6e",
+  "name": "折线图-无分组-散点拟合线-置信区间",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=667cd1817addf6468a7b5d6e",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/667cd1817addf6468a7b5d6e.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt",
+    "data3type": "txt",
+    "data3": "x\tupper\tlower\n32.79\t111.1633676\t93.12794191\n43.82\t114.9523584\t100.9746721\n57.63\t120.1583376\t110.3370797\n62.72\t122.3446237\t113.5203149\n74.05\t128.1231075\t119.6940268\n76.78\t129.7227823\t120.9742721\n85.91\t135.5261441\t124.8022912\n86.06\t135.6259831\t124.8606896\n89.86\t138.1898917\t126.3054609\n90.43\t138.5795922\t126.5170625",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "data3typeApp": "txt_tab",
+    "xVCol": "x",
+    "yVCol": "y",
+    "linex1VCol": "x1",
+    "liney1VCol": "y1",
+    "linex2VCol": "x2",
+    "liney2VCol": "y2",
+    "areaBaseVCol": "lower",
+    "areaPosVCol": "x",
+    "areaJumpVCol": "upper"
+  },
+  "categories": [
+    "折线图",
+    "无分组",
+    "散点拟合线",
+    "置信区间"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

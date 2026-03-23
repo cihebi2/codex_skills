@@ -1,0 +1,35 @@
+{
+  "id": "6937a5045dfd85d7ee54074c",
+  "name": "组合图-环形柱状图-蜂群图-散点渐变",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6937a5045dfd85d7ee54074c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6937a5045dfd85d7ee54074c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "name",
+    "valueCol": "value",
+    "minv": "-1",
+    "maxv": "1",
+    "step": "0.5"
+  },
+  "categories": [
+    "组合图",
+    "环形柱状图",
+    "蜂群图",
+    "散点渐变"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 143
+    }
+  ]
+}

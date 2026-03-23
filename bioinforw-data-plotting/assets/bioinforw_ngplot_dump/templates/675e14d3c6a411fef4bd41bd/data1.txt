@@ -1,0 +1,5 @@
+grade	Handball	Bowling	Sailing
+A	2	1	6
+B	1	6	9
+C	2	6	8
+D	9	6	1

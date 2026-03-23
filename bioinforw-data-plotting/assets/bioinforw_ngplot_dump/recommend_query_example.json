@@ -1,0 +1,39 @@
+{
+  "goal": "我有多个处理组的连续数值，想比较分布差异，最好带显著性标注和散点，风格简洁适合论文",
+  "data_schema": {
+    "n_tables": 1,
+    "variables": [
+      {
+        "name": "treatment",
+        "type": "categorical",
+        "role": "group"
+      },
+      {
+        "name": "feature",
+        "type": "categorical",
+        "role": "category"
+      },
+      {
+        "name": "value",
+        "type": "numeric",
+        "role": "measurement"
+      }
+    ],
+    "has_grouping": true,
+    "has_replicates": true
+  },
+  "preferences": {
+    "style": [
+      "简洁",
+      "论文风"
+    ],
+    "need_stats": true
+  },
+  "must_have_features": [
+    "散点",
+    "显著"
+  ],
+  "avoid_families": [
+    "饼图"
+  ]
+}

@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NGplot Template Atlas</title>
+  <style>
+    :root {
+      --paper: #f4efe4;
+      --paper-strong: #ece2d1;
+      --ink: #18212d;
+      --muted: #5f6b77;
+      --accent: #0b6e6e;
+      --accent-2: #c55f38;
+      --line: rgba(24, 33, 45, 0.12);
+      --card: rgba(255, 252, 246, 0.84);
+      --shadow: 0 20px 60px rgba(24, 33, 45, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      background:
+        radial-gradient(circle at top left, rgba(11, 110, 110, 0.1), transparent 30%),
+        radial-gradient(circle at top right, rgba(197, 95, 56, 0.12), transparent 28%),
+        linear-gradient(180deg, #f8f4eb 0%, var(--paper) 44%, #efe6d7 100%);
+      color: var(--ink);
+      font-family: "Segoe UI Variable Text", "Bahnschrift", "Microsoft YaHei", sans-serif;
+      min-height: 100%;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background-image:
+        linear-gradient(rgba(24, 33, 45, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(24, 33, 45, 0.03) 1px, transparent 1px);
+      background-size: 28px 28px;
+      mask-image: radial-gradient(circle at center, black 55%, transparent 100%);
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 320px minmax(0, 1fr);
+      gap: 28px;
+      max-width: 1680px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .rail {
+      position: sticky;
+      top: 18px;
+      align-self: start;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .hero,
+    .panel,
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 26px;
+      background: var(--card);
+      backdrop-filter: blur(14px);
+      box-shadow: var(--shadow);
+    }
+
+    .hero {
+      padding: 28px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      right: -40px;
+      top: -40px;
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(197, 95, 56, 0.22), transparent 70%);
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12px;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+
+    .title {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(32px, 4vw, 56px);
+      line-height: 0.96;
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 14px 0 0;
+      color: var(--muted);
+      line-height: 1.7;
+      max-width: 56ch;
+      font-size: 14px;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+      margin-top: 22px;
+    }
+
+    .stat {
+      padding: 14px 16px;
+      border-radius: 18px;
+      background: rgba(255, 255, 255, 0.54);
+      border: 1px solid rgba(24, 33, 45, 0.08);
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 28px;
+      font-family: Georgia, "Times New Roman", serif;
+    }
+
+    .stat span {
+      font-size: 12px;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .panel {
+      padding: 18px;
+    }
+
+    .panel h2 {
+      margin: 0 0 14px;
+      font-size: 15px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .search {
+      width: 100%;
+      border: 1px solid rgba(24, 33, 45, 0.16);
+      border-radius: 16px;
+      padding: 14px 16px;
+      background: rgba(255, 255, 255, 0.8);
+      color: var(--ink);
+      outline: none;
+      font-size: 14px;
+    }
+
+    .search:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 4px rgba(11, 110, 110, 0.14);
+    }
+
+    .category-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      max-height: calc(100vh - 420px);
+      overflow: auto;
+      padding-right: 4px;
+    }
+
+    .category-btn {
+      border: 1px solid transparent;
+      background: rgba(255, 255, 255, 0.52);
+      color: var(--ink);
+      border-radius: 16px;
+      padding: 12px 14px;
+      text-align: left;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+      font-size: 14px;
+    }
+
+    .category-btn:hover,
+    .category-btn[aria-pressed="true"] {
+      transform: translateX(4px);
+      border-color: rgba(11, 110, 110, 0.28);
+      background: rgba(11, 110, 110, 0.08);
+    }
+
+    .category-btn small {
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .main {
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      min-width: 0;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      padding: 18px 20px;
+    }
+
+    .toolbar-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border-radius: 999px;
+      padding: 8px 12px;
+      background: rgba(24, 33, 45, 0.05);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 18px;
+    }
+
+    .card {
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      min-height: 100%;
+      transition: transform 220ms ease, box-shadow 220ms ease;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 24px 70px rgba(24, 33, 45, 0.16);
+    }
+
+    .preview {
+      position: relative;
+      aspect-ratio: 5 / 4;
+      background:
+        radial-gradient(circle at top left, rgba(11, 110, 110, 0.14), transparent 35%),
+        linear-gradient(145deg, rgba(255, 255, 255, 0.92), rgba(242, 232, 215, 0.88));
+      border-bottom: 1px solid var(--line);
+      overflow: hidden;
+    }
+
+    .preview img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      padding: 20px;
+    }
+
+    .badge {
+      position: absolute;
+      top: 14px;
+      left: 14px;
+      border-radius: 999px;
+      padding: 7px 10px;
+      background: rgba(24, 33, 45, 0.82);
+      color: #fff;
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .body {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      padding: 18px;
+      flex: 1;
+    }
+
+    .body h3 {
+      margin: 0;
+      font-size: 17px;
+      line-height: 1.35;
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .trail {
+      line-height: 1.6;
+      color: var(--muted);
+      font-size: 13px;
+      min-height: 42px;
+    }
+
+    .arglist {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .arg {
+      border-radius: 999px;
+      padding: 6px 10px;
+      background: rgba(197, 95, 56, 0.08);
+      color: #8d472c;
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: auto;
+    }
+
+    .links a {
+      text-decoration: none;
+      color: var(--ink);
+      border: 1px solid rgba(24, 33, 45, 0.14);
+      border-radius: 12px;
+      padding: 8px 10px;
+      font-size: 12px;
+      background: rgba(255, 255, 255, 0.72);
+    }
+
+    .links a.primary {
+      background: var(--accent);
+      color: white;
+      border-color: transparent;
+    }
+
+    .empty {
+      padding: 36px;
+      text-align: center;
+      color: var(--muted);
+      border: 1px dashed rgba(24, 33, 45, 0.2);
+      border-radius: 22px;
+      background: rgba(255, 255, 255, 0.44);
+    }
+
+    @media (max-width: 1120px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .rail {
+        position: static;
+      }
+
+      .category-list {
+        max-height: none;
+      }
+    }
+
+    @media (max-width: 720px) {
+      .layout {
+        padding: 14px;
+      }
+
+      .stats {
+        grid-template-columns: 1fr;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <aside class="rail">
+      <section class="hero">
+        <div class="eyebrow">NGplot Archive / Local Atlas</div>
+        <h1 class="title">科研绘图模板本地索引</h1>
+        <p>把 345 个模板按图型重新编成一份离线图谱。这个页面只依赖当前目录下的本地文件，适合直接浏览预览图、打开 SVG、对照 Python/R 示例脚本与示例数据。</p>
+        <div class="stats">
+          <div class="stat"><strong id="stat-total">0</strong><span>Templates</span></div>
+          <div class="stat"><strong id="stat-category">0</strong><span>Categories</span></div>
+          <div class="stat"><strong id="stat-visible">0</strong><span>Visible</span></div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>检索</h2>
+        <input id="search" class="search" type="search" placeholder="搜索名称、ID、类别或参数名">
+      </section>
+
+      <section class="panel">
+        <h2>图型分类</h2>
+        <div id="category-list" class="category-list"></div>
+      </section>
+    </aside>
+
+    <main class="main">
+      <section class="panel toolbar">
+        <div class="toolbar-meta">
+          <span class="pill" id="current-category">全部图型</span>
+          <span class="pill" id="current-search">未启用关键词</span>
+        </div>
+        <div class="toolbar-meta">
+          <span class="pill">优先展示本地 SVG 与 Python/R 示例</span>
+        </div>
+      </section>
+      <section id="grid" class="grid"></section>
+    </main>
+  </div>
+
+  <script src="./catalog.js"></script>
+  <script>
+    const catalog = window.NGPLOT_CATALOG;
+    const state = {
+      category: '全部',
+      query: '',
+    };
+
+    const searchInput = document.getElementById('search');
+    const categoryList = document.getElementById('category-list');
+    const grid = document.getElementById('grid');
+
+    document.getElementById('stat-total').textContent = catalog.totalTemplates;
+    document.getElementById('stat-category').textContent = catalog.categories.length;
+
+    function normalize(text) {
+      return String(text || '').toLowerCase();
+    }
+
+    function matches(item) {
+      if (state.category !== '全部' && item.category !== state.category) {
+        return false;
+      }
+
+      if (!state.query) {
+        return true;
+      }
+
+      const haystack = [
+        item.id,
+        item.name,
+        item.category,
+        item.categoryTrailText,
+        item.argKeys.join(' '),
+      ].join(' ');
+
+      return normalize(haystack).includes(normalize(state.query));
+    }
+
+    function renderCategories() {
+      const buttons = [
+        { name: '全部', count: catalog.totalTemplates },
+        ...catalog.categories,
+      ];
+
+      categoryList.innerHTML = buttons.map((item) => `
+        <button
+          class="category-btn"
+          data-category="${item.name}"
+          aria-pressed="${state.category === item.name ? 'true' : 'false'}"
+        >
+          <span>${item.name}</span>
+          <small>${item.count}</small>
+        </button>
+      `).join('');
+
+      categoryList.querySelectorAll('.category-btn').forEach((button) => {
+        button.addEventListener('click', () => {
+          state.category = button.dataset.category;
+          renderCategories();
+          renderGrid();
+        });
+      });
+    }
+
+    function renderGrid() {
+      const items = catalog.templates.filter(matches);
+      document.getElementById('stat-visible').textContent = items.length;
+      document.getElementById('current-category').textContent = state.category === '全部' ? '全部图型' : '当前图型：' + state.category;
+      document.getElementById('current-search').textContent = state.query ? '关键词：' + state.query : '未启用关键词';
+
+      if (items.length === 0) {
+        grid.innerHTML = '<div class="empty">没有匹配项。可以换一个图型，或者把关键词缩短一点。</div>';
+        return;
+      }
+
+      grid.innerHTML = items.map((item) => {
+        const argPreview = item.argKeys.slice(0, 6).map((arg) => `<span class="arg">${arg}</span>`).join('');
+        const dataLinks = item.dataFiles.map((file) => `<a href="./${file.url}" target="_blank">${file.name}</a>`).join('');
+        return `
+          <article class="card">
+            <div class="preview">
+              <span class="badge">${item.category}</span>
+              <img src="./${item.previewUrl}" alt="${item.name}">
+            </div>
+            <div class="body">
+              <div class="meta">
+                <span>#${item.id}</span>
+                <span>${item.dataFiles.length} 份数据</span>
+                <span>${item.argCount} 个参数</span>
+              </div>
+              <h3>${item.name}</h3>
+              <div class="trail">${item.categoryTrailText || '未标注层级'}</div>
+              <div class="arglist">${argPreview || '<span class="arg">无显式参数</span>'}</div>
+              <div class="links">
+                <a class="primary" href="./${item.svgUrl}" target="_blank">SVG</a>
+                <a href="./${item.previewUrl}" target="_blank">PNG</a>
+                <a href="./${item.metaUrl}" target="_blank">Meta</a>
+                ${item.pythonUrl ? `<a href="./${item.pythonUrl}" target="_blank">Python</a>` : ''}
+                ${item.rUrl ? `<a href="./${item.rUrl}" target="_blank">R</a>` : ''}
+                ${dataLinks}
+              </div>
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    searchInput.addEventListener('input', (event) => {
+      state.query = event.target.value.trim();
+      renderGrid();
+    });
+
+    renderCategories();
+    renderGrid();
+  </script>
+</body>
+</html>

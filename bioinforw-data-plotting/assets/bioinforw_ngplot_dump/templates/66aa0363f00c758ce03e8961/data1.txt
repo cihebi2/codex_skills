@@ -1,0 +1,7 @@
+name	Physics
+name1	95
+name2	286
+name3	90
+name4	56
+name5	1084
+name6	87

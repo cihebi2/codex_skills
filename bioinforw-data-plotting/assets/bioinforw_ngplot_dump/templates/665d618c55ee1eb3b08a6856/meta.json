@@ -1,0 +1,30 @@
+{
+  "id": "665d618c55ee1eb3b08a6856",
+  "name": "堆叠图-多组-网格线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=665d618c55ee1eb3b08a6856",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/665d618c55ee1eb3b08a6856.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "type",
+    "valueCols": "、",
+    "yTitle": "Percent"
+  },
+  "categories": [
+    "堆叠图",
+    "多组",
+    "网格线"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

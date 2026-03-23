@@ -1,0 +1,31 @@
+{
+  "id": "66a4445e39235be1dd448364",
+  "name": "三角热图-显示数值",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a4445e39235be1dd448364",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66a4445e39235be1dd448364.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "valueCol": "corr",
+    "rowCol": "row",
+    "colCol": "col",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "三角热图",
+    "显示数值"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 23
+    }
+  ]
+}

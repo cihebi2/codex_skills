@@ -1,0 +1,20 @@
+{
+  "id": "6768db92222ceb58bb3714fe",
+  "name": "玉珏图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6768db92222ceb58bb3714fe",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6768db92222ceb58bb3714fe.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "玉珏图"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

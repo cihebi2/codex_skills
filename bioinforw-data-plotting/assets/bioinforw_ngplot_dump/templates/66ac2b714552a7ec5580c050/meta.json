@@ -1,0 +1,35 @@
+{
+  "id": "66ac2b714552a7ec5580c050",
+  "name": "分类型热图-颜色标有无-统计百分比",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66ac2b714552a7ec5580c050",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66ac2b714552a7ec5580c050.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data3type": "txt",
+    "data3": "name\tnum\tpercent\nvar0\t5\t25.0\nvar1\t4\t20.0\nvar2\t4\t20.0\nvar3\t2\t10.0\nvar4\t1\t5.0\nvar5\t3\t15.0\nvar6\t3\t15.0\nvar7\t2\t10.0\nvar8\t3\t15.0\nvar9\t6\t30.0\nvar10\t4\t20.0\nvar11\t4\t20.0\nvar12\t4\t20.0\nvar13\t2\t10.0\nvar14\t2\t10.0\nvar15\t4\t20.0\nvar16\t3\t15.0\nvar17\t5\t25.0\nvar18\t3\t15.0\nvar19\t5\t25.0\nvar20\t6\t30.0\nvar21\t4\t20.0\nvar22\t2\t10.0\nvar23\t7\t35.0\nvar24\t6\t30.0",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "data3typeApp": "txt_tab",
+    "nameCol": "name",
+    "infoCols": "TypeM、TypeK、TypeP",
+    "legend1txt": "突变型、野生型",
+    "percent": "percent"
+  },
+  "categories": [
+    "分类型热图",
+    "颜色标有无",
+    "统计百分比"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

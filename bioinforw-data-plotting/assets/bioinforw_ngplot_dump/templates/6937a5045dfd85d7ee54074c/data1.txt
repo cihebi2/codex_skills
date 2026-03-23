@@ -1,0 +1,8 @@
+name	value
+name1	107
+name2	73
+name3	86
+name4	102
+name5	108
+name6	101
+

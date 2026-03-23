@@ -1,0 +1,43 @@
+{
+  "id": "66cc7d811cedc4fc9f289534",
+  "name": "柱状图-单变量-误差线-显著星号-散点-渐变色-两组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66cc7d811cedc4fc9f289534",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66cc7d811cedc4fc9f289534.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt",
+    "data3type": "txt_tab",
+    "data3": "value\tname\n69\tChinese\n80\tChinese\n71\tChinese\n99\tChinese\n93\tChinese\n49\tMath\n10\tMath\n5\tMath\n30\tMath\n23\tMath",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "data3typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "mean1",
+    "sdCols": "sd1",
+    "Name1Col": "n1",
+    "Name2Col": "n2",
+    "xinCol": "xin",
+    "dotsValCol": "value",
+    "ytitle": "YYYYYY"
+  },
+  "categories": [
+    "柱状图",
+    "单变量",
+    "误差线",
+    "显著星号",
+    "散点",
+    "渐变色",
+    "两组"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

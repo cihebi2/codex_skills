@@ -1,0 +1,23 @@
+{
+  "id": "678715759cc482bfd0150b69",
+  "name": "三维散点图-xyz连续型变量",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=678715759cc482bfd0150b69",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/678715759cc482bfd0150b69.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "sample",
+    "xVCol": "aaaa",
+    "yVCol": "bbbb",
+    "zVCol": "cccc"
+  },
+  "categories": [
+    "三维散点图",
+    "xyz连续型变量"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

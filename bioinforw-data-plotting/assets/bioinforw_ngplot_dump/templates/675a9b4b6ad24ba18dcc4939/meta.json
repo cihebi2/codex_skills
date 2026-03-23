@@ -1,0 +1,33 @@
+{
+  "id": "675a9b4b6ad24ba18dcc4939",
+  "name": "横向柱状图-单变量-负值反向-矩阵",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675a9b4b6ad24ba18dcc4939",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675a9b4b6ad24ba18dcc4939.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "picCol": "group",
+    "nameCol": "name",
+    "valueCols": "var1",
+    "minVs": "auto",
+    "maxVs": "auto",
+    "steps": "auto"
+  },
+  "categories": [
+    "横向柱状图",
+    "单变量",
+    "负值反向",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

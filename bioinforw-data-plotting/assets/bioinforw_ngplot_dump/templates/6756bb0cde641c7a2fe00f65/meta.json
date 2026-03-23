@@ -1,0 +1,28 @@
+{
+  "id": "6756bb0cde641c7a2fe00f65",
+  "name": "柱状图-多变量-嵌套",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6756bb0cde641c7a2fe00f65",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6756bb0cde641c7a2fe00f65.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "A、B、C、D"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "嵌套"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

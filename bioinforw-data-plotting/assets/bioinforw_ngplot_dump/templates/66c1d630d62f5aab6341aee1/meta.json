@@ -1,0 +1,35 @@
+{
+  "id": "66c1d630d62f5aab6341aee1",
+  "name": "折线图-有分组-散点拟合线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66c1d630d62f5aab6341aee1",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66c1d630d62f5aab6341aee1.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "groupCol": "group",
+    "xVCol": "x",
+    "yVCol": "y",
+    "linex1VCol": "x1",
+    "liney1VCol": "y1",
+    "linex2VCol": "x2",
+    "liney2VCol": "y2"
+  },
+  "categories": [
+    "折线图",
+    "有分组",
+    "散点拟合线"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 43
+    }
+  ]
+}

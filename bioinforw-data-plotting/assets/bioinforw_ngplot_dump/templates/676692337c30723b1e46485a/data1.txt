@@ -1,0 +1,26 @@
+name	group	value
+name21	group1	6
+name2	group1	9
+name3	group1	8
+name4	group1	1
+name5	group1	5
+name6	group1	6
+name11	group2	1.7
+name12	group2	5.6
+name13	group2	4.1
+name14	group2	4.5
+name15	group2	5.7
+name6	group2	5.7
+name1	group3	6
+name2	group3	9
+name3	group3	8
+name4	group3	1
+name5	group3	5
+name6	group3	6
+name1	group4	6
+name2	group4	6
+name3	group4	1
+name4	group4	5
+name5	group4	7
+name6	group4	7
+

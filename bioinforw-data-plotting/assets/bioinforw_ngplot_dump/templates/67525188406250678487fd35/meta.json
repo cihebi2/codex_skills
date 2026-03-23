@@ -1,0 +1,30 @@
+{
+  "id": "67525188406250678487fd35",
+  "name": "堆叠图-单组-截断轴",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67525188406250678487fd35",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67525188406250678487fd35.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "、",
+    "step": "100",
+    "yRange": "0,320;800,920;1900,2000"
+  },
+  "categories": [
+    "堆叠图",
+    "单组",
+    "截断轴"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

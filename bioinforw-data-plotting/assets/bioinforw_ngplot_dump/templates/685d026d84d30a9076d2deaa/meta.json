@@ -1,0 +1,23 @@
+{
+  "id": "685d026d84d30a9076d2deaa",
+  "name": "环形柱状图-单变量-LOG处理",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=685d026d84d30a9076d2deaa",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/685d026d84d30a9076d2deaa.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "title": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "LOG处理"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

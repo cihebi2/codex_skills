@@ -1,0 +1,28 @@
+{
+  "id": "6757a979538842d3d5d8cb3f",
+  "name": "柱状图-单变量-误差线-矩阵",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675985a1646e71bae4dd3f70",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6757a979538842d3d5d8cb3f.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "picCol": "age",
+    "nameCol": "name",
+    "valueCol": "Mean",
+    "sdCols": "SD",
+    "minVs": "0、0、0、0",
+    "maxVs": "100、100、100、100",
+    "steps": "20、20、20、20"
+  },
+  "categories": [
+    "柱状图",
+    "单变量",
+    "散点",
+    "散点连线"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

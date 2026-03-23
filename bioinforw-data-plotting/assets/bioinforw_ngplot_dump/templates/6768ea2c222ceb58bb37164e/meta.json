@@ -1,0 +1,27 @@
+{
+  "id": "6768ea2c222ceb58bb37164e",
+  "name": "堆叠玉玦图-单组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6768ea2c222ceb58bb37164e",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6768ea2c222ceb58bb37164e.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "、"
+  },
+  "categories": [
+    "堆叠玉玦图",
+    "单组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

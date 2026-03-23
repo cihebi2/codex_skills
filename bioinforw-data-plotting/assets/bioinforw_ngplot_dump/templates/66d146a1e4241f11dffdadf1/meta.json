@@ -1,0 +1,29 @@
+{
+  "id": "66d146a1e4241f11dffdadf1",
+  "name": "堆叠图-多组-负值向下",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66d146a1e4241f11dffdadf1",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66d146a1e4241f11dffdadf1.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "type",
+    "groupCol": "category",
+    "valueCols": "Minus points、Main course、Side course"
+  },
+  "categories": [
+    "堆叠图",
+    "多组",
+    "负值向下"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 103
+    }
+  ]
+}

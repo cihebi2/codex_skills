@@ -1,0 +1,9 @@
+name	y	Handball	Bowling	Sailing
+name1	76	2	1	6
+name2	69	1	6	9
+name3	90	2	6	8
+name4	56	9	6	1
+name5	86	4	4	5
+name6	55	9	6	6
+name7	57	1	8	8
+name8	56	6	2	6

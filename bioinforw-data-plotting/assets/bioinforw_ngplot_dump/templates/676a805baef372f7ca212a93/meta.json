@@ -1,0 +1,27 @@
+{
+  "id": "676a805baef372f7ca212a93",
+  "name": "雷达图-颜色按变量-显示数值",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a805baef372f7ca212a93",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676a805baef372f7ca212a93.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name"
+  },
+  "categories": [
+    "雷达图",
+    "颜色按变量",
+    "显示数值"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 183
+    }
+  ]
+}

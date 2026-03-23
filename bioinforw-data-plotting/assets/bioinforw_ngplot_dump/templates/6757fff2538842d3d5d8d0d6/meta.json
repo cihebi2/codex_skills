@@ -1,0 +1,30 @@
+{
+  "id": "6757fff2538842d3d5d8d0d6",
+  "name": "横向柱状图-多变量-双向",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6757fff2538842d3d5d8d0d6",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6757fff2538842d3d5d8d0d6.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "leftVCol": "A",
+    "rightVCol": "B"
+  },
+  "categories": [
+    "横向柱状图",
+    "多变量",
+    "双向"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

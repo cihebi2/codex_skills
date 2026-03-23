@@ -1,0 +1,21 @@
+{
+  "id": "695c8d9d3cefa576c902ac82",
+  "name": "雷达图-背景色按变量-不同刻度范围",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=695c8d9d3cefa576c902ac82",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/695c8d9d3cefa576c902ac82.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name"
+  },
+  "categories": [
+    "雷达图",
+    "背景色按变量",
+    "不同刻度范围"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

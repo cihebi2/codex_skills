@@ -1,0 +1,30 @@
+{
+  "id": "6761297c0dc21c3782f035f8",
+  "name": "气泡图-横纵轴分类-统计柱子",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6761297c0dc21c3782f035f8",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6761297c0dc21c3782f035f8.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "yVCol": "y",
+    "valueCol": "value",
+    "colorVCol": "y"
+  },
+  "categories": [
+    "气泡图",
+    "横纵轴分类",
+    "统计柱子"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

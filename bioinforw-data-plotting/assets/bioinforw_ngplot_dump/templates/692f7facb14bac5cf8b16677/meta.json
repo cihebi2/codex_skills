@@ -1,0 +1,29 @@
+{
+  "id": "692f7facb14bac5cf8b16677",
+  "name": "环形柱状图-多变量-网络连线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=692f7facb14bac5cf8b16677",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/692f7facb14bac5cf8b16677.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "groupCol": "group",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "网络连线"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 279
+    }
+  ]
+}

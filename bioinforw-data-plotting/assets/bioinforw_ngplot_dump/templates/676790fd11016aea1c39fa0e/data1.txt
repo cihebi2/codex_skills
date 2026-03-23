@@ -1,0 +1,13 @@
+name	group	value
+name1	g11	6
+name2	g11	9
+name3	g11	8
+name4	g11	6
+name1	g12	5
+name2	g12	6
+name3	g12	8
+name4	g12	6
+name1	13	6
+name2	g13	5
+name3	g13	7
+name4	g13	7

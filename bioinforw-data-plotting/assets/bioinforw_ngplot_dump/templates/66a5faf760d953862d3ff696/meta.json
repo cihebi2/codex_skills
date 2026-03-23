@@ -1,0 +1,27 @@
+{
+  "id": "66a5faf760d953862d3ff696",
+  "name": "堆叠图-单组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a5faf760d953862d3ff696",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66a5faf760d953862d3ff696.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "ytitle": "yyyyyyyyyy(%)"
+  },
+  "categories": [
+    "堆叠图",
+    "单组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 111
+    }
+  ]
+}

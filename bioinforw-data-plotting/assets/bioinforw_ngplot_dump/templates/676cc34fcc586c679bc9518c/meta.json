@@ -1,0 +1,34 @@
+{
+  "id": "676cc34fcc586c679bc9518c",
+  "name": "极坐标箱线图-分组-散点",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676cc34fcc586c679bc9518c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676cc34fcc586c679bc9518c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "dotCol": "dots",
+    "minVCol": "min",
+    "q1VCol": "qdown",
+    "midVCol": "mid",
+    "q3VCol": "quper",
+    "maxVCol": "max"
+  },
+  "categories": [
+    "极坐标箱线图",
+    "分组",
+    "散点"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 175
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+name	group
+a	group1
+b	group1
+c	group2
+d	group2

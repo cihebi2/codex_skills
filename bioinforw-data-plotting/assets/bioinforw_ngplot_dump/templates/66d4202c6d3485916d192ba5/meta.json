@@ -1,0 +1,30 @@
+{
+  "id": "66d4202c6d3485916d192ba5",
+  "name": "气泡图-纵轴分类横轴数值-分组-同组同色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66d4202c6d3485916d192ba5",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66d4202c6d3485916d192ba5.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "type",
+    "xVCol": "percent",
+    "groupCol": "group"
+  },
+  "categories": [
+    "气泡图",
+    "纵轴分类横轴数值",
+    "分组",
+    "同组同色"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 31
+    }
+  ]
+}

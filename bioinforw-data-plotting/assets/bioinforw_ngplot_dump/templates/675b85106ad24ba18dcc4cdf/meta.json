@@ -1,0 +1,29 @@
+{
+  "id": "675b85106ad24ba18dcc4cdf",
+  "name": "横向大头针图-无分组-大小圈",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675b85106ad24ba18dcc4cdf",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675b85106ad24ba18dcc4cdf.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "a",
+    "rVCol": "a"
+  },
+  "categories": [
+    "横向大头针图",
+    "无分组",
+    "大小圈"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

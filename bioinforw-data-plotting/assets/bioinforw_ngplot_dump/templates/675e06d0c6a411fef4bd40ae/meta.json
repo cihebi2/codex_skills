@@ -1,0 +1,29 @@
+{
+  "id": "675e06d0c6a411fef4bd40ae",
+  "name": "散点图-横轴分类纵轴数值-分组-同组同色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=675e06d0c6a411fef4bd40ae",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675e06d0c6a411fef4bd40ae.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "grade",
+    "valueCols": "、"
+  },
+  "categories": [
+    "散点图",
+    "横轴分类纵轴数值",
+    "分组",
+    "同组同色"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 55
+    }
+  ]
+}

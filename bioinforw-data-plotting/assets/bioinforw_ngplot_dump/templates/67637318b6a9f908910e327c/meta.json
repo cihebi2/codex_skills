@@ -1,0 +1,29 @@
+{
+  "id": "67637318b6a9f908910e327c",
+  "name": "饼图-任意起止位置",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67637318b6a9f908910e327c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67637318b6a9f908910e327c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "startAngle": "-1.2",
+    "endAngle": "1.2"
+  },
+  "categories": [
+    "饼图",
+    "任意起止位置"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

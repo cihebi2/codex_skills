@@ -1,0 +1,29 @@
+{
+  "id": "692295715a83abc7b49fcaf4",
+  "name": "环形柱状图-单变量-同组同色",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=692295715a83abc7b49fcaf4",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/692295715a83abc7b49fcaf4.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "var1"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "同组同色"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 151
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "6762931c89cb0d2350dda794",
+  "name": "复合饼图-条形图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6762931c89cb0d2350dda794",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6762931c89cb0d2350dda794.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "colorSCol": "level1",
+    "levelCols": "level1",
+    "stakTtitle": "A"
+  },
+  "categories": [
+    "复合饼图",
+    "条形图"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 391
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "68a46b735a1ddc69c5c95f86",
+  "name": "网络图-分群-连线权重-正负颜色-曲线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68a46b735a1ddc69c5c95f86",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68a46b735a1ddc69c5c95f86.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "sourceCol": "Source",
+    "targetCol": "Target",
+    "weightVCol": "rValue"
+  },
+  "categories": [
+    "网络图",
+    "分群",
+    "连线权重",
+    "正负颜色",
+    "曲线"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 87
+    }
+  ]
+}

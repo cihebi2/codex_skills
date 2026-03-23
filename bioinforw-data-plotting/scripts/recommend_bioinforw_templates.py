@@ -522,9 +522,13 @@ def discover_catalog_path(provided: str | None) -> Path:
             return candidate
         raise SystemExit(f"Catalog file not found: {candidate}")
 
+    script_dir = Path(__file__).resolve().parent
+    bundled_catalog = script_dir.parent / "assets" / "bioinforw_ngplot_dump" / "catalog_enriched.jsonl"
+
     direct_candidates = [
         Path.cwd() / "bioinforw_ngplot_dump" / "catalog_enriched.jsonl",
         Path.cwd() / "catalog_enriched.jsonl",
+        bundled_catalog,
     ]
     for candidate in direct_candidates:
         if candidate.exists():

@@ -1,0 +1,22 @@
+{
+  "id": "685204b0f95260dac1ec169c",
+  "name": "散点饼图-横纵轴分类",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=685204b0f95260dac1ec169c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/685204b0f95260dac1ec169c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "xSCol": "village",
+    "ySCol": "gender",
+    "valueCols": "、"
+  },
+  "categories": [
+    "散点饼图",
+    "横纵轴分类"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

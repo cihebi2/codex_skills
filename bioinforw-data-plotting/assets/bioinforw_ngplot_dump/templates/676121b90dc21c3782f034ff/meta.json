@@ -1,0 +1,30 @@
+{
+  "id": "676121b90dc21c3782f034ff",
+  "name": "气泡图-横纵轴数值-空心圆",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676121b90dc21c3782f034ff",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676121b90dc21c3782f034ff.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "xVCol": "a",
+    "yVCol": "b",
+    "rVCol": "c",
+    "colorVCol": "c"
+  },
+  "categories": [
+    "气泡图",
+    "横纵轴数值",
+    "空心圆"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 87
+    }
+  ]
+}

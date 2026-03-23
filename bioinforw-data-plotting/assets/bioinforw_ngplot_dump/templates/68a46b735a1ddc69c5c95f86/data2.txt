@@ -1,0 +1,13 @@
+name	group
+Name1	a
+Name2	a
+Name3	a
+Name4	b
+Name5	b
+Name6	b
+Name7	b
+Name8	c
+Name9	c
+Name10	c
+Name11	c
+Name12	c

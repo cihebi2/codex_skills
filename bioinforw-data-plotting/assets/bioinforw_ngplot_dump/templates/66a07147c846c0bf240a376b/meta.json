@@ -1,0 +1,30 @@
+{
+  "id": "66a07147c846c0bf240a376b",
+  "name": "气泡图-纵轴分类横轴数值-自动计算负logP值",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66a07147c846c0bf240a376b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66a07147c846c0bf240a376b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "Class",
+    "xVCol": "log2FC",
+    "rVCol": "rawpval",
+    "legendTitle": "-log10P"
+  },
+  "categories": [
+    "气泡图",
+    "纵轴分类横轴数值",
+    "自动计算负logP值"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+group	a	b	c
+name2 	1	3	10
+name2 	4	3	20
+name3	5	5	10
+name3	2	5	15
+name1	1	1	20
+name1	4	1	29

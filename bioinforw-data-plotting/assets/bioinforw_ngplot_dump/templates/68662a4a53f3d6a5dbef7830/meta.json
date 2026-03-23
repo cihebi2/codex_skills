@@ -1,0 +1,33 @@
+{
+  "id": "68662a4a53f3d6a5dbef7830",
+  "name": "柱状图-多变量-误差线-显著星号-散点",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=666a9c36698df4eebb5a9f81",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68662a4a53f3d6a5dbef7830.png",
+  "args": {
+    "data1type": "txt",
+    "data2type": "txt",
+    "data3type": "txt",
+    "data3": "name  n  sample\nname1  a  10,12,13,15,17,19,20,22,60\nname1  b  0,12,13,14,15,45,50,33,60,63,57,58,60,65,62\nname1  c  10,12,13,14,15,22,27,30,45,60\nname2  a  10,12,13,15,17,19,20,22,60\nname2  b  0,12,13,14,15,45,50,33,60,63,57,58,60,65,62\nname2  c  10,12,13,14,15,22,27,30,45,60\nname3  a  10,12,13,15,17,19,20,22,60\nname3  b  0,12,13,14,15,45,50,33,60,63,57,58,60,65,62\nname3  c  10,12,13,14,15,22,27,30,45,60",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "data3typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "a、b、c",
+    "sdCols": "a_sd、b_sd、c_sd",
+    "pValCol": "p",
+    "pName1Col": "n1",
+    "pName2Col": "n2",
+    "dotSubNameCol": "n",
+    "dotValCol": "sample"
+  },
+  "categories": [
+    "组合热图",
+    "网络图",
+    "方块大小渐变"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

@@ -1,0 +1,6 @@
+name	Handball	Bowling	Sailing
+name1	2	1	-6
+name2	1	6	9
+name3	2	6	8
+name4	9	-6	1
+name5	4	4	5

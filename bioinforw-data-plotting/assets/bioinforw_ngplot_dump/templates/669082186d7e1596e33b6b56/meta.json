@@ -1,0 +1,28 @@
+{
+  "id": "669082186d7e1596e33b6b56",
+  "name": "环形热图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=669082186d7e1596e33b6b56",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/669082186d7e1596e33b6b56.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "环形热图"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 23
+    }
+  ]
+}

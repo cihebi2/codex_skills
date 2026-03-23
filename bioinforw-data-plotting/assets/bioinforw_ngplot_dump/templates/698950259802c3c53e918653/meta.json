@@ -1,0 +1,41 @@
+{
+  "id": "698950259802c3c53e918653",
+  "name": "云雨图-分组-纵向-三角无填充",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=698950259802c3c53e918653",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/698950259802c3c53e918653.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data3type": "txt_tab",
+    "data3": "group\tname\tvalue\ngroup1\ta\t4\ngroup1\ta\t5\ngroup1\ta\t6\ngroup1\ta\t7\ngroup1\ta\t8\ngroup1\ta\t4\ngroup1\ta\t5\ngroup1\ta\t5\ngroup1\ta\t6\ngroup1\ta\t6\ngroup1\ta\t7\ngroup1\ta\t5\ngroup1\ta\t5\ngroup1\ta\t5\ngroup1\ta\t3\ngroup1\ta\t4\ngroup1\ta\t5\ngroup1\ta\t6\ngroup1\ta\t7\ngroup1\tb\t4\ngroup1\tb\t5\ngroup1\tb\t6\ngroup1\tb\t7\ngroup1\tb\t8\ngroup1\tb\t4\ngroup1\tb\t5\ngroup1\tb\t5\ngroup1\tb\t6\ngroup1\tb\t6\ngroup1\tb\t7\ngroup1\tb\t5\ngroup1\tb\t5\ngroup1\tb\t5\ngroup1\tb\t3\ngroup1\tb\t4\ngroup1\tb\t5\ngroup1\tb\t6\ngroup2\tb\t7\ngroup2\tc\t5\ngroup2\tc\t4\ngroup2\tc\t5\ngroup2\tc\t6\ngroup2\tc\t7\ngroup2\tc\t8\ngroup2\tc\t4\ngroup2\tc\t5\ngroup2\tc\t5\ngroup2\tc\t6\ngroup2\tc\t6\ngroup2\tc\t7\ngroup2\tc\t5\ngroup2\tc\t5\ngroup2\tc\t5\ngroup2\tc\t3\ngroup2\tc\t4\ngroup2\tc\t5\ngroup2\tc\t6\ngroup2\tc\t7\ngroup2\td\t5\ngroup2\td\t4\ngroup2\td\t5\ngroup2\td\t6\ngroup2\td\t7\ngroup2\td\t8\ngroup2\td\t4\ngroup2\td\t5\ngroup2\td\t5\ngroup2\td\t6\ngroup2\td\t6\ngroup2\td\t7\ngroup2\td\t5\ngroup2\td\t5\ngroup2\td\t5\ngroup2\td\t3\ngroup2\td\t4\ngroup2\td\t5\ngroup2\td\t6\ngroup2\td\t7",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "data3typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "minVCol": "min",
+    "q1VCol": "q1",
+    "midVCol": "mid",
+    "q3VCol": "q3",
+    "maxVCol": "max",
+    "densityVCol": "density",
+    "groupCol": "group"
+  },
+  "categories": [
+    "云雨图",
+    "分组",
+    "纵向",
+    "三角无填充"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

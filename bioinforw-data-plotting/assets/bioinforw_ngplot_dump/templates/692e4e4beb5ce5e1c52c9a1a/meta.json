@@ -1,0 +1,31 @@
+{
+  "id": "692e4e4beb5ce5e1c52c9a1a",
+  "name": "网络图-多层-分组-圆大小变化",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=692e4e4beb5ce5e1c52c9a1a",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/692e4e4beb5ce5e1c52c9a1a.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "groupCol": "group",
+    "nameCol": "name",
+    "valueCol": "value",
+    "title": "Title"
+  },
+  "categories": [
+    "网络图",
+    "多层",
+    "分组",
+    "圆大小变化"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

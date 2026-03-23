@@ -1,0 +1,26 @@
+{
+  "id": "6758e412538842d3d5d8d269",
+  "name": "柱状图-多变量-计算总和-截断轴",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6758f2c3b309cfee57d3c6f0",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6758e412538842d3d5d8d269.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "village",
+    "valueCols": "Chinese、Math、Physics、Chemistry",
+    "step": "50",
+    "yRange": "0,120;280,400"
+  },
+  "categories": [
+    "柱状图",
+    "单变量",
+    "误差线",
+    "显著字母",
+    "截断轴"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

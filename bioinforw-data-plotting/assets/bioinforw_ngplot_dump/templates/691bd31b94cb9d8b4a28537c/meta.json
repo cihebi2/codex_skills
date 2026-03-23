@@ -1,0 +1,30 @@
+{
+  "id": "691bd31b94cb9d8b4a28537c",
+  "name": "极坐标堆叠图-多组-两组左右对照",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=691bd31b94cb9d8b4a28537c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/691bd31b94cb9d8b4a28537c.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "极坐标堆叠图",
+    "多组",
+    "两组左右对照"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 95
+    }
+  ]
+}

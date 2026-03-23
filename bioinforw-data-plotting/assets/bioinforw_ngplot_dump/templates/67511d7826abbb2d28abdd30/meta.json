@@ -1,0 +1,28 @@
+{
+  "id": "67511d7826abbb2d28abdd30",
+  "name": "堆叠图-单组-连线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67511d7826abbb2d28abdd30",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67511d7826abbb2d28abdd30.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "、"
+  },
+  "categories": [
+    "堆叠图",
+    "单组",
+    "连线"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 71
+    }
+  ]
+}

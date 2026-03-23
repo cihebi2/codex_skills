@@ -1,0 +1,7 @@
+name y   sd  p
+sample1	7.8 	0.13 	c
+sample2	7.47 	0.16 	d
+sample3	8.54 	0.24 	a
+sample4	8.07 	0.16 	b
+sample5	7.84 	0.23 	c
+

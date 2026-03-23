@@ -1,0 +1,22 @@
+{
+  "id": "6753e626a9a528dc30e398b3",
+  "name": "横向堆叠图-多组-左右双向-不同变量",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6753a1eaa9a528dc30e3977e",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6753e626a9a528dc30e398b3.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueColss": "A、D;B、C、E"
+  },
+  "categories": [
+    "横向堆叠图",
+    "单组",
+    "负值向左"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

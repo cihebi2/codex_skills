@@ -1,0 +1,26 @@
+{
+  "id": "668555c131239542b60568ba",
+  "name": "散点图-横纵轴数值-分组-圈内文本",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=680982054f3ff56232c340f4",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/668555c131239542b60568ba.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "groupCol": "cluster",
+    "xVCol": "x_coord",
+    "yVCol": "y_coord",
+    "txtShowCol": "layer",
+    "legendTitle": "cluster"
+  },
+  "categories": [
+    "散点图",
+    "横轴分类纵轴数值",
+    "分组",
+    "误差线"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

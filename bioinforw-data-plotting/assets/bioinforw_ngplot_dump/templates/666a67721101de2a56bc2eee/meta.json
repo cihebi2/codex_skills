@@ -1,0 +1,28 @@
+{
+  "id": "666a67721101de2a56bc2eee",
+  "name": "柱状图-多变量-正负双向",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=666a67721101de2a56bc2eee",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/666a67721101de2a56bc2eee.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "时间",
+    "valueCols": "收入、支出"
+  },
+  "categories": [
+    "柱状图",
+    "多变量",
+    "正负双向"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 103
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "676371b91cd049d2a718071d",
+  "name": "半径变饼图-自动排序",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676371b91cd049d2a718071d",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676371b91cd049d2a718071d.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "半径变饼图",
+    "自动排序"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 63
+    }
+  ]
+}

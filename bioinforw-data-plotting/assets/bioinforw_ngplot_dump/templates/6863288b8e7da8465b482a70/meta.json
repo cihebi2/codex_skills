@@ -1,0 +1,32 @@
+{
+  "id": "6863288b8e7da8465b482a70",
+  "name": "三角热图-方块大小渐变",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6863288b8e7da8465b482a70",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6863288b8e7da8465b482a70.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "valueCol": "corr",
+    "rowCol": "row",
+    "colCol": "col",
+    "xinCol": "p",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "三角热图",
+    "方块大小渐变"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 23
+    }
+  ]
+}

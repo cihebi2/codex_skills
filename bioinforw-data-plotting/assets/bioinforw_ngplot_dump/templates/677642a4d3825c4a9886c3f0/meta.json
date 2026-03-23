@@ -1,0 +1,24 @@
+{
+  "id": "677642a4d3825c4a9886c3f0",
+  "name": "桑基图-竖直-曲线-不渐变",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=677642a4d3825c4a9886c3f0",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/677642a4d3825c4a9886c3f0.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target",
+    "valueCol": "value"
+  },
+  "categories": [
+    "桑基图",
+    "竖直",
+    "曲线",
+    "不渐变"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "68aee650f7347bf614ddc08f",
+  "name": "网络图-多层圈-组间关系-组与样本-箭头",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68aee650f7347bf614ddc08f",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68aee650f7347bf614ddc08f.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "village",
+    "sourceCol": "source",
+    "targetCol": "target",
+    "valueCol": "value",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "网络图",
+    "多层圈",
+    "组间关系",
+    "组与样本",
+    "箭头"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 127
+    },
+    {
+      "id": "info_intro",
+      "name": "",
+      "length": 36
+    }
+  ]
+}

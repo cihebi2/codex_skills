@@ -1,0 +1,30 @@
+{
+  "id": "67d9443b11eeb4461e7205df",
+  "name": "散点图-横纵轴数值-分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67d9443b11eeb4461e7205df",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67d9443b11eeb4461e7205df.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "Sample_ID",
+    "groupCol": "Group",
+    "xVCol": "PC1",
+    "yVCol": "PC2"
+  },
+  "categories": [
+    "散点图",
+    "横纵轴数值",
+    "分组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 95
+    }
+  ]
+}

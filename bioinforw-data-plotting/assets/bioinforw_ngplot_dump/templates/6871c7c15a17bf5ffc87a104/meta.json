@@ -1,0 +1,34 @@
+{
+  "id": "6871c7c15a17bf5ffc87a104",
+  "name": "组合热图-网络图-方块大小渐变-圆大小不变-不显著虚线",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6871c7c15a17bf5ffc87a104",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6871c7c15a17bf5ffc87a104.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data2type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "data2typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target",
+    "valueCol": "corr",
+    "weightVCol": "Weight",
+    "rowCol": "col",
+    "colCol": "row",
+    "pVCol": "pvalue",
+    "maxv": "auto",
+    "pSection": "0.001、0.01、0.05",
+    "weightSection": "0.1、0.3"
+  },
+  "categories": [
+    "组合热图",
+    "网络图",
+    "方块大小渐变",
+    "圆大小不变",
+    "不显著虚线"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

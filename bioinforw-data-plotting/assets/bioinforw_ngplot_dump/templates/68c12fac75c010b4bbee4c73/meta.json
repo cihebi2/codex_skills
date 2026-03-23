@@ -1,0 +1,30 @@
+{
+  "id": "68c12fac75c010b4bbee4c73",
+  "name": "环形柱状图-多变量-相向排序-负值反向",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=68c12fac75c010b4bbee4c73",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/68c12fac75c010b4bbee4c73.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCol": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "多变量",
+    "相向排序",
+    "负值反向"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 87
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "668797dd3608d2fc7bdd455f",
+  "name": "折线图-无分组-散点-误差棒",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=668e71b21e7a0d382f5fa7f0",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/668797dd3608d2fc7bdd455f.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "y",
+    "sdVCol": "sd",
+    "pCol": "p",
+    "ytitle": "yyy"
+  },
+  "categories": [
+    "折线图",
+    "无分组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

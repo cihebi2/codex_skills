@@ -1,0 +1,38 @@
+{
+  "id": "66b486871ed116b7326bf8d0",
+  "name": "折线图-无分组-散点拟合线-显示R和P值",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=66b486871ed116b7326bf8d0",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/66b486871ed116b7326bf8d0.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "xVCol": "x",
+    "yVCol": "y",
+    "x1": "29",
+    "y1": "0.18",
+    "x2": "1",
+    "y2": "0.61",
+    "r": "r = xx",
+    "p": "p = xx",
+    "yTxtN": "1",
+    "ytitle": "yyyy",
+    "xtitle": "xxxx"
+  },
+  "categories": [
+    "折线图",
+    "无分组",
+    "散点拟合线",
+    "显示R和P值"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 95
+    }
+  ]
+}

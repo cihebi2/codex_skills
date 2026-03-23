@@ -1,0 +1,24 @@
+{
+  "id": "676e4080eb9bcc77a044ffb4",
+  "name": "横向堆叠图-单组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6752aaee406250678487ffb4",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676e4080eb9bcc77a044ffb4.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCols": "、"
+  },
+  "categories": [
+    "横向大头针图",
+    "无分组",
+    "大小圈",
+    "兼容负值",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

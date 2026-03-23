@@ -1,0 +1,30 @@
+{
+  "id": "677646b0d3825c4a9886c495",
+  "name": "桑基图-竖直-曲线-不渐变-无权重",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=677646b0d3825c4a9886c495",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/677646b0d3825c4a9886c495.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target"
+  },
+  "categories": [
+    "桑基图",
+    "竖直",
+    "曲线",
+    "不渐变",
+    "无权重"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 183
+    }
+  ]
+}

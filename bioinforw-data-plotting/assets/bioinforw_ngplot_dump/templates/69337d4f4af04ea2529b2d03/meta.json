@@ -1,0 +1,30 @@
+{
+  "id": "69337d4f4af04ea2529b2d03",
+  "name": "组合图-柱状图-表格",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=69337d4f4af04ea2529b2d03",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/69337d4f4af04ea2529b2d03.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "VarName",
+    "minv": "auto",
+    "maxv": "auto",
+    "step": "auto"
+  },
+  "categories": [
+    "组合图",
+    "柱状图",
+    "表格"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

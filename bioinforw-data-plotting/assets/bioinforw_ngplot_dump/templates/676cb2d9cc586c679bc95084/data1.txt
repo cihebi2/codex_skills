@@ -1,0 +1,8 @@
+name	max	quper	mid	qdown	min
+name1	60	43	33	13	10
+name2	63	52	32	19	16
+name3	66	47	22	15	6
+name4	62	52	40	19	6
+name5	68	51	31	14	4
+name6	68	51	31	14	4
+

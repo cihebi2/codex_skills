@@ -1,0 +1,22 @@
+{
+  "id": "67565b7760eadfff7810cf4b",
+  "name": "横向柱状图-单变量-百分比",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67565b7760eadfff7810cf4b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67565b7760eadfff7810cf4b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "横向柱状图",
+    "单变量",
+    "百分比"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

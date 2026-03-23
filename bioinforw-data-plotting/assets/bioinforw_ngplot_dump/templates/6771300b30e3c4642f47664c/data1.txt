@@ -1,0 +1,18 @@
+source	target	Weight
+Name1	Name2	43.8
+Name2	Name1	106
+Name3	Name4	55.6
+Name4	Name5	25.3
+Name5	Name6	82.9
+Name6	Name7	61.8
+Name7	Name8	10.2
+Name8	Name9	43.7
+Name9	Name2	42.4
+Name1	Name3	92.8
+Name2	Name4	11.2
+Name3	Name5	72
+Name4	Name6	2.7
+Name5	Name7	98.2
+Name6	Name8	67.8
+Name7	Name9	14.6
+

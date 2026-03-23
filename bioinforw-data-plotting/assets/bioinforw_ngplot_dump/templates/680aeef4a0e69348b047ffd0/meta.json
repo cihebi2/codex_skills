@@ -1,0 +1,34 @@
+{
+  "id": "680aeef4a0e69348b047ffd0",
+  "name": "火山图-自动展示N个名称",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=680aeef4a0e69348b047ffd0",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/680aeef4a0e69348b047ffd0.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "xVCol": "log2FoldChange",
+    "yVCol": "pvalue",
+    "idCol": "id",
+    "leftSplitValue": "-1",
+    "rightSplitValue": "1",
+    "horizontalSplitValue": "0.05",
+    "nameShowUpthreshold": "1.3",
+    "txtShowNum": "10",
+    "xTitle": "logFC"
+  },
+  "categories": [
+    "火山图",
+    "自动展示N个名称"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 95
+    }
+  ]
+}

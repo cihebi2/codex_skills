@@ -1,0 +1,30 @@
+{
+  "id": "67519933379e0b4b79b3e9b4",
+  "name": "堆叠图-多组-连线-多组色块",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67519933379e0b4b79b3e9b4",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67519933379e0b4b79b3e9b4.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCols": "、"
+  },
+  "categories": [
+    "堆叠图",
+    "多组",
+    "连线",
+    "多组色块"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 199
+    }
+  ]
+}

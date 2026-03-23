@@ -1,0 +1,5 @@
+level1	value
+A	6
+B	9
+C	6
+

@@ -1,0 +1,32 @@
+{
+  "id": "6863ac45df2413ba028f0588",
+  "name": "环形柱状图-单变量-误差线-差异字母",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6863ac45df2413ba028f0588",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6863ac45df2413ba028f0588.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "stdVCol": "std",
+    "labelCol": "label",
+    "title": "value"
+  },
+  "categories": [
+    "环形柱状图",
+    "单变量",
+    "误差线",
+    "差异字母"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

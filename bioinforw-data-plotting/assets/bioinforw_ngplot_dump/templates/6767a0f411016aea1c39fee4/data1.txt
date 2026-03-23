@@ -1,0 +1,12 @@
+name	value	group
+name1	8	group1
+name2	9	group1
+name3	7	group1
+name4	-10	group1
+name5	5	group2
+name6	7	group2
+name7	-8	group2
+name8	-5	group3
+name9	-10	group3
+name10	5	group3
+name11	7	group3

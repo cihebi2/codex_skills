@@ -1,0 +1,27 @@
+{
+  "id": "6633138e9f1a544b6ce93d0b",
+  "name": "饼图-自动顺序",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6633138e9f1a544b6ce93d0b",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6633138e9f1a544b6ce93d0b.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value"
+  },
+  "categories": [
+    "饼图",
+    "自动顺序"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 95
+    }
+  ]
+}

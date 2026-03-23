@@ -1,0 +1,24 @@
+{
+  "id": "67515c68afec8963ccde967e",
+  "name": "堆叠图-多组-连线-多组色块",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=67519933379e0b4b79b3e9b4",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/67515c68afec8963ccde967e.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "groupCol": "group",
+    "valueCols": "、"
+  },
+  "categories": [
+    "堆叠图",
+    "单组",
+    "连线",
+    "误差棒"
+  ],
+  "acc": "newmer",
+  "sub": "y",
+  "caseCount": 0,
+  "extraTextareas": []
+}

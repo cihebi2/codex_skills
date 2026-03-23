@@ -1,0 +1,29 @@
+{
+  "id": "6930f85d1e27a9d69b650d54",
+  "name": "网络图-多层圈-无权重-力导向布局",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6930f85d1e27a9d69b650d54",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6930f85d1e27a9d69b650d54.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "sourceCol": "source",
+    "targetCol": "target"
+  },
+  "categories": [
+    "网络图",
+    "多层圈",
+    "无权重",
+    "力导向布局"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 119
+    }
+  ]
+}

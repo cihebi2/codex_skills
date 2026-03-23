@@ -1,0 +1,22 @@
+{
+  "id": "675a5da6646e71bae4dd4328",
+  "name": "环形雷达图",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676a6f90aef372f7ca212a1c",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/675a5da6646e71bae4dd4328.png",
+  "args": {
+    "data1type": "txt",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name"
+  },
+  "categories": [
+    "横向柱状图",
+    "多变量",
+    "负值反向",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": []
+}

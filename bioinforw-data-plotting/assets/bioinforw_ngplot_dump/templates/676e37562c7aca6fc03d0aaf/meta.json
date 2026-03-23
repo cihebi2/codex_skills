@@ -1,0 +1,30 @@
+{
+  "id": "676e37562c7aca6fc03d0aaf",
+  "name": "大头针图-无分组-矩阵",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=676e37562c7aca6fc03d0aaf",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/676e37562c7aca6fc03d0aaf.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "picCol": "pic",
+    "nameCol": "name",
+    "valueCol": "value",
+    "rVCol": "value"
+  },
+  "categories": [
+    "大头针图",
+    "无分组",
+    "矩阵"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

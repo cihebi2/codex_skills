@@ -1,0 +1,28 @@
+{
+  "id": "6777673e53eb9f93596d4edb",
+  "name": "横向小提琴图-不分组",
+  "pageTitle": "NGplot",
+  "url": "https://www.bioinforw.com/ldm/webdraw/?id=6777673e53eb9f93596d4edb",
+  "previewUrl": "https://www.bioinforw.com/static/ngplot/6777673e53eb9f93596d4edb.png",
+  "args": {
+    "data1type": "txt_tab",
+    "data1typeApp": "txt_tab",
+    "nameCol": "name",
+    "valueCol": "value",
+    "densityVCol": "density"
+  },
+  "categories": [
+    "横向小提琴图",
+    "不分组"
+  ],
+  "acc": "newmer",
+  "sub": "n",
+  "caseCount": 0,
+  "extraTextareas": [
+    {
+      "id": "sim-shape-color.list",
+      "name": "",
+      "length": 79
+    }
+  ]
+}

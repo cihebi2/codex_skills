@@ -1,0 +1,12 @@
+source	target	value
+name1	name3	4
+name1	name4	4
+name3	name5	2
+name3	name6	2
+name5	name7	1
+name5	name8	1
+name6	name8	4
+name6	name9	1
+name4	name6	4
+name6	name10	1
+
